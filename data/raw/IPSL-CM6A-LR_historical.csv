@@ -1,0 +1,1951 @@
+city,year,temp_c,model,scenario
+San Diego,1950,18.395905,IPSL-CM6A-LR,historical
+Phoenix,1950,17.983765,IPSL-CM6A-LR,historical
+New York,1950,8.677277,IPSL-CM6A-LR,historical
+Miami,1950,23.789978,IPSL-CM6A-LR,historical
+Anchorage,1950,-2.9661865,IPSL-CM6A-LR,historical
+Toronto,1950,7.0081177,IPSL-CM6A-LR,historical
+Mexico City,1950,15.454407,IPSL-CM6A-LR,historical
+Lima,1950,18.898254,IPSL-CM6A-LR,historical
+Sao Paulo,1950,21.232239,IPSL-CM6A-LR,historical
+Buenos Aires,1950,17.625519,IPSL-CM6A-LR,historical
+Reykjavik,1950,3.3579407,IPSL-CM6A-LR,historical
+London,1950,8.796539,IPSL-CM6A-LR,historical
+Paris,1950,10.165192,IPSL-CM6A-LR,historical
+Madrid,1950,9.305267,IPSL-CM6A-LR,historical
+Moscow,1950,3.7343445,IPSL-CM6A-LR,historical
+Cairo,1950,19.118896,IPSL-CM6A-LR,historical
+Lagos,1950,26.066345,IPSL-CM6A-LR,historical
+Nairobi,1950,18.841248,IPSL-CM6A-LR,historical
+Cape Town,1950,17.795563,IPSL-CM6A-LR,historical
+Riyadh,1950,20.912964,IPSL-CM6A-LR,historical
+Tehran,1950,8.903107,IPSL-CM6A-LR,historical
+Mumbai,1950,25.724335,IPSL-CM6A-LR,historical
+Delhi,1950,22.891388,IPSL-CM6A-LR,historical
+Dhaka,1950,24.638367,IPSL-CM6A-LR,historical
+Beijing,1950,11.472626,IPSL-CM6A-LR,historical
+Shanghai,1950,15.295227,IPSL-CM6A-LR,historical
+Tokyo,1950,14.864655,IPSL-CM6A-LR,historical
+Singapore,1950,26.65561,IPSL-CM6A-LR,historical
+Jakarta,1950,25.330536,IPSL-CM6A-LR,historical
+Sydney,1950,13.239136,IPSL-CM6A-LR,historical
+San Diego,1951,18.080353,IPSL-CM6A-LR,historical
+Phoenix,1951,17.934662,IPSL-CM6A-LR,historical
+New York,1951,10.303619,IPSL-CM6A-LR,historical
+Miami,1951,24.1763,IPSL-CM6A-LR,historical
+Anchorage,1951,-0.9352417,IPSL-CM6A-LR,historical
+Toronto,1951,8.33371,IPSL-CM6A-LR,historical
+Mexico City,1951,15.706909,IPSL-CM6A-LR,historical
+Lima,1951,19.916656,IPSL-CM6A-LR,historical
+Sao Paulo,1951,21.813904,IPSL-CM6A-LR,historical
+Buenos Aires,1951,17.873138,IPSL-CM6A-LR,historical
+Reykjavik,1951,3.8168945,IPSL-CM6A-LR,historical
+London,1951,7.966858,IPSL-CM6A-LR,historical
+Paris,1951,9.457031,IPSL-CM6A-LR,historical
+Madrid,1951,8.7743225,IPSL-CM6A-LR,historical
+Moscow,1951,1.9155884,IPSL-CM6A-LR,historical
+Cairo,1951,19.894775,IPSL-CM6A-LR,historical
+Lagos,1951,26.40799,IPSL-CM6A-LR,historical
+Nairobi,1951,18.854156,IPSL-CM6A-LR,historical
+Cape Town,1951,17.625458,IPSL-CM6A-LR,historical
+Riyadh,1951,21.057434,IPSL-CM6A-LR,historical
+Tehran,1951,7.5122375,IPSL-CM6A-LR,historical
+Mumbai,1951,25.742554,IPSL-CM6A-LR,historical
+Delhi,1951,22.395142,IPSL-CM6A-LR,historical
+Dhaka,1951,24.938354,IPSL-CM6A-LR,historical
+Beijing,1951,9.882324,IPSL-CM6A-LR,historical
+Shanghai,1951,15.079987,IPSL-CM6A-LR,historical
+Tokyo,1951,14.021881,IPSL-CM6A-LR,historical
+Singapore,1951,26.858673,IPSL-CM6A-LR,historical
+Jakarta,1951,25.758667,IPSL-CM6A-LR,historical
+Sydney,1951,13.232727,IPSL-CM6A-LR,historical
+San Diego,1952,18.12976,IPSL-CM6A-LR,historical
+Phoenix,1952,17.766663,IPSL-CM6A-LR,historical
+New York,1952,9.791473,IPSL-CM6A-LR,historical
+Miami,1952,24.136261,IPSL-CM6A-LR,historical
+Anchorage,1952,-0.50671387,IPSL-CM6A-LR,historical
+Toronto,1952,8.095215,IPSL-CM6A-LR,historical
+Mexico City,1952,16.28003,IPSL-CM6A-LR,historical
+Lima,1952,19.500977,IPSL-CM6A-LR,historical
+Sao Paulo,1952,21.834747,IPSL-CM6A-LR,historical
+Buenos Aires,1952,18.10263,IPSL-CM6A-LR,historical
+Reykjavik,1952,4.374756,IPSL-CM6A-LR,historical
+London,1952,9.0434265,IPSL-CM6A-LR,historical
+Paris,1952,10.602661,IPSL-CM6A-LR,historical
+Madrid,1952,8.677429,IPSL-CM6A-LR,historical
+Moscow,1952,1.3933105,IPSL-CM6A-LR,historical
+Cairo,1952,20.126587,IPSL-CM6A-LR,historical
+Lagos,1952,26.589966,IPSL-CM6A-LR,historical
+Nairobi,1952,19.166565,IPSL-CM6A-LR,historical
+Cape Town,1952,18.290558,IPSL-CM6A-LR,historical
+Riyadh,1952,21.94339,IPSL-CM6A-LR,historical
+Tehran,1952,10.343689,IPSL-CM6A-LR,historical
+Mumbai,1952,25.820648,IPSL-CM6A-LR,historical
+Delhi,1952,22.376404,IPSL-CM6A-LR,historical
+Dhaka,1952,24.962921,IPSL-CM6A-LR,historical
+Beijing,1952,10.598694,IPSL-CM6A-LR,historical
+Shanghai,1952,15.028809,IPSL-CM6A-LR,historical
+Tokyo,1952,14.298218,IPSL-CM6A-LR,historical
+Singapore,1952,26.936798,IPSL-CM6A-LR,historical
+Jakarta,1952,25.68518,IPSL-CM6A-LR,historical
+Sydney,1952,13.751038,IPSL-CM6A-LR,historical
+San Diego,1953,17.944244,IPSL-CM6A-LR,historical
+Phoenix,1953,18.096497,IPSL-CM6A-LR,historical
+New York,1953,10.357666,IPSL-CM6A-LR,historical
+Miami,1953,24.486816,IPSL-CM6A-LR,historical
+Anchorage,1953,-1.1089478,IPSL-CM6A-LR,historical
+Toronto,1953,8.43869,IPSL-CM6A-LR,historical
+Mexico City,1953,16.2128,IPSL-CM6A-LR,historical
+Lima,1953,18.968872,IPSL-CM6A-LR,historical
+Sao Paulo,1953,20.766418,IPSL-CM6A-LR,historical
+Buenos Aires,1953,18.723083,IPSL-CM6A-LR,historical
+Reykjavik,1953,3.7181396,IPSL-CM6A-LR,historical
+London,1953,9.115662,IPSL-CM6A-LR,historical
+Paris,1953,10.38681,IPSL-CM6A-LR,historical
+Madrid,1953,9.063965,IPSL-CM6A-LR,historical
+Moscow,1953,4.5670776,IPSL-CM6A-LR,historical
+Cairo,1953,19.874634,IPSL-CM6A-LR,historical
+Lagos,1953,26.459747,IPSL-CM6A-LR,historical
+Nairobi,1953,19.261902,IPSL-CM6A-LR,historical
+Cape Town,1953,18.32071,IPSL-CM6A-LR,historical
+Riyadh,1953,20.853455,IPSL-CM6A-LR,historical
+Tehran,1953,7.37146,IPSL-CM6A-LR,historical
+Mumbai,1953,25.634918,IPSL-CM6A-LR,historical
+Delhi,1953,22.604187,IPSL-CM6A-LR,historical
+Dhaka,1953,25.32489,IPSL-CM6A-LR,historical
+Beijing,1953,10.446289,IPSL-CM6A-LR,historical
+Shanghai,1953,14.916199,IPSL-CM6A-LR,historical
+Tokyo,1953,14.739929,IPSL-CM6A-LR,historical
+Singapore,1953,26.875214,IPSL-CM6A-LR,historical
+Jakarta,1953,25.613281,IPSL-CM6A-LR,historical
+Sydney,1953,13.650299,IPSL-CM6A-LR,historical
+San Diego,1954,18.595764,IPSL-CM6A-LR,historical
+Phoenix,1954,19.070496,IPSL-CM6A-LR,historical
+New York,1954,10.289429,IPSL-CM6A-LR,historical
+Miami,1954,23.989746,IPSL-CM6A-LR,historical
+Anchorage,1954,-0.29522705,IPSL-CM6A-LR,historical
+Toronto,1954,8.417633,IPSL-CM6A-LR,historical
+Mexico City,1954,15.420959,IPSL-CM6A-LR,historical
+Lima,1954,18.302185,IPSL-CM6A-LR,historical
+Sao Paulo,1954,21.210327,IPSL-CM6A-LR,historical
+Buenos Aires,1954,17.297028,IPSL-CM6A-LR,historical
+Reykjavik,1954,4.1003723,IPSL-CM6A-LR,historical
+London,1954,9.758301,IPSL-CM6A-LR,historical
+Paris,1954,10.865997,IPSL-CM6A-LR,historical
+Madrid,1954,8.858673,IPSL-CM6A-LR,historical
+Moscow,1954,5.247864,IPSL-CM6A-LR,historical
+Cairo,1954,19.133087,IPSL-CM6A-LR,historical
+Lagos,1954,26.142761,IPSL-CM6A-LR,historical
+Nairobi,1954,19.069946,IPSL-CM6A-LR,historical
+Cape Town,1954,17.569702,IPSL-CM6A-LR,historical
+Riyadh,1954,21.579407,IPSL-CM6A-LR,historical
+Tehran,1954,6.792267,IPSL-CM6A-LR,historical
+Mumbai,1954,25.345245,IPSL-CM6A-LR,historical
+Delhi,1954,21.871765,IPSL-CM6A-LR,historical
+Dhaka,1954,24.284515,IPSL-CM6A-LR,historical
+Beijing,1954,10.561157,IPSL-CM6A-LR,historical
+Shanghai,1954,15.220184,IPSL-CM6A-LR,historical
+Tokyo,1954,14.39917,IPSL-CM6A-LR,historical
+Singapore,1954,26.791504,IPSL-CM6A-LR,historical
+Jakarta,1954,25.574188,IPSL-CM6A-LR,historical
+Sydney,1954,12.891876,IPSL-CM6A-LR,historical
+San Diego,1955,17.621857,IPSL-CM6A-LR,historical
+Phoenix,1955,17.289978,IPSL-CM6A-LR,historical
+New York,1955,12.215912,IPSL-CM6A-LR,historical
+Miami,1955,24.137238,IPSL-CM6A-LR,historical
+Anchorage,1955,-3.975006,IPSL-CM6A-LR,historical
+Toronto,1955,9.872406,IPSL-CM6A-LR,historical
+Mexico City,1955,15.8151245,IPSL-CM6A-LR,historical
+Lima,1955,19.33435,IPSL-CM6A-LR,historical
+Sao Paulo,1955,22.251953,IPSL-CM6A-LR,historical
+Buenos Aires,1955,17.79657,IPSL-CM6A-LR,historical
+Reykjavik,1955,4.064453,IPSL-CM6A-LR,historical
+London,1955,9.056854,IPSL-CM6A-LR,historical
+Paris,1955,10.692352,IPSL-CM6A-LR,historical
+Madrid,1955,9.250732,IPSL-CM6A-LR,historical
+Moscow,1955,1.3369751,IPSL-CM6A-LR,historical
+Cairo,1955,19.605743,IPSL-CM6A-LR,historical
+Lagos,1955,26.254211,IPSL-CM6A-LR,historical
+Nairobi,1955,19.19757,IPSL-CM6A-LR,historical
+Cape Town,1955,18.37259,IPSL-CM6A-LR,historical
+Riyadh,1955,21.879852,IPSL-CM6A-LR,historical
+Tehran,1955,7.2263184,IPSL-CM6A-LR,historical
+Mumbai,1955,25.668427,IPSL-CM6A-LR,historical
+Delhi,1955,22.868988,IPSL-CM6A-LR,historical
+Dhaka,1955,24.37207,IPSL-CM6A-LR,historical
+Beijing,1955,10.853729,IPSL-CM6A-LR,historical
+Shanghai,1955,14.944092,IPSL-CM6A-LR,historical
+Tokyo,1955,14.42981,IPSL-CM6A-LR,historical
+Singapore,1955,26.791931,IPSL-CM6A-LR,historical
+Jakarta,1955,25.448181,IPSL-CM6A-LR,historical
+Sydney,1955,13.161621,IPSL-CM6A-LR,historical
+San Diego,1956,18.410187,IPSL-CM6A-LR,historical
+Phoenix,1956,18.117004,IPSL-CM6A-LR,historical
+New York,1956,8.416687,IPSL-CM6A-LR,historical
+Miami,1956,24.375244,IPSL-CM6A-LR,historical
+Anchorage,1956,-2.2942505,IPSL-CM6A-LR,historical
+Toronto,1956,6.6387024,IPSL-CM6A-LR,historical
+Mexico City,1956,15.711975,IPSL-CM6A-LR,historical
+Lima,1956,19.28717,IPSL-CM6A-LR,historical
+Sao Paulo,1956,22.13852,IPSL-CM6A-LR,historical
+Buenos Aires,1956,18.834473,IPSL-CM6A-LR,historical
+Reykjavik,1956,4.11026,IPSL-CM6A-LR,historical
+London,1956,8.13269,IPSL-CM6A-LR,historical
+Paris,1956,10.035431,IPSL-CM6A-LR,historical
+Madrid,1956,8.968567,IPSL-CM6A-LR,historical
+Moscow,1956,2.5617065,IPSL-CM6A-LR,historical
+Cairo,1956,19.917267,IPSL-CM6A-LR,historical
+Lagos,1956,26.737305,IPSL-CM6A-LR,historical
+Nairobi,1956,19.505432,IPSL-CM6A-LR,historical
+Cape Town,1956,17.952057,IPSL-CM6A-LR,historical
+Riyadh,1956,21.40982,IPSL-CM6A-LR,historical
+Tehran,1956,6.083069,IPSL-CM6A-LR,historical
+Mumbai,1956,25.417542,IPSL-CM6A-LR,historical
+Delhi,1956,22.757874,IPSL-CM6A-LR,historical
+Dhaka,1956,25.15924,IPSL-CM6A-LR,historical
+Beijing,1956,10.323883,IPSL-CM6A-LR,historical
+Shanghai,1956,14.863159,IPSL-CM6A-LR,historical
+Tokyo,1956,14.585846,IPSL-CM6A-LR,historical
+Singapore,1956,26.852478,IPSL-CM6A-LR,historical
+Jakarta,1956,25.826721,IPSL-CM6A-LR,historical
+Sydney,1956,13.414856,IPSL-CM6A-LR,historical
+San Diego,1957,18.2948,IPSL-CM6A-LR,historical
+Phoenix,1957,18.17337,IPSL-CM6A-LR,historical
+New York,1957,9.388611,IPSL-CM6A-LR,historical
+Miami,1957,24.013977,IPSL-CM6A-LR,historical
+Anchorage,1957,-2.5533142,IPSL-CM6A-LR,historical
+Toronto,1957,8.243042,IPSL-CM6A-LR,historical
+Mexico City,1957,16.208221,IPSL-CM6A-LR,historical
+Lima,1957,19.897675,IPSL-CM6A-LR,historical
+Sao Paulo,1957,20.992004,IPSL-CM6A-LR,historical
+Buenos Aires,1957,17.323853,IPSL-CM6A-LR,historical
+Reykjavik,1957,3.8974915,IPSL-CM6A-LR,historical
+London,1957,8.284393,IPSL-CM6A-LR,historical
+Paris,1957,10.13382,IPSL-CM6A-LR,historical
+Madrid,1957,9.064667,IPSL-CM6A-LR,historical
+Moscow,1957,1.5734558,IPSL-CM6A-LR,historical
+Cairo,1957,20.207886,IPSL-CM6A-LR,historical
+Lagos,1957,26.802979,IPSL-CM6A-LR,historical
+Nairobi,1957,19.430115,IPSL-CM6A-LR,historical
+Cape Town,1957,18.093811,IPSL-CM6A-LR,historical
+Riyadh,1957,21.856018,IPSL-CM6A-LR,historical
+Tehran,1957,8.8159485,IPSL-CM6A-LR,historical
+Mumbai,1957,26.207458,IPSL-CM6A-LR,historical
+Delhi,1957,22.875488,IPSL-CM6A-LR,historical
+Dhaka,1957,24.844757,IPSL-CM6A-LR,historical
+Beijing,1957,9.296234,IPSL-CM6A-LR,historical
+Shanghai,1957,14.775757,IPSL-CM6A-LR,historical
+Tokyo,1957,14.5159,IPSL-CM6A-LR,historical
+Singapore,1957,26.83844,IPSL-CM6A-LR,historical
+Jakarta,1957,25.867218,IPSL-CM6A-LR,historical
+Sydney,1957,13.973236,IPSL-CM6A-LR,historical
+San Diego,1958,18.091309,IPSL-CM6A-LR,historical
+Phoenix,1958,18.103058,IPSL-CM6A-LR,historical
+New York,1958,9.572388,IPSL-CM6A-LR,historical
+Miami,1958,23.906128,IPSL-CM6A-LR,historical
+Anchorage,1958,-1.234314,IPSL-CM6A-LR,historical
+Toronto,1958,8.229248,IPSL-CM6A-LR,historical
+Mexico City,1958,16.095123,IPSL-CM6A-LR,historical
+Lima,1958,18.888184,IPSL-CM6A-LR,historical
+Sao Paulo,1958,20.577393,IPSL-CM6A-LR,historical
+Buenos Aires,1958,16.89093,IPSL-CM6A-LR,historical
+Reykjavik,1958,4.0302124,IPSL-CM6A-LR,historical
+London,1958,8.815582,IPSL-CM6A-LR,historical
+Paris,1958,10.1866455,IPSL-CM6A-LR,historical
+Madrid,1958,9.377777,IPSL-CM6A-LR,historical
+Moscow,1958,1.2007141,IPSL-CM6A-LR,historical
+Cairo,1958,19.875,IPSL-CM6A-LR,historical
+Lagos,1958,26.881348,IPSL-CM6A-LR,historical
+Nairobi,1958,19.768036,IPSL-CM6A-LR,historical
+Cape Town,1958,17.659668,IPSL-CM6A-LR,historical
+Riyadh,1958,21.501251,IPSL-CM6A-LR,historical
+Tehran,1958,9.012573,IPSL-CM6A-LR,historical
+Mumbai,1958,25.876495,IPSL-CM6A-LR,historical
+Delhi,1958,23.110168,IPSL-CM6A-LR,historical
+Dhaka,1958,25.244781,IPSL-CM6A-LR,historical
+Beijing,1958,9.518677,IPSL-CM6A-LR,historical
+Shanghai,1958,15.370911,IPSL-CM6A-LR,historical
+Tokyo,1958,14.244812,IPSL-CM6A-LR,historical
+Singapore,1958,26.956116,IPSL-CM6A-LR,historical
+Jakarta,1958,25.838074,IPSL-CM6A-LR,historical
+Sydney,1958,13.805817,IPSL-CM6A-LR,historical
+San Diego,1959,18.877869,IPSL-CM6A-LR,historical
+Phoenix,1959,18.7771,IPSL-CM6A-LR,historical
+New York,1959,8.9841,IPSL-CM6A-LR,historical
+Miami,1959,24.22882,IPSL-CM6A-LR,historical
+Anchorage,1959,-2.3262024,IPSL-CM6A-LR,historical
+Toronto,1959,6.613098,IPSL-CM6A-LR,historical
+Mexico City,1959,15.688324,IPSL-CM6A-LR,historical
+Lima,1959,19.350372,IPSL-CM6A-LR,historical
+Sao Paulo,1959,20.712982,IPSL-CM6A-LR,historical
+Buenos Aires,1959,18.203186,IPSL-CM6A-LR,historical
+Reykjavik,1959,4.3769226,IPSL-CM6A-LR,historical
+London,1959,8.850159,IPSL-CM6A-LR,historical
+Paris,1959,10.454498,IPSL-CM6A-LR,historical
+Madrid,1959,9.449646,IPSL-CM6A-LR,historical
+Moscow,1959,3.1895142,IPSL-CM6A-LR,historical
+Cairo,1959,19.675446,IPSL-CM6A-LR,historical
+Lagos,1959,26.281067,IPSL-CM6A-LR,historical
+Nairobi,1959,18.629211,IPSL-CM6A-LR,historical
+Cape Town,1959,17.923035,IPSL-CM6A-LR,historical
+Riyadh,1959,20.34372,IPSL-CM6A-LR,historical
+Tehran,1959,7.871826,IPSL-CM6A-LR,historical
+Mumbai,1959,25.777283,IPSL-CM6A-LR,historical
+Delhi,1959,22.887878,IPSL-CM6A-LR,historical
+Dhaka,1959,24.37799,IPSL-CM6A-LR,historical
+Beijing,1959,9.924164,IPSL-CM6A-LR,historical
+Shanghai,1959,15.201111,IPSL-CM6A-LR,historical
+Tokyo,1959,14.432373,IPSL-CM6A-LR,historical
+Singapore,1959,26.746521,IPSL-CM6A-LR,historical
+Jakarta,1959,25.49823,IPSL-CM6A-LR,historical
+Sydney,1959,13.053741,IPSL-CM6A-LR,historical
+San Diego,1960,18.34729,IPSL-CM6A-LR,historical
+Phoenix,1960,17.920471,IPSL-CM6A-LR,historical
+New York,1960,9.904541,IPSL-CM6A-LR,historical
+Miami,1960,24.672333,IPSL-CM6A-LR,historical
+Anchorage,1960,-2.5889893,IPSL-CM6A-LR,historical
+Toronto,1960,7.844757,IPSL-CM6A-LR,historical
+Mexico City,1960,16.263702,IPSL-CM6A-LR,historical
+Lima,1960,19.210083,IPSL-CM6A-LR,historical
+Sao Paulo,1960,20.83783,IPSL-CM6A-LR,historical
+Buenos Aires,1960,18.213623,IPSL-CM6A-LR,historical
+Reykjavik,1960,3.8564453,IPSL-CM6A-LR,historical
+London,1960,9.2308655,IPSL-CM6A-LR,historical
+Paris,1960,10.821289,IPSL-CM6A-LR,historical
+Madrid,1960,8.705444,IPSL-CM6A-LR,historical
+Moscow,1960,4.8907166,IPSL-CM6A-LR,historical
+Cairo,1960,19.888916,IPSL-CM6A-LR,historical
+Lagos,1960,26.192444,IPSL-CM6A-LR,historical
+Nairobi,1960,19.188293,IPSL-CM6A-LR,historical
+Cape Town,1960,17.334045,IPSL-CM6A-LR,historical
+Riyadh,1960,21.384308,IPSL-CM6A-LR,historical
+Tehran,1960,6.977234,IPSL-CM6A-LR,historical
+Mumbai,1960,25.551361,IPSL-CM6A-LR,historical
+Delhi,1960,22.557434,IPSL-CM6A-LR,historical
+Dhaka,1960,24.536865,IPSL-CM6A-LR,historical
+Beijing,1960,11.26123,IPSL-CM6A-LR,historical
+Shanghai,1960,16.07904,IPSL-CM6A-LR,historical
+Tokyo,1960,15.445435,IPSL-CM6A-LR,historical
+Singapore,1960,26.888336,IPSL-CM6A-LR,historical
+Jakarta,1960,25.594238,IPSL-CM6A-LR,historical
+Sydney,1960,12.8611145,IPSL-CM6A-LR,historical
+San Diego,1961,17.607208,IPSL-CM6A-LR,historical
+Phoenix,1961,17.65689,IPSL-CM6A-LR,historical
+New York,1961,9.874268,IPSL-CM6A-LR,historical
+Miami,1961,24.407715,IPSL-CM6A-LR,historical
+Anchorage,1961,-3.0272827,IPSL-CM6A-LR,historical
+Toronto,1961,8.011322,IPSL-CM6A-LR,historical
+Mexico City,1961,16.092957,IPSL-CM6A-LR,historical
+Lima,1961,19.944946,IPSL-CM6A-LR,historical
+Sao Paulo,1961,21.342468,IPSL-CM6A-LR,historical
+Buenos Aires,1961,17.875275,IPSL-CM6A-LR,historical
+Reykjavik,1961,3.3320618,IPSL-CM6A-LR,historical
+London,1961,8.537384,IPSL-CM6A-LR,historical
+Paris,1961,9.722992,IPSL-CM6A-LR,historical
+Madrid,1961,8.127838,IPSL-CM6A-LR,historical
+Moscow,1961,2.358551,IPSL-CM6A-LR,historical
+Cairo,1961,19.828735,IPSL-CM6A-LR,historical
+Lagos,1961,26.566223,IPSL-CM6A-LR,historical
+Nairobi,1961,19.1557,IPSL-CM6A-LR,historical
+Cape Town,1961,17.802612,IPSL-CM6A-LR,historical
+Riyadh,1961,21.581726,IPSL-CM6A-LR,historical
+Tehran,1961,8.537903,IPSL-CM6A-LR,historical
+Mumbai,1961,25.77118,IPSL-CM6A-LR,historical
+Delhi,1961,22.867798,IPSL-CM6A-LR,historical
+Dhaka,1961,24.8479,IPSL-CM6A-LR,historical
+Beijing,1961,11.151306,IPSL-CM6A-LR,historical
+Shanghai,1961,15.374054,IPSL-CM6A-LR,historical
+Tokyo,1961,15.093567,IPSL-CM6A-LR,historical
+Singapore,1961,26.695618,IPSL-CM6A-LR,historical
+Jakarta,1961,25.803223,IPSL-CM6A-LR,historical
+Sydney,1961,13.493988,IPSL-CM6A-LR,historical
+San Diego,1962,18.311462,IPSL-CM6A-LR,historical
+Phoenix,1962,17.98645,IPSL-CM6A-LR,historical
+New York,1962,10.456848,IPSL-CM6A-LR,historical
+Miami,1962,23.87741,IPSL-CM6A-LR,historical
+Anchorage,1962,-3.807312,IPSL-CM6A-LR,historical
+Toronto,1962,8.858643,IPSL-CM6A-LR,historical
+Mexico City,1962,16.25885,IPSL-CM6A-LR,historical
+Lima,1962,20.136414,IPSL-CM6A-LR,historical
+Sao Paulo,1962,21.01416,IPSL-CM6A-LR,historical
+Buenos Aires,1962,17.543243,IPSL-CM6A-LR,historical
+Reykjavik,1962,3.4309998,IPSL-CM6A-LR,historical
+London,1962,9.356995,IPSL-CM6A-LR,historical
+Paris,1962,10.836914,IPSL-CM6A-LR,historical
+Madrid,1962,9.962585,IPSL-CM6A-LR,historical
+Moscow,1962,5.8363647,IPSL-CM6A-LR,historical
+Cairo,1962,19.751495,IPSL-CM6A-LR,historical
+Lagos,1962,26.665405,IPSL-CM6A-LR,historical
+Nairobi,1962,19.808655,IPSL-CM6A-LR,historical
+Cape Town,1962,18.328064,IPSL-CM6A-LR,historical
+Riyadh,1962,21.87091,IPSL-CM6A-LR,historical
+Tehran,1962,7.94693,IPSL-CM6A-LR,historical
+Mumbai,1962,25.971008,IPSL-CM6A-LR,historical
+Delhi,1962,22.573486,IPSL-CM6A-LR,historical
+Dhaka,1962,25.749756,IPSL-CM6A-LR,historical
+Beijing,1962,11.251099,IPSL-CM6A-LR,historical
+Shanghai,1962,15.778198,IPSL-CM6A-LR,historical
+Tokyo,1962,14.896362,IPSL-CM6A-LR,historical
+Singapore,1962,26.878754,IPSL-CM6A-LR,historical
+Jakarta,1962,26.138855,IPSL-CM6A-LR,historical
+Sydney,1962,13.920288,IPSL-CM6A-LR,historical
+San Diego,1963,18.671509,IPSL-CM6A-LR,historical
+Phoenix,1963,18.639832,IPSL-CM6A-LR,historical
+New York,1963,9.8255005,IPSL-CM6A-LR,historical
+Miami,1963,24.344238,IPSL-CM6A-LR,historical
+Anchorage,1963,-1.881958,IPSL-CM6A-LR,historical
+Toronto,1963,8.23587,IPSL-CM6A-LR,historical
+Mexico City,1963,15.836731,IPSL-CM6A-LR,historical
+Lima,1963,18.783936,IPSL-CM6A-LR,historical
+Sao Paulo,1963,20.822723,IPSL-CM6A-LR,historical
+Buenos Aires,1963,16.93277,IPSL-CM6A-LR,historical
+Reykjavik,1963,3.6030884,IPSL-CM6A-LR,historical
+London,1963,9.879089,IPSL-CM6A-LR,historical
+Paris,1963,10.751587,IPSL-CM6A-LR,historical
+Madrid,1963,8.847717,IPSL-CM6A-LR,historical
+Moscow,1963,3.3172913,IPSL-CM6A-LR,historical
+Cairo,1963,19.414062,IPSL-CM6A-LR,historical
+Lagos,1963,26.425781,IPSL-CM6A-LR,historical
+Nairobi,1963,18.899963,IPSL-CM6A-LR,historical
+Cape Town,1963,17.540436,IPSL-CM6A-LR,historical
+Riyadh,1963,21.521606,IPSL-CM6A-LR,historical
+Tehran,1963,8.584198,IPSL-CM6A-LR,historical
+Mumbai,1963,24.849792,IPSL-CM6A-LR,historical
+Delhi,1963,21.899567,IPSL-CM6A-LR,historical
+Dhaka,1963,24.095337,IPSL-CM6A-LR,historical
+Beijing,1963,10.929993,IPSL-CM6A-LR,historical
+Shanghai,1963,15.813843,IPSL-CM6A-LR,historical
+Tokyo,1963,14.258484,IPSL-CM6A-LR,historical
+Singapore,1963,26.681854,IPSL-CM6A-LR,historical
+Jakarta,1963,25.48462,IPSL-CM6A-LR,historical
+Sydney,1963,12.74823,IPSL-CM6A-LR,historical
+San Diego,1964,17.969025,IPSL-CM6A-LR,historical
+Phoenix,1964,18.074219,IPSL-CM6A-LR,historical
+New York,1964,11.460571,IPSL-CM6A-LR,historical
+Miami,1964,24.00946,IPSL-CM6A-LR,historical
+Anchorage,1964,-2.3481445,IPSL-CM6A-LR,historical
+Toronto,1964,9.393005,IPSL-CM6A-LR,historical
+Mexico City,1964,15.674103,IPSL-CM6A-LR,historical
+Lima,1964,19.518494,IPSL-CM6A-LR,historical
+Sao Paulo,1964,20.762573,IPSL-CM6A-LR,historical
+Buenos Aires,1964,18.113129,IPSL-CM6A-LR,historical
+Reykjavik,1964,4.61615,IPSL-CM6A-LR,historical
+London,1964,9.278107,IPSL-CM6A-LR,historical
+Paris,1964,10.350922,IPSL-CM6A-LR,historical
+Madrid,1964,9.106262,IPSL-CM6A-LR,historical
+Moscow,1964,1.4757996,IPSL-CM6A-LR,historical
+Cairo,1964,19.04242,IPSL-CM6A-LR,historical
+Lagos,1964,26.227417,IPSL-CM6A-LR,historical
+Nairobi,1964,19.072784,IPSL-CM6A-LR,historical
+Cape Town,1964,17.407959,IPSL-CM6A-LR,historical
+Riyadh,1964,21.407257,IPSL-CM6A-LR,historical
+Tehran,1964,7.1813354,IPSL-CM6A-LR,historical
+Mumbai,1964,25.660828,IPSL-CM6A-LR,historical
+Delhi,1964,22.258118,IPSL-CM6A-LR,historical
+Dhaka,1964,24.782684,IPSL-CM6A-LR,historical
+Beijing,1964,10.175568,IPSL-CM6A-LR,historical
+Shanghai,1964,14.733124,IPSL-CM6A-LR,historical
+Tokyo,1964,14.253754,IPSL-CM6A-LR,historical
+Singapore,1964,26.586304,IPSL-CM6A-LR,historical
+Jakarta,1964,25.824524,IPSL-CM6A-LR,historical
+Sydney,1964,12.506348,IPSL-CM6A-LR,historical
+San Diego,1965,18.04715,IPSL-CM6A-LR,historical
+Phoenix,1965,17.607117,IPSL-CM6A-LR,historical
+New York,1965,10.36554,IPSL-CM6A-LR,historical
+Miami,1965,23.693054,IPSL-CM6A-LR,historical
+Anchorage,1965,-1.3093567,IPSL-CM6A-LR,historical
+Toronto,1965,8.271393,IPSL-CM6A-LR,historical
+Mexico City,1965,15.996582,IPSL-CM6A-LR,historical
+Lima,1965,19.236145,IPSL-CM6A-LR,historical
+Sao Paulo,1965,21.38382,IPSL-CM6A-LR,historical
+Buenos Aires,1965,17.285248,IPSL-CM6A-LR,historical
+Reykjavik,1965,4.41156,IPSL-CM6A-LR,historical
+London,1965,9.279785,IPSL-CM6A-LR,historical
+Paris,1965,11.047272,IPSL-CM6A-LR,historical
+Madrid,1965,8.952789,IPSL-CM6A-LR,historical
+Moscow,1965,2.4119263,IPSL-CM6A-LR,historical
+Cairo,1965,18.972504,IPSL-CM6A-LR,historical
+Lagos,1965,26.674683,IPSL-CM6A-LR,historical
+Nairobi,1965,19.532623,IPSL-CM6A-LR,historical
+Cape Town,1965,17.804077,IPSL-CM6A-LR,historical
+Riyadh,1965,20.838043,IPSL-CM6A-LR,historical
+Tehran,1965,7.5688477,IPSL-CM6A-LR,historical
+Mumbai,1965,25.720398,IPSL-CM6A-LR,historical
+Delhi,1965,22.034698,IPSL-CM6A-LR,historical
+Dhaka,1965,25.155792,IPSL-CM6A-LR,historical
+Beijing,1965,9.247101,IPSL-CM6A-LR,historical
+Shanghai,1965,13.900635,IPSL-CM6A-LR,historical
+Tokyo,1965,13.761719,IPSL-CM6A-LR,historical
+Singapore,1965,26.736572,IPSL-CM6A-LR,historical
+Jakarta,1965,25.515686,IPSL-CM6A-LR,historical
+Sydney,1965,13.250793,IPSL-CM6A-LR,historical
+San Diego,1966,17.767487,IPSL-CM6A-LR,historical
+Phoenix,1966,18.40387,IPSL-CM6A-LR,historical
+New York,1966,8.9045105,IPSL-CM6A-LR,historical
+Miami,1966,24.571838,IPSL-CM6A-LR,historical
+Anchorage,1966,-1.4942017,IPSL-CM6A-LR,historical
+Toronto,1966,7.672455,IPSL-CM6A-LR,historical
+Mexico City,1966,15.890961,IPSL-CM6A-LR,historical
+Lima,1966,19.525574,IPSL-CM6A-LR,historical
+Sao Paulo,1966,21.440948,IPSL-CM6A-LR,historical
+Buenos Aires,1966,17.16336,IPSL-CM6A-LR,historical
+Reykjavik,1966,3.9236755,IPSL-CM6A-LR,historical
+London,1966,9.278595,IPSL-CM6A-LR,historical
+Paris,1966,10.889893,IPSL-CM6A-LR,historical
+Madrid,1966,9.487122,IPSL-CM6A-LR,historical
+Moscow,1966,3.321289,IPSL-CM6A-LR,historical
+Cairo,1966,19.062195,IPSL-CM6A-LR,historical
+Lagos,1966,26.209045,IPSL-CM6A-LR,historical
+Nairobi,1966,18.526947,IPSL-CM6A-LR,historical
+Cape Town,1966,18.018372,IPSL-CM6A-LR,historical
+Riyadh,1966,21.598938,IPSL-CM6A-LR,historical
+Tehran,1966,8.260956,IPSL-CM6A-LR,historical
+Mumbai,1966,25.403625,IPSL-CM6A-LR,historical
+Delhi,1966,22.412506,IPSL-CM6A-LR,historical
+Dhaka,1966,24.962921,IPSL-CM6A-LR,historical
+Beijing,1966,10.48114,IPSL-CM6A-LR,historical
+Shanghai,1966,15.333954,IPSL-CM6A-LR,historical
+Tokyo,1966,14.396606,IPSL-CM6A-LR,historical
+Singapore,1966,26.73944,IPSL-CM6A-LR,historical
+Jakarta,1966,25.396423,IPSL-CM6A-LR,historical
+Sydney,1966,13.11676,IPSL-CM6A-LR,historical
+San Diego,1967,18.455414,IPSL-CM6A-LR,historical
+Phoenix,1967,17.831787,IPSL-CM6A-LR,historical
+New York,1967,9.511475,IPSL-CM6A-LR,historical
+Miami,1967,24.009216,IPSL-CM6A-LR,historical
+Anchorage,1967,-0.58673096,IPSL-CM6A-LR,historical
+Toronto,1967,7.066681,IPSL-CM6A-LR,historical
+Mexico City,1967,15.673767,IPSL-CM6A-LR,historical
+Lima,1967,19.532166,IPSL-CM6A-LR,historical
+Sao Paulo,1967,20.937836,IPSL-CM6A-LR,historical
+Buenos Aires,1967,18.080353,IPSL-CM6A-LR,historical
+Reykjavik,1967,3.9486694,IPSL-CM6A-LR,historical
+London,1967,9.196381,IPSL-CM6A-LR,historical
+Paris,1967,10.896912,IPSL-CM6A-LR,historical
+Madrid,1967,9.712585,IPSL-CM6A-LR,historical
+Moscow,1967,2.368164,IPSL-CM6A-LR,historical
+Cairo,1967,19.788818,IPSL-CM6A-LR,historical
+Lagos,1967,26.386932,IPSL-CM6A-LR,historical
+Nairobi,1967,19.22876,IPSL-CM6A-LR,historical
+Cape Town,1967,18.041687,IPSL-CM6A-LR,historical
+Riyadh,1967,21.235779,IPSL-CM6A-LR,historical
+Tehran,1967,8.529755,IPSL-CM6A-LR,historical
+Mumbai,1967,26.180237,IPSL-CM6A-LR,historical
+Delhi,1967,22.4906,IPSL-CM6A-LR,historical
+Dhaka,1967,24.830475,IPSL-CM6A-LR,historical
+Beijing,1967,9.422546,IPSL-CM6A-LR,historical
+Shanghai,1967,14.658142,IPSL-CM6A-LR,historical
+Tokyo,1967,13.847046,IPSL-CM6A-LR,historical
+Singapore,1967,26.653809,IPSL-CM6A-LR,historical
+Jakarta,1967,25.538635,IPSL-CM6A-LR,historical
+Sydney,1967,13.195068,IPSL-CM6A-LR,historical
+San Diego,1968,18.141846,IPSL-CM6A-LR,historical
+Phoenix,1968,18.127136,IPSL-CM6A-LR,historical
+New York,1968,8.549164,IPSL-CM6A-LR,historical
+Miami,1968,24.351135,IPSL-CM6A-LR,historical
+Anchorage,1968,-2.041687,IPSL-CM6A-LR,historical
+Toronto,1968,6.622345,IPSL-CM6A-LR,historical
+Mexico City,1968,16.123657,IPSL-CM6A-LR,historical
+Lima,1968,20.600891,IPSL-CM6A-LR,historical
+Sao Paulo,1968,21.601807,IPSL-CM6A-LR,historical
+Buenos Aires,1968,18.07138,IPSL-CM6A-LR,historical
+Reykjavik,1968,4.376343,IPSL-CM6A-LR,historical
+London,1968,8.833984,IPSL-CM6A-LR,historical
+Paris,1968,10.018646,IPSL-CM6A-LR,historical
+Madrid,1968,9.009033,IPSL-CM6A-LR,historical
+Moscow,1968,4.730957,IPSL-CM6A-LR,historical
+Cairo,1968,19.87732,IPSL-CM6A-LR,historical
+Lagos,1968,26.422485,IPSL-CM6A-LR,historical
+Nairobi,1968,19.22226,IPSL-CM6A-LR,historical
+Cape Town,1968,18.017975,IPSL-CM6A-LR,historical
+Riyadh,1968,21.018188,IPSL-CM6A-LR,historical
+Tehran,1968,7.6781006,IPSL-CM6A-LR,historical
+Mumbai,1968,25.578156,IPSL-CM6A-LR,historical
+Delhi,1968,22.630524,IPSL-CM6A-LR,historical
+Dhaka,1968,24.994873,IPSL-CM6A-LR,historical
+Beijing,1968,9.983582,IPSL-CM6A-LR,historical
+Shanghai,1968,15.313416,IPSL-CM6A-LR,historical
+Tokyo,1968,14.402466,IPSL-CM6A-LR,historical
+Singapore,1968,26.783234,IPSL-CM6A-LR,historical
+Jakarta,1968,25.655945,IPSL-CM6A-LR,historical
+Sydney,1968,12.743286,IPSL-CM6A-LR,historical
+San Diego,1969,18.212677,IPSL-CM6A-LR,historical
+Phoenix,1969,18.701782,IPSL-CM6A-LR,historical
+New York,1969,9.449097,IPSL-CM6A-LR,historical
+Miami,1969,24.094208,IPSL-CM6A-LR,historical
+Anchorage,1969,-0.17471313,IPSL-CM6A-LR,historical
+Toronto,1969,7.8349,IPSL-CM6A-LR,historical
+Mexico City,1969,15.900024,IPSL-CM6A-LR,historical
+Lima,1969,19.210724,IPSL-CM6A-LR,historical
+Sao Paulo,1969,21.143463,IPSL-CM6A-LR,historical
+Buenos Aires,1969,17.118042,IPSL-CM6A-LR,historical
+Reykjavik,1969,3.9638062,IPSL-CM6A-LR,historical
+London,1969,8.162659,IPSL-CM6A-LR,historical
+Paris,1969,9.699219,IPSL-CM6A-LR,historical
+Madrid,1969,9.090942,IPSL-CM6A-LR,historical
+Moscow,1969,3.9726868,IPSL-CM6A-LR,historical
+Cairo,1969,19.47934,IPSL-CM6A-LR,historical
+Lagos,1969,26.61206,IPSL-CM6A-LR,historical
+Nairobi,1969,19.204315,IPSL-CM6A-LR,historical
+Cape Town,1969,17.676758,IPSL-CM6A-LR,historical
+Riyadh,1969,21.492554,IPSL-CM6A-LR,historical
+Tehran,1969,7.651703,IPSL-CM6A-LR,historical
+Mumbai,1969,24.948364,IPSL-CM6A-LR,historical
+Delhi,1969,22.175476,IPSL-CM6A-LR,historical
+Dhaka,1969,25.024841,IPSL-CM6A-LR,historical
+Beijing,1969,10.041931,IPSL-CM6A-LR,historical
+Shanghai,1969,14.6588745,IPSL-CM6A-LR,historical
+Tokyo,1969,13.711975,IPSL-CM6A-LR,historical
+Singapore,1969,26.814484,IPSL-CM6A-LR,historical
+Jakarta,1969,25.743164,IPSL-CM6A-LR,historical
+Sydney,1969,13.689941,IPSL-CM6A-LR,historical
+San Diego,1970,19.236816,IPSL-CM6A-LR,historical
+Phoenix,1970,19.174622,IPSL-CM6A-LR,historical
+New York,1970,9.269897,IPSL-CM6A-LR,historical
+Miami,1970,24.388855,IPSL-CM6A-LR,historical
+Anchorage,1970,-0.9345703,IPSL-CM6A-LR,historical
+Toronto,1970,7.7404785,IPSL-CM6A-LR,historical
+Mexico City,1970,16.036865,IPSL-CM6A-LR,historical
+Lima,1970,19.017761,IPSL-CM6A-LR,historical
+Sao Paulo,1970,20.94983,IPSL-CM6A-LR,historical
+Buenos Aires,1970,18.328888,IPSL-CM6A-LR,historical
+Reykjavik,1970,5.4776,IPSL-CM6A-LR,historical
+London,1970,8.454956,IPSL-CM6A-LR,historical
+Paris,1970,9.41272,IPSL-CM6A-LR,historical
+Madrid,1970,8.471802,IPSL-CM6A-LR,historical
+Moscow,1970,2.6034546,IPSL-CM6A-LR,historical
+Cairo,1970,20.008972,IPSL-CM6A-LR,historical
+Lagos,1970,26.308014,IPSL-CM6A-LR,historical
+Nairobi,1970,19.256165,IPSL-CM6A-LR,historical
+Cape Town,1970,17.855865,IPSL-CM6A-LR,historical
+Riyadh,1970,22.046417,IPSL-CM6A-LR,historical
+Tehran,1970,7.882416,IPSL-CM6A-LR,historical
+Mumbai,1970,25.615417,IPSL-CM6A-LR,historical
+Delhi,1970,23.42627,IPSL-CM6A-LR,historical
+Dhaka,1970,25.00763,IPSL-CM6A-LR,historical
+Beijing,1970,10.5383,IPSL-CM6A-LR,historical
+Shanghai,1970,14.743835,IPSL-CM6A-LR,historical
+Tokyo,1970,13.8967285,IPSL-CM6A-LR,historical
+Singapore,1970,26.541473,IPSL-CM6A-LR,historical
+Jakarta,1970,25.482452,IPSL-CM6A-LR,historical
+Sydney,1970,13.491791,IPSL-CM6A-LR,historical
+San Diego,1971,18.743713,IPSL-CM6A-LR,historical
+Phoenix,1971,18.826416,IPSL-CM6A-LR,historical
+New York,1971,10.041504,IPSL-CM6A-LR,historical
+Miami,1971,24.287354,IPSL-CM6A-LR,historical
+Anchorage,1971,-0.947937,IPSL-CM6A-LR,historical
+Toronto,1971,7.942749,IPSL-CM6A-LR,historical
+Mexico City,1971,15.859161,IPSL-CM6A-LR,historical
+Lima,1971,19.794983,IPSL-CM6A-LR,historical
+Sao Paulo,1971,21.30069,IPSL-CM6A-LR,historical
+Buenos Aires,1971,17.991882,IPSL-CM6A-LR,historical
+Reykjavik,1971,3.598999,IPSL-CM6A-LR,historical
+London,1971,8.416992,IPSL-CM6A-LR,historical
+Paris,1971,9.718018,IPSL-CM6A-LR,historical
+Madrid,1971,8.556061,IPSL-CM6A-LR,historical
+Moscow,1971,3.6978455,IPSL-CM6A-LR,historical
+Cairo,1971,19.455353,IPSL-CM6A-LR,historical
+Lagos,1971,26.256592,IPSL-CM6A-LR,historical
+Nairobi,1971,19.36673,IPSL-CM6A-LR,historical
+Cape Town,1971,17.642517,IPSL-CM6A-LR,historical
+Riyadh,1971,21.67987,IPSL-CM6A-LR,historical
+Tehran,1971,7.228607,IPSL-CM6A-LR,historical
+Mumbai,1971,25.391846,IPSL-CM6A-LR,historical
+Delhi,1971,22.241028,IPSL-CM6A-LR,historical
+Dhaka,1971,24.569977,IPSL-CM6A-LR,historical
+Beijing,1971,9.7543335,IPSL-CM6A-LR,historical
+Shanghai,1971,14.093445,IPSL-CM6A-LR,historical
+Tokyo,1971,13.77301,IPSL-CM6A-LR,historical
+Singapore,1971,26.752502,IPSL-CM6A-LR,historical
+Jakarta,1971,25.593964,IPSL-CM6A-LR,historical
+Sydney,1971,13.913574,IPSL-CM6A-LR,historical
+San Diego,1972,18.353607,IPSL-CM6A-LR,historical
+Phoenix,1972,18.261871,IPSL-CM6A-LR,historical
+New York,1972,9.515015,IPSL-CM6A-LR,historical
+Miami,1972,24.213867,IPSL-CM6A-LR,historical
+Anchorage,1972,-2.3434753,IPSL-CM6A-LR,historical
+Toronto,1972,7.764435,IPSL-CM6A-LR,historical
+Mexico City,1972,16.16632,IPSL-CM6A-LR,historical
+Lima,1972,19.965027,IPSL-CM6A-LR,historical
+Sao Paulo,1972,21.48117,IPSL-CM6A-LR,historical
+Buenos Aires,1972,17.881592,IPSL-CM6A-LR,historical
+Reykjavik,1972,2.744629,IPSL-CM6A-LR,historical
+London,1972,8.64386,IPSL-CM6A-LR,historical
+Paris,1972,9.691376,IPSL-CM6A-LR,historical
+Madrid,1972,9.192505,IPSL-CM6A-LR,historical
+Moscow,1972,3.1292114,IPSL-CM6A-LR,historical
+Cairo,1972,19.484985,IPSL-CM6A-LR,historical
+Lagos,1972,26.945496,IPSL-CM6A-LR,historical
+Nairobi,1972,19.22638,IPSL-CM6A-LR,historical
+Cape Town,1972,18.334076,IPSL-CM6A-LR,historical
+Riyadh,1972,21.053223,IPSL-CM6A-LR,historical
+Tehran,1972,9.221436,IPSL-CM6A-LR,historical
+Mumbai,1972,25.978485,IPSL-CM6A-LR,historical
+Delhi,1972,23.24878,IPSL-CM6A-LR,historical
+Dhaka,1972,24.92691,IPSL-CM6A-LR,historical
+Beijing,1972,10.652466,IPSL-CM6A-LR,historical
+Shanghai,1972,14.946075,IPSL-CM6A-LR,historical
+Tokyo,1972,13.458191,IPSL-CM6A-LR,historical
+Singapore,1972,26.77179,IPSL-CM6A-LR,historical
+Jakarta,1972,25.81372,IPSL-CM6A-LR,historical
+Sydney,1972,13.606018,IPSL-CM6A-LR,historical
+San Diego,1973,18.378265,IPSL-CM6A-LR,historical
+Phoenix,1973,18.87738,IPSL-CM6A-LR,historical
+New York,1973,10.8463745,IPSL-CM6A-LR,historical
+Miami,1973,24.239258,IPSL-CM6A-LR,historical
+Anchorage,1973,-1.7932129,IPSL-CM6A-LR,historical
+Toronto,1973,9.221222,IPSL-CM6A-LR,historical
+Mexico City,1973,16.362335,IPSL-CM6A-LR,historical
+Lima,1973,19.914856,IPSL-CM6A-LR,historical
+Sao Paulo,1973,22.148895,IPSL-CM6A-LR,historical
+Buenos Aires,1973,18.611603,IPSL-CM6A-LR,historical
+Reykjavik,1973,3.429718,IPSL-CM6A-LR,historical
+London,1973,9.307861,IPSL-CM6A-LR,historical
+Paris,1973,10.136414,IPSL-CM6A-LR,historical
+Madrid,1973,8.523804,IPSL-CM6A-LR,historical
+Moscow,1973,4.4079895,IPSL-CM6A-LR,historical
+Cairo,1973,19.769379,IPSL-CM6A-LR,historical
+Lagos,1973,26.969757,IPSL-CM6A-LR,historical
+Nairobi,1973,19.451294,IPSL-CM6A-LR,historical
+Cape Town,1973,18.191376,IPSL-CM6A-LR,historical
+Riyadh,1973,21.420197,IPSL-CM6A-LR,historical
+Tehran,1973,7.1438293,IPSL-CM6A-LR,historical
+Mumbai,1973,25.998749,IPSL-CM6A-LR,historical
+Delhi,1973,22.942566,IPSL-CM6A-LR,historical
+Dhaka,1973,25.2341,IPSL-CM6A-LR,historical
+Beijing,1973,10.512146,IPSL-CM6A-LR,historical
+Shanghai,1973,15.595337,IPSL-CM6A-LR,historical
+Tokyo,1973,14.124756,IPSL-CM6A-LR,historical
+Singapore,1973,26.94226,IPSL-CM6A-LR,historical
+Jakarta,1973,26.032745,IPSL-CM6A-LR,historical
+Sydney,1973,14.020569,IPSL-CM6A-LR,historical
+San Diego,1974,17.786438,IPSL-CM6A-LR,historical
+Phoenix,1974,17.829102,IPSL-CM6A-LR,historical
+New York,1974,9.4027405,IPSL-CM6A-LR,historical
+Miami,1974,24.50769,IPSL-CM6A-LR,historical
+Anchorage,1974,-1.3119507,IPSL-CM6A-LR,historical
+Toronto,1974,7.947113,IPSL-CM6A-LR,historical
+Mexico City,1974,15.774963,IPSL-CM6A-LR,historical
+Lima,1974,18.520264,IPSL-CM6A-LR,historical
+Sao Paulo,1974,21.167664,IPSL-CM6A-LR,historical
+Buenos Aires,1974,17.606995,IPSL-CM6A-LR,historical
+Reykjavik,1974,3.9641724,IPSL-CM6A-LR,historical
+London,1974,8.473938,IPSL-CM6A-LR,historical
+Paris,1974,9.938934,IPSL-CM6A-LR,historical
+Madrid,1974,8.798309,IPSL-CM6A-LR,historical
+Moscow,1974,5.2164917,IPSL-CM6A-LR,historical
+Cairo,1974,19.708862,IPSL-CM6A-LR,historical
+Lagos,1974,26.153687,IPSL-CM6A-LR,historical
+Nairobi,1974,19.028473,IPSL-CM6A-LR,historical
+Cape Town,1974,17.629944,IPSL-CM6A-LR,historical
+Riyadh,1974,20.965485,IPSL-CM6A-LR,historical
+Tehran,1974,8.2786255,IPSL-CM6A-LR,historical
+Mumbai,1974,26.010437,IPSL-CM6A-LR,historical
+Delhi,1974,22.633087,IPSL-CM6A-LR,historical
+Dhaka,1974,24.886719,IPSL-CM6A-LR,historical
+Beijing,1974,10.3342285,IPSL-CM6A-LR,historical
+Shanghai,1974,14.697632,IPSL-CM6A-LR,historical
+Tokyo,1974,14.2994995,IPSL-CM6A-LR,historical
+Singapore,1974,26.70642,IPSL-CM6A-LR,historical
+Jakarta,1974,25.483948,IPSL-CM6A-LR,historical
+Sydney,1974,13.8038025,IPSL-CM6A-LR,historical
+San Diego,1975,17.788086,IPSL-CM6A-LR,historical
+Phoenix,1975,17.628174,IPSL-CM6A-LR,historical
+New York,1975,9.816589,IPSL-CM6A-LR,historical
+Miami,1975,24.31607,IPSL-CM6A-LR,historical
+Anchorage,1975,-3.670868,IPSL-CM6A-LR,historical
+Toronto,1975,8.002014,IPSL-CM6A-LR,historical
+Mexico City,1975,15.918579,IPSL-CM6A-LR,historical
+Lima,1975,20.182251,IPSL-CM6A-LR,historical
+Sao Paulo,1975,20.546387,IPSL-CM6A-LR,historical
+Buenos Aires,1975,16.85785,IPSL-CM6A-LR,historical
+Reykjavik,1975,3.6737976,IPSL-CM6A-LR,historical
+London,1975,9.295258,IPSL-CM6A-LR,historical
+Paris,1975,10.720764,IPSL-CM6A-LR,historical
+Madrid,1975,9.651306,IPSL-CM6A-LR,historical
+Moscow,1975,3.0889893,IPSL-CM6A-LR,historical
+Cairo,1975,18.984863,IPSL-CM6A-LR,historical
+Lagos,1975,26.257416,IPSL-CM6A-LR,historical
+Nairobi,1975,19.014008,IPSL-CM6A-LR,historical
+Cape Town,1975,17.359772,IPSL-CM6A-LR,historical
+Riyadh,1975,21.91156,IPSL-CM6A-LR,historical
+Tehran,1975,7.6690674,IPSL-CM6A-LR,historical
+Mumbai,1975,25.37024,IPSL-CM6A-LR,historical
+Delhi,1975,21.58081,IPSL-CM6A-LR,historical
+Dhaka,1975,23.847565,IPSL-CM6A-LR,historical
+Beijing,1975,10.32962,IPSL-CM6A-LR,historical
+Shanghai,1975,14.752502,IPSL-CM6A-LR,historical
+Tokyo,1975,14.386414,IPSL-CM6A-LR,historical
+Singapore,1975,26.509369,IPSL-CM6A-LR,historical
+Jakarta,1975,25.454895,IPSL-CM6A-LR,historical
+Sydney,1975,13.319275,IPSL-CM6A-LR,historical
+San Diego,1976,17.927368,IPSL-CM6A-LR,historical
+Phoenix,1976,18.320953,IPSL-CM6A-LR,historical
+New York,1976,9.707092,IPSL-CM6A-LR,historical
+Miami,1976,23.679077,IPSL-CM6A-LR,historical
+Anchorage,1976,-4.3167725,IPSL-CM6A-LR,historical
+Toronto,1976,8.233154,IPSL-CM6A-LR,historical
+Mexico City,1976,15.8497925,IPSL-CM6A-LR,historical
+Lima,1976,19.921478,IPSL-CM6A-LR,historical
+Sao Paulo,1976,21.602081,IPSL-CM6A-LR,historical
+Buenos Aires,1976,17.755005,IPSL-CM6A-LR,historical
+Reykjavik,1976,3.1641846,IPSL-CM6A-LR,historical
+London,1976,9.886505,IPSL-CM6A-LR,historical
+Paris,1976,11.231262,IPSL-CM6A-LR,historical
+Madrid,1976,7.9121704,IPSL-CM6A-LR,historical
+Moscow,1976,4.239319,IPSL-CM6A-LR,historical
+Cairo,1976,19.698242,IPSL-CM6A-LR,historical
+Lagos,1976,26.683533,IPSL-CM6A-LR,historical
+Nairobi,1976,19.675476,IPSL-CM6A-LR,historical
+Cape Town,1976,18.013062,IPSL-CM6A-LR,historical
+Riyadh,1976,21.277466,IPSL-CM6A-LR,historical
+Tehran,1976,7.8311768,IPSL-CM6A-LR,historical
+Mumbai,1976,25.720581,IPSL-CM6A-LR,historical
+Delhi,1976,22.891815,IPSL-CM6A-LR,historical
+Dhaka,1976,25.67279,IPSL-CM6A-LR,historical
+Beijing,1976,10.609924,IPSL-CM6A-LR,historical
+Shanghai,1976,15.545471,IPSL-CM6A-LR,historical
+Tokyo,1976,14.893219,IPSL-CM6A-LR,historical
+Singapore,1976,27.115875,IPSL-CM6A-LR,historical
+Jakarta,1976,25.801392,IPSL-CM6A-LR,historical
+Sydney,1976,13.714386,IPSL-CM6A-LR,historical
+San Diego,1977,18.419678,IPSL-CM6A-LR,historical
+Phoenix,1977,18.437897,IPSL-CM6A-LR,historical
+New York,1977,9.90271,IPSL-CM6A-LR,historical
+Miami,1977,24.088928,IPSL-CM6A-LR,historical
+Anchorage,1977,-0.63897705,IPSL-CM6A-LR,historical
+Toronto,1977,7.9154053,IPSL-CM6A-LR,historical
+Mexico City,1977,16.107483,IPSL-CM6A-LR,historical
+Lima,1977,19.391357,IPSL-CM6A-LR,historical
+Sao Paulo,1977,21.102203,IPSL-CM6A-LR,historical
+Buenos Aires,1977,16.861847,IPSL-CM6A-LR,historical
+Reykjavik,1977,4.641968,IPSL-CM6A-LR,historical
+London,1977,8.794556,IPSL-CM6A-LR,historical
+Paris,1977,10.306976,IPSL-CM6A-LR,historical
+Madrid,1977,9.045624,IPSL-CM6A-LR,historical
+Moscow,1977,4.379303,IPSL-CM6A-LR,historical
+Cairo,1977,19.579773,IPSL-CM6A-LR,historical
+Lagos,1977,26.713928,IPSL-CM6A-LR,historical
+Nairobi,1977,19.671997,IPSL-CM6A-LR,historical
+Cape Town,1977,17.956482,IPSL-CM6A-LR,historical
+Riyadh,1977,21.94635,IPSL-CM6A-LR,historical
+Tehran,1977,7.322632,IPSL-CM6A-LR,historical
+Mumbai,1977,25.886932,IPSL-CM6A-LR,historical
+Delhi,1977,22.99414,IPSL-CM6A-LR,historical
+Dhaka,1977,25.54596,IPSL-CM6A-LR,historical
+Beijing,1977,10.16687,IPSL-CM6A-LR,historical
+Shanghai,1977,14.466064,IPSL-CM6A-LR,historical
+Tokyo,1977,14.256958,IPSL-CM6A-LR,historical
+Singapore,1977,26.835846,IPSL-CM6A-LR,historical
+Jakarta,1977,25.765015,IPSL-CM6A-LR,historical
+Sydney,1977,13.191315,IPSL-CM6A-LR,historical
+San Diego,1978,18.318481,IPSL-CM6A-LR,historical
+Phoenix,1978,18.352753,IPSL-CM6A-LR,historical
+New York,1978,9.127686,IPSL-CM6A-LR,historical
+Miami,1978,24.211395,IPSL-CM6A-LR,historical
+Anchorage,1978,-2.056305,IPSL-CM6A-LR,historical
+Toronto,1978,7.4283447,IPSL-CM6A-LR,historical
+Mexico City,1978,15.995422,IPSL-CM6A-LR,historical
+Lima,1978,19.406189,IPSL-CM6A-LR,historical
+Sao Paulo,1978,20.926575,IPSL-CM6A-LR,historical
+Buenos Aires,1978,18.288239,IPSL-CM6A-LR,historical
+Reykjavik,1978,3.8931885,IPSL-CM6A-LR,historical
+London,1978,8.506012,IPSL-CM6A-LR,historical
+Paris,1978,10.308289,IPSL-CM6A-LR,historical
+Madrid,1978,9.935455,IPSL-CM6A-LR,historical
+Moscow,1978,3.835083,IPSL-CM6A-LR,historical
+Cairo,1978,19.631409,IPSL-CM6A-LR,historical
+Lagos,1978,26.543762,IPSL-CM6A-LR,historical
+Nairobi,1978,19.542725,IPSL-CM6A-LR,historical
+Cape Town,1978,18.009583,IPSL-CM6A-LR,historical
+Riyadh,1978,21.60199,IPSL-CM6A-LR,historical
+Tehran,1978,8.829712,IPSL-CM6A-LR,historical
+Mumbai,1978,25.10962,IPSL-CM6A-LR,historical
+Delhi,1978,22.902496,IPSL-CM6A-LR,historical
+Dhaka,1978,24.428528,IPSL-CM6A-LR,historical
+Beijing,1978,10.282288,IPSL-CM6A-LR,historical
+Shanghai,1978,15.228821,IPSL-CM6A-LR,historical
+Tokyo,1978,14.166016,IPSL-CM6A-LR,historical
+Singapore,1978,26.86499,IPSL-CM6A-LR,historical
+Jakarta,1978,25.769775,IPSL-CM6A-LR,historical
+Sydney,1978,13.867493,IPSL-CM6A-LR,historical
+San Diego,1979,17.838715,IPSL-CM6A-LR,historical
+Phoenix,1979,18.30957,IPSL-CM6A-LR,historical
+New York,1979,10.93866,IPSL-CM6A-LR,historical
+Miami,1979,24.181519,IPSL-CM6A-LR,historical
+Anchorage,1979,-2.2112122,IPSL-CM6A-LR,historical
+Toronto,1979,8.614136,IPSL-CM6A-LR,historical
+Mexico City,1979,16.100677,IPSL-CM6A-LR,historical
+Lima,1979,19.722809,IPSL-CM6A-LR,historical
+Sao Paulo,1979,21.200287,IPSL-CM6A-LR,historical
+Buenos Aires,1979,17.667816,IPSL-CM6A-LR,historical
+Reykjavik,1979,4.5162964,IPSL-CM6A-LR,historical
+London,1979,9.020966,IPSL-CM6A-LR,historical
+Paris,1979,10.158691,IPSL-CM6A-LR,historical
+Madrid,1979,8.635498,IPSL-CM6A-LR,historical
+Moscow,1979,4.613434,IPSL-CM6A-LR,historical
+Cairo,1979,19.633148,IPSL-CM6A-LR,historical
+Lagos,1979,26.69751,IPSL-CM6A-LR,historical
+Nairobi,1979,19.48114,IPSL-CM6A-LR,historical
+Cape Town,1979,18.280518,IPSL-CM6A-LR,historical
+Riyadh,1979,21.279144,IPSL-CM6A-LR,historical
+Tehran,1979,7.9556885,IPSL-CM6A-LR,historical
+Mumbai,1979,25.619324,IPSL-CM6A-LR,historical
+Delhi,1979,22.760864,IPSL-CM6A-LR,historical
+Dhaka,1979,24.858887,IPSL-CM6A-LR,historical
+Beijing,1979,10.685974,IPSL-CM6A-LR,historical
+Shanghai,1979,14.691711,IPSL-CM6A-LR,historical
+Tokyo,1979,14.43988,IPSL-CM6A-LR,historical
+Singapore,1979,26.83551,IPSL-CM6A-LR,historical
+Jakarta,1979,25.736908,IPSL-CM6A-LR,historical
+Sydney,1979,13.817444,IPSL-CM6A-LR,historical
+San Diego,1980,17.801086,IPSL-CM6A-LR,historical
+Phoenix,1980,17.26361,IPSL-CM6A-LR,historical
+New York,1980,10.26123,IPSL-CM6A-LR,historical
+Miami,1980,24.821686,IPSL-CM6A-LR,historical
+Anchorage,1980,-1.4689941,IPSL-CM6A-LR,historical
+Toronto,1980,8.144226,IPSL-CM6A-LR,historical
+Mexico City,1980,16.309906,IPSL-CM6A-LR,historical
+Lima,1980,20.4057,IPSL-CM6A-LR,historical
+Sao Paulo,1980,21.758118,IPSL-CM6A-LR,historical
+Buenos Aires,1980,17.523132,IPSL-CM6A-LR,historical
+Reykjavik,1980,3.9656677,IPSL-CM6A-LR,historical
+London,1980,9.682739,IPSL-CM6A-LR,historical
+Paris,1980,10.82016,IPSL-CM6A-LR,historical
+Madrid,1980,8.996155,IPSL-CM6A-LR,historical
+Moscow,1980,5.1951904,IPSL-CM6A-LR,historical
+Cairo,1980,19.971222,IPSL-CM6A-LR,historical
+Lagos,1980,26.706848,IPSL-CM6A-LR,historical
+Nairobi,1980,19.654938,IPSL-CM6A-LR,historical
+Cape Town,1980,18.562897,IPSL-CM6A-LR,historical
+Riyadh,1980,21.324951,IPSL-CM6A-LR,historical
+Tehran,1980,7.0477295,IPSL-CM6A-LR,historical
+Mumbai,1980,25.760223,IPSL-CM6A-LR,historical
+Delhi,1980,23.515503,IPSL-CM6A-LR,historical
+Dhaka,1980,25.940674,IPSL-CM6A-LR,historical
+Beijing,1980,11.577332,IPSL-CM6A-LR,historical
+Shanghai,1980,16.081146,IPSL-CM6A-LR,historical
+Tokyo,1980,14.524109,IPSL-CM6A-LR,historical
+Singapore,1980,26.657349,IPSL-CM6A-LR,historical
+Jakarta,1980,25.885284,IPSL-CM6A-LR,historical
+Sydney,1980,13.82782,IPSL-CM6A-LR,historical
+San Diego,1981,17.701172,IPSL-CM6A-LR,historical
+Phoenix,1981,17.886108,IPSL-CM6A-LR,historical
+New York,1981,9.3706665,IPSL-CM6A-LR,historical
+Miami,1981,24.21347,IPSL-CM6A-LR,historical
+Anchorage,1981,-0.33389282,IPSL-CM6A-LR,historical
+Toronto,1981,7.4206543,IPSL-CM6A-LR,historical
+Mexico City,1981,16.552612,IPSL-CM6A-LR,historical
+Lima,1981,19.624298,IPSL-CM6A-LR,historical
+Sao Paulo,1981,21.670258,IPSL-CM6A-LR,historical
+Buenos Aires,1981,17.47937,IPSL-CM6A-LR,historical
+Reykjavik,1981,5.039551,IPSL-CM6A-LR,historical
+London,1981,8.283081,IPSL-CM6A-LR,historical
+Paris,1981,9.712982,IPSL-CM6A-LR,historical
+Madrid,1981,8.870392,IPSL-CM6A-LR,historical
+Moscow,1981,2.295807,IPSL-CM6A-LR,historical
+Cairo,1981,20.004944,IPSL-CM6A-LR,historical
+Lagos,1981,26.763214,IPSL-CM6A-LR,historical
+Nairobi,1981,20.005432,IPSL-CM6A-LR,historical
+Cape Town,1981,17.811768,IPSL-CM6A-LR,historical
+Riyadh,1981,21.971893,IPSL-CM6A-LR,historical
+Tehran,1981,7.821411,IPSL-CM6A-LR,historical
+Mumbai,1981,25.418518,IPSL-CM6A-LR,historical
+Delhi,1981,22.658875,IPSL-CM6A-LR,historical
+Dhaka,1981,25.123535,IPSL-CM6A-LR,historical
+Beijing,1981,9.024475,IPSL-CM6A-LR,historical
+Shanghai,1981,14.014069,IPSL-CM6A-LR,historical
+Tokyo,1981,13.245148,IPSL-CM6A-LR,historical
+Singapore,1981,26.961456,IPSL-CM6A-LR,historical
+Jakarta,1981,26.01883,IPSL-CM6A-LR,historical
+Sydney,1981,13.854675,IPSL-CM6A-LR,historical
+San Diego,1982,18.083008,IPSL-CM6A-LR,historical
+Phoenix,1982,18.654938,IPSL-CM6A-LR,historical
+New York,1982,9.4418335,IPSL-CM6A-LR,historical
+Miami,1982,24.317596,IPSL-CM6A-LR,historical
+Anchorage,1982,-0.3262329,IPSL-CM6A-LR,historical
+Toronto,1982,6.972412,IPSL-CM6A-LR,historical
+Mexico City,1982,15.845154,IPSL-CM6A-LR,historical
+Lima,1982,18.329346,IPSL-CM6A-LR,historical
+Sao Paulo,1982,21.045105,IPSL-CM6A-LR,historical
+Buenos Aires,1982,18.052002,IPSL-CM6A-LR,historical
+Reykjavik,1982,5.2839355,IPSL-CM6A-LR,historical
+London,1982,9.358215,IPSL-CM6A-LR,historical
+Paris,1982,10.65802,IPSL-CM6A-LR,historical
+Madrid,1982,8.856659,IPSL-CM6A-LR,historical
+Moscow,1982,2.375183,IPSL-CM6A-LR,historical
+Cairo,1982,19.705505,IPSL-CM6A-LR,historical
+Lagos,1982,26.398376,IPSL-CM6A-LR,historical
+Nairobi,1982,18.978516,IPSL-CM6A-LR,historical
+Cape Town,1982,17.781555,IPSL-CM6A-LR,historical
+Riyadh,1982,21.540405,IPSL-CM6A-LR,historical
+Tehran,1982,7.9026794,IPSL-CM6A-LR,historical
+Mumbai,1982,25.705475,IPSL-CM6A-LR,historical
+Delhi,1982,22.336273,IPSL-CM6A-LR,historical
+Dhaka,1982,24.876587,IPSL-CM6A-LR,historical
+Beijing,1982,9.809753,IPSL-CM6A-LR,historical
+Shanghai,1982,14.732117,IPSL-CM6A-LR,historical
+Tokyo,1982,14.586731,IPSL-CM6A-LR,historical
+Singapore,1982,26.821716,IPSL-CM6A-LR,historical
+Jakarta,1982,25.514832,IPSL-CM6A-LR,historical
+Sydney,1982,13.361694,IPSL-CM6A-LR,historical
+San Diego,1983,18.02951,IPSL-CM6A-LR,historical
+Phoenix,1983,17.926208,IPSL-CM6A-LR,historical
+New York,1983,9.3064575,IPSL-CM6A-LR,historical
+Miami,1983,24.39215,IPSL-CM6A-LR,historical
+Anchorage,1983,-2.750061,IPSL-CM6A-LR,historical
+Toronto,1983,8.021179,IPSL-CM6A-LR,historical
+Mexico City,1983,15.86087,IPSL-CM6A-LR,historical
+Lima,1983,19.513855,IPSL-CM6A-LR,historical
+Sao Paulo,1983,21.149414,IPSL-CM6A-LR,historical
+Buenos Aires,1983,17.837921,IPSL-CM6A-LR,historical
+Reykjavik,1983,4.614105,IPSL-CM6A-LR,historical
+London,1983,7.8330383,IPSL-CM6A-LR,historical
+Paris,1983,8.922455,IPSL-CM6A-LR,historical
+Madrid,1983,8.983398,IPSL-CM6A-LR,historical
+Moscow,1983,1.0808411,IPSL-CM6A-LR,historical
+Cairo,1983,19.20868,IPSL-CM6A-LR,historical
+Lagos,1983,26.265625,IPSL-CM6A-LR,historical
+Nairobi,1983,18.89981,IPSL-CM6A-LR,historical
+Cape Town,1983,17.825684,IPSL-CM6A-LR,historical
+Riyadh,1983,21.248413,IPSL-CM6A-LR,historical
+Tehran,1983,7.838135,IPSL-CM6A-LR,historical
+Mumbai,1983,25.51056,IPSL-CM6A-LR,historical
+Delhi,1983,22.791931,IPSL-CM6A-LR,historical
+Dhaka,1983,24.287659,IPSL-CM6A-LR,historical
+Beijing,1983,8.894409,IPSL-CM6A-LR,historical
+Shanghai,1983,14.245789,IPSL-CM6A-LR,historical
+Tokyo,1983,13.87912,IPSL-CM6A-LR,historical
+Singapore,1983,26.662872,IPSL-CM6A-LR,historical
+Jakarta,1983,25.597778,IPSL-CM6A-LR,historical
+Sydney,1983,13.391144,IPSL-CM6A-LR,historical
+San Diego,1984,17.989777,IPSL-CM6A-LR,historical
+Phoenix,1984,18.320984,IPSL-CM6A-LR,historical
+New York,1984,8.339508,IPSL-CM6A-LR,historical
+Miami,1984,23.71222,IPSL-CM6A-LR,historical
+Anchorage,1984,-2.6187744,IPSL-CM6A-LR,historical
+Toronto,1984,7.103943,IPSL-CM6A-LR,historical
+Mexico City,1984,15.781433,IPSL-CM6A-LR,historical
+Lima,1984,18.364868,IPSL-CM6A-LR,historical
+Sao Paulo,1984,20.901794,IPSL-CM6A-LR,historical
+Buenos Aires,1984,18.477875,IPSL-CM6A-LR,historical
+Reykjavik,1984,3.0474243,IPSL-CM6A-LR,historical
+London,1984,8.511139,IPSL-CM6A-LR,historical
+Paris,1984,10.89502,IPSL-CM6A-LR,historical
+Madrid,1984,9.259949,IPSL-CM6A-LR,historical
+Moscow,1984,3.4136963,IPSL-CM6A-LR,historical
+Cairo,1984,19.753235,IPSL-CM6A-LR,historical
+Lagos,1984,26.430847,IPSL-CM6A-LR,historical
+Nairobi,1984,18.959717,IPSL-CM6A-LR,historical
+Cape Town,1984,17.73285,IPSL-CM6A-LR,historical
+Riyadh,1984,22.056854,IPSL-CM6A-LR,historical
+Tehran,1984,9.088593,IPSL-CM6A-LR,historical
+Mumbai,1984,25.637878,IPSL-CM6A-LR,historical
+Delhi,1984,22.255798,IPSL-CM6A-LR,historical
+Dhaka,1984,24.853577,IPSL-CM6A-LR,historical
+Beijing,1984,9.37854,IPSL-CM6A-LR,historical
+Shanghai,1984,14.546539,IPSL-CM6A-LR,historical
+Tokyo,1984,14.297394,IPSL-CM6A-LR,historical
+Singapore,1984,26.677612,IPSL-CM6A-LR,historical
+Jakarta,1984,25.572449,IPSL-CM6A-LR,historical
+Sydney,1984,13.921631,IPSL-CM6A-LR,historical
+San Diego,1985,18.231598,IPSL-CM6A-LR,historical
+Phoenix,1985,18.207214,IPSL-CM6A-LR,historical
+New York,1985,9.3871155,IPSL-CM6A-LR,historical
+Miami,1985,24.126465,IPSL-CM6A-LR,historical
+Anchorage,1985,-3.6713257,IPSL-CM6A-LR,historical
+Toronto,1985,7.785675,IPSL-CM6A-LR,historical
+Mexico City,1985,15.686279,IPSL-CM6A-LR,historical
+Lima,1985,17.933655,IPSL-CM6A-LR,historical
+Sao Paulo,1985,21.829193,IPSL-CM6A-LR,historical
+Buenos Aires,1985,18.560822,IPSL-CM6A-LR,historical
+Reykjavik,1985,2.881897,IPSL-CM6A-LR,historical
+London,1985,8.563477,IPSL-CM6A-LR,historical
+Paris,1985,10.413055,IPSL-CM6A-LR,historical
+Madrid,1985,9.11322,IPSL-CM6A-LR,historical
+Moscow,1985,3.8471375,IPSL-CM6A-LR,historical
+Cairo,1985,19.373932,IPSL-CM6A-LR,historical
+Lagos,1985,26.182495,IPSL-CM6A-LR,historical
+Nairobi,1985,19.002869,IPSL-CM6A-LR,historical
+Cape Town,1985,17.49408,IPSL-CM6A-LR,historical
+Riyadh,1985,21.317963,IPSL-CM6A-LR,historical
+Tehran,1985,8.309998,IPSL-CM6A-LR,historical
+Mumbai,1985,25.36905,IPSL-CM6A-LR,historical
+Delhi,1985,21.546234,IPSL-CM6A-LR,historical
+Dhaka,1985,24.1409,IPSL-CM6A-LR,historical
+Beijing,1985,10.245728,IPSL-CM6A-LR,historical
+Shanghai,1985,14.533264,IPSL-CM6A-LR,historical
+Tokyo,1985,14.786926,IPSL-CM6A-LR,historical
+Singapore,1985,26.801758,IPSL-CM6A-LR,historical
+Jakarta,1985,25.379364,IPSL-CM6A-LR,historical
+Sydney,1985,13.702667,IPSL-CM6A-LR,historical
+San Diego,1986,19.37439,IPSL-CM6A-LR,historical
+Phoenix,1986,18.655273,IPSL-CM6A-LR,historical
+New York,1986,10.400452,IPSL-CM6A-LR,historical
+Miami,1986,24.203491,IPSL-CM6A-LR,historical
+Anchorage,1986,-3.016388,IPSL-CM6A-LR,historical
+Toronto,1986,8.982574,IPSL-CM6A-LR,historical
+Mexico City,1986,16.137451,IPSL-CM6A-LR,historical
+Lima,1986,20.734802,IPSL-CM6A-LR,historical
+Sao Paulo,1986,20.300323,IPSL-CM6A-LR,historical
+Buenos Aires,1986,16.33313,IPSL-CM6A-LR,historical
+Reykjavik,1986,3.342163,IPSL-CM6A-LR,historical
+London,1986,9.730103,IPSL-CM6A-LR,historical
+Paris,1986,11.275604,IPSL-CM6A-LR,historical
+Madrid,1986,9.445862,IPSL-CM6A-LR,historical
+Moscow,1986,5.5750427,IPSL-CM6A-LR,historical
+Cairo,1986,20.027649,IPSL-CM6A-LR,historical
+Lagos,1986,26.487366,IPSL-CM6A-LR,historical
+Nairobi,1986,19.227173,IPSL-CM6A-LR,historical
+Cape Town,1986,17.504578,IPSL-CM6A-LR,historical
+Riyadh,1986,21.894836,IPSL-CM6A-LR,historical
+Tehran,1986,7.9960938,IPSL-CM6A-LR,historical
+Mumbai,1986,25.23877,IPSL-CM6A-LR,historical
+Delhi,1986,21.351166,IPSL-CM6A-LR,historical
+Dhaka,1986,24.408234,IPSL-CM6A-LR,historical
+Beijing,1986,10.083374,IPSL-CM6A-LR,historical
+Shanghai,1986,14.391632,IPSL-CM6A-LR,historical
+Tokyo,1986,14.27597,IPSL-CM6A-LR,historical
+Singapore,1986,26.702301,IPSL-CM6A-LR,historical
+Jakarta,1986,25.644897,IPSL-CM6A-LR,historical
+Sydney,1986,13.9175415,IPSL-CM6A-LR,historical
+San Diego,1987,18.819092,IPSL-CM6A-LR,historical
+Phoenix,1987,18.868134,IPSL-CM6A-LR,historical
+New York,1987,10.918213,IPSL-CM6A-LR,historical
+Miami,1987,24.472961,IPSL-CM6A-LR,historical
+Anchorage,1987,-1.7477417,IPSL-CM6A-LR,historical
+Toronto,1987,8.8284,IPSL-CM6A-LR,historical
+Mexico City,1987,16.400146,IPSL-CM6A-LR,historical
+Lima,1987,20.234924,IPSL-CM6A-LR,historical
+Sao Paulo,1987,21.662842,IPSL-CM6A-LR,historical
+Buenos Aires,1987,17.07956,IPSL-CM6A-LR,historical
+Reykjavik,1987,2.743805,IPSL-CM6A-LR,historical
+London,1987,9.307556,IPSL-CM6A-LR,historical
+Paris,1987,10.879883,IPSL-CM6A-LR,historical
+Madrid,1987,9.755432,IPSL-CM6A-LR,historical
+Moscow,1987,4.6515503,IPSL-CM6A-LR,historical
+Cairo,1987,19.877625,IPSL-CM6A-LR,historical
+Lagos,1987,26.90924,IPSL-CM6A-LR,historical
+Nairobi,1987,20.022034,IPSL-CM6A-LR,historical
+Cape Town,1987,18.054993,IPSL-CM6A-LR,historical
+Riyadh,1987,22.005127,IPSL-CM6A-LR,historical
+Tehran,1987,8.748657,IPSL-CM6A-LR,historical
+Mumbai,1987,26.35849,IPSL-CM6A-LR,historical
+Delhi,1987,23.790527,IPSL-CM6A-LR,historical
+Dhaka,1987,25.660004,IPSL-CM6A-LR,historical
+Beijing,1987,10.834961,IPSL-CM6A-LR,historical
+Shanghai,1987,15.513367,IPSL-CM6A-LR,historical
+Tokyo,1987,14.780945,IPSL-CM6A-LR,historical
+Singapore,1987,26.999542,IPSL-CM6A-LR,historical
+Jakarta,1987,25.879028,IPSL-CM6A-LR,historical
+Sydney,1987,13.708557,IPSL-CM6A-LR,historical
+San Diego,1988,19.59784,IPSL-CM6A-LR,historical
+Phoenix,1988,19.052063,IPSL-CM6A-LR,historical
+New York,1988,10.355621,IPSL-CM6A-LR,historical
+Miami,1988,23.951538,IPSL-CM6A-LR,historical
+Anchorage,1988,-0.5663452,IPSL-CM6A-LR,historical
+Toronto,1988,8.2673645,IPSL-CM6A-LR,historical
+Mexico City,1988,16.230957,IPSL-CM6A-LR,historical
+Lima,1988,21.388916,IPSL-CM6A-LR,historical
+Sao Paulo,1988,21.979431,IPSL-CM6A-LR,historical
+Buenos Aires,1988,17.757782,IPSL-CM6A-LR,historical
+Reykjavik,1988,3.9443665,IPSL-CM6A-LR,historical
+London,1988,8.637939,IPSL-CM6A-LR,historical
+Paris,1988,9.660126,IPSL-CM6A-LR,historical
+Madrid,1988,9.323547,IPSL-CM6A-LR,historical
+Moscow,1988,4.1431885,IPSL-CM6A-LR,historical
+Cairo,1988,20.57312,IPSL-CM6A-LR,historical
+Lagos,1988,27.349457,IPSL-CM6A-LR,historical
+Nairobi,1988,19.857239,IPSL-CM6A-LR,historical
+Cape Town,1988,18.328613,IPSL-CM6A-LR,historical
+Riyadh,1988,22.506561,IPSL-CM6A-LR,historical
+Tehran,1988,9.347321,IPSL-CM6A-LR,historical
+Mumbai,1988,25.876709,IPSL-CM6A-LR,historical
+Delhi,1988,23.069702,IPSL-CM6A-LR,historical
+Dhaka,1988,25.507874,IPSL-CM6A-LR,historical
+Beijing,1988,10.492493,IPSL-CM6A-LR,historical
+Shanghai,1988,15.045563,IPSL-CM6A-LR,historical
+Tokyo,1988,15.168182,IPSL-CM6A-LR,historical
+Singapore,1988,27.152039,IPSL-CM6A-LR,historical
+Jakarta,1988,26.296448,IPSL-CM6A-LR,historical
+Sydney,1988,14.124329,IPSL-CM6A-LR,historical
+San Diego,1989,19.097656,IPSL-CM6A-LR,historical
+Phoenix,1989,18.724579,IPSL-CM6A-LR,historical
+New York,1989,9.293854,IPSL-CM6A-LR,historical
+Miami,1989,24.150482,IPSL-CM6A-LR,historical
+Anchorage,1989,0.611145,IPSL-CM6A-LR,historical
+Toronto,1989,7.5751953,IPSL-CM6A-LR,historical
+Mexico City,1989,16.424805,IPSL-CM6A-LR,historical
+Lima,1989,20.598602,IPSL-CM6A-LR,historical
+Sao Paulo,1989,22.514587,IPSL-CM6A-LR,historical
+Buenos Aires,1989,16.858215,IPSL-CM6A-LR,historical
+Reykjavik,1989,4.041107,IPSL-CM6A-LR,historical
+London,1989,10.082489,IPSL-CM6A-LR,historical
+Paris,1989,11.921997,IPSL-CM6A-LR,historical
+Madrid,1989,10.438721,IPSL-CM6A-LR,historical
+Moscow,1989,5.0549927,IPSL-CM6A-LR,historical
+Cairo,1989,20.196533,IPSL-CM6A-LR,historical
+Lagos,1989,27.254822,IPSL-CM6A-LR,historical
+Nairobi,1989,20.134949,IPSL-CM6A-LR,historical
+Cape Town,1989,17.915588,IPSL-CM6A-LR,historical
+Riyadh,1989,21.405426,IPSL-CM6A-LR,historical
+Tehran,1989,7.1390686,IPSL-CM6A-LR,historical
+Mumbai,1989,26.401031,IPSL-CM6A-LR,historical
+Delhi,1989,23.63382,IPSL-CM6A-LR,historical
+Dhaka,1989,25.993744,IPSL-CM6A-LR,historical
+Beijing,1989,10.169708,IPSL-CM6A-LR,historical
+Shanghai,1989,14.895416,IPSL-CM6A-LR,historical
+Tokyo,1989,14.173126,IPSL-CM6A-LR,historical
+Singapore,1989,27.40097,IPSL-CM6A-LR,historical
+Jakarta,1989,26.769257,IPSL-CM6A-LR,historical
+Sydney,1989,14.336365,IPSL-CM6A-LR,historical
+San Diego,1990,19.461792,IPSL-CM6A-LR,historical
+Phoenix,1990,19.799347,IPSL-CM6A-LR,historical
+New York,1990,10.393738,IPSL-CM6A-LR,historical
+Miami,1990,24.35199,IPSL-CM6A-LR,historical
+Anchorage,1990,-3.3416748,IPSL-CM6A-LR,historical
+Toronto,1990,9.187134,IPSL-CM6A-LR,historical
+Mexico City,1990,16.249908,IPSL-CM6A-LR,historical
+Lima,1990,18.9003,IPSL-CM6A-LR,historical
+Sao Paulo,1990,21.454498,IPSL-CM6A-LR,historical
+Buenos Aires,1990,18.796906,IPSL-CM6A-LR,historical
+Reykjavik,1990,5.0615234,IPSL-CM6A-LR,historical
+London,1990,9.204834,IPSL-CM6A-LR,historical
+Paris,1990,10.455566,IPSL-CM6A-LR,historical
+Madrid,1990,9.8638,IPSL-CM6A-LR,historical
+Moscow,1990,2.6098022,IPSL-CM6A-LR,historical
+Cairo,1990,19.333252,IPSL-CM6A-LR,historical
+Lagos,1990,26.66803,IPSL-CM6A-LR,historical
+Nairobi,1990,19.526306,IPSL-CM6A-LR,historical
+Cape Town,1990,17.939575,IPSL-CM6A-LR,historical
+Riyadh,1990,22.619934,IPSL-CM6A-LR,historical
+Tehran,1990,9.835999,IPSL-CM6A-LR,historical
+Mumbai,1990,26.438538,IPSL-CM6A-LR,historical
+Delhi,1990,23.43219,IPSL-CM6A-LR,historical
+Dhaka,1990,24.595642,IPSL-CM6A-LR,historical
+Beijing,1990,10.937866,IPSL-CM6A-LR,historical
+Shanghai,1990,15.348663,IPSL-CM6A-LR,historical
+Tokyo,1990,14.9436035,IPSL-CM6A-LR,historical
+Singapore,1990,27.065186,IPSL-CM6A-LR,historical
+Jakarta,1990,26.0401,IPSL-CM6A-LR,historical
+Sydney,1990,13.923523,IPSL-CM6A-LR,historical
+San Diego,1991,18.414978,IPSL-CM6A-LR,historical
+Phoenix,1991,17.477692,IPSL-CM6A-LR,historical
+New York,1991,10.10199,IPSL-CM6A-LR,historical
+Miami,1991,24.218018,IPSL-CM6A-LR,historical
+Anchorage,1991,-1.2138062,IPSL-CM6A-LR,historical
+Toronto,1991,8.083374,IPSL-CM6A-LR,historical
+Mexico City,1991,16.208069,IPSL-CM6A-LR,historical
+Lima,1991,20.1203,IPSL-CM6A-LR,historical
+Sao Paulo,1991,21.483337,IPSL-CM6A-LR,historical
+Buenos Aires,1991,17.057251,IPSL-CM6A-LR,historical
+Reykjavik,1991,5.093506,IPSL-CM6A-LR,historical
+London,1991,9.487915,IPSL-CM6A-LR,historical
+Paris,1991,10.711029,IPSL-CM6A-LR,historical
+Madrid,1991,10.154816,IPSL-CM6A-LR,historical
+Moscow,1991,3.7253418,IPSL-CM6A-LR,historical
+Cairo,1991,19.996857,IPSL-CM6A-LR,historical
+Lagos,1991,26.563263,IPSL-CM6A-LR,historical
+Nairobi,1991,19.236816,IPSL-CM6A-LR,historical
+Cape Town,1991,18.026733,IPSL-CM6A-LR,historical
+Riyadh,1991,21.81009,IPSL-CM6A-LR,historical
+Tehran,1991,8.211182,IPSL-CM6A-LR,historical
+Mumbai,1991,25.90924,IPSL-CM6A-LR,historical
+Delhi,1991,22.864258,IPSL-CM6A-LR,historical
+Dhaka,1991,24.750916,IPSL-CM6A-LR,historical
+Beijing,1991,9.905121,IPSL-CM6A-LR,historical
+Shanghai,1991,14.409393,IPSL-CM6A-LR,historical
+Tokyo,1991,13.860474,IPSL-CM6A-LR,historical
+Singapore,1991,27.029297,IPSL-CM6A-LR,historical
+Jakarta,1991,25.771057,IPSL-CM6A-LR,historical
+Sydney,1991,13.270325,IPSL-CM6A-LR,historical
+San Diego,1992,18.944214,IPSL-CM6A-LR,historical
+Phoenix,1992,18.501526,IPSL-CM6A-LR,historical
+New York,1992,9.018433,IPSL-CM6A-LR,historical
+Miami,1992,24.46521,IPSL-CM6A-LR,historical
+Anchorage,1992,-2.5531006,IPSL-CM6A-LR,historical
+Toronto,1992,7.9265747,IPSL-CM6A-LR,historical
+Mexico City,1992,16.24179,IPSL-CM6A-LR,historical
+Lima,1992,19.479889,IPSL-CM6A-LR,historical
+Sao Paulo,1992,21.307983,IPSL-CM6A-LR,historical
+Buenos Aires,1992,18.513123,IPSL-CM6A-LR,historical
+Reykjavik,1992,4.4068604,IPSL-CM6A-LR,historical
+London,1992,9.517578,IPSL-CM6A-LR,historical
+Paris,1992,10.696106,IPSL-CM6A-LR,historical
+Madrid,1992,9.759216,IPSL-CM6A-LR,historical
+Moscow,1992,3.9157104,IPSL-CM6A-LR,historical
+Cairo,1992,19.34018,IPSL-CM6A-LR,historical
+Lagos,1992,26.329987,IPSL-CM6A-LR,historical
+Nairobi,1992,19.373108,IPSL-CM6A-LR,historical
+Cape Town,1992,17.49234,IPSL-CM6A-LR,historical
+Riyadh,1992,21.851593,IPSL-CM6A-LR,historical
+Tehran,1992,7.841156,IPSL-CM6A-LR,historical
+Mumbai,1992,25.677094,IPSL-CM6A-LR,historical
+Delhi,1992,22.277008,IPSL-CM6A-LR,historical
+Dhaka,1992,25.030212,IPSL-CM6A-LR,historical
+Beijing,1992,10.247986,IPSL-CM6A-LR,historical
+Shanghai,1992,14.0946045,IPSL-CM6A-LR,historical
+Tokyo,1992,13.961365,IPSL-CM6A-LR,historical
+Singapore,1992,26.603882,IPSL-CM6A-LR,historical
+Jakarta,1992,25.634613,IPSL-CM6A-LR,historical
+Sydney,1992,13.033691,IPSL-CM6A-LR,historical
+San Diego,1993,18.352875,IPSL-CM6A-LR,historical
+Phoenix,1993,17.807922,IPSL-CM6A-LR,historical
+New York,1993,9.622437,IPSL-CM6A-LR,historical
+Miami,1993,24.800842,IPSL-CM6A-LR,historical
+Anchorage,1993,-1.698822,IPSL-CM6A-LR,historical
+Toronto,1993,8.088806,IPSL-CM6A-LR,historical
+Mexico City,1993,16.421692,IPSL-CM6A-LR,historical
+Lima,1993,19.679474,IPSL-CM6A-LR,historical
+Sao Paulo,1993,21.038483,IPSL-CM6A-LR,historical
+Buenos Aires,1993,17.408875,IPSL-CM6A-LR,historical
+Reykjavik,1993,5.2796936,IPSL-CM6A-LR,historical
+London,1993,9.701477,IPSL-CM6A-LR,historical
+Paris,1993,11.168091,IPSL-CM6A-LR,historical
+Madrid,1993,9.71637,IPSL-CM6A-LR,historical
+Moscow,1993,3.690857,IPSL-CM6A-LR,historical
+Cairo,1993,19.658356,IPSL-CM6A-LR,historical
+Lagos,1993,26.654419,IPSL-CM6A-LR,historical
+Nairobi,1993,19.1763,IPSL-CM6A-LR,historical
+Cape Town,1993,18.326538,IPSL-CM6A-LR,historical
+Riyadh,1993,21.730774,IPSL-CM6A-LR,historical
+Tehran,1993,8.955719,IPSL-CM6A-LR,historical
+Mumbai,1993,25.840637,IPSL-CM6A-LR,historical
+Delhi,1993,22.862518,IPSL-CM6A-LR,historical
+Dhaka,1993,24.564026,IPSL-CM6A-LR,historical
+Beijing,1993,11.021759,IPSL-CM6A-LR,historical
+Shanghai,1993,15.534546,IPSL-CM6A-LR,historical
+Tokyo,1993,14.967529,IPSL-CM6A-LR,historical
+Singapore,1993,26.647705,IPSL-CM6A-LR,historical
+Jakarta,1993,25.651031,IPSL-CM6A-LR,historical
+Sydney,1993,13.660522,IPSL-CM6A-LR,historical
+San Diego,1994,19.164734,IPSL-CM6A-LR,historical
+Phoenix,1994,18.399872,IPSL-CM6A-LR,historical
+New York,1994,9.713135,IPSL-CM6A-LR,historical
+Miami,1994,24.404297,IPSL-CM6A-LR,historical
+Anchorage,1994,-2.617157,IPSL-CM6A-LR,historical
+Toronto,1994,7.9327087,IPSL-CM6A-LR,historical
+Mexico City,1994,16.739105,IPSL-CM6A-LR,historical
+Lima,1994,20.12564,IPSL-CM6A-LR,historical
+Sao Paulo,1994,21.548462,IPSL-CM6A-LR,historical
+Buenos Aires,1994,17.479736,IPSL-CM6A-LR,historical
+Reykjavik,1994,4.7973022,IPSL-CM6A-LR,historical
+London,1994,9.017517,IPSL-CM6A-LR,historical
+Paris,1994,10.63446,IPSL-CM6A-LR,historical
+Madrid,1994,9.578766,IPSL-CM6A-LR,historical
+Moscow,1994,3.7192383,IPSL-CM6A-LR,historical
+Cairo,1994,20.108398,IPSL-CM6A-LR,historical
+Lagos,1994,26.69635,IPSL-CM6A-LR,historical
+Nairobi,1994,19.185638,IPSL-CM6A-LR,historical
+Cape Town,1994,18.539764,IPSL-CM6A-LR,historical
+Riyadh,1994,22.478271,IPSL-CM6A-LR,historical
+Tehran,1994,8.666992,IPSL-CM6A-LR,historical
+Mumbai,1994,25.72406,IPSL-CM6A-LR,historical
+Delhi,1994,23.08081,IPSL-CM6A-LR,historical
+Dhaka,1994,25.126099,IPSL-CM6A-LR,historical
+Beijing,1994,10.588013,IPSL-CM6A-LR,historical
+Shanghai,1994,14.970398,IPSL-CM6A-LR,historical
+Tokyo,1994,14.232117,IPSL-CM6A-LR,historical
+Singapore,1994,27.045258,IPSL-CM6A-LR,historical
+Jakarta,1994,26.065369,IPSL-CM6A-LR,historical
+Sydney,1994,13.47345,IPSL-CM6A-LR,historical
+San Diego,1995,19.443268,IPSL-CM6A-LR,historical
+Phoenix,1995,18.963593,IPSL-CM6A-LR,historical
+New York,1995,9.918213,IPSL-CM6A-LR,historical
+Miami,1995,23.929443,IPSL-CM6A-LR,historical
+Anchorage,1995,-2.6372986,IPSL-CM6A-LR,historical
+Toronto,1995,7.711334,IPSL-CM6A-LR,historical
+Mexico City,1995,16.368774,IPSL-CM6A-LR,historical
+Lima,1995,19.564941,IPSL-CM6A-LR,historical
+Sao Paulo,1995,21.874939,IPSL-CM6A-LR,historical
+Buenos Aires,1995,17.56668,IPSL-CM6A-LR,historical
+Reykjavik,1995,4.2092896,IPSL-CM6A-LR,historical
+London,1995,9.564148,IPSL-CM6A-LR,historical
+Paris,1995,10.448212,IPSL-CM6A-LR,historical
+Madrid,1995,8.496063,IPSL-CM6A-LR,historical
+Moscow,1995,5.8621826,IPSL-CM6A-LR,historical
+Cairo,1995,20.526093,IPSL-CM6A-LR,historical
+Lagos,1995,26.595886,IPSL-CM6A-LR,historical
+Nairobi,1995,19.389282,IPSL-CM6A-LR,historical
+Cape Town,1995,17.731323,IPSL-CM6A-LR,historical
+Riyadh,1995,22.567078,IPSL-CM6A-LR,historical
+Tehran,1995,8.604523,IPSL-CM6A-LR,historical
+Mumbai,1995,25.672241,IPSL-CM6A-LR,historical
+Delhi,1995,22.57309,IPSL-CM6A-LR,historical
+Dhaka,1995,24.950684,IPSL-CM6A-LR,historical
+Beijing,1995,10.28009,IPSL-CM6A-LR,historical
+Shanghai,1995,15.872955,IPSL-CM6A-LR,historical
+Tokyo,1995,15.032593,IPSL-CM6A-LR,historical
+Singapore,1995,27.136475,IPSL-CM6A-LR,historical
+Jakarta,1995,26.135712,IPSL-CM6A-LR,historical
+Sydney,1995,13.96286,IPSL-CM6A-LR,historical
+San Diego,1996,18.621613,IPSL-CM6A-LR,historical
+Phoenix,1996,18.733154,IPSL-CM6A-LR,historical
+New York,1996,11.471893,IPSL-CM6A-LR,historical
+Miami,1996,24.798798,IPSL-CM6A-LR,historical
+Anchorage,1996,-4.4973755,IPSL-CM6A-LR,historical
+Toronto,1996,9.829834,IPSL-CM6A-LR,historical
+Mexico City,1996,16.704407,IPSL-CM6A-LR,historical
+Lima,1996,20.418,IPSL-CM6A-LR,historical
+Sao Paulo,1996,21.072693,IPSL-CM6A-LR,historical
+Buenos Aires,1996,17.160034,IPSL-CM6A-LR,historical
+Reykjavik,1996,4.9389954,IPSL-CM6A-LR,historical
+London,1996,10.273926,IPSL-CM6A-LR,historical
+Paris,1996,11.304077,IPSL-CM6A-LR,historical
+Madrid,1996,9.862366,IPSL-CM6A-LR,historical
+Moscow,1996,3.7474976,IPSL-CM6A-LR,historical
+Cairo,1996,19.831818,IPSL-CM6A-LR,historical
+Lagos,1996,26.90155,IPSL-CM6A-LR,historical
+Nairobi,1996,19.947998,IPSL-CM6A-LR,historical
+Cape Town,1996,18.17035,IPSL-CM6A-LR,historical
+Riyadh,1996,22.714722,IPSL-CM6A-LR,historical
+Tehran,1996,9.262756,IPSL-CM6A-LR,historical
+Mumbai,1996,25.85669,IPSL-CM6A-LR,historical
+Delhi,1996,22.947174,IPSL-CM6A-LR,historical
+Dhaka,1996,24.70047,IPSL-CM6A-LR,historical
+Beijing,1996,11.317047,IPSL-CM6A-LR,historical
+Shanghai,1996,15.466309,IPSL-CM6A-LR,historical
+Tokyo,1996,14.86673,IPSL-CM6A-LR,historical
+Singapore,1996,27.124695,IPSL-CM6A-LR,historical
+Jakarta,1996,26.241974,IPSL-CM6A-LR,historical
+Sydney,1996,14.39679,IPSL-CM6A-LR,historical
+San Diego,1997,19.24884,IPSL-CM6A-LR,historical
+Phoenix,1997,19.279083,IPSL-CM6A-LR,historical
+New York,1997,10.9956665,IPSL-CM6A-LR,historical
+Miami,1997,24.21048,IPSL-CM6A-LR,historical
+Anchorage,1997,-2.3341675,IPSL-CM6A-LR,historical
+Toronto,1997,8.502991,IPSL-CM6A-LR,historical
+Mexico City,1997,16.308655,IPSL-CM6A-LR,historical
+Lima,1997,19.638885,IPSL-CM6A-LR,historical
+Sao Paulo,1997,20.818726,IPSL-CM6A-LR,historical
+Buenos Aires,1997,17.250488,IPSL-CM6A-LR,historical
+Reykjavik,1997,4.2292786,IPSL-CM6A-LR,historical
+London,1997,9.1449585,IPSL-CM6A-LR,historical
+Paris,1997,10.726471,IPSL-CM6A-LR,historical
+Madrid,1997,9.18335,IPSL-CM6A-LR,historical
+Moscow,1997,4.126465,IPSL-CM6A-LR,historical
+Cairo,1997,20.422913,IPSL-CM6A-LR,historical
+Lagos,1997,26.996796,IPSL-CM6A-LR,historical
+Nairobi,1997,20.06247,IPSL-CM6A-LR,historical
+Cape Town,1997,17.833862,IPSL-CM6A-LR,historical
+Riyadh,1997,22.621002,IPSL-CM6A-LR,historical
+Tehran,1997,9.223816,IPSL-CM6A-LR,historical
+Mumbai,1997,26.105621,IPSL-CM6A-LR,historical
+Delhi,1997,23.541687,IPSL-CM6A-LR,historical
+Dhaka,1997,25.935211,IPSL-CM6A-LR,historical
+Beijing,1997,10.110474,IPSL-CM6A-LR,historical
+Shanghai,1997,14.768219,IPSL-CM6A-LR,historical
+Tokyo,1997,13.886993,IPSL-CM6A-LR,historical
+Singapore,1997,27.318481,IPSL-CM6A-LR,historical
+Jakarta,1997,26.066956,IPSL-CM6A-LR,historical
+Sydney,1997,13.932678,IPSL-CM6A-LR,historical
+San Diego,1998,19.465576,IPSL-CM6A-LR,historical
+Phoenix,1998,19.795197,IPSL-CM6A-LR,historical
+New York,1998,9.999847,IPSL-CM6A-LR,historical
+Miami,1998,24.445435,IPSL-CM6A-LR,historical
+Anchorage,1998,-2.2760315,IPSL-CM6A-LR,historical
+Toronto,1998,8.0401,IPSL-CM6A-LR,historical
+Mexico City,1998,16.216675,IPSL-CM6A-LR,historical
+Lima,1998,20.251831,IPSL-CM6A-LR,historical
+Sao Paulo,1998,21.56717,IPSL-CM6A-LR,historical
+Buenos Aires,1998,18.6055,IPSL-CM6A-LR,historical
+Reykjavik,1998,4.2204895,IPSL-CM6A-LR,historical
+London,1998,8.686676,IPSL-CM6A-LR,historical
+Paris,1998,10.140747,IPSL-CM6A-LR,historical
+Madrid,1998,9.940369,IPSL-CM6A-LR,historical
+Moscow,1998,3.6495056,IPSL-CM6A-LR,historical
+Cairo,1998,20.304626,IPSL-CM6A-LR,historical
+Lagos,1998,26.77713,IPSL-CM6A-LR,historical
+Nairobi,1998,19.241425,IPSL-CM6A-LR,historical
+Cape Town,1998,18.089691,IPSL-CM6A-LR,historical
+Riyadh,1998,22.49121,IPSL-CM6A-LR,historical
+Tehran,1998,10.44928,IPSL-CM6A-LR,historical
+Mumbai,1998,26.586487,IPSL-CM6A-LR,historical
+Delhi,1998,22.044983,IPSL-CM6A-LR,historical
+Dhaka,1998,25.050232,IPSL-CM6A-LR,historical
+Beijing,1998,11.71463,IPSL-CM6A-LR,historical
+Shanghai,1998,15.555756,IPSL-CM6A-LR,historical
+Tokyo,1998,14.890228,IPSL-CM6A-LR,historical
+Singapore,1998,27.079498,IPSL-CM6A-LR,historical
+Jakarta,1998,25.926727,IPSL-CM6A-LR,historical
+Sydney,1998,13.530579,IPSL-CM6A-LR,historical
+San Diego,1999,18.475464,IPSL-CM6A-LR,historical
+Phoenix,1999,18.316101,IPSL-CM6A-LR,historical
+New York,1999,9.417847,IPSL-CM6A-LR,historical
+Miami,1999,24.275787,IPSL-CM6A-LR,historical
+Anchorage,1999,-1.6636047,IPSL-CM6A-LR,historical
+Toronto,1999,8.370819,IPSL-CM6A-LR,historical
+Mexico City,1999,16.974365,IPSL-CM6A-LR,historical
+Lima,1999,20.249146,IPSL-CM6A-LR,historical
+Sao Paulo,1999,20.921112,IPSL-CM6A-LR,historical
+Buenos Aires,1999,17.7854,IPSL-CM6A-LR,historical
+Reykjavik,1999,4.538727,IPSL-CM6A-LR,historical
+London,1999,8.934814,IPSL-CM6A-LR,historical
+Paris,1999,10.500641,IPSL-CM6A-LR,historical
+Madrid,1999,10.0,IPSL-CM6A-LR,historical
+Moscow,1999,3.1697998,IPSL-CM6A-LR,historical
+Cairo,1999,19.894043,IPSL-CM6A-LR,historical
+Lagos,1999,26.902954,IPSL-CM6A-LR,historical
+Nairobi,1999,19.998901,IPSL-CM6A-LR,historical
+Cape Town,1999,18.133606,IPSL-CM6A-LR,historical
+Riyadh,1999,22.304382,IPSL-CM6A-LR,historical
+Tehran,1999,9.51651,IPSL-CM6A-LR,historical
+Mumbai,1999,25.515442,IPSL-CM6A-LR,historical
+Delhi,1999,22.832428,IPSL-CM6A-LR,historical
+Dhaka,1999,24.670654,IPSL-CM6A-LR,historical
+Beijing,1999,10.822174,IPSL-CM6A-LR,historical
+Shanghai,1999,15.173492,IPSL-CM6A-LR,historical
+Tokyo,1999,14.671722,IPSL-CM6A-LR,historical
+Singapore,1999,27.404114,IPSL-CM6A-LR,historical
+Jakarta,1999,26.15689,IPSL-CM6A-LR,historical
+Sydney,1999,13.959778,IPSL-CM6A-LR,historical
+San Diego,2000,19.17566,IPSL-CM6A-LR,historical
+Phoenix,2000,19.526855,IPSL-CM6A-LR,historical
+New York,2000,9.741333,IPSL-CM6A-LR,historical
+Miami,2000,24.74231,IPSL-CM6A-LR,historical
+Anchorage,2000,-2.9281006,IPSL-CM6A-LR,historical
+Toronto,2000,8.80365,IPSL-CM6A-LR,historical
+Mexico City,2000,16.770996,IPSL-CM6A-LR,historical
+Lima,2000,20.090332,IPSL-CM6A-LR,historical
+Sao Paulo,2000,21.20166,IPSL-CM6A-LR,historical
+Buenos Aires,2000,18.016846,IPSL-CM6A-LR,historical
+Reykjavik,2000,4.804077,IPSL-CM6A-LR,historical
+London,2000,10.00058,IPSL-CM6A-LR,historical
+Paris,2000,11.115906,IPSL-CM6A-LR,historical
+Madrid,2000,9.673584,IPSL-CM6A-LR,historical
+Moscow,2000,2.446167,IPSL-CM6A-LR,historical
+Cairo,2000,20.357422,IPSL-CM6A-LR,historical
+Lagos,2000,27.298828,IPSL-CM6A-LR,historical
+Nairobi,2000,19.892578,IPSL-CM6A-LR,historical
+Cape Town,2000,18.501648,IPSL-CM6A-LR,historical
+Riyadh,2000,22.901184,IPSL-CM6A-LR,historical
+Tehran,2000,10.362549,IPSL-CM6A-LR,historical
+Mumbai,2000,26.302551,IPSL-CM6A-LR,historical
+Delhi,2000,23.359314,IPSL-CM6A-LR,historical
+Dhaka,2000,25.787079,IPSL-CM6A-LR,historical
+Beijing,2000,11.442047,IPSL-CM6A-LR,historical
+Shanghai,2000,15.46936,IPSL-CM6A-LR,historical
+Tokyo,2000,14.698975,IPSL-CM6A-LR,historical
+Singapore,2000,27.531128,IPSL-CM6A-LR,historical
+Jakarta,2000,26.311035,IPSL-CM6A-LR,historical
+Sydney,2000,13.876282,IPSL-CM6A-LR,historical
+San Diego,2001,18.597717,IPSL-CM6A-LR,historical
+Phoenix,2001,18.842163,IPSL-CM6A-LR,historical
+New York,2001,10.731537,IPSL-CM6A-LR,historical
+Miami,2001,25.353638,IPSL-CM6A-LR,historical
+Anchorage,2001,-2.5832214,IPSL-CM6A-LR,historical
+Toronto,2001,9.037384,IPSL-CM6A-LR,historical
+Mexico City,2001,17.138672,IPSL-CM6A-LR,historical
+Lima,2001,19.42279,IPSL-CM6A-LR,historical
+Sao Paulo,2001,21.415802,IPSL-CM6A-LR,historical
+Buenos Aires,2001,17.624329,IPSL-CM6A-LR,historical
+Reykjavik,2001,5.378784,IPSL-CM6A-LR,historical
+London,2001,9.486694,IPSL-CM6A-LR,historical
+Paris,2001,10.511688,IPSL-CM6A-LR,historical
+Madrid,2001,10.173309,IPSL-CM6A-LR,historical
+Moscow,2001,3.8151855,IPSL-CM6A-LR,historical
+Cairo,2001,20.216248,IPSL-CM6A-LR,historical
+Lagos,2001,27.064392,IPSL-CM6A-LR,historical
+Nairobi,2001,19.60611,IPSL-CM6A-LR,historical
+Cape Town,2001,18.093231,IPSL-CM6A-LR,historical
+Riyadh,2001,22.17694,IPSL-CM6A-LR,historical
+Tehran,2001,9.169983,IPSL-CM6A-LR,historical
+Mumbai,2001,26.185883,IPSL-CM6A-LR,historical
+Delhi,2001,23.851837,IPSL-CM6A-LR,historical
+Dhaka,2001,25.96399,IPSL-CM6A-LR,historical
+Beijing,2001,10.948883,IPSL-CM6A-LR,historical
+Shanghai,2001,15.678528,IPSL-CM6A-LR,historical
+Tokyo,2001,15.556152,IPSL-CM6A-LR,historical
+Singapore,2001,27.380493,IPSL-CM6A-LR,historical
+Jakarta,2001,26.355408,IPSL-CM6A-LR,historical
+Sydney,2001,14.147369,IPSL-CM6A-LR,historical
+San Diego,2002,18.648346,IPSL-CM6A-LR,historical
+Phoenix,2002,18.60382,IPSL-CM6A-LR,historical
+New York,2002,10.867615,IPSL-CM6A-LR,historical
+Miami,2002,24.292175,IPSL-CM6A-LR,historical
+Anchorage,2002,-1.3713989,IPSL-CM6A-LR,historical
+Toronto,2002,9.803711,IPSL-CM6A-LR,historical
+Mexico City,2002,16.85205,IPSL-CM6A-LR,historical
+Lima,2002,19.932281,IPSL-CM6A-LR,historical
+Sao Paulo,2002,21.410309,IPSL-CM6A-LR,historical
+Buenos Aires,2002,17.346497,IPSL-CM6A-LR,historical
+Reykjavik,2002,4.1836243,IPSL-CM6A-LR,historical
+London,2002,9.793335,IPSL-CM6A-LR,historical
+Paris,2002,10.89389,IPSL-CM6A-LR,historical
+Madrid,2002,9.369995,IPSL-CM6A-LR,historical
+Moscow,2002,2.4815063,IPSL-CM6A-LR,historical
+Cairo,2002,20.668182,IPSL-CM6A-LR,historical
+Lagos,2002,26.906311,IPSL-CM6A-LR,historical
+Nairobi,2002,19.632751,IPSL-CM6A-LR,historical
+Cape Town,2002,18.436523,IPSL-CM6A-LR,historical
+Riyadh,2002,22.92392,IPSL-CM6A-LR,historical
+Tehran,2002,9.581024,IPSL-CM6A-LR,historical
+Mumbai,2002,26.041565,IPSL-CM6A-LR,historical
+Delhi,2002,23.253784,IPSL-CM6A-LR,historical
+Dhaka,2002,25.58603,IPSL-CM6A-LR,historical
+Beijing,2002,10.681427,IPSL-CM6A-LR,historical
+Shanghai,2002,15.915436,IPSL-CM6A-LR,historical
+Tokyo,2002,14.850128,IPSL-CM6A-LR,historical
+Singapore,2002,27.224762,IPSL-CM6A-LR,historical
+Jakarta,2002,26.373077,IPSL-CM6A-LR,historical
+Sydney,2002,14.025787,IPSL-CM6A-LR,historical
+San Diego,2003,19.014648,IPSL-CM6A-LR,historical
+Phoenix,2003,19.22284,IPSL-CM6A-LR,historical
+New York,2003,10.402557,IPSL-CM6A-LR,historical
+Miami,2003,24.559723,IPSL-CM6A-LR,historical
+Anchorage,2003,-1.0674744,IPSL-CM6A-LR,historical
+Toronto,2003,8.573517,IPSL-CM6A-LR,historical
+Mexico City,2003,16.22995,IPSL-CM6A-LR,historical
+Lima,2003,19.263672,IPSL-CM6A-LR,historical
+Sao Paulo,2003,21.721252,IPSL-CM6A-LR,historical
+Buenos Aires,2003,17.845428,IPSL-CM6A-LR,historical
+Reykjavik,2003,4.912903,IPSL-CM6A-LR,historical
+London,2003,10.170319,IPSL-CM6A-LR,historical
+Paris,2003,11.61908,IPSL-CM6A-LR,historical
+Madrid,2003,9.8993225,IPSL-CM6A-LR,historical
+Moscow,2003,5.5646057,IPSL-CM6A-LR,historical
+Cairo,2003,20.362,IPSL-CM6A-LR,historical
+Lagos,2003,26.932007,IPSL-CM6A-LR,historical
+Nairobi,2003,19.496155,IPSL-CM6A-LR,historical
+Cape Town,2003,17.935486,IPSL-CM6A-LR,historical
+Riyadh,2003,22.434387,IPSL-CM6A-LR,historical
+Tehran,2003,8.014893,IPSL-CM6A-LR,historical
+Mumbai,2003,26.117767,IPSL-CM6A-LR,historical
+Delhi,2003,22.976929,IPSL-CM6A-LR,historical
+Dhaka,2003,25.272858,IPSL-CM6A-LR,historical
+Beijing,2003,10.921326,IPSL-CM6A-LR,historical
+Shanghai,2003,15.093872,IPSL-CM6A-LR,historical
+Tokyo,2003,14.635956,IPSL-CM6A-LR,historical
+Singapore,2003,27.137604,IPSL-CM6A-LR,historical
+Jakarta,2003,25.922638,IPSL-CM6A-LR,historical
+Sydney,2003,13.723022,IPSL-CM6A-LR,historical
+San Diego,2004,19.29004,IPSL-CM6A-LR,historical
+Phoenix,2004,19.682068,IPSL-CM6A-LR,historical
+New York,2004,10.782806,IPSL-CM6A-LR,historical
+Miami,2004,24.612946,IPSL-CM6A-LR,historical
+Anchorage,2004,-3.000885,IPSL-CM6A-LR,historical
+Toronto,2004,9.380951,IPSL-CM6A-LR,historical
+Mexico City,2004,16.481293,IPSL-CM6A-LR,historical
+Lima,2004,19.71054,IPSL-CM6A-LR,historical
+Sao Paulo,2004,21.587341,IPSL-CM6A-LR,historical
+Buenos Aires,2004,17.453613,IPSL-CM6A-LR,historical
+Reykjavik,2004,4.3992004,IPSL-CM6A-LR,historical
+London,2004,9.6666565,IPSL-CM6A-LR,historical
+Paris,2004,10.754791,IPSL-CM6A-LR,historical
+Madrid,2004,9.218903,IPSL-CM6A-LR,historical
+Moscow,2004,4.5776367,IPSL-CM6A-LR,historical
+Cairo,2004,20.827301,IPSL-CM6A-LR,historical
+Lagos,2004,26.922241,IPSL-CM6A-LR,historical
+Nairobi,2004,19.537262,IPSL-CM6A-LR,historical
+Cape Town,2004,17.78833,IPSL-CM6A-LR,historical
+Riyadh,2004,22.392578,IPSL-CM6A-LR,historical
+Tehran,2004,9.017242,IPSL-CM6A-LR,historical
+Mumbai,2004,25.958557,IPSL-CM6A-LR,historical
+Delhi,2004,22.72998,IPSL-CM6A-LR,historical
+Dhaka,2004,25.43863,IPSL-CM6A-LR,historical
+Beijing,2004,10.533386,IPSL-CM6A-LR,historical
+Shanghai,2004,14.570892,IPSL-CM6A-LR,historical
+Tokyo,2004,14.4756775,IPSL-CM6A-LR,historical
+Singapore,2004,27.006653,IPSL-CM6A-LR,historical
+Jakarta,2004,25.916199,IPSL-CM6A-LR,historical
+Sydney,2004,13.888733,IPSL-CM6A-LR,historical
+San Diego,2005,18.444824,IPSL-CM6A-LR,historical
+Phoenix,2005,18.800323,IPSL-CM6A-LR,historical
+New York,2005,11.322388,IPSL-CM6A-LR,historical
+Miami,2005,25.05249,IPSL-CM6A-LR,historical
+Anchorage,2005,-1.9865112,IPSL-CM6A-LR,historical
+Toronto,2005,9.738373,IPSL-CM6A-LR,historical
+Mexico City,2005,17.377625,IPSL-CM6A-LR,historical
+Lima,2005,21.523376,IPSL-CM6A-LR,historical
+Sao Paulo,2005,21.420166,IPSL-CM6A-LR,historical
+Buenos Aires,2005,17.818695,IPSL-CM6A-LR,historical
+Reykjavik,2005,5.298462,IPSL-CM6A-LR,historical
+London,2005,10.258606,IPSL-CM6A-LR,historical
+Paris,2005,11.614685,IPSL-CM6A-LR,historical
+Madrid,2005,9.584412,IPSL-CM6A-LR,historical
+Moscow,2005,4.664917,IPSL-CM6A-LR,historical
+Cairo,2005,20.669739,IPSL-CM6A-LR,historical
+Lagos,2005,27.350037,IPSL-CM6A-LR,historical
+Nairobi,2005,20.640656,IPSL-CM6A-LR,historical
+Cape Town,2005,18.166931,IPSL-CM6A-LR,historical
+Riyadh,2005,22.569641,IPSL-CM6A-LR,historical
+Tehran,2005,9.153381,IPSL-CM6A-LR,historical
+Mumbai,2005,26.592651,IPSL-CM6A-LR,historical
+Delhi,2005,23.456665,IPSL-CM6A-LR,historical
+Dhaka,2005,25.94992,IPSL-CM6A-LR,historical
+Beijing,2005,11.977478,IPSL-CM6A-LR,historical
+Shanghai,2005,15.842255,IPSL-CM6A-LR,historical
+Tokyo,2005,14.886047,IPSL-CM6A-LR,historical
+Singapore,2005,27.30365,IPSL-CM6A-LR,historical
+Jakarta,2005,26.678741,IPSL-CM6A-LR,historical
+Sydney,2005,14.294067,IPSL-CM6A-LR,historical
+San Diego,2006,18.114288,IPSL-CM6A-LR,historical
+Phoenix,2006,18.171967,IPSL-CM6A-LR,historical
+New York,2006,11.425964,IPSL-CM6A-LR,historical
+Miami,2006,24.68274,IPSL-CM6A-LR,historical
+Anchorage,2006,-1.1493835,IPSL-CM6A-LR,historical
+Toronto,2006,9.625519,IPSL-CM6A-LR,historical
+Mexico City,2006,17.003906,IPSL-CM6A-LR,historical
+Lima,2006,20.025818,IPSL-CM6A-LR,historical
+Sao Paulo,2006,21.263702,IPSL-CM6A-LR,historical
+Buenos Aires,2006,17.551636,IPSL-CM6A-LR,historical
+Reykjavik,2006,4.253174,IPSL-CM6A-LR,historical
+London,2006,10.234924,IPSL-CM6A-LR,historical
+Paris,2006,11.189728,IPSL-CM6A-LR,historical
+Madrid,2006,10.403564,IPSL-CM6A-LR,historical
+Moscow,2006,4.6109314,IPSL-CM6A-LR,historical
+Cairo,2006,20.611725,IPSL-CM6A-LR,historical
+Lagos,2006,27.242004,IPSL-CM6A-LR,historical
+Nairobi,2006,20.043,IPSL-CM6A-LR,historical
+Cape Town,2006,18.555054,IPSL-CM6A-LR,historical
+Riyadh,2006,22.882843,IPSL-CM6A-LR,historical
+Tehran,2006,9.294891,IPSL-CM6A-LR,historical
+Mumbai,2006,25.933899,IPSL-CM6A-LR,historical
+Delhi,2006,23.2807,IPSL-CM6A-LR,historical
+Dhaka,2006,25.846924,IPSL-CM6A-LR,historical
+Beijing,2006,11.90155,IPSL-CM6A-LR,historical
+Shanghai,2006,16.115448,IPSL-CM6A-LR,historical
+Tokyo,2006,14.96405,IPSL-CM6A-LR,historical
+Singapore,2006,27.451782,IPSL-CM6A-LR,historical
+Jakarta,2006,26.624939,IPSL-CM6A-LR,historical
+Sydney,2006,14.534302,IPSL-CM6A-LR,historical
+San Diego,2007,19.230804,IPSL-CM6A-LR,historical
+Phoenix,2007,19.493591,IPSL-CM6A-LR,historical
+New York,2007,11.799561,IPSL-CM6A-LR,historical
+Miami,2007,25.016876,IPSL-CM6A-LR,historical
+Anchorage,2007,-2.0783691,IPSL-CM6A-LR,historical
+Toronto,2007,10.4296875,IPSL-CM6A-LR,historical
+Mexico City,2007,16.615845,IPSL-CM6A-LR,historical
+Lima,2007,18.693542,IPSL-CM6A-LR,historical
+Sao Paulo,2007,20.917236,IPSL-CM6A-LR,historical
+Buenos Aires,2007,18.250214,IPSL-CM6A-LR,historical
+Reykjavik,2007,4.3339233,IPSL-CM6A-LR,historical
+London,2007,10.902527,IPSL-CM6A-LR,historical
+Paris,2007,12.622681,IPSL-CM6A-LR,historical
+Madrid,2007,10.172821,IPSL-CM6A-LR,historical
+Moscow,2007,5.3335266,IPSL-CM6A-LR,historical
+Cairo,2007,20.107056,IPSL-CM6A-LR,historical
+Lagos,2007,26.813965,IPSL-CM6A-LR,historical
+Nairobi,2007,19.577728,IPSL-CM6A-LR,historical
+Cape Town,2007,18.059967,IPSL-CM6A-LR,historical
+Riyadh,2007,22.82138,IPSL-CM6A-LR,historical
+Tehran,2007,9.651489,IPSL-CM6A-LR,historical
+Mumbai,2007,26.143127,IPSL-CM6A-LR,historical
+Delhi,2007,22.997833,IPSL-CM6A-LR,historical
+Dhaka,2007,25.132202,IPSL-CM6A-LR,historical
+Beijing,2007,11.139893,IPSL-CM6A-LR,historical
+Shanghai,2007,16.247803,IPSL-CM6A-LR,historical
+Tokyo,2007,15.618286,IPSL-CM6A-LR,historical
+Singapore,2007,27.433716,IPSL-CM6A-LR,historical
+Jakarta,2007,26.065247,IPSL-CM6A-LR,historical
+Sydney,2007,13.85199,IPSL-CM6A-LR,historical
+San Diego,2008,18.776794,IPSL-CM6A-LR,historical
+Phoenix,2008,19.07312,IPSL-CM6A-LR,historical
+New York,2008,11.01593,IPSL-CM6A-LR,historical
+Miami,2008,24.914307,IPSL-CM6A-LR,historical
+Anchorage,2008,-0.815979,IPSL-CM6A-LR,historical
+Toronto,2008,8.881592,IPSL-CM6A-LR,historical
+Mexico City,2008,16.901306,IPSL-CM6A-LR,historical
+Lima,2008,20.245178,IPSL-CM6A-LR,historical
+Sao Paulo,2008,20.628845,IPSL-CM6A-LR,historical
+Buenos Aires,2008,17.628418,IPSL-CM6A-LR,historical
+Reykjavik,2008,4.513977,IPSL-CM6A-LR,historical
+London,2008,9.847168,IPSL-CM6A-LR,historical
+Paris,2008,11.056427,IPSL-CM6A-LR,historical
+Madrid,2008,10.537262,IPSL-CM6A-LR,historical
+Moscow,2008,5.5776367,IPSL-CM6A-LR,historical
+Cairo,2008,20.125885,IPSL-CM6A-LR,historical
+Lagos,2008,26.802185,IPSL-CM6A-LR,historical
+Nairobi,2008,19.286377,IPSL-CM6A-LR,historical
+Cape Town,2008,18.077026,IPSL-CM6A-LR,historical
+Riyadh,2008,21.901001,IPSL-CM6A-LR,historical
+Tehran,2008,7.597107,IPSL-CM6A-LR,historical
+Mumbai,2008,25.656494,IPSL-CM6A-LR,historical
+Delhi,2008,21.979523,IPSL-CM6A-LR,historical
+Dhaka,2008,25.002808,IPSL-CM6A-LR,historical
+Beijing,2008,10.685852,IPSL-CM6A-LR,historical
+Shanghai,2008,14.927887,IPSL-CM6A-LR,historical
+Tokyo,2008,14.325684,IPSL-CM6A-LR,historical
+Singapore,2008,27.265076,IPSL-CM6A-LR,historical
+Jakarta,2008,26.11502,IPSL-CM6A-LR,historical
+Sydney,2008,14.388062,IPSL-CM6A-LR,historical
+San Diego,2009,19.737915,IPSL-CM6A-LR,historical
+Phoenix,2009,19.680145,IPSL-CM6A-LR,historical
+New York,2009,10.168549,IPSL-CM6A-LR,historical
+Miami,2009,24.392883,IPSL-CM6A-LR,historical
+Anchorage,2009,2.1131287,IPSL-CM6A-LR,historical
+Toronto,2009,8.454376,IPSL-CM6A-LR,historical
+Mexico City,2009,16.536835,IPSL-CM6A-LR,historical
+Lima,2009,21.904541,IPSL-CM6A-LR,historical
+Sao Paulo,2009,21.82486,IPSL-CM6A-LR,historical
+Buenos Aires,2009,18.374908,IPSL-CM6A-LR,historical
+Reykjavik,2009,5.0463257,IPSL-CM6A-LR,historical
+London,2009,9.502533,IPSL-CM6A-LR,historical
+Paris,2009,10.943787,IPSL-CM6A-LR,historical
+Madrid,2009,9.513123,IPSL-CM6A-LR,historical
+Moscow,2009,6.919739,IPSL-CM6A-LR,historical
+Cairo,2009,21.24524,IPSL-CM6A-LR,historical
+Lagos,2009,27.54242,IPSL-CM6A-LR,historical
+Nairobi,2009,20.470215,IPSL-CM6A-LR,historical
+Cape Town,2009,17.812256,IPSL-CM6A-LR,historical
+Riyadh,2009,22.45575,IPSL-CM6A-LR,historical
+Tehran,2009,8.608307,IPSL-CM6A-LR,historical
+Mumbai,2009,26.26059,IPSL-CM6A-LR,historical
+Delhi,2009,24.409973,IPSL-CM6A-LR,historical
+Dhaka,2009,26.757935,IPSL-CM6A-LR,historical
+Beijing,2009,11.022034,IPSL-CM6A-LR,historical
+Shanghai,2009,15.854614,IPSL-CM6A-LR,historical
+Tokyo,2009,14.859985,IPSL-CM6A-LR,historical
+Singapore,2009,27.509003,IPSL-CM6A-LR,historical
+Jakarta,2009,26.660065,IPSL-CM6A-LR,historical
+Sydney,2009,14.523926,IPSL-CM6A-LR,historical
+San Diego,2010,19.31839,IPSL-CM6A-LR,historical
+Phoenix,2010,19.017365,IPSL-CM6A-LR,historical
+New York,2010,12.632751,IPSL-CM6A-LR,historical
+Miami,2010,25.350616,IPSL-CM6A-LR,historical
+Anchorage,2010,0.034057617,IPSL-CM6A-LR,historical
+Toronto,2010,10.816376,IPSL-CM6A-LR,historical
+Mexico City,2010,17.473724,IPSL-CM6A-LR,historical
+Lima,2010,20.398865,IPSL-CM6A-LR,historical
+Sao Paulo,2010,22.216675,IPSL-CM6A-LR,historical
+Buenos Aires,2010,17.715515,IPSL-CM6A-LR,historical
+Reykjavik,2010,5.1968384,IPSL-CM6A-LR,historical
+London,2010,10.09787,IPSL-CM6A-LR,historical
+Paris,2010,11.182251,IPSL-CM6A-LR,historical
+Madrid,2010,10.2092285,IPSL-CM6A-LR,historical
+Moscow,2010,5.285614,IPSL-CM6A-LR,historical
+Cairo,2010,20.9729,IPSL-CM6A-LR,historical
+Lagos,2010,27.636871,IPSL-CM6A-LR,historical
+Nairobi,2010,20.465881,IPSL-CM6A-LR,historical
+Cape Town,2010,17.876709,IPSL-CM6A-LR,historical
+Riyadh,2010,23.194366,IPSL-CM6A-LR,historical
+Tehran,2010,10.798676,IPSL-CM6A-LR,historical
+Mumbai,2010,26.592468,IPSL-CM6A-LR,historical
+Delhi,2010,24.265991,IPSL-CM6A-LR,historical
+Dhaka,2010,26.40625,IPSL-CM6A-LR,historical
+Beijing,2010,11.838562,IPSL-CM6A-LR,historical
+Shanghai,2010,16.636414,IPSL-CM6A-LR,historical
+Tokyo,2010,15.928986,IPSL-CM6A-LR,historical
+Singapore,2010,27.84793,IPSL-CM6A-LR,historical
+Jakarta,2010,26.847168,IPSL-CM6A-LR,historical
+Sydney,2010,15.11673,IPSL-CM6A-LR,historical
+San Diego,2011,18.020996,IPSL-CM6A-LR,historical
+Phoenix,2011,19.016663,IPSL-CM6A-LR,historical
+New York,2011,11.694702,IPSL-CM6A-LR,historical
+Miami,2011,25.332947,IPSL-CM6A-LR,historical
+Anchorage,2011,-3.098755,IPSL-CM6A-LR,historical
+Toronto,2011,10.616394,IPSL-CM6A-LR,historical
+Mexico City,2011,17.199615,IPSL-CM6A-LR,historical
+Lima,2011,19.657104,IPSL-CM6A-LR,historical
+Sao Paulo,2011,21.047607,IPSL-CM6A-LR,historical
+Buenos Aires,2011,18.261597,IPSL-CM6A-LR,historical
+Reykjavik,2011,3.2634277,IPSL-CM6A-LR,historical
+London,2011,10.111694,IPSL-CM6A-LR,historical
+Paris,2011,11.839844,IPSL-CM6A-LR,historical
+Madrid,2011,10.374756,IPSL-CM6A-LR,historical
+Moscow,2011,4.245178,IPSL-CM6A-LR,historical
+Cairo,2011,20.813538,IPSL-CM6A-LR,historical
+Lagos,2011,27.199585,IPSL-CM6A-LR,historical
+Nairobi,2011,19.699799,IPSL-CM6A-LR,historical
+Cape Town,2011,18.326416,IPSL-CM6A-LR,historical
+Riyadh,2011,22.96585,IPSL-CM6A-LR,historical
+Tehran,2011,10.137085,IPSL-CM6A-LR,historical
+Mumbai,2011,26.172974,IPSL-CM6A-LR,historical
+Delhi,2011,23.391693,IPSL-CM6A-LR,historical
+Dhaka,2011,25.652771,IPSL-CM6A-LR,historical
+Beijing,2011,11.711609,IPSL-CM6A-LR,historical
+Shanghai,2011,16.343903,IPSL-CM6A-LR,historical
+Tokyo,2011,15.972778,IPSL-CM6A-LR,historical
+Singapore,2011,27.516235,IPSL-CM6A-LR,historical
+Jakarta,2011,26.27185,IPSL-CM6A-LR,historical
+Sydney,2011,14.6050415,IPSL-CM6A-LR,historical
+San Diego,2012,19.062805,IPSL-CM6A-LR,historical
+Phoenix,2012,19.143524,IPSL-CM6A-LR,historical
+New York,2012,10.883942,IPSL-CM6A-LR,historical
+Miami,2012,25.173035,IPSL-CM6A-LR,historical
+Anchorage,2012,-0.76086426,IPSL-CM6A-LR,historical
+Toronto,2012,9.197601,IPSL-CM6A-LR,historical
+Mexico City,2012,17.042236,IPSL-CM6A-LR,historical
+Lima,2012,20.974487,IPSL-CM6A-LR,historical
+Sao Paulo,2012,22.78946,IPSL-CM6A-LR,historical
+Buenos Aires,2012,17.54712,IPSL-CM6A-LR,historical
+Reykjavik,2012,4.6319275,IPSL-CM6A-LR,historical
+London,2012,10.269226,IPSL-CM6A-LR,historical
+Paris,2012,11.881836,IPSL-CM6A-LR,historical
+Madrid,2012,10.6779785,IPSL-CM6A-LR,historical
+Moscow,2012,6.485382,IPSL-CM6A-LR,historical
+Cairo,2012,20.517578,IPSL-CM6A-LR,historical
+Lagos,2012,27.293701,IPSL-CM6A-LR,historical
+Nairobi,2012,19.908203,IPSL-CM6A-LR,historical
+Cape Town,2012,18.280518,IPSL-CM6A-LR,historical
+Riyadh,2012,22.764832,IPSL-CM6A-LR,historical
+Tehran,2012,9.076202,IPSL-CM6A-LR,historical
+Mumbai,2012,26.639038,IPSL-CM6A-LR,historical
+Delhi,2012,23.221558,IPSL-CM6A-LR,historical
+Dhaka,2012,25.38504,IPSL-CM6A-LR,historical
+Beijing,2012,10.993835,IPSL-CM6A-LR,historical
+Shanghai,2012,15.810486,IPSL-CM6A-LR,historical
+Tokyo,2012,15.5494995,IPSL-CM6A-LR,historical
+Singapore,2012,27.515594,IPSL-CM6A-LR,historical
+Jakarta,2012,26.288757,IPSL-CM6A-LR,historical
+Sydney,2012,15.077972,IPSL-CM6A-LR,historical
+San Diego,2013,19.525757,IPSL-CM6A-LR,historical
+Phoenix,2013,19.799347,IPSL-CM6A-LR,historical
+New York,2013,10.672638,IPSL-CM6A-LR,historical
+Miami,2013,24.738342,IPSL-CM6A-LR,historical
+Anchorage,2013,-1.697937,IPSL-CM6A-LR,historical
+Toronto,2013,8.590118,IPSL-CM6A-LR,historical
+Mexico City,2013,16.776794,IPSL-CM6A-LR,historical
+Lima,2013,19.961243,IPSL-CM6A-LR,historical
+Sao Paulo,2013,22.913635,IPSL-CM6A-LR,historical
+Buenos Aires,2013,18.33374,IPSL-CM6A-LR,historical
+Reykjavik,2013,4.0425415,IPSL-CM6A-LR,historical
+London,2013,10.092621,IPSL-CM6A-LR,historical
+Paris,2013,11.758362,IPSL-CM6A-LR,historical
+Madrid,2013,10.536011,IPSL-CM6A-LR,historical
+Moscow,2013,5.404846,IPSL-CM6A-LR,historical
+Cairo,2013,21.000183,IPSL-CM6A-LR,historical
+Lagos,2013,27.348541,IPSL-CM6A-LR,historical
+Nairobi,2013,19.853455,IPSL-CM6A-LR,historical
+Cape Town,2013,17.749115,IPSL-CM6A-LR,historical
+Riyadh,2013,22.589539,IPSL-CM6A-LR,historical
+Tehran,2013,9.778687,IPSL-CM6A-LR,historical
+Mumbai,2013,26.81665,IPSL-CM6A-LR,historical
+Delhi,2013,23.614197,IPSL-CM6A-LR,historical
+Dhaka,2013,25.821564,IPSL-CM6A-LR,historical
+Beijing,2013,11.205048,IPSL-CM6A-LR,historical
+Shanghai,2013,15.660614,IPSL-CM6A-LR,historical
+Tokyo,2013,14.922546,IPSL-CM6A-LR,historical
+Singapore,2013,27.38379,IPSL-CM6A-LR,historical
+Jakarta,2013,26.43631,IPSL-CM6A-LR,historical
+Sydney,2013,14.095764,IPSL-CM6A-LR,historical
+San Diego,2014,19.104553,IPSL-CM6A-LR,historical
+Phoenix,2014,19.21231,IPSL-CM6A-LR,historical
+New York,2014,12.015167,IPSL-CM6A-LR,historical
+Miami,2014,24.871277,IPSL-CM6A-LR,historical
+Anchorage,2014,-1.4650269,IPSL-CM6A-LR,historical
+Toronto,2014,10.716003,IPSL-CM6A-LR,historical
+Mexico City,2014,16.712952,IPSL-CM6A-LR,historical
+Lima,2014,19.207153,IPSL-CM6A-LR,historical
+Sao Paulo,2014,22.161072,IPSL-CM6A-LR,historical
+Buenos Aires,2014,18.837585,IPSL-CM6A-LR,historical
+Reykjavik,2014,4.5753784,IPSL-CM6A-LR,historical
+London,2014,9.856262,IPSL-CM6A-LR,historical
+Paris,2014,11.06311,IPSL-CM6A-LR,historical
+Madrid,2014,10.454773,IPSL-CM6A-LR,historical
+Moscow,2014,6.7211304,IPSL-CM6A-LR,historical
+Cairo,2014,20.697388,IPSL-CM6A-LR,historical
+Lagos,2014,26.947083,IPSL-CM6A-LR,historical
+Nairobi,2014,19.835876,IPSL-CM6A-LR,historical
+Cape Town,2014,17.67575,IPSL-CM6A-LR,historical
+Riyadh,2014,23.195007,IPSL-CM6A-LR,historical
+Tehran,2014,9.621399,IPSL-CM6A-LR,historical
+Mumbai,2014,26.460144,IPSL-CM6A-LR,historical
+Delhi,2014,23.047607,IPSL-CM6A-LR,historical
+Dhaka,2014,25.21054,IPSL-CM6A-LR,historical
+Beijing,2014,11.034637,IPSL-CM6A-LR,historical
+Shanghai,2014,15.663818,IPSL-CM6A-LR,historical
+Tokyo,2014,15.170715,IPSL-CM6A-LR,historical
+Singapore,2014,27.520935,IPSL-CM6A-LR,historical
+Jakarta,2014,26.115784,IPSL-CM6A-LR,historical
+Sydney,2014,14.058136,IPSL-CM6A-LR,historical

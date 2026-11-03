@@ -1,0 +1,1951 @@
+city,year,temp_c,model,scenario
+San Diego,1950,19.72174,NorESM2-LM,historical
+Phoenix,1950,21.334534,NorESM2-LM,historical
+New York,1950,11.715637,NorESM2-LM,historical
+Miami,1950,25.331085,NorESM2-LM,historical
+Anchorage,1950,-3.6785278,NorESM2-LM,historical
+Toronto,1950,7.3964233,NorESM2-LM,historical
+Mexico City,1950,18.303986,NorESM2-LM,historical
+Lima,1950,23.15686,NorESM2-LM,historical
+Sao Paulo,1950,20.83014,NorESM2-LM,historical
+Buenos Aires,1950,18.576416,NorESM2-LM,historical
+Reykjavik,1950,5.7049255,NorESM2-LM,historical
+London,1950,11.299438,NorESM2-LM,historical
+Paris,1950,12.165466,NorESM2-LM,historical
+Madrid,1950,13.436462,NorESM2-LM,historical
+Moscow,1950,4.4403076,NorESM2-LM,historical
+Cairo,1950,21.311157,NorESM2-LM,historical
+Lagos,1950,27.570374,NorESM2-LM,historical
+Nairobi,1950,21.841858,NorESM2-LM,historical
+Cape Town,1950,17.153137,NorESM2-LM,historical
+Riyadh,1950,24.721344,NorESM2-LM,historical
+Tehran,1950,15.389832,NorESM2-LM,historical
+Mumbai,1950,27.019714,NorESM2-LM,historical
+Delhi,1950,24.843597,NorESM2-LM,historical
+Dhaka,1950,28.292175,NorESM2-LM,historical
+Beijing,1950,10.064484,NorESM2-LM,historical
+Shanghai,1950,18.823547,NorESM2-LM,historical
+Tokyo,1950,18.588074,NorESM2-LM,historical
+Singapore,1950,28.144867,NorESM2-LM,historical
+Jakarta,1950,27.66275,NorESM2-LM,historical
+Sydney,1950,16.565216,NorESM2-LM,historical
+San Diego,1951,18.861786,NorESM2-LM,historical
+Phoenix,1951,20.193726,NorESM2-LM,historical
+New York,1951,12.14917,NorESM2-LM,historical
+Miami,1951,25.566528,NorESM2-LM,historical
+Anchorage,1951,-4.9069214,NorESM2-LM,historical
+Toronto,1951,8.069458,NorESM2-LM,historical
+Mexico City,1951,18.829285,NorESM2-LM,historical
+Lima,1951,22.696106,NorESM2-LM,historical
+Sao Paulo,1951,20.4646,NorESM2-LM,historical
+Buenos Aires,1951,18.440582,NorESM2-LM,historical
+Reykjavik,1951,5.739807,NorESM2-LM,historical
+London,1951,11.219299,NorESM2-LM,historical
+Paris,1951,12.020508,NorESM2-LM,historical
+Madrid,1951,14.7352295,NorESM2-LM,historical
+Moscow,1951,4.1220703,NorESM2-LM,historical
+Cairo,1951,20.456482,NorESM2-LM,historical
+Lagos,1951,27.905579,NorESM2-LM,historical
+Nairobi,1951,21.997803,NorESM2-LM,historical
+Cape Town,1951,18.086426,NorESM2-LM,historical
+Riyadh,1951,23.590668,NorESM2-LM,historical
+Tehran,1951,14.841736,NorESM2-LM,historical
+Mumbai,1951,26.917267,NorESM2-LM,historical
+Delhi,1951,24.670013,NorESM2-LM,historical
+Dhaka,1951,28.759125,NorESM2-LM,historical
+Beijing,1951,9.35199,NorESM2-LM,historical
+Shanghai,1951,18.40097,NorESM2-LM,historical
+Tokyo,1951,17.51062,NorESM2-LM,historical
+Singapore,1951,28.155273,NorESM2-LM,historical
+Jakarta,1951,27.563232,NorESM2-LM,historical
+Sydney,1951,16.713593,NorESM2-LM,historical
+San Diego,1952,20.126831,NorESM2-LM,historical
+Phoenix,1952,21.438904,NorESM2-LM,historical
+New York,1952,10.107727,NorESM2-LM,historical
+Miami,1952,24.459106,NorESM2-LM,historical
+Anchorage,1952,-1.5880127,NorESM2-LM,historical
+Toronto,1952,6.1903076,NorESM2-LM,historical
+Mexico City,1952,17.852173,NorESM2-LM,historical
+Lima,1952,21.897339,NorESM2-LM,historical
+Sao Paulo,1952,20.721375,NorESM2-LM,historical
+Buenos Aires,1952,19.585083,NorESM2-LM,historical
+Reykjavik,1952,4.013336,NorESM2-LM,historical
+London,1952,10.800415,NorESM2-LM,historical
+Paris,1952,11.907562,NorESM2-LM,historical
+Madrid,1952,13.770447,NorESM2-LM,historical
+Moscow,1952,6.5650024,NorESM2-LM,historical
+Cairo,1952,21.123535,NorESM2-LM,historical
+Lagos,1952,27.565338,NorESM2-LM,historical
+Nairobi,1952,22.120514,NorESM2-LM,historical
+Cape Town,1952,17.638641,NorESM2-LM,historical
+Riyadh,1952,24.307129,NorESM2-LM,historical
+Tehran,1952,14.905121,NorESM2-LM,historical
+Mumbai,1952,26.405426,NorESM2-LM,historical
+Delhi,1952,23.604187,NorESM2-LM,historical
+Dhaka,1952,28.274933,NorESM2-LM,historical
+Beijing,1952,8.39801,NorESM2-LM,historical
+Shanghai,1952,17.087677,NorESM2-LM,historical
+Tokyo,1952,17.22699,NorESM2-LM,historical
+Singapore,1952,27.972656,NorESM2-LM,historical
+Jakarta,1952,27.379456,NorESM2-LM,historical
+Sydney,1952,16.229523,NorESM2-LM,historical
+San Diego,1953,20.391113,NorESM2-LM,historical
+Phoenix,1953,21.370636,NorESM2-LM,historical
+New York,1953,10.344238,NorESM2-LM,historical
+Miami,1953,25.244476,NorESM2-LM,historical
+Anchorage,1953,-2.4825745,NorESM2-LM,historical
+Toronto,1953,6.6502075,NorESM2-LM,historical
+Mexico City,1953,17.794617,NorESM2-LM,historical
+Lima,1953,21.649475,NorESM2-LM,historical
+Sao Paulo,1953,20.997803,NorESM2-LM,historical
+Buenos Aires,1953,19.524841,NorESM2-LM,historical
+Reykjavik,1953,4.195801,NorESM2-LM,historical
+London,1953,10.799469,NorESM2-LM,historical
+Paris,1953,11.411285,NorESM2-LM,historical
+Madrid,1953,14.061798,NorESM2-LM,historical
+Moscow,1953,5.225647,NorESM2-LM,historical
+Cairo,1953,20.599182,NorESM2-LM,historical
+Lagos,1953,27.297668,NorESM2-LM,historical
+Nairobi,1953,21.40982,NorESM2-LM,historical
+Cape Town,1953,17.593811,NorESM2-LM,historical
+Riyadh,1953,23.648895,NorESM2-LM,historical
+Tehran,1953,14.981415,NorESM2-LM,historical
+Mumbai,1953,26.496521,NorESM2-LM,historical
+Delhi,1953,23.723572,NorESM2-LM,historical
+Dhaka,1953,28.521057,NorESM2-LM,historical
+Beijing,1953,8.299835,NorESM2-LM,historical
+Shanghai,1953,16.686646,NorESM2-LM,historical
+Tokyo,1953,17.041779,NorESM2-LM,historical
+Singapore,1953,27.509155,NorESM2-LM,historical
+Jakarta,1953,26.838196,NorESM2-LM,historical
+Sydney,1953,16.242065,NorESM2-LM,historical
+San Diego,1954,20.293823,NorESM2-LM,historical
+Phoenix,1954,21.361938,NorESM2-LM,historical
+New York,1954,11.024292,NorESM2-LM,historical
+Miami,1954,25.560516,NorESM2-LM,historical
+Anchorage,1954,-2.6919556,NorESM2-LM,historical
+Toronto,1954,6.8364563,NorESM2-LM,historical
+Mexico City,1954,18.963928,NorESM2-LM,historical
+Lima,1954,23.009033,NorESM2-LM,historical
+Sao Paulo,1954,20.794617,NorESM2-LM,historical
+Buenos Aires,1954,18.590668,NorESM2-LM,historical
+Reykjavik,1954,4.733612,NorESM2-LM,historical
+London,1954,11.529877,NorESM2-LM,historical
+Paris,1954,12.603668,NorESM2-LM,historical
+Madrid,1954,15.078278,NorESM2-LM,historical
+Moscow,1954,4.831665,NorESM2-LM,historical
+Cairo,1954,21.010834,NorESM2-LM,historical
+Lagos,1954,27.506165,NorESM2-LM,historical
+Nairobi,1954,21.950897,NorESM2-LM,historical
+Cape Town,1954,17.330414,NorESM2-LM,historical
+Riyadh,1954,24.719147,NorESM2-LM,historical
+Tehran,1954,15.262085,NorESM2-LM,historical
+Mumbai,1954,26.486877,NorESM2-LM,historical
+Delhi,1954,24.285706,NorESM2-LM,historical
+Dhaka,1954,28.076782,NorESM2-LM,historical
+Beijing,1954,10.286896,NorESM2-LM,historical
+Shanghai,1954,18.257935,NorESM2-LM,historical
+Tokyo,1954,17.682495,NorESM2-LM,historical
+Singapore,1954,27.695557,NorESM2-LM,historical
+Jakarta,1954,26.932373,NorESM2-LM,historical
+Sydney,1954,15.91272,NorESM2-LM,historical
+San Diego,1955,19.128815,NorESM2-LM,historical
+Phoenix,1955,20.30957,NorESM2-LM,historical
+New York,1955,11.466003,NorESM2-LM,historical
+Miami,1955,25.48526,NorESM2-LM,historical
+Anchorage,1955,-1.5371399,NorESM2-LM,historical
+Toronto,1955,7.8896484,NorESM2-LM,historical
+Mexico City,1955,19.290466,NorESM2-LM,historical
+Lima,1955,24.131256,NorESM2-LM,historical
+Sao Paulo,1955,21.82663,NorESM2-LM,historical
+Buenos Aires,1955,19.107422,NorESM2-LM,historical
+Reykjavik,1955,5.2555847,NorESM2-LM,historical
+London,1955,11.591034,NorESM2-LM,historical
+Paris,1955,12.600098,NorESM2-LM,historical
+Madrid,1955,14.785828,NorESM2-LM,historical
+Moscow,1955,5.365082,NorESM2-LM,historical
+Cairo,1955,21.75113,NorESM2-LM,historical
+Lagos,1955,28.13388,NorESM2-LM,historical
+Nairobi,1955,22.363342,NorESM2-LM,historical
+Cape Town,1955,17.806213,NorESM2-LM,historical
+Riyadh,1955,24.593506,NorESM2-LM,historical
+Tehran,1955,14.721405,NorESM2-LM,historical
+Mumbai,1955,27.252472,NorESM2-LM,historical
+Delhi,1955,25.168335,NorESM2-LM,historical
+Dhaka,1955,29.013214,NorESM2-LM,historical
+Beijing,1955,10.281494,NorESM2-LM,historical
+Shanghai,1955,18.330994,NorESM2-LM,historical
+Tokyo,1955,17.814545,NorESM2-LM,historical
+Singapore,1955,28.207092,NorESM2-LM,historical
+Jakarta,1955,27.917572,NorESM2-LM,historical
+Sydney,1955,16.919159,NorESM2-LM,historical
+San Diego,1956,20.400574,NorESM2-LM,historical
+Phoenix,1956,21.889557,NorESM2-LM,historical
+New York,1956,11.864532,NorESM2-LM,historical
+Miami,1956,25.467224,NorESM2-LM,historical
+Anchorage,1956,-0.02520752,NorESM2-LM,historical
+Toronto,1956,7.720978,NorESM2-LM,historical
+Mexico City,1956,17.546692,NorESM2-LM,historical
+Lima,1956,22.169464,NorESM2-LM,historical
+Sao Paulo,1956,20.792023,NorESM2-LM,historical
+Buenos Aires,1956,18.690247,NorESM2-LM,historical
+Reykjavik,1956,4.7926025,NorESM2-LM,historical
+London,1956,11.362091,NorESM2-LM,historical
+Paris,1956,12.563293,NorESM2-LM,historical
+Madrid,1956,15.29657,NorESM2-LM,historical
+Moscow,1956,5.6626587,NorESM2-LM,historical
+Cairo,1956,21.03592,NorESM2-LM,historical
+Lagos,1956,27.387299,NorESM2-LM,historical
+Nairobi,1956,21.584717,NorESM2-LM,historical
+Cape Town,1956,18.026337,NorESM2-LM,historical
+Riyadh,1956,24.287903,NorESM2-LM,historical
+Tehran,1956,14.546143,NorESM2-LM,historical
+Mumbai,1956,26.856964,NorESM2-LM,historical
+Delhi,1956,24.630585,NorESM2-LM,historical
+Dhaka,1956,28.506775,NorESM2-LM,historical
+Beijing,1956,9.879272,NorESM2-LM,historical
+Shanghai,1956,18.289948,NorESM2-LM,historical
+Tokyo,1956,18.06897,NorESM2-LM,historical
+Singapore,1956,28.249695,NorESM2-LM,historical
+Jakarta,1956,27.536316,NorESM2-LM,historical
+Sydney,1956,16.369873,NorESM2-LM,historical
+San Diego,1957,20.416748,NorESM2-LM,historical
+Phoenix,1957,21.33014,NorESM2-LM,historical
+New York,1957,11.051636,NorESM2-LM,historical
+Miami,1957,24.984161,NorESM2-LM,historical
+Anchorage,1957,-1.1342773,NorESM2-LM,historical
+Toronto,1957,6.7719727,NorESM2-LM,historical
+Mexico City,1957,17.907745,NorESM2-LM,historical
+Lima,1957,22.285034,NorESM2-LM,historical
+Sao Paulo,1957,20.651428,NorESM2-LM,historical
+Buenos Aires,1957,19.018768,NorESM2-LM,historical
+Reykjavik,1957,5.588806,NorESM2-LM,historical
+London,1957,11.194214,NorESM2-LM,historical
+Paris,1957,11.626831,NorESM2-LM,historical
+Madrid,1957,14.610474,NorESM2-LM,historical
+Moscow,1957,5.222229,NorESM2-LM,historical
+Cairo,1957,21.590973,NorESM2-LM,historical
+Lagos,1957,27.530304,NorESM2-LM,historical
+Nairobi,1957,21.387054,NorESM2-LM,historical
+Cape Town,1957,17.616516,NorESM2-LM,historical
+Riyadh,1957,24.05072,NorESM2-LM,historical
+Tehran,1957,15.525024,NorESM2-LM,historical
+Mumbai,1957,27.377197,NorESM2-LM,historical
+Delhi,1957,25.154114,NorESM2-LM,historical
+Dhaka,1957,28.785217,NorESM2-LM,historical
+Beijing,1957,9.079895,NorESM2-LM,historical
+Shanghai,1957,18.263062,NorESM2-LM,historical
+Tokyo,1957,17.02069,NorESM2-LM,historical
+Singapore,1957,27.85614,NorESM2-LM,historical
+Jakarta,1957,27.200134,NorESM2-LM,historical
+Sydney,1957,16.25592,NorESM2-LM,historical
+San Diego,1958,19.86023,NorESM2-LM,historical
+Phoenix,1958,20.82077,NorESM2-LM,historical
+New York,1958,11.721466,NorESM2-LM,historical
+Miami,1958,25.19217,NorESM2-LM,historical
+Anchorage,1958,-2.456665,NorESM2-LM,historical
+Toronto,1958,7.794464,NorESM2-LM,historical
+Mexico City,1958,18.42865,NorESM2-LM,historical
+Lima,1958,23.33136,NorESM2-LM,historical
+Sao Paulo,1958,20.475616,NorESM2-LM,historical
+Buenos Aires,1958,18.96222,NorESM2-LM,historical
+Reykjavik,1958,5.50235,NorESM2-LM,historical
+London,1958,10.821411,NorESM2-LM,historical
+Paris,1958,12.043701,NorESM2-LM,historical
+Madrid,1958,14.263306,NorESM2-LM,historical
+Moscow,1958,3.795166,NorESM2-LM,historical
+Cairo,1958,21.503784,NorESM2-LM,historical
+Lagos,1958,27.756683,NorESM2-LM,historical
+Nairobi,1958,21.650696,NorESM2-LM,historical
+Cape Town,1958,17.839325,NorESM2-LM,historical
+Riyadh,1958,24.749847,NorESM2-LM,historical
+Tehran,1958,16.147644,NorESM2-LM,historical
+Mumbai,1958,27.295837,NorESM2-LM,historical
+Delhi,1958,25.27063,NorESM2-LM,historical
+Dhaka,1958,28.103973,NorESM2-LM,historical
+Beijing,1958,9.179474,NorESM2-LM,historical
+Shanghai,1958,18.148071,NorESM2-LM,historical
+Tokyo,1958,18.134644,NorESM2-LM,historical
+Singapore,1958,28.074524,NorESM2-LM,historical
+Jakarta,1958,27.58722,NorESM2-LM,historical
+Sydney,1958,15.99469,NorESM2-LM,historical
+San Diego,1959,18.886871,NorESM2-LM,historical
+Phoenix,1959,20.257477,NorESM2-LM,historical
+New York,1959,12.567535,NorESM2-LM,historical
+Miami,1959,25.648132,NorESM2-LM,historical
+Anchorage,1959,-2.44104,NorESM2-LM,historical
+Toronto,1959,9.011932,NorESM2-LM,historical
+Mexico City,1959,18.824036,NorESM2-LM,historical
+Lima,1959,22.962341,NorESM2-LM,historical
+Sao Paulo,1959,21.006287,NorESM2-LM,historical
+Buenos Aires,1959,19.235474,NorESM2-LM,historical
+Reykjavik,1959,6.481476,NorESM2-LM,historical
+London,1959,10.819153,NorESM2-LM,historical
+Paris,1959,12.105469,NorESM2-LM,historical
+Madrid,1959,15.141632,NorESM2-LM,historical
+Moscow,1959,2.6220703,NorESM2-LM,historical
+Cairo,1959,22.300842,NorESM2-LM,historical
+Lagos,1959,28.605072,NorESM2-LM,historical
+Nairobi,1959,22.05539,NorESM2-LM,historical
+Cape Town,1959,18.754608,NorESM2-LM,historical
+Riyadh,1959,24.628174,NorESM2-LM,historical
+Tehran,1959,15.579407,NorESM2-LM,historical
+Mumbai,1959,27.419434,NorESM2-LM,historical
+Delhi,1959,25.370789,NorESM2-LM,historical
+Dhaka,1959,28.928375,NorESM2-LM,historical
+Beijing,1959,7.9194336,NorESM2-LM,historical
+Shanghai,1959,16.648285,NorESM2-LM,historical
+Tokyo,1959,17.113434,NorESM2-LM,historical
+Singapore,1959,28.327148,NorESM2-LM,historical
+Jakarta,1959,28.068726,NorESM2-LM,historical
+Sydney,1959,16.333527,NorESM2-LM,historical
+San Diego,1960,20.217773,NorESM2-LM,historical
+Phoenix,1960,20.834473,NorESM2-LM,historical
+New York,1960,11.336456,NorESM2-LM,historical
+Miami,1960,24.882507,NorESM2-LM,historical
+Anchorage,1960,-1.7706299,NorESM2-LM,historical
+Toronto,1960,7.5999756,NorESM2-LM,historical
+Mexico City,1960,18.301758,NorESM2-LM,historical
+Lima,1960,21.570312,NorESM2-LM,historical
+Sao Paulo,1960,20.700256,NorESM2-LM,historical
+Buenos Aires,1960,18.264587,NorESM2-LM,historical
+Reykjavik,1960,6.287079,NorESM2-LM,historical
+London,1960,11.634399,NorESM2-LM,historical
+Paris,1960,12.02121,NorESM2-LM,historical
+Madrid,1960,12.95636,NorESM2-LM,historical
+Moscow,1960,2.8743286,NorESM2-LM,historical
+Cairo,1960,20.598877,NorESM2-LM,historical
+Lagos,1960,27.635529,NorESM2-LM,historical
+Nairobi,1960,21.667877,NorESM2-LM,historical
+Cape Town,1960,17.613464,NorESM2-LM,historical
+Riyadh,1960,23.900238,NorESM2-LM,historical
+Tehran,1960,15.123657,NorESM2-LM,historical
+Mumbai,1960,27.2258,NorESM2-LM,historical
+Delhi,1960,23.724548,NorESM2-LM,historical
+Dhaka,1960,27.887817,NorESM2-LM,historical
+Beijing,1960,8.533722,NorESM2-LM,historical
+Shanghai,1960,17.10431,NorESM2-LM,historical
+Tokyo,1960,16.856293,NorESM2-LM,historical
+Singapore,1960,27.969543,NorESM2-LM,historical
+Jakarta,1960,27.399841,NorESM2-LM,historical
+Sydney,1960,16.973358,NorESM2-LM,historical
+San Diego,1961,19.334167,NorESM2-LM,historical
+Phoenix,1961,20.769897,NorESM2-LM,historical
+New York,1961,9.83429,NorESM2-LM,historical
+Miami,1961,24.588531,NorESM2-LM,historical
+Anchorage,1961,-3.391449,NorESM2-LM,historical
+Toronto,1961,6.2334595,NorESM2-LM,historical
+Mexico City,1961,17.842407,NorESM2-LM,historical
+Lima,1961,21.960876,NorESM2-LM,historical
+Sao Paulo,1961,21.384857,NorESM2-LM,historical
+Buenos Aires,1961,19.605621,NorESM2-LM,historical
+Reykjavik,1961,6.2077637,NorESM2-LM,historical
+London,1961,11.034271,NorESM2-LM,historical
+Paris,1961,11.976257,NorESM2-LM,historical
+Madrid,1961,14.318115,NorESM2-LM,historical
+Moscow,1961,0.73431396,NorESM2-LM,historical
+Cairo,1961,20.7547,NorESM2-LM,historical
+Lagos,1961,27.354828,NorESM2-LM,historical
+Nairobi,1961,21.61615,NorESM2-LM,historical
+Cape Town,1961,17.707764,NorESM2-LM,historical
+Riyadh,1961,23.684845,NorESM2-LM,historical
+Tehran,1961,14.605103,NorESM2-LM,historical
+Mumbai,1961,26.824463,NorESM2-LM,historical
+Delhi,1961,23.707855,NorESM2-LM,historical
+Dhaka,1961,28.48706,NorESM2-LM,historical
+Beijing,1961,8.932251,NorESM2-LM,historical
+Shanghai,1961,17.37793,NorESM2-LM,historical
+Tokyo,1961,16.878723,NorESM2-LM,historical
+Singapore,1961,27.611023,NorESM2-LM,historical
+Jakarta,1961,27.01297,NorESM2-LM,historical
+Sydney,1961,16.263245,NorESM2-LM,historical
+San Diego,1962,19.028564,NorESM2-LM,historical
+Phoenix,1962,20.16092,NorESM2-LM,historical
+New York,1962,10.231171,NorESM2-LM,historical
+Miami,1962,24.948547,NorESM2-LM,historical
+Anchorage,1962,-3.512146,NorESM2-LM,historical
+Toronto,1962,6.2861023,NorESM2-LM,historical
+Mexico City,1962,18.378418,NorESM2-LM,historical
+Lima,1962,22.562195,NorESM2-LM,historical
+Sao Paulo,1962,21.211243,NorESM2-LM,historical
+Buenos Aires,1962,19.219238,NorESM2-LM,historical
+Reykjavik,1962,5.441345,NorESM2-LM,historical
+London,1962,10.547974,NorESM2-LM,historical
+Paris,1962,11.352783,NorESM2-LM,historical
+Madrid,1962,14.212006,NorESM2-LM,historical
+Moscow,1962,3.5509338,NorESM2-LM,historical
+Cairo,1962,20.802917,NorESM2-LM,historical
+Lagos,1962,27.60022,NorESM2-LM,historical
+Nairobi,1962,22.218597,NorESM2-LM,historical
+Cape Town,1962,17.807251,NorESM2-LM,historical
+Riyadh,1962,23.51825,NorESM2-LM,historical
+Tehran,1962,14.793823,NorESM2-LM,historical
+Mumbai,1962,26.523376,NorESM2-LM,historical
+Delhi,1962,24.277466,NorESM2-LM,historical
+Dhaka,1962,28.000977,NorESM2-LM,historical
+Beijing,1962,8.167969,NorESM2-LM,historical
+Shanghai,1962,17.686462,NorESM2-LM,historical
+Tokyo,1962,17.130188,NorESM2-LM,historical
+Singapore,1962,27.80133,NorESM2-LM,historical
+Jakarta,1962,27.29895,NorESM2-LM,historical
+Sydney,1962,16.40625,NorESM2-LM,historical
+San Diego,1963,19.94336,NorESM2-LM,historical
+Phoenix,1963,20.635132,NorESM2-LM,historical
+New York,1963,10.583191,NorESM2-LM,historical
+Miami,1963,25.05014,NorESM2-LM,historical
+Anchorage,1963,-3.3676758,NorESM2-LM,historical
+Toronto,1963,6.7590637,NorESM2-LM,historical
+Mexico City,1963,18.162292,NorESM2-LM,historical
+Lima,1963,22.186462,NorESM2-LM,historical
+Sao Paulo,1963,20.45282,NorESM2-LM,historical
+Buenos Aires,1963,18.718628,NorESM2-LM,historical
+Reykjavik,1963,4.0947266,NorESM2-LM,historical
+London,1963,10.364075,NorESM2-LM,historical
+Paris,1963,11.907837,NorESM2-LM,historical
+Madrid,1963,15.192261,NorESM2-LM,historical
+Moscow,1963,3.2224426,NorESM2-LM,historical
+Cairo,1963,20.654846,NorESM2-LM,historical
+Lagos,1963,27.28955,NorESM2-LM,historical
+Nairobi,1963,21.912872,NorESM2-LM,historical
+Cape Town,1963,17.203247,NorESM2-LM,historical
+Riyadh,1963,23.555298,NorESM2-LM,historical
+Tehran,1963,14.967712,NorESM2-LM,historical
+Mumbai,1963,26.372162,NorESM2-LM,historical
+Delhi,1963,23.97882,NorESM2-LM,historical
+Dhaka,1963,27.319519,NorESM2-LM,historical
+Beijing,1963,9.123108,NorESM2-LM,historical
+Shanghai,1963,18.54831,NorESM2-LM,historical
+Tokyo,1963,17.842682,NorESM2-LM,historical
+Singapore,1963,27.750671,NorESM2-LM,historical
+Jakarta,1963,27.080688,NorESM2-LM,historical
+Sydney,1963,15.929352,NorESM2-LM,historical
+San Diego,1964,19.781555,NorESM2-LM,historical
+Phoenix,1964,20.310852,NorESM2-LM,historical
+New York,1964,11.047119,NorESM2-LM,historical
+Miami,1964,25.086243,NorESM2-LM,historical
+Anchorage,1964,-2.6035156,NorESM2-LM,historical
+Toronto,1964,6.354492,NorESM2-LM,historical
+Mexico City,1964,17.771027,NorESM2-LM,historical
+Lima,1964,22.318787,NorESM2-LM,historical
+Sao Paulo,1964,20.83603,NorESM2-LM,historical
+Buenos Aires,1964,18.59961,NorESM2-LM,historical
+Reykjavik,1964,5.2107544,NorESM2-LM,historical
+London,1964,11.392334,NorESM2-LM,historical
+Paris,1964,12.460693,NorESM2-LM,historical
+Madrid,1964,13.87442,NorESM2-LM,historical
+Moscow,1964,3.6428833,NorESM2-LM,historical
+Cairo,1964,20.101868,NorESM2-LM,historical
+Lagos,1964,27.461304,NorESM2-LM,historical
+Nairobi,1964,21.565613,NorESM2-LM,historical
+Cape Town,1964,17.165405,NorESM2-LM,historical
+Riyadh,1964,23.570312,NorESM2-LM,historical
+Tehran,1964,14.811401,NorESM2-LM,historical
+Mumbai,1964,26.350037,NorESM2-LM,historical
+Delhi,1964,23.984436,NorESM2-LM,historical
+Dhaka,1964,28.057251,NorESM2-LM,historical
+Beijing,1964,9.113647,NorESM2-LM,historical
+Shanghai,1964,17.887604,NorESM2-LM,historical
+Tokyo,1964,17.49121,NorESM2-LM,historical
+Singapore,1964,27.848206,NorESM2-LM,historical
+Jakarta,1964,26.99411,NorESM2-LM,historical
+Sydney,1964,16.4747,NorESM2-LM,historical
+San Diego,1965,18.726685,NorESM2-LM,historical
+Phoenix,1965,19.482666,NorESM2-LM,historical
+New York,1965,10.952942,NorESM2-LM,historical
+Miami,1965,24.953735,NorESM2-LM,historical
+Anchorage,1965,-2.925293,NorESM2-LM,historical
+Toronto,1965,7.210266,NorESM2-LM,historical
+Mexico City,1965,18.322998,NorESM2-LM,historical
+Lima,1965,23.653015,NorESM2-LM,historical
+Sao Paulo,1965,21.040344,NorESM2-LM,historical
+Buenos Aires,1965,18.368195,NorESM2-LM,historical
+Reykjavik,1965,4.414917,NorESM2-LM,historical
+London,1965,10.668518,NorESM2-LM,historical
+Paris,1965,11.586182,NorESM2-LM,historical
+Madrid,1965,13.481049,NorESM2-LM,historical
+Moscow,1965,3.1393433,NorESM2-LM,historical
+Cairo,1965,21.017883,NorESM2-LM,historical
+Lagos,1965,28.375488,NorESM2-LM,historical
+Nairobi,1965,22.066315,NorESM2-LM,historical
+Cape Town,1965,18.007416,NorESM2-LM,historical
+Riyadh,1965,24.237366,NorESM2-LM,historical
+Tehran,1965,14.767548,NorESM2-LM,historical
+Mumbai,1965,26.949432,NorESM2-LM,historical
+Delhi,1965,24.78305,NorESM2-LM,historical
+Dhaka,1965,29.613403,NorESM2-LM,historical
+Beijing,1965,7.68454,NorESM2-LM,historical
+Shanghai,1965,17.323273,NorESM2-LM,historical
+Tokyo,1965,16.929382,NorESM2-LM,historical
+Singapore,1965,28.370117,NorESM2-LM,historical
+Jakarta,1965,27.687897,NorESM2-LM,historical
+Sydney,1965,16.656494,NorESM2-LM,historical
+San Diego,1966,17.97284,NorESM2-LM,historical
+Phoenix,1966,19.802826,NorESM2-LM,historical
+New York,1966,12.509033,NorESM2-LM,historical
+Miami,1966,25.20575,NorESM2-LM,historical
+Anchorage,1966,-2.5689697,NorESM2-LM,historical
+Toronto,1966,8.608032,NorESM2-LM,historical
+Mexico City,1966,18.974426,NorESM2-LM,historical
+Lima,1966,23.552002,NorESM2-LM,historical
+Sao Paulo,1966,21.484955,NorESM2-LM,historical
+Buenos Aires,1966,18.622253,NorESM2-LM,historical
+Reykjavik,1966,5.0019836,NorESM2-LM,historical
+London,1966,11.094208,NorESM2-LM,historical
+Paris,1966,11.991974,NorESM2-LM,historical
+Madrid,1966,13.96344,NorESM2-LM,historical
+Moscow,1966,2.7044373,NorESM2-LM,historical
+Cairo,1966,20.845154,NorESM2-LM,historical
+Lagos,1966,28.305542,NorESM2-LM,historical
+Nairobi,1966,22.04898,NorESM2-LM,historical
+Cape Town,1966,17.502869,NorESM2-LM,historical
+Riyadh,1966,23.746033,NorESM2-LM,historical
+Tehran,1966,15.129974,NorESM2-LM,historical
+Mumbai,1966,26.669434,NorESM2-LM,historical
+Delhi,1966,24.129272,NorESM2-LM,historical
+Dhaka,1966,29.2583,NorESM2-LM,historical
+Beijing,1966,8.114349,NorESM2-LM,historical
+Shanghai,1966,17.446411,NorESM2-LM,historical
+Tokyo,1966,17.115479,NorESM2-LM,historical
+Singapore,1966,28.342468,NorESM2-LM,historical
+Jakarta,1966,27.72998,NorESM2-LM,historical
+Sydney,1966,16.250793,NorESM2-LM,historical
+San Diego,1967,18.185242,NorESM2-LM,historical
+Phoenix,1967,20.15857,NorESM2-LM,historical
+New York,1967,11.933105,NorESM2-LM,historical
+Miami,1967,25.086426,NorESM2-LM,historical
+Anchorage,1967,-3.1642456,NorESM2-LM,historical
+Toronto,1967,8.705139,NorESM2-LM,historical
+Mexico City,1967,18.119202,NorESM2-LM,historical
+Lima,1967,22.196106,NorESM2-LM,historical
+Sao Paulo,1967,20.803345,NorESM2-LM,historical
+Buenos Aires,1967,18.31958,NorESM2-LM,historical
+Reykjavik,1967,4.987549,NorESM2-LM,historical
+London,1967,10.533112,NorESM2-LM,historical
+Paris,1967,11.765869,NorESM2-LM,historical
+Madrid,1967,14.051086,NorESM2-LM,historical
+Moscow,1967,4.4551697,NorESM2-LM,historical
+Cairo,1967,20.85431,NorESM2-LM,historical
+Lagos,1967,27.525452,NorESM2-LM,historical
+Nairobi,1967,21.95047,NorESM2-LM,historical
+Cape Town,1967,17.385468,NorESM2-LM,historical
+Riyadh,1967,23.100159,NorESM2-LM,historical
+Tehran,1967,13.861542,NorESM2-LM,historical
+Mumbai,1967,26.441742,NorESM2-LM,historical
+Delhi,1967,23.883057,NorESM2-LM,historical
+Dhaka,1967,29.145782,NorESM2-LM,historical
+Beijing,1967,8.199127,NorESM2-LM,historical
+Shanghai,1967,17.955566,NorESM2-LM,historical
+Tokyo,1967,18.1586,NorESM2-LM,historical
+Singapore,1967,27.933044,NorESM2-LM,historical
+Jakarta,1967,27.175323,NorESM2-LM,historical
+Sydney,1967,16.336853,NorESM2-LM,historical
+San Diego,1968,19.49408,NorESM2-LM,historical
+Phoenix,1968,21.407898,NorESM2-LM,historical
+New York,1968,9.909546,NorESM2-LM,historical
+Miami,1968,25.013184,NorESM2-LM,historical
+Anchorage,1968,-4.8523865,NorESM2-LM,historical
+Toronto,1968,5.633911,NorESM2-LM,historical
+Mexico City,1968,18.070923,NorESM2-LM,historical
+Lima,1968,21.623474,NorESM2-LM,historical
+Sao Paulo,1968,21.094086,NorESM2-LM,historical
+Buenos Aires,1968,18.745972,NorESM2-LM,historical
+Reykjavik,1968,3.7583618,NorESM2-LM,historical
+London,1968,10.850494,NorESM2-LM,historical
+Paris,1968,11.70105,NorESM2-LM,historical
+Madrid,1968,13.707397,NorESM2-LM,historical
+Moscow,1968,4.980957,NorESM2-LM,historical
+Cairo,1968,20.845581,NorESM2-LM,historical
+Lagos,1968,26.875854,NorESM2-LM,historical
+Nairobi,1968,21.676147,NorESM2-LM,historical
+Cape Town,1968,17.513794,NorESM2-LM,historical
+Riyadh,1968,23.969788,NorESM2-LM,historical
+Tehran,1968,14.27655,NorESM2-LM,historical
+Mumbai,1968,25.71289,NorESM2-LM,historical
+Delhi,1968,23.192383,NorESM2-LM,historical
+Dhaka,1968,27.83255,NorESM2-LM,historical
+Beijing,1968,8.653687,NorESM2-LM,historical
+Shanghai,1968,17.328491,NorESM2-LM,historical
+Tokyo,1968,17.187134,NorESM2-LM,historical
+Singapore,1968,27.505096,NorESM2-LM,historical
+Jakarta,1968,26.646301,NorESM2-LM,historical
+Sydney,1968,16.509644,NorESM2-LM,historical
+San Diego,1969,20.111267,NorESM2-LM,historical
+Phoenix,1969,20.848969,NorESM2-LM,historical
+New York,1969,10.4133,NorESM2-LM,historical
+Miami,1969,24.73108,NorESM2-LM,historical
+Anchorage,1969,-2.552246,NorESM2-LM,historical
+Toronto,1969,5.9301147,NorESM2-LM,historical
+Mexico City,1969,17.937012,NorESM2-LM,historical
+Lima,1969,21.886688,NorESM2-LM,historical
+Sao Paulo,1969,20.957489,NorESM2-LM,historical
+Buenos Aires,1969,18.744446,NorESM2-LM,historical
+Reykjavik,1969,4.330078,NorESM2-LM,historical
+London,1969,10.82251,NorESM2-LM,historical
+Paris,1969,11.630188,NorESM2-LM,historical
+Madrid,1969,14.617676,NorESM2-LM,historical
+Moscow,1969,2.9101257,NorESM2-LM,historical
+Cairo,1969,19.69757,NorESM2-LM,historical
+Lagos,1969,27.45868,NorESM2-LM,historical
+Nairobi,1969,21.676605,NorESM2-LM,historical
+Cape Town,1969,17.490967,NorESM2-LM,historical
+Riyadh,1969,23.7547,NorESM2-LM,historical
+Tehran,1969,14.306091,NorESM2-LM,historical
+Mumbai,1969,26.166931,NorESM2-LM,historical
+Delhi,1969,23.795593,NorESM2-LM,historical
+Dhaka,1969,28.325989,NorESM2-LM,historical
+Beijing,1969,8.529968,NorESM2-LM,historical
+Shanghai,1969,16.634796,NorESM2-LM,historical
+Tokyo,1969,16.605103,NorESM2-LM,historical
+Singapore,1969,27.395844,NorESM2-LM,historical
+Jakarta,1969,26.800537,NorESM2-LM,historical
+Sydney,1969,16.006805,NorESM2-LM,historical
+San Diego,1970,19.62915,NorESM2-LM,historical
+Phoenix,1970,20.66397,NorESM2-LM,historical
+New York,1970,11.1432495,NorESM2-LM,historical
+Miami,1970,24.446503,NorESM2-LM,historical
+Anchorage,1970,-1.157196,NorESM2-LM,historical
+Toronto,1970,6.785095,NorESM2-LM,historical
+Mexico City,1970,18.234375,NorESM2-LM,historical
+Lima,1970,22.698486,NorESM2-LM,historical
+Sao Paulo,1970,21.898865,NorESM2-LM,historical
+Buenos Aires,1970,18.22174,NorESM2-LM,historical
+Reykjavik,1970,4.210144,NorESM2-LM,historical
+London,1970,11.543121,NorESM2-LM,historical
+Paris,1970,12.53421,NorESM2-LM,historical
+Madrid,1970,14.76239,NorESM2-LM,historical
+Moscow,1970,3.5305176,NorESM2-LM,historical
+Cairo,1970,20.593506,NorESM2-LM,historical
+Lagos,1970,27.696686,NorESM2-LM,historical
+Nairobi,1970,21.900665,NorESM2-LM,historical
+Cape Town,1970,17.78772,NorESM2-LM,historical
+Riyadh,1970,24.730103,NorESM2-LM,historical
+Tehran,1970,15.483734,NorESM2-LM,historical
+Mumbai,1970,26.872345,NorESM2-LM,historical
+Delhi,1970,23.806854,NorESM2-LM,historical
+Dhaka,1970,27.732697,NorESM2-LM,historical
+Beijing,1970,7.951111,NorESM2-LM,historical
+Shanghai,1970,17.414337,NorESM2-LM,historical
+Tokyo,1970,16.301636,NorESM2-LM,historical
+Singapore,1970,27.748627,NorESM2-LM,historical
+Jakarta,1970,26.898071,NorESM2-LM,historical
+Sydney,1970,15.9661255,NorESM2-LM,historical
+San Diego,1971,19.492859,NorESM2-LM,historical
+Phoenix,1971,20.298553,NorESM2-LM,historical
+New York,1971,10.714142,NorESM2-LM,historical
+Miami,1971,24.490723,NorESM2-LM,historical
+Anchorage,1971,-1.335083,NorESM2-LM,historical
+Toronto,1971,6.1940002,NorESM2-LM,historical
+Mexico City,1971,17.790283,NorESM2-LM,historical
+Lima,1971,22.640808,NorESM2-LM,historical
+Sao Paulo,1971,21.42395,NorESM2-LM,historical
+Buenos Aires,1971,18.200378,NorESM2-LM,historical
+Reykjavik,1971,5.094452,NorESM2-LM,historical
+London,1971,11.17807,NorESM2-LM,historical
+Paris,1971,11.611755,NorESM2-LM,historical
+Madrid,1971,13.937347,NorESM2-LM,historical
+Moscow,1971,2.6118164,NorESM2-LM,historical
+Cairo,1971,21.318329,NorESM2-LM,historical
+Lagos,1971,27.935608,NorESM2-LM,historical
+Nairobi,1971,22.143036,NorESM2-LM,historical
+Cape Town,1971,17.707458,NorESM2-LM,historical
+Riyadh,1971,23.89972,NorESM2-LM,historical
+Tehran,1971,14.804901,NorESM2-LM,historical
+Mumbai,1971,27.193665,NorESM2-LM,historical
+Delhi,1971,24.425537,NorESM2-LM,historical
+Dhaka,1971,28.967834,NorESM2-LM,historical
+Beijing,1971,7.556549,NorESM2-LM,historical
+Shanghai,1971,16.751404,NorESM2-LM,historical
+Tokyo,1971,16.39804,NorESM2-LM,historical
+Singapore,1971,28.177185,NorESM2-LM,historical
+Jakarta,1971,27.702698,NorESM2-LM,historical
+Sydney,1971,16.224365,NorESM2-LM,historical
+San Diego,1972,18.808289,NorESM2-LM,historical
+Phoenix,1972,19.973541,NorESM2-LM,historical
+New York,1972,11.735443,NorESM2-LM,historical
+Miami,1972,25.494812,NorESM2-LM,historical
+Anchorage,1972,-3.840393,NorESM2-LM,historical
+Toronto,1972,8.085266,NorESM2-LM,historical
+Mexico City,1972,18.893219,NorESM2-LM,historical
+Lima,1972,22.249756,NorESM2-LM,historical
+Sao Paulo,1972,21.025543,NorESM2-LM,historical
+Buenos Aires,1972,18.87555,NorESM2-LM,historical
+Reykjavik,1972,4.8995667,NorESM2-LM,historical
+London,1972,10.6744995,NorESM2-LM,historical
+Paris,1972,11.65329,NorESM2-LM,historical
+Madrid,1972,14.426819,NorESM2-LM,historical
+Moscow,1972,3.9874878,NorESM2-LM,historical
+Cairo,1972,21.395142,NorESM2-LM,historical
+Lagos,1972,27.282257,NorESM2-LM,historical
+Nairobi,1972,21.52301,NorESM2-LM,historical
+Cape Town,1972,17.67212,NorESM2-LM,historical
+Riyadh,1972,24.241028,NorESM2-LM,historical
+Tehran,1972,15.25061,NorESM2-LM,historical
+Mumbai,1972,26.919922,NorESM2-LM,historical
+Delhi,1972,24.712402,NorESM2-LM,historical
+Dhaka,1972,28.049133,NorESM2-LM,historical
+Beijing,1972,8.302399,NorESM2-LM,historical
+Shanghai,1972,17.689728,NorESM2-LM,historical
+Tokyo,1972,17.393738,NorESM2-LM,historical
+Singapore,1972,27.877625,NorESM2-LM,historical
+Jakarta,1972,26.99939,NorESM2-LM,historical
+Sydney,1972,16.151398,NorESM2-LM,historical
+San Diego,1973,19.279968,NorESM2-LM,historical
+Phoenix,1973,20.494568,NorESM2-LM,historical
+New York,1973,10.966797,NorESM2-LM,historical
+Miami,1973,25.36029,NorESM2-LM,historical
+Anchorage,1973,-3.1002197,NorESM2-LM,historical
+Toronto,1973,7.1466675,NorESM2-LM,historical
+Mexico City,1973,18.473938,NorESM2-LM,historical
+Lima,1973,22.491821,NorESM2-LM,historical
+Sao Paulo,1973,21.417053,NorESM2-LM,historical
+Buenos Aires,1973,18.595123,NorESM2-LM,historical
+Reykjavik,1973,5.4733276,NorESM2-LM,historical
+London,1973,10.396637,NorESM2-LM,historical
+Paris,1973,11.036987,NorESM2-LM,historical
+Madrid,1973,13.316376,NorESM2-LM,historical
+Moscow,1973,3.3386536,NorESM2-LM,historical
+Cairo,1973,21.35913,NorESM2-LM,historical
+Lagos,1973,27.7753,NorESM2-LM,historical
+Nairobi,1973,21.689178,NorESM2-LM,historical
+Cape Town,1973,17.90332,NorESM2-LM,historical
+Riyadh,1973,24.649689,NorESM2-LM,historical
+Tehran,1973,14.899292,NorESM2-LM,historical
+Mumbai,1973,27.20459,NorESM2-LM,historical
+Delhi,1973,24.559021,NorESM2-LM,historical
+Dhaka,1973,28.784119,NorESM2-LM,historical
+Beijing,1973,7.345154,NorESM2-LM,historical
+Shanghai,1973,17.31018,NorESM2-LM,historical
+Tokyo,1973,16.598175,NorESM2-LM,historical
+Singapore,1973,28.065979,NorESM2-LM,historical
+Jakarta,1973,27.293152,NorESM2-LM,historical
+Sydney,1973,16.019043,NorESM2-LM,historical
+San Diego,1974,18.301208,NorESM2-LM,historical
+Phoenix,1974,19.820923,NorESM2-LM,historical
+New York,1974,11.062561,NorESM2-LM,historical
+Miami,1974,24.940308,NorESM2-LM,historical
+Anchorage,1974,-2.8301392,NorESM2-LM,historical
+Toronto,1974,7.1391296,NorESM2-LM,historical
+Mexico City,1974,18.333649,NorESM2-LM,historical
+Lima,1974,22.779419,NorESM2-LM,historical
+Sao Paulo,1974,21.044281,NorESM2-LM,historical
+Buenos Aires,1974,19.04892,NorESM2-LM,historical
+Reykjavik,1974,5.2699585,NorESM2-LM,historical
+London,1974,11.782928,NorESM2-LM,historical
+Paris,1974,12.569153,NorESM2-LM,historical
+Madrid,1974,15.000366,NorESM2-LM,historical
+Moscow,1974,4.025879,NorESM2-LM,historical
+Cairo,1974,20.980774,NorESM2-LM,historical
+Lagos,1974,27.693542,NorESM2-LM,historical
+Nairobi,1974,22.436096,NorESM2-LM,historical
+Cape Town,1974,17.632507,NorESM2-LM,historical
+Riyadh,1974,24.600403,NorESM2-LM,historical
+Tehran,1974,14.493347,NorESM2-LM,historical
+Mumbai,1974,26.9664,NorESM2-LM,historical
+Delhi,1974,23.717346,NorESM2-LM,historical
+Dhaka,1974,28.347717,NorESM2-LM,historical
+Beijing,1974,7.6450195,NorESM2-LM,historical
+Shanghai,1974,17.186096,NorESM2-LM,historical
+Tokyo,1974,16.43927,NorESM2-LM,historical
+Singapore,1974,27.895416,NorESM2-LM,historical
+Jakarta,1974,27.20578,NorESM2-LM,historical
+Sydney,1974,15.967041,NorESM2-LM,historical
+San Diego,1975,19.350037,NorESM2-LM,historical
+Phoenix,1975,20.399384,NorESM2-LM,historical
+New York,1975,11.811371,NorESM2-LM,historical
+Miami,1975,24.700806,NorESM2-LM,historical
+Anchorage,1975,-5.9719543,NorESM2-LM,historical
+Toronto,1975,9.021301,NorESM2-LM,historical
+Mexico City,1975,17.573761,NorESM2-LM,historical
+Lima,1975,21.15625,NorESM2-LM,historical
+Sao Paulo,1975,20.04007,NorESM2-LM,historical
+Buenos Aires,1975,18.868652,NorESM2-LM,historical
+Reykjavik,1975,6.040436,NorESM2-LM,historical
+London,1975,11.170868,NorESM2-LM,historical
+Paris,1975,12.201324,NorESM2-LM,historical
+Madrid,1975,14.047852,NorESM2-LM,historical
+Moscow,1975,2.9612122,NorESM2-LM,historical
+Cairo,1975,21.184479,NorESM2-LM,historical
+Lagos,1975,27.38205,NorESM2-LM,historical
+Nairobi,1975,21.997925,NorESM2-LM,historical
+Cape Town,1975,17.981323,NorESM2-LM,historical
+Riyadh,1975,23.976227,NorESM2-LM,historical
+Tehran,1975,14.372864,NorESM2-LM,historical
+Mumbai,1975,26.30191,NorESM2-LM,historical
+Delhi,1975,23.439667,NorESM2-LM,historical
+Dhaka,1975,27.56894,NorESM2-LM,historical
+Beijing,1975,8.249451,NorESM2-LM,historical
+Shanghai,1975,17.573303,NorESM2-LM,historical
+Tokyo,1975,17.254333,NorESM2-LM,historical
+Singapore,1975,27.954712,NorESM2-LM,historical
+Jakarta,1975,27.26123,NorESM2-LM,historical
+Sydney,1975,15.874207,NorESM2-LM,historical
+San Diego,1976,19.871582,NorESM2-LM,historical
+Phoenix,1976,21.066315,NorESM2-LM,historical
+New York,1976,10.649292,NorESM2-LM,historical
+Miami,1976,24.928589,NorESM2-LM,historical
+Anchorage,1976,-4.6676636,NorESM2-LM,historical
+Toronto,1976,6.2602234,NorESM2-LM,historical
+Mexico City,1976,18.226135,NorESM2-LM,historical
+Lima,1976,22.054352,NorESM2-LM,historical
+Sao Paulo,1976,20.575256,NorESM2-LM,historical
+Buenos Aires,1976,18.889648,NorESM2-LM,historical
+Reykjavik,1976,5.1591187,NorESM2-LM,historical
+London,1976,10.255402,NorESM2-LM,historical
+Paris,1976,10.908722,NorESM2-LM,historical
+Madrid,1976,13.353668,NorESM2-LM,historical
+Moscow,1976,3.2548218,NorESM2-LM,historical
+Cairo,1976,20.932251,NorESM2-LM,historical
+Lagos,1976,27.485107,NorESM2-LM,historical
+Nairobi,1976,21.747345,NorESM2-LM,historical
+Cape Town,1976,17.788452,NorESM2-LM,historical
+Riyadh,1976,23.424927,NorESM2-LM,historical
+Tehran,1976,14.560272,NorESM2-LM,historical
+Mumbai,1976,26.317993,NorESM2-LM,historical
+Delhi,1976,24.05188,NorESM2-LM,historical
+Dhaka,1976,27.704773,NorESM2-LM,historical
+Beijing,1976,7.445709,NorESM2-LM,historical
+Shanghai,1976,16.217041,NorESM2-LM,historical
+Tokyo,1976,16.573914,NorESM2-LM,historical
+Singapore,1976,27.802368,NorESM2-LM,historical
+Jakarta,1976,27.162018,NorESM2-LM,historical
+Sydney,1976,15.780853,NorESM2-LM,historical
+San Diego,1977,19.024841,NorESM2-LM,historical
+Phoenix,1977,20.058289,NorESM2-LM,historical
+New York,1977,9.9357605,NorESM2-LM,historical
+Miami,1977,25.061981,NorESM2-LM,historical
+Anchorage,1977,-3.2515564,NorESM2-LM,historical
+Toronto,1977,6.2109985,NorESM2-LM,historical
+Mexico City,1977,18.487152,NorESM2-LM,historical
+Lima,1977,22.83905,NorESM2-LM,historical
+Sao Paulo,1977,21.003723,NorESM2-LM,historical
+Buenos Aires,1977,18.850403,NorESM2-LM,historical
+Reykjavik,1977,5.1877747,NorESM2-LM,historical
+London,1977,11.033386,NorESM2-LM,historical
+Paris,1977,11.71344,NorESM2-LM,historical
+Madrid,1977,14.430176,NorESM2-LM,historical
+Moscow,1977,3.557129,NorESM2-LM,historical
+Cairo,1977,21.345093,NorESM2-LM,historical
+Lagos,1977,27.747253,NorESM2-LM,historical
+Nairobi,1977,22.253937,NorESM2-LM,historical
+Cape Town,1977,17.546997,NorESM2-LM,historical
+Riyadh,1977,24.085693,NorESM2-LM,historical
+Tehran,1977,15.350769,NorESM2-LM,historical
+Mumbai,1977,27.237793,NorESM2-LM,historical
+Delhi,1977,23.897827,NorESM2-LM,historical
+Dhaka,1977,28.519165,NorESM2-LM,historical
+Beijing,1977,8.352234,NorESM2-LM,historical
+Shanghai,1977,17.319214,NorESM2-LM,historical
+Tokyo,1977,16.761353,NorESM2-LM,historical
+Singapore,1977,27.869904,NorESM2-LM,historical
+Jakarta,1977,27.219757,NorESM2-LM,historical
+Sydney,1977,15.602631,NorESM2-LM,historical
+San Diego,1978,19.663269,NorESM2-LM,historical
+Phoenix,1978,20.979156,NorESM2-LM,historical
+New York,1978,11.127899,NorESM2-LM,historical
+Miami,1978,24.55597,NorESM2-LM,historical
+Anchorage,1978,-3.061554,NorESM2-LM,historical
+Toronto,1978,7.0988464,NorESM2-LM,historical
+Mexico City,1978,17.364014,NorESM2-LM,historical
+Lima,1978,22.106445,NorESM2-LM,historical
+Sao Paulo,1978,20.97641,NorESM2-LM,historical
+Buenos Aires,1978,19.378052,NorESM2-LM,historical
+Reykjavik,1978,4.438019,NorESM2-LM,historical
+London,1978,10.642822,NorESM2-LM,historical
+Paris,1978,11.352539,NorESM2-LM,historical
+Madrid,1978,14.102661,NorESM2-LM,historical
+Moscow,1978,5.091217,NorESM2-LM,historical
+Cairo,1978,21.205688,NorESM2-LM,historical
+Lagos,1978,27.429962,NorESM2-LM,historical
+Nairobi,1978,22.259827,NorESM2-LM,historical
+Cape Town,1978,17.485962,NorESM2-LM,historical
+Riyadh,1978,24.351318,NorESM2-LM,historical
+Tehran,1978,14.62027,NorESM2-LM,historical
+Mumbai,1978,26.542053,NorESM2-LM,historical
+Delhi,1978,23.933807,NorESM2-LM,historical
+Dhaka,1978,27.996399,NorESM2-LM,historical
+Beijing,1978,7.7715454,NorESM2-LM,historical
+Shanghai,1978,16.980255,NorESM2-LM,historical
+Tokyo,1978,16.652313,NorESM2-LM,historical
+Singapore,1978,27.964935,NorESM2-LM,historical
+Jakarta,1978,27.284607,NorESM2-LM,historical
+Sydney,1978,15.655823,NorESM2-LM,historical
+San Diego,1979,19.563232,NorESM2-LM,historical
+Phoenix,1979,20.026062,NorESM2-LM,historical
+New York,1979,11.547485,NorESM2-LM,historical
+Miami,1979,25.200409,NorESM2-LM,historical
+Anchorage,1979,-1.1170349,NorESM2-LM,historical
+Toronto,1979,6.981598,NorESM2-LM,historical
+Mexico City,1979,18.267426,NorESM2-LM,historical
+Lima,1979,22.291931,NorESM2-LM,historical
+Sao Paulo,1979,20.914948,NorESM2-LM,historical
+Buenos Aires,1979,18.667694,NorESM2-LM,historical
+Reykjavik,1979,5.9228516,NorESM2-LM,historical
+London,1979,10.0772705,NorESM2-LM,historical
+Paris,1979,10.636169,NorESM2-LM,historical
+Madrid,1979,13.743805,NorESM2-LM,historical
+Moscow,1979,3.5639648,NorESM2-LM,historical
+Cairo,1979,20.554596,NorESM2-LM,historical
+Lagos,1979,27.633057,NorESM2-LM,historical
+Nairobi,1979,21.68573,NorESM2-LM,historical
+Cape Town,1979,17.910706,NorESM2-LM,historical
+Riyadh,1979,23.923492,NorESM2-LM,historical
+Tehran,1979,14.520935,NorESM2-LM,historical
+Mumbai,1979,26.762054,NorESM2-LM,historical
+Delhi,1979,23.726685,NorESM2-LM,historical
+Dhaka,1979,27.579346,NorESM2-LM,historical
+Beijing,1979,7.194458,NorESM2-LM,historical
+Shanghai,1979,16.139832,NorESM2-LM,historical
+Tokyo,1979,15.974915,NorESM2-LM,historical
+Singapore,1979,27.741608,NorESM2-LM,historical
+Jakarta,1979,27.100342,NorESM2-LM,historical
+Sydney,1979,15.5651245,NorESM2-LM,historical
+San Diego,1980,19.157257,NorESM2-LM,historical
+Phoenix,1980,20.349884,NorESM2-LM,historical
+New York,1980,11.182159,NorESM2-LM,historical
+Miami,1980,24.996094,NorESM2-LM,historical
+Anchorage,1980,-1.355896,NorESM2-LM,historical
+Toronto,1980,7.2058105,NorESM2-LM,historical
+Mexico City,1980,18.308533,NorESM2-LM,historical
+Lima,1980,22.098938,NorESM2-LM,historical
+Sao Paulo,1980,20.710571,NorESM2-LM,historical
+Buenos Aires,1980,18.956024,NorESM2-LM,historical
+Reykjavik,1980,5.0075073,NorESM2-LM,historical
+London,1980,11.028198,NorESM2-LM,historical
+Paris,1980,12.116333,NorESM2-LM,historical
+Madrid,1980,13.955353,NorESM2-LM,historical
+Moscow,1980,4.7733765,NorESM2-LM,historical
+Cairo,1980,20.441101,NorESM2-LM,historical
+Lagos,1980,27.745392,NorESM2-LM,historical
+Nairobi,1980,22.313293,NorESM2-LM,historical
+Cape Town,1980,17.919403,NorESM2-LM,historical
+Riyadh,1980,23.000488,NorESM2-LM,historical
+Tehran,1980,14.779907,NorESM2-LM,historical
+Mumbai,1980,26.659851,NorESM2-LM,historical
+Delhi,1980,24.314026,NorESM2-LM,historical
+Dhaka,1980,28.317688,NorESM2-LM,historical
+Beijing,1980,8.248108,NorESM2-LM,historical
+Shanghai,1980,16.806824,NorESM2-LM,historical
+Tokyo,1980,16.379303,NorESM2-LM,historical
+Singapore,1980,27.831238,NorESM2-LM,historical
+Jakarta,1980,27.290222,NorESM2-LM,historical
+Sydney,1980,15.796173,NorESM2-LM,historical
+San Diego,1981,18.966919,NorESM2-LM,historical
+Phoenix,1981,20.339111,NorESM2-LM,historical
+New York,1981,11.496277,NorESM2-LM,historical
+Miami,1981,25.38095,NorESM2-LM,historical
+Anchorage,1981,-2.720337,NorESM2-LM,historical
+Toronto,1981,7.536438,NorESM2-LM,historical
+Mexico City,1981,18.697296,NorESM2-LM,historical
+Lima,1981,22.828857,NorESM2-LM,historical
+Sao Paulo,1981,20.86322,NorESM2-LM,historical
+Buenos Aires,1981,19.303436,NorESM2-LM,historical
+Reykjavik,1981,5.7099304,NorESM2-LM,historical
+London,1981,11.425598,NorESM2-LM,historical
+Paris,1981,12.7100525,NorESM2-LM,historical
+Madrid,1981,14.553223,NorESM2-LM,historical
+Moscow,1981,3.0000916,NorESM2-LM,historical
+Cairo,1981,20.364807,NorESM2-LM,historical
+Lagos,1981,27.53534,NorESM2-LM,historical
+Nairobi,1981,21.950073,NorESM2-LM,historical
+Cape Town,1981,17.68869,NorESM2-LM,historical
+Riyadh,1981,24.574371,NorESM2-LM,historical
+Tehran,1981,14.976074,NorESM2-LM,historical
+Mumbai,1981,26.717468,NorESM2-LM,historical
+Delhi,1981,23.765625,NorESM2-LM,historical
+Dhaka,1981,27.786499,NorESM2-LM,historical
+Beijing,1981,8.92688,NorESM2-LM,historical
+Shanghai,1981,17.533813,NorESM2-LM,historical
+Tokyo,1981,17.078796,NorESM2-LM,historical
+Singapore,1981,27.74759,NorESM2-LM,historical
+Jakarta,1981,27.323212,NorESM2-LM,historical
+Sydney,1981,15.491943,NorESM2-LM,historical
+San Diego,1982,19.021362,NorESM2-LM,historical
+Phoenix,1982,19.87677,NorESM2-LM,historical
+New York,1982,11.818146,NorESM2-LM,historical
+Miami,1982,25.288422,NorESM2-LM,historical
+Anchorage,1982,-2.3924255,NorESM2-LM,historical
+Toronto,1982,7.52359,NorESM2-LM,historical
+Mexico City,1982,18.096863,NorESM2-LM,historical
+Lima,1982,23.411163,NorESM2-LM,historical
+Sao Paulo,1982,21.051697,NorESM2-LM,historical
+Buenos Aires,1982,19.183838,NorESM2-LM,historical
+Reykjavik,1982,5.7064514,NorESM2-LM,historical
+London,1982,10.984955,NorESM2-LM,historical
+Paris,1982,11.8680725,NorESM2-LM,historical
+Madrid,1982,13.845001,NorESM2-LM,historical
+Moscow,1982,3.9100342,NorESM2-LM,historical
+Cairo,1982,20.297485,NorESM2-LM,historical
+Lagos,1982,27.880066,NorESM2-LM,historical
+Nairobi,1982,22.648987,NorESM2-LM,historical
+Cape Town,1982,17.991302,NorESM2-LM,historical
+Riyadh,1982,24.175873,NorESM2-LM,historical
+Tehran,1982,15.35025,NorESM2-LM,historical
+Mumbai,1982,26.833221,NorESM2-LM,historical
+Delhi,1982,23.333801,NorESM2-LM,historical
+Dhaka,1982,28.48944,NorESM2-LM,historical
+Beijing,1982,8.314636,NorESM2-LM,historical
+Shanghai,1982,17.93155,NorESM2-LM,historical
+Tokyo,1982,17.223907,NorESM2-LM,historical
+Singapore,1982,27.898193,NorESM2-LM,historical
+Jakarta,1982,27.372803,NorESM2-LM,historical
+Sydney,1982,16.265686,NorESM2-LM,historical
+San Diego,1983,19.330444,NorESM2-LM,historical
+Phoenix,1983,20.185425,NorESM2-LM,historical
+New York,1983,11.716309,NorESM2-LM,historical
+Miami,1983,24.77951,NorESM2-LM,historical
+Anchorage,1983,-0.028015137,NorESM2-LM,historical
+Toronto,1983,8.217224,NorESM2-LM,historical
+Mexico City,1983,18.000092,NorESM2-LM,historical
+Lima,1983,22.841614,NorESM2-LM,historical
+Sao Paulo,1983,21.279022,NorESM2-LM,historical
+Buenos Aires,1983,18.534729,NorESM2-LM,historical
+Reykjavik,1983,5.069397,NorESM2-LM,historical
+London,1983,11.041992,NorESM2-LM,historical
+Paris,1983,11.858978,NorESM2-LM,historical
+Madrid,1983,14.408112,NorESM2-LM,historical
+Moscow,1983,4.790283,NorESM2-LM,historical
+Cairo,1983,20.132263,NorESM2-LM,historical
+Lagos,1983,27.980316,NorESM2-LM,historical
+Nairobi,1983,22.586945,NorESM2-LM,historical
+Cape Town,1983,17.505676,NorESM2-LM,historical
+Riyadh,1983,23.62265,NorESM2-LM,historical
+Tehran,1983,14.117249,NorESM2-LM,historical
+Mumbai,1983,26.700256,NorESM2-LM,historical
+Delhi,1983,24.0867,NorESM2-LM,historical
+Dhaka,1983,28.310242,NorESM2-LM,historical
+Beijing,1983,8.016144,NorESM2-LM,historical
+Shanghai,1983,17.519714,NorESM2-LM,historical
+Tokyo,1983,17.369019,NorESM2-LM,historical
+Singapore,1983,28.174316,NorESM2-LM,historical
+Jakarta,1983,27.61731,NorESM2-LM,historical
+Sydney,1983,16.281006,NorESM2-LM,historical
+San Diego,1984,19.385406,NorESM2-LM,historical
+Phoenix,1984,20.550964,NorESM2-LM,historical
+New York,1984,10.164734,NorESM2-LM,historical
+Miami,1984,24.645905,NorESM2-LM,historical
+Anchorage,1984,-2.1557617,NorESM2-LM,historical
+Toronto,1984,6.2282715,NorESM2-LM,historical
+Mexico City,1984,18.059082,NorESM2-LM,historical
+Lima,1984,21.981812,NorESM2-LM,historical
+Sao Paulo,1984,20.646484,NorESM2-LM,historical
+Buenos Aires,1984,18.275024,NorESM2-LM,historical
+Reykjavik,1984,5.2200623,NorESM2-LM,historical
+London,1984,11.036774,NorESM2-LM,historical
+Paris,1984,12.46402,NorESM2-LM,historical
+Madrid,1984,14.3307495,NorESM2-LM,historical
+Moscow,1984,3.0873108,NorESM2-LM,historical
+Cairo,1984,21.17804,NorESM2-LM,historical
+Lagos,1984,27.840393,NorESM2-LM,historical
+Nairobi,1984,22.361755,NorESM2-LM,historical
+Cape Town,1984,17.528198,NorESM2-LM,historical
+Riyadh,1984,24.798859,NorESM2-LM,historical
+Tehran,1984,15.152679,NorESM2-LM,historical
+Mumbai,1984,27.211334,NorESM2-LM,historical
+Delhi,1984,24.190674,NorESM2-LM,historical
+Dhaka,1984,28.967224,NorESM2-LM,historical
+Beijing,1984,7.564514,NorESM2-LM,historical
+Shanghai,1984,16.784851,NorESM2-LM,historical
+Tokyo,1984,16.152039,NorESM2-LM,historical
+Singapore,1984,28.17752,NorESM2-LM,historical
+Jakarta,1984,27.521423,NorESM2-LM,historical
+Sydney,1984,16.440216,NorESM2-LM,historical
+San Diego,1985,19.600769,NorESM2-LM,historical
+Phoenix,1985,21.035553,NorESM2-LM,historical
+New York,1985,11.260742,NorESM2-LM,historical
+Miami,1985,24.914337,NorESM2-LM,historical
+Anchorage,1985,-2.3656006,NorESM2-LM,historical
+Toronto,1985,7.204193,NorESM2-LM,historical
+Mexico City,1985,17.346313,NorESM2-LM,historical
+Lima,1985,22.471191,NorESM2-LM,historical
+Sao Paulo,1985,20.457031,NorESM2-LM,historical
+Buenos Aires,1985,18.983673,NorESM2-LM,historical
+Reykjavik,1985,5.5584717,NorESM2-LM,historical
+London,1985,10.942261,NorESM2-LM,historical
+Paris,1985,11.833923,NorESM2-LM,historical
+Madrid,1985,14.394043,NorESM2-LM,historical
+Moscow,1985,3.2849426,NorESM2-LM,historical
+Cairo,1985,20.594666,NorESM2-LM,historical
+Lagos,1985,27.456787,NorESM2-LM,historical
+Nairobi,1985,22.239746,NorESM2-LM,historical
+Cape Town,1985,17.836365,NorESM2-LM,historical
+Riyadh,1985,24.45636,NorESM2-LM,historical
+Tehran,1985,15.511658,NorESM2-LM,historical
+Mumbai,1985,26.812042,NorESM2-LM,historical
+Delhi,1985,24.389893,NorESM2-LM,historical
+Dhaka,1985,28.470947,NorESM2-LM,historical
+Beijing,1985,7.8986206,NorESM2-LM,historical
+Shanghai,1985,17.595337,NorESM2-LM,historical
+Tokyo,1985,17.275848,NorESM2-LM,historical
+Singapore,1985,27.922028,NorESM2-LM,historical
+Jakarta,1985,27.193909,NorESM2-LM,historical
+Sydney,1985,16.627502,NorESM2-LM,historical
+San Diego,1986,19.151093,NorESM2-LM,historical
+Phoenix,1986,20.137573,NorESM2-LM,historical
+New York,1986,11.215363,NorESM2-LM,historical
+Miami,1986,25.21991,NorESM2-LM,historical
+Anchorage,1986,-2.007141,NorESM2-LM,historical
+Toronto,1986,7.439026,NorESM2-LM,historical
+Mexico City,1986,18.43219,NorESM2-LM,historical
+Lima,1986,22.50589,NorESM2-LM,historical
+Sao Paulo,1986,21.461273,NorESM2-LM,historical
+Buenos Aires,1986,19.427551,NorESM2-LM,historical
+Reykjavik,1986,4.9664917,NorESM2-LM,historical
+London,1986,11.437256,NorESM2-LM,historical
+Paris,1986,12.209534,NorESM2-LM,historical
+Madrid,1986,14.585724,NorESM2-LM,historical
+Moscow,1986,4.406006,NorESM2-LM,historical
+Cairo,1986,21.654358,NorESM2-LM,historical
+Lagos,1986,28.157013,NorESM2-LM,historical
+Nairobi,1986,22.25296,NorESM2-LM,historical
+Cape Town,1986,17.678009,NorESM2-LM,historical
+Riyadh,1986,23.795288,NorESM2-LM,historical
+Tehran,1986,15.078339,NorESM2-LM,historical
+Mumbai,1986,26.767822,NorESM2-LM,historical
+Delhi,1986,24.427734,NorESM2-LM,historical
+Dhaka,1986,28.19983,NorESM2-LM,historical
+Beijing,1986,9.083008,NorESM2-LM,historical
+Shanghai,1986,17.500305,NorESM2-LM,historical
+Tokyo,1986,17.604492,NorESM2-LM,historical
+Singapore,1986,27.99115,NorESM2-LM,historical
+Jakarta,1986,27.361694,NorESM2-LM,historical
+Sydney,1986,16.51062,NorESM2-LM,historical
+San Diego,1987,20.129425,NorESM2-LM,historical
+Phoenix,1987,21.267517,NorESM2-LM,historical
+New York,1987,11.666626,NorESM2-LM,historical
+Miami,1987,24.818604,NorESM2-LM,historical
+Anchorage,1987,-5.736786,NorESM2-LM,historical
+Toronto,1987,7.8901367,NorESM2-LM,historical
+Mexico City,1987,17.193176,NorESM2-LM,historical
+Lima,1987,21.612793,NorESM2-LM,historical
+Sao Paulo,1987,20.866272,NorESM2-LM,historical
+Buenos Aires,1987,19.160614,NorESM2-LM,historical
+Reykjavik,1987,4.8950195,NorESM2-LM,historical
+London,1987,11.031494,NorESM2-LM,historical
+Paris,1987,11.656799,NorESM2-LM,historical
+Madrid,1987,14.039124,NorESM2-LM,historical
+Moscow,1987,5.163574,NorESM2-LM,historical
+Cairo,1987,21.504639,NorESM2-LM,historical
+Lagos,1987,27.417511,NorESM2-LM,historical
+Nairobi,1987,22.337158,NorESM2-LM,historical
+Cape Town,1987,17.892242,NorESM2-LM,historical
+Riyadh,1987,24.424622,NorESM2-LM,historical
+Tehran,1987,14.93219,NorESM2-LM,historical
+Mumbai,1987,26.895142,NorESM2-LM,historical
+Delhi,1987,23.244812,NorESM2-LM,historical
+Dhaka,1987,27.004822,NorESM2-LM,historical
+Beijing,1987,9.590149,NorESM2-LM,historical
+Shanghai,1987,17.734222,NorESM2-LM,historical
+Tokyo,1987,17.598633,NorESM2-LM,historical
+Singapore,1987,27.799011,NorESM2-LM,historical
+Jakarta,1987,27.167358,NorESM2-LM,historical
+Sydney,1987,16.368896,NorESM2-LM,historical
+San Diego,1988,19.917542,NorESM2-LM,historical
+Phoenix,1988,21.264832,NorESM2-LM,historical
+New York,1988,12.091431,NorESM2-LM,historical
+Miami,1988,24.90445,NorESM2-LM,historical
+Anchorage,1988,-5.0088196,NorESM2-LM,historical
+Toronto,1988,7.55719,NorESM2-LM,historical
+Mexico City,1988,17.562988,NorESM2-LM,historical
+Lima,1988,22.078339,NorESM2-LM,historical
+Sao Paulo,1988,20.992249,NorESM2-LM,historical
+Buenos Aires,1988,18.355347,NorESM2-LM,historical
+Reykjavik,1988,4.8823853,NorESM2-LM,historical
+London,1988,12.114563,NorESM2-LM,historical
+Paris,1988,12.874573,NorESM2-LM,historical
+Madrid,1988,15.228058,NorESM2-LM,historical
+Moscow,1988,4.38208,NorESM2-LM,historical
+Cairo,1988,20.197418,NorESM2-LM,historical
+Lagos,1988,27.127747,NorESM2-LM,historical
+Nairobi,1988,21.692413,NorESM2-LM,historical
+Cape Town,1988,17.592224,NorESM2-LM,historical
+Riyadh,1988,23.01358,NorESM2-LM,historical
+Tehran,1988,13.568848,NorESM2-LM,historical
+Mumbai,1988,25.991364,NorESM2-LM,historical
+Delhi,1988,23.596497,NorESM2-LM,historical
+Dhaka,1988,27.620422,NorESM2-LM,historical
+Beijing,1988,8.660675,NorESM2-LM,historical
+Shanghai,1988,16.91681,NorESM2-LM,historical
+Tokyo,1988,17.347778,NorESM2-LM,historical
+Singapore,1988,28.067017,NorESM2-LM,historical
+Jakarta,1988,27.1492,NorESM2-LM,historical
+Sydney,1988,16.419342,NorESM2-LM,historical
+San Diego,1989,19.823578,NorESM2-LM,historical
+Phoenix,1989,20.97293,NorESM2-LM,historical
+New York,1989,11.9904175,NorESM2-LM,historical
+Miami,1989,24.998962,NorESM2-LM,historical
+Anchorage,1989,-0.8855591,NorESM2-LM,historical
+Toronto,1989,7.7185974,NorESM2-LM,historical
+Mexico City,1989,17.43332,NorESM2-LM,historical
+Lima,1989,22.340546,NorESM2-LM,historical
+Sao Paulo,1989,20.94397,NorESM2-LM,historical
+Buenos Aires,1989,18.563232,NorESM2-LM,historical
+Reykjavik,1989,5.4114685,NorESM2-LM,historical
+London,1989,11.14978,NorESM2-LM,historical
+Paris,1989,12.690735,NorESM2-LM,historical
+Madrid,1989,15.511108,NorESM2-LM,historical
+Moscow,1989,3.4189453,NorESM2-LM,historical
+Cairo,1989,21.214355,NorESM2-LM,historical
+Lagos,1989,27.73944,NorESM2-LM,historical
+Nairobi,1989,22.18393,NorESM2-LM,historical
+Cape Town,1989,17.726013,NorESM2-LM,historical
+Riyadh,1989,24.513702,NorESM2-LM,historical
+Tehran,1989,15.110779,NorESM2-LM,historical
+Mumbai,1989,26.73053,NorESM2-LM,historical
+Delhi,1989,23.562897,NorESM2-LM,historical
+Dhaka,1989,27.312622,NorESM2-LM,historical
+Beijing,1989,9.623596,NorESM2-LM,historical
+Shanghai,1989,17.79358,NorESM2-LM,historical
+Tokyo,1989,17.761047,NorESM2-LM,historical
+Singapore,1989,28.01239,NorESM2-LM,historical
+Jakarta,1989,27.388428,NorESM2-LM,historical
+Sydney,1989,16.044434,NorESM2-LM,historical
+San Diego,1990,19.874756,NorESM2-LM,historical
+Phoenix,1990,20.682373,NorESM2-LM,historical
+New York,1990,10.79483,NorESM2-LM,historical
+Miami,1990,25.361877,NorESM2-LM,historical
+Anchorage,1990,-2.2893066,NorESM2-LM,historical
+Toronto,1990,6.945343,NorESM2-LM,historical
+Mexico City,1990,17.947388,NorESM2-LM,historical
+Lima,1990,23.132263,NorESM2-LM,historical
+Sao Paulo,1990,21.840088,NorESM2-LM,historical
+Buenos Aires,1990,19.287964,NorESM2-LM,historical
+Reykjavik,1990,6.4823,NorESM2-LM,historical
+London,1990,10.92453,NorESM2-LM,historical
+Paris,1990,11.458893,NorESM2-LM,historical
+Madrid,1990,14.410645,NorESM2-LM,historical
+Moscow,1990,2.5090332,NorESM2-LM,historical
+Cairo,1990,21.052704,NorESM2-LM,historical
+Lagos,1990,27.97641,NorESM2-LM,historical
+Nairobi,1990,22.01651,NorESM2-LM,historical
+Cape Town,1990,17.805878,NorESM2-LM,historical
+Riyadh,1990,24.27069,NorESM2-LM,historical
+Tehran,1990,15.247498,NorESM2-LM,historical
+Mumbai,1990,27.293182,NorESM2-LM,historical
+Delhi,1990,24.799744,NorESM2-LM,historical
+Dhaka,1990,28.190216,NorESM2-LM,historical
+Beijing,1990,9.143799,NorESM2-LM,historical
+Shanghai,1990,18.33847,NorESM2-LM,historical
+Tokyo,1990,17.662842,NorESM2-LM,historical
+Singapore,1990,28.286316,NorESM2-LM,historical
+Jakarta,1990,27.630737,NorESM2-LM,historical
+Sydney,1990,16.254211,NorESM2-LM,historical
+San Diego,1991,20.097504,NorESM2-LM,historical
+Phoenix,1991,20.97348,NorESM2-LM,historical
+New York,1991,11.254822,NorESM2-LM,historical
+Miami,1991,25.542175,NorESM2-LM,historical
+Anchorage,1991,-3.9602356,NorESM2-LM,historical
+Toronto,1991,7.1513977,NorESM2-LM,historical
+Mexico City,1991,18.297913,NorESM2-LM,historical
+Lima,1991,23.231873,NorESM2-LM,historical
+Sao Paulo,1991,20.676056,NorESM2-LM,historical
+Buenos Aires,1991,18.716278,NorESM2-LM,historical
+Reykjavik,1991,6.030884,NorESM2-LM,historical
+London,1991,11.16864,NorESM2-LM,historical
+Paris,1991,12.61496,NorESM2-LM,historical
+Madrid,1991,14.854248,NorESM2-LM,historical
+Moscow,1991,2.27417,NorESM2-LM,historical
+Cairo,1991,21.176971,NorESM2-LM,historical
+Lagos,1991,28.250458,NorESM2-LM,historical
+Nairobi,1991,22.814453,NorESM2-LM,historical
+Cape Town,1991,18.045197,NorESM2-LM,historical
+Riyadh,1991,24.546326,NorESM2-LM,historical
+Tehran,1991,15.015533,NorESM2-LM,historical
+Mumbai,1991,27.648224,NorESM2-LM,historical
+Delhi,1991,23.702698,NorESM2-LM,historical
+Dhaka,1991,27.475037,NorESM2-LM,historical
+Beijing,1991,9.611145,NorESM2-LM,historical
+Shanghai,1991,17.368927,NorESM2-LM,historical
+Tokyo,1991,17.497925,NorESM2-LM,historical
+Singapore,1991,28.180725,NorESM2-LM,historical
+Jakarta,1991,27.67221,NorESM2-LM,historical
+Sydney,1991,16.020935,NorESM2-LM,historical
+San Diego,1992,19.85028,NorESM2-LM,historical
+Phoenix,1992,20.543121,NorESM2-LM,historical
+New York,1992,11.584381,NorESM2-LM,historical
+Miami,1992,25.687561,NorESM2-LM,historical
+Anchorage,1992,-3.1469727,NorESM2-LM,historical
+Toronto,1992,7.9526978,NorESM2-LM,historical
+Mexico City,1992,17.65335,NorESM2-LM,historical
+Lima,1992,22.574036,NorESM2-LM,historical
+Sao Paulo,1992,20.14508,NorESM2-LM,historical
+Buenos Aires,1992,18.725586,NorESM2-LM,historical
+Reykjavik,1992,5.4139404,NorESM2-LM,historical
+London,1992,11.82962,NorESM2-LM,historical
+Paris,1992,12.531647,NorESM2-LM,historical
+Madrid,1992,14.986298,NorESM2-LM,historical
+Moscow,1992,4.971344,NorESM2-LM,historical
+Cairo,1992,20.391968,NorESM2-LM,historical
+Lagos,1992,27.685913,NorESM2-LM,historical
+Nairobi,1992,22.631226,NorESM2-LM,historical
+Cape Town,1992,17.737183,NorESM2-LM,historical
+Riyadh,1992,23.70633,NorESM2-LM,historical
+Tehran,1992,14.307678,NorESM2-LM,historical
+Mumbai,1992,26.85437,NorESM2-LM,historical
+Delhi,1992,23.17688,NorESM2-LM,historical
+Dhaka,1992,27.549866,NorESM2-LM,historical
+Beijing,1992,8.532074,NorESM2-LM,historical
+Shanghai,1992,17.189758,NorESM2-LM,historical
+Tokyo,1992,17.221771,NorESM2-LM,historical
+Singapore,1992,28.04535,NorESM2-LM,historical
+Jakarta,1992,27.430298,NorESM2-LM,historical
+Sydney,1992,15.499451,NorESM2-LM,historical
+San Diego,1993,20.52481,NorESM2-LM,historical
+Phoenix,1993,21.23053,NorESM2-LM,historical
+New York,1993,11.088562,NorESM2-LM,historical
+Miami,1993,25.376434,NorESM2-LM,historical
+Anchorage,1993,-1.737854,NorESM2-LM,historical
+Toronto,1993,7.0794373,NorESM2-LM,historical
+Mexico City,1993,16.942596,NorESM2-LM,historical
+Lima,1993,21.63385,NorESM2-LM,historical
+Sao Paulo,1993,20.516418,NorESM2-LM,historical
+Buenos Aires,1993,19.003082,NorESM2-LM,historical
+Reykjavik,1993,5.7184143,NorESM2-LM,historical
+London,1993,10.995789,NorESM2-LM,historical
+Paris,1993,11.908203,NorESM2-LM,historical
+Madrid,1993,14.512817,NorESM2-LM,historical
+Moscow,1993,5.5477295,NorESM2-LM,historical
+Cairo,1993,21.24115,NorESM2-LM,historical
+Lagos,1993,27.322266,NorESM2-LM,historical
+Nairobi,1993,21.36145,NorESM2-LM,historical
+Cape Town,1993,17.38739,NorESM2-LM,historical
+Riyadh,1993,24.336426,NorESM2-LM,historical
+Tehran,1993,15.077454,NorESM2-LM,historical
+Mumbai,1993,26.021881,NorESM2-LM,historical
+Delhi,1993,23.209534,NorESM2-LM,historical
+Dhaka,1993,26.747314,NorESM2-LM,historical
+Beijing,1993,8.681244,NorESM2-LM,historical
+Shanghai,1993,17.4729,NorESM2-LM,historical
+Tokyo,1993,17.232086,NorESM2-LM,historical
+Singapore,1993,28.031708,NorESM2-LM,historical
+Jakarta,1993,27.193542,NorESM2-LM,historical
+Sydney,1993,15.718475,NorESM2-LM,historical
+San Diego,1994,20.111115,NorESM2-LM,historical
+Phoenix,1994,21.463379,NorESM2-LM,historical
+New York,1994,12.416443,NorESM2-LM,historical
+Miami,1994,25.139923,NorESM2-LM,historical
+Anchorage,1994,-5.2661133,NorESM2-LM,historical
+Toronto,1994,9.081116,NorESM2-LM,historical
+Mexico City,1994,17.075806,NorESM2-LM,historical
+Lima,1994,22.010925,NorESM2-LM,historical
+Sao Paulo,1994,20.855164,NorESM2-LM,historical
+Buenos Aires,1994,18.570526,NorESM2-LM,historical
+Reykjavik,1994,5.8149414,NorESM2-LM,historical
+London,1994,11.66333,NorESM2-LM,historical
+Paris,1994,12.159668,NorESM2-LM,historical
+Madrid,1994,14.200104,NorESM2-LM,historical
+Moscow,1994,5.142761,NorESM2-LM,historical
+Cairo,1994,20.707031,NorESM2-LM,historical
+Lagos,1994,27.301575,NorESM2-LM,historical
+Nairobi,1994,21.184174,NorESM2-LM,historical
+Cape Town,1994,17.463959,NorESM2-LM,historical
+Riyadh,1994,24.310822,NorESM2-LM,historical
+Tehran,1994,14.965912,NorESM2-LM,historical
+Mumbai,1994,26.234863,NorESM2-LM,historical
+Delhi,1994,23.018799,NorESM2-LM,historical
+Dhaka,1994,27.374634,NorESM2-LM,historical
+Beijing,1994,8.934143,NorESM2-LM,historical
+Shanghai,1994,18.410736,NorESM2-LM,historical
+Tokyo,1994,17.669373,NorESM2-LM,historical
+Singapore,1994,27.865875,NorESM2-LM,historical
+Jakarta,1994,27.084778,NorESM2-LM,historical
+Sydney,1994,15.80011,NorESM2-LM,historical
+San Diego,1995,19.590546,NorESM2-LM,historical
+Phoenix,1995,20.763641,NorESM2-LM,historical
+New York,1995,11.910126,NorESM2-LM,historical
+Miami,1995,25.375305,NorESM2-LM,historical
+Anchorage,1995,-2.8539734,NorESM2-LM,historical
+Toronto,1995,7.4612427,NorESM2-LM,historical
+Mexico City,1995,17.817993,NorESM2-LM,historical
+Lima,1995,22.798157,NorESM2-LM,historical
+Sao Paulo,1995,20.92865,NorESM2-LM,historical
+Buenos Aires,1995,18.686432,NorESM2-LM,historical
+Reykjavik,1995,5.6049805,NorESM2-LM,historical
+London,1995,10.892242,NorESM2-LM,historical
+Paris,1995,11.398132,NorESM2-LM,historical
+Madrid,1995,13.848389,NorESM2-LM,historical
+Moscow,1995,5.740204,NorESM2-LM,historical
+Cairo,1995,20.949951,NorESM2-LM,historical
+Lagos,1995,27.49945,NorESM2-LM,historical
+Nairobi,1995,22.190308,NorESM2-LM,historical
+Cape Town,1995,17.394623,NorESM2-LM,historical
+Riyadh,1995,24.582397,NorESM2-LM,historical
+Tehran,1995,15.258392,NorESM2-LM,historical
+Mumbai,1995,27.14038,NorESM2-LM,historical
+Delhi,1995,24.279938,NorESM2-LM,historical
+Dhaka,1995,28.369293,NorESM2-LM,historical
+Beijing,1995,9.066345,NorESM2-LM,historical
+Shanghai,1995,17.463837,NorESM2-LM,historical
+Tokyo,1995,17.22406,NorESM2-LM,historical
+Singapore,1995,28.026428,NorESM2-LM,historical
+Jakarta,1995,27.29477,NorESM2-LM,historical
+Sydney,1995,16.053375,NorESM2-LM,historical
+San Diego,1996,20.042542,NorESM2-LM,historical
+Phoenix,1996,21.74585,NorESM2-LM,historical
+New York,1996,11.477905,NorESM2-LM,historical
+Miami,1996,25.385681,NorESM2-LM,historical
+Anchorage,1996,-0.44769287,NorESM2-LM,historical
+Toronto,1996,7.0594177,NorESM2-LM,historical
+Mexico City,1996,17.438416,NorESM2-LM,historical
+Lima,1996,22.93631,NorESM2-LM,historical
+Sao Paulo,1996,20.782043,NorESM2-LM,historical
+Buenos Aires,1996,18.62616,NorESM2-LM,historical
+Reykjavik,1996,5.0565796,NorESM2-LM,historical
+London,1996,11.314423,NorESM2-LM,historical
+Paris,1996,11.913666,NorESM2-LM,historical
+Madrid,1996,13.8703,NorESM2-LM,historical
+Moscow,1996,5.680786,NorESM2-LM,historical
+Cairo,1996,21.380676,NorESM2-LM,historical
+Lagos,1996,27.69336,NorESM2-LM,historical
+Nairobi,1996,22.142792,NorESM2-LM,historical
+Cape Town,1996,17.95819,NorESM2-LM,historical
+Riyadh,1996,24.421112,NorESM2-LM,historical
+Tehran,1996,14.543884,NorESM2-LM,historical
+Mumbai,1996,26.509674,NorESM2-LM,historical
+Delhi,1996,23.193665,NorESM2-LM,historical
+Dhaka,1996,28.05371,NorESM2-LM,historical
+Beijing,1996,8.644836,NorESM2-LM,historical
+Shanghai,1996,17.79419,NorESM2-LM,historical
+Tokyo,1996,17.318726,NorESM2-LM,historical
+Singapore,1996,27.970734,NorESM2-LM,historical
+Jakarta,1996,27.604065,NorESM2-LM,historical
+Sydney,1996,16.009094,NorESM2-LM,historical
+San Diego,1997,20.009186,NorESM2-LM,historical
+Phoenix,1997,20.777374,NorESM2-LM,historical
+New York,1997,10.852295,NorESM2-LM,historical
+Miami,1997,25.345642,NorESM2-LM,historical
+Anchorage,1997,0.70077515,NorESM2-LM,historical
+Toronto,1997,6.536072,NorESM2-LM,historical
+Mexico City,1997,18.140686,NorESM2-LM,historical
+Lima,1997,23.092773,NorESM2-LM,historical
+Sao Paulo,1997,20.593414,NorESM2-LM,historical
+Buenos Aires,1997,18.508057,NorESM2-LM,historical
+Reykjavik,1997,5.7672424,NorESM2-LM,historical
+London,1997,10.831268,NorESM2-LM,historical
+Paris,1997,11.671814,NorESM2-LM,historical
+Madrid,1997,13.870178,NorESM2-LM,historical
+Moscow,1997,5.3177185,NorESM2-LM,historical
+Cairo,1997,21.65982,NorESM2-LM,historical
+Lagos,1997,27.968048,NorESM2-LM,historical
+Nairobi,1997,22.033508,NorESM2-LM,historical
+Cape Town,1997,18.21048,NorESM2-LM,historical
+Riyadh,1997,25.230835,NorESM2-LM,historical
+Tehran,1997,16.766144,NorESM2-LM,historical
+Mumbai,1997,27.004944,NorESM2-LM,historical
+Delhi,1997,24.17865,NorESM2-LM,historical
+Dhaka,1997,27.777893,NorESM2-LM,historical
+Beijing,1997,8.783691,NorESM2-LM,historical
+Shanghai,1997,18.053589,NorESM2-LM,historical
+Tokyo,1997,17.59143,NorESM2-LM,historical
+Singapore,1997,28.062897,NorESM2-LM,historical
+Jakarta,1997,27.505127,NorESM2-LM,historical
+Sydney,1997,16.76001,NorESM2-LM,historical
+San Diego,1998,19.220978,NorESM2-LM,historical
+Phoenix,1998,20.494171,NorESM2-LM,historical
+New York,1998,13.379028,NorESM2-LM,historical
+Miami,1998,26.018066,NorESM2-LM,historical
+Anchorage,1998,-1.3773804,NorESM2-LM,historical
+Toronto,1998,9.1718445,NorESM2-LM,historical
+Mexico City,1998,18.58319,NorESM2-LM,historical
+Lima,1998,22.820435,NorESM2-LM,historical
+Sao Paulo,1998,21.231995,NorESM2-LM,historical
+Buenos Aires,1998,19.234314,NorESM2-LM,historical
+Reykjavik,1998,6.7020874,NorESM2-LM,historical
+London,1998,12.263092,NorESM2-LM,historical
+Paris,1998,12.672333,NorESM2-LM,historical
+Madrid,1998,14.119324,NorESM2-LM,historical
+Moscow,1998,5.71756,NorESM2-LM,historical
+Cairo,1998,20.714447,NorESM2-LM,historical
+Lagos,1998,28.095337,NorESM2-LM,historical
+Nairobi,1998,22.786957,NorESM2-LM,historical
+Cape Town,1998,17.568787,NorESM2-LM,historical
+Riyadh,1998,24.467651,NorESM2-LM,historical
+Tehran,1998,14.826233,NorESM2-LM,historical
+Mumbai,1998,27.286987,NorESM2-LM,historical
+Delhi,1998,23.787659,NorESM2-LM,historical
+Dhaka,1998,27.860992,NorESM2-LM,historical
+Beijing,1998,8.676636,NorESM2-LM,historical
+Shanghai,1998,17.832245,NorESM2-LM,historical
+Tokyo,1998,17.557556,NorESM2-LM,historical
+Singapore,1998,28.297302,NorESM2-LM,historical
+Jakarta,1998,27.882751,NorESM2-LM,historical
+Sydney,1998,16.884705,NorESM2-LM,historical
+San Diego,1999,19.790161,NorESM2-LM,historical
+Phoenix,1999,20.91455,NorESM2-LM,historical
+New York,1999,13.2499695,NorESM2-LM,historical
+Miami,1999,25.362732,NorESM2-LM,historical
+Anchorage,1999,1.0100708,NorESM2-LM,historical
+Toronto,1999,9.168091,NorESM2-LM,historical
+Mexico City,1999,17.510498,NorESM2-LM,historical
+Lima,1999,22.932892,NorESM2-LM,historical
+Sao Paulo,1999,21.552063,NorESM2-LM,historical
+Buenos Aires,1999,18.907166,NorESM2-LM,historical
+Reykjavik,1999,4.7618103,NorESM2-LM,historical
+London,1999,12.678284,NorESM2-LM,historical
+Paris,1999,14.248047,NorESM2-LM,historical
+Madrid,1999,16.029785,NorESM2-LM,historical
+Moscow,1999,5.524597,NorESM2-LM,historical
+Cairo,1999,21.538269,NorESM2-LM,historical
+Lagos,1999,28.098572,NorESM2-LM,historical
+Nairobi,1999,22.73053,NorESM2-LM,historical
+Cape Town,1999,17.921844,NorESM2-LM,historical
+Riyadh,1999,25.132935,NorESM2-LM,historical
+Tehran,1999,15.058899,NorESM2-LM,historical
+Mumbai,1999,27.272217,NorESM2-LM,historical
+Delhi,1999,25.019165,NorESM2-LM,historical
+Dhaka,1999,28.18341,NorESM2-LM,historical
+Beijing,1999,9.372498,NorESM2-LM,historical
+Shanghai,1999,17.323334,NorESM2-LM,historical
+Tokyo,1999,17.474426,NorESM2-LM,historical
+Singapore,1999,28.108154,NorESM2-LM,historical
+Jakarta,1999,27.535889,NorESM2-LM,historical
+Sydney,1999,16.359192,NorESM2-LM,historical
+San Diego,2000,20.431671,NorESM2-LM,historical
+Phoenix,2000,21.538086,NorESM2-LM,historical
+New York,2000,12.473022,NorESM2-LM,historical
+Miami,2000,25.628296,NorESM2-LM,historical
+Anchorage,2000,-0.23675537,NorESM2-LM,historical
+Toronto,2000,8.926849,NorESM2-LM,historical
+Mexico City,2000,17.988312,NorESM2-LM,historical
+Lima,2000,23.942932,NorESM2-LM,historical
+Sao Paulo,2000,22.023987,NorESM2-LM,historical
+Buenos Aires,2000,19.258057,NorESM2-LM,historical
+Reykjavik,2000,6.1395264,NorESM2-LM,historical
+London,2000,12.768524,NorESM2-LM,historical
+Paris,2000,13.473022,NorESM2-LM,historical
+Madrid,2000,16.149323,NorESM2-LM,historical
+Moscow,2000,5.538513,NorESM2-LM,historical
+Cairo,2000,21.429504,NorESM2-LM,historical
+Lagos,2000,28.22168,NorESM2-LM,historical
+Nairobi,2000,22.729675,NorESM2-LM,historical
+Cape Town,2000,18.045685,NorESM2-LM,historical
+Riyadh,2000,25.177124,NorESM2-LM,historical
+Tehran,2000,15.670746,NorESM2-LM,historical
+Mumbai,2000,27.611115,NorESM2-LM,historical
+Delhi,2000,24.288483,NorESM2-LM,historical
+Dhaka,2000,28.88504,NorESM2-LM,historical
+Beijing,2000,10.417358,NorESM2-LM,historical
+Shanghai,2000,17.98761,NorESM2-LM,historical
+Tokyo,2000,17.951172,NorESM2-LM,historical
+Singapore,2000,28.435547,NorESM2-LM,historical
+Jakarta,2000,27.850525,NorESM2-LM,historical
+Sydney,2000,16.75885,NorESM2-LM,historical
+San Diego,2001,19.712402,NorESM2-LM,historical
+Phoenix,2001,20.888306,NorESM2-LM,historical
+New York,2001,12.44516,NorESM2-LM,historical
+Miami,2001,25.526123,NorESM2-LM,historical
+Anchorage,2001,-0.5227356,NorESM2-LM,historical
+Toronto,2001,9.199768,NorESM2-LM,historical
+Mexico City,2001,18.43576,NorESM2-LM,historical
+Lima,2001,23.853058,NorESM2-LM,historical
+Sao Paulo,2001,20.600616,NorESM2-LM,historical
+Buenos Aires,2001,18.546997,NorESM2-LM,historical
+Reykjavik,2001,8.079712,NorESM2-LM,historical
+London,2001,11.867798,NorESM2-LM,historical
+Paris,2001,12.813416,NorESM2-LM,historical
+Madrid,2001,15.310577,NorESM2-LM,historical
+Moscow,2001,3.9752502,NorESM2-LM,historical
+Cairo,2001,22.46466,NorESM2-LM,historical
+Lagos,2001,28.501617,NorESM2-LM,historical
+Nairobi,2001,22.44928,NorESM2-LM,historical
+Cape Town,2001,18.042816,NorESM2-LM,historical
+Riyadh,2001,25.0867,NorESM2-LM,historical
+Tehran,2001,16.538757,NorESM2-LM,historical
+Mumbai,2001,27.683014,NorESM2-LM,historical
+Delhi,2001,24.76184,NorESM2-LM,historical
+Dhaka,2001,28.83374,NorESM2-LM,historical
+Beijing,2001,8.110565,NorESM2-LM,historical
+Shanghai,2001,18.948914,NorESM2-LM,historical
+Tokyo,2001,18.075806,NorESM2-LM,historical
+Singapore,2001,28.84668,NorESM2-LM,historical
+Jakarta,2001,28.257477,NorESM2-LM,historical
+Sydney,2001,16.634186,NorESM2-LM,historical
+San Diego,2002,19.993408,NorESM2-LM,historical
+Phoenix,2002,21.935364,NorESM2-LM,historical
+New York,2002,11.65152,NorESM2-LM,historical
+Miami,2002,25.068573,NorESM2-LM,historical
+Anchorage,2002,-3.002594,NorESM2-LM,historical
+Toronto,2002,8.261505,NorESM2-LM,historical
+Mexico City,2002,17.290222,NorESM2-LM,historical
+Lima,2002,21.810211,NorESM2-LM,historical
+Sao Paulo,2002,20.889465,NorESM2-LM,historical
+Buenos Aires,2002,18.92749,NorESM2-LM,historical
+Reykjavik,2002,7.5243225,NorESM2-LM,historical
+London,2002,11.922028,NorESM2-LM,historical
+Paris,2002,12.846802,NorESM2-LM,historical
+Madrid,2002,14.646423,NorESM2-LM,historical
+Moscow,2002,4.955139,NorESM2-LM,historical
+Cairo,2002,21.786499,NorESM2-LM,historical
+Lagos,2002,27.771301,NorESM2-LM,historical
+Nairobi,2002,21.544708,NorESM2-LM,historical
+Cape Town,2002,17.56128,NorESM2-LM,historical
+Riyadh,2002,25.005829,NorESM2-LM,historical
+Tehran,2002,15.528381,NorESM2-LM,historical
+Mumbai,2002,26.987,NorESM2-LM,historical
+Delhi,2002,24.364716,NorESM2-LM,historical
+Dhaka,2002,27.681091,NorESM2-LM,historical
+Beijing,2002,8.734131,NorESM2-LM,historical
+Shanghai,2002,18.289307,NorESM2-LM,historical
+Tokyo,2002,17.709991,NorESM2-LM,historical
+Singapore,2002,28.22699,NorESM2-LM,historical
+Jakarta,2002,27.680847,NorESM2-LM,historical
+Sydney,2002,16.11914,NorESM2-LM,historical
+San Diego,2003,20.832672,NorESM2-LM,historical
+Phoenix,2003,21.780151,NorESM2-LM,historical
+New York,2003,11.231964,NorESM2-LM,historical
+Miami,2003,25.661957,NorESM2-LM,historical
+Anchorage,2003,-1.409668,NorESM2-LM,historical
+Toronto,2003,7.5021667,NorESM2-LM,historical
+Mexico City,2003,17.717377,NorESM2-LM,historical
+Lima,2003,22.54248,NorESM2-LM,historical
+Sao Paulo,2003,21.0318,NorESM2-LM,historical
+Buenos Aires,2003,18.86914,NorESM2-LM,historical
+Reykjavik,2003,6.2380066,NorESM2-LM,historical
+London,2003,10.765381,NorESM2-LM,historical
+Paris,2003,11.4953,NorESM2-LM,historical
+Madrid,2003,14.200867,NorESM2-LM,historical
+Moscow,2003,5.872345,NorESM2-LM,historical
+Cairo,2003,21.692627,NorESM2-LM,historical
+Lagos,2003,27.585846,NorESM2-LM,historical
+Nairobi,2003,21.91391,NorESM2-LM,historical
+Cape Town,2003,17.711853,NorESM2-LM,historical
+Riyadh,2003,25.64331,NorESM2-LM,historical
+Tehran,2003,16.054565,NorESM2-LM,historical
+Mumbai,2003,27.005493,NorESM2-LM,historical
+Delhi,2003,24.02826,NorESM2-LM,historical
+Dhaka,2003,27.76419,NorESM2-LM,historical
+Beijing,2003,9.1744995,NorESM2-LM,historical
+Shanghai,2003,17.277435,NorESM2-LM,historical
+Tokyo,2003,16.94983,NorESM2-LM,historical
+Singapore,2003,27.855225,NorESM2-LM,historical
+Jakarta,2003,27.464874,NorESM2-LM,historical
+Sydney,2003,15.961548,NorESM2-LM,historical
+San Diego,2004,19.5083,NorESM2-LM,historical
+Phoenix,2004,20.745514,NorESM2-LM,historical
+New York,2004,11.911621,NorESM2-LM,historical
+Miami,2004,25.497192,NorESM2-LM,historical
+Anchorage,2004,-1.5710449,NorESM2-LM,historical
+Toronto,2004,8.161743,NorESM2-LM,historical
+Mexico City,2004,18.53479,NorESM2-LM,historical
+Lima,2004,23.000793,NorESM2-LM,historical
+Sao Paulo,2004,20.994507,NorESM2-LM,historical
+Buenos Aires,2004,19.318909,NorESM2-LM,historical
+Reykjavik,2004,5.592041,NorESM2-LM,historical
+London,2004,12.469727,NorESM2-LM,historical
+Paris,2004,13.777954,NorESM2-LM,historical
+Madrid,2004,15.969055,NorESM2-LM,historical
+Moscow,2004,4.655884,NorESM2-LM,historical
+Cairo,2004,21.400085,NorESM2-LM,historical
+Lagos,2004,28.215576,NorESM2-LM,historical
+Nairobi,2004,22.471375,NorESM2-LM,historical
+Cape Town,2004,18.115173,NorESM2-LM,historical
+Riyadh,2004,24.804504,NorESM2-LM,historical
+Tehran,2004,15.4505005,NorESM2-LM,historical
+Mumbai,2004,27.194275,NorESM2-LM,historical
+Delhi,2004,23.882202,NorESM2-LM,historical
+Dhaka,2004,28.001099,NorESM2-LM,historical
+Beijing,2004,10.354431,NorESM2-LM,historical
+Shanghai,2004,19.047089,NorESM2-LM,historical
+Tokyo,2004,18.043976,NorESM2-LM,historical
+Singapore,2004,28.287994,NorESM2-LM,historical
+Jakarta,2004,27.826294,NorESM2-LM,historical
+Sydney,2004,16.435425,NorESM2-LM,historical
+San Diego,2005,19.241333,NorESM2-LM,historical
+Phoenix,2005,21.110077,NorESM2-LM,historical
+New York,2005,11.829224,NorESM2-LM,historical
+Miami,2005,25.459625,NorESM2-LM,historical
+Anchorage,2005,-0.94384766,NorESM2-LM,historical
+Toronto,2005,8.437958,NorESM2-LM,historical
+Mexico City,2005,18.25354,NorESM2-LM,historical
+Lima,2005,22.195374,NorESM2-LM,historical
+Sao Paulo,2005,20.915924,NorESM2-LM,historical
+Buenos Aires,2005,18.895935,NorESM2-LM,historical
+Reykjavik,2005,6.0114136,NorESM2-LM,historical
+London,2005,11.615662,NorESM2-LM,historical
+Paris,2005,12.712769,NorESM2-LM,historical
+Madrid,2005,15.001221,NorESM2-LM,historical
+Moscow,2005,4.5620117,NorESM2-LM,historical
+Cairo,2005,21.507477,NorESM2-LM,historical
+Lagos,2005,28.09375,NorESM2-LM,historical
+Nairobi,2005,22.692902,NorESM2-LM,historical
+Cape Town,2005,17.966797,NorESM2-LM,historical
+Riyadh,2005,24.751984,NorESM2-LM,historical
+Tehran,2005,14.657227,NorESM2-LM,historical
+Mumbai,2005,26.941772,NorESM2-LM,historical
+Delhi,2005,23.540527,NorESM2-LM,historical
+Dhaka,2005,27.765228,NorESM2-LM,historical
+Beijing,2005,9.080383,NorESM2-LM,historical
+Shanghai,2005,17.86322,NorESM2-LM,historical
+Tokyo,2005,17.700958,NorESM2-LM,historical
+Singapore,2005,28.480438,NorESM2-LM,historical
+Jakarta,2005,27.889893,NorESM2-LM,historical
+Sydney,2005,15.973022,NorESM2-LM,historical
+San Diego,2006,21.163818,NorESM2-LM,historical
+Phoenix,2006,22.507141,NorESM2-LM,historical
+New York,2006,12.054138,NorESM2-LM,historical
+Miami,2006,25.776611,NorESM2-LM,historical
+Anchorage,2006,-4.603302,NorESM2-LM,historical
+Toronto,2006,7.8198853,NorESM2-LM,historical
+Mexico City,2006,17.271088,NorESM2-LM,historical
+Lima,2006,22.43982,NorESM2-LM,historical
+Sao Paulo,2006,20.922058,NorESM2-LM,historical
+Buenos Aires,2006,18.572021,NorESM2-LM,historical
+Reykjavik,2006,4.540344,NorESM2-LM,historical
+London,2006,11.132965,NorESM2-LM,historical
+Paris,2006,11.92691,NorESM2-LM,historical
+Madrid,2006,15.02002,NorESM2-LM,historical
+Moscow,2006,6.3740845,NorESM2-LM,historical
+Cairo,2006,21.417267,NorESM2-LM,historical
+Lagos,2006,27.83197,NorESM2-LM,historical
+Nairobi,2006,22.68985,NorESM2-LM,historical
+Cape Town,2006,17.565033,NorESM2-LM,historical
+Riyadh,2006,25.99469,NorESM2-LM,historical
+Tehran,2006,16.151978,NorESM2-LM,historical
+Mumbai,2006,26.887115,NorESM2-LM,historical
+Delhi,2006,24.05011,NorESM2-LM,historical
+Dhaka,2006,27.552795,NorESM2-LM,historical
+Beijing,2006,9.356445,NorESM2-LM,historical
+Shanghai,2006,17.403564,NorESM2-LM,historical
+Tokyo,2006,17.527283,NorESM2-LM,historical
+Singapore,2006,28.09372,NorESM2-LM,historical
+Jakarta,2006,27.554932,NorESM2-LM,historical
+Sydney,2006,15.846558,NorESM2-LM,historical
+San Diego,2007,20.649506,NorESM2-LM,historical
+Phoenix,2007,21.315796,NorESM2-LM,historical
+New York,2007,13.223938,NorESM2-LM,historical
+Miami,2007,25.76587,NorESM2-LM,historical
+Anchorage,2007,-1.9894409,NorESM2-LM,historical
+Toronto,2007,9.463257,NorESM2-LM,historical
+Mexico City,2007,18.005188,NorESM2-LM,historical
+Lima,2007,23.503784,NorESM2-LM,historical
+Sao Paulo,2007,20.608307,NorESM2-LM,historical
+Buenos Aires,2007,19.275452,NorESM2-LM,historical
+Reykjavik,2007,5.0706787,NorESM2-LM,historical
+London,2007,11.288208,NorESM2-LM,historical
+Paris,2007,13.177002,NorESM2-LM,historical
+Madrid,2007,15.708374,NorESM2-LM,historical
+Moscow,2007,6.3435974,NorESM2-LM,historical
+Cairo,2007,22.312195,NorESM2-LM,historical
+Lagos,2007,27.951477,NorESM2-LM,historical
+Nairobi,2007,22.777893,NorESM2-LM,historical
+Cape Town,2007,18.043793,NorESM2-LM,historical
+Riyadh,2007,24.603058,NorESM2-LM,historical
+Tehran,2007,14.6171875,NorESM2-LM,historical
+Mumbai,2007,26.97409,NorESM2-LM,historical
+Delhi,2007,24.385773,NorESM2-LM,historical
+Dhaka,2007,27.661285,NorESM2-LM,historical
+Beijing,2007,8.757874,NorESM2-LM,historical
+Shanghai,2007,18.031738,NorESM2-LM,historical
+Tokyo,2007,17.594818,NorESM2-LM,historical
+Singapore,2007,28.159973,NorESM2-LM,historical
+Jakarta,2007,27.549347,NorESM2-LM,historical
+Sydney,2007,15.674622,NorESM2-LM,historical
+San Diego,2008,19.6586,NorESM2-LM,historical
+Phoenix,2008,21.305145,NorESM2-LM,historical
+New York,2008,13.169983,NorESM2-LM,historical
+Miami,2008,25.987,NorESM2-LM,historical
+Anchorage,2008,-0.97714233,NorESM2-LM,historical
+Toronto,2008,9.404541,NorESM2-LM,historical
+Mexico City,2008,18.084717,NorESM2-LM,historical
+Lima,2008,23.435242,NorESM2-LM,historical
+Sao Paulo,2008,22.14386,NorESM2-LM,historical
+Buenos Aires,2008,18.939178,NorESM2-LM,historical
+Reykjavik,2008,4.692749,NorESM2-LM,historical
+London,2008,11.460663,NorESM2-LM,historical
+Paris,2008,12.839478,NorESM2-LM,historical
+Madrid,2008,14.923492,NorESM2-LM,historical
+Moscow,2008,7.391449,NorESM2-LM,historical
+Cairo,2008,22.087952,NorESM2-LM,historical
+Lagos,2008,28.353943,NorESM2-LM,historical
+Nairobi,2008,22.380402,NorESM2-LM,historical
+Cape Town,2008,17.815796,NorESM2-LM,historical
+Riyadh,2008,25.064514,NorESM2-LM,historical
+Tehran,2008,15.351654,NorESM2-LM,historical
+Mumbai,2008,27.332031,NorESM2-LM,historical
+Delhi,2008,23.905853,NorESM2-LM,historical
+Dhaka,2008,28.041046,NorESM2-LM,historical
+Beijing,2008,9.532776,NorESM2-LM,historical
+Shanghai,2008,18.519226,NorESM2-LM,historical
+Tokyo,2008,18.34134,NorESM2-LM,historical
+Singapore,2008,28.275055,NorESM2-LM,historical
+Jakarta,2008,27.831116,NorESM2-LM,historical
+Sydney,2008,16.887146,NorESM2-LM,historical
+San Diego,2009,19.772339,NorESM2-LM,historical
+Phoenix,2009,21.70874,NorESM2-LM,historical
+New York,2009,12.994812,NorESM2-LM,historical
+Miami,2009,25.964844,NorESM2-LM,historical
+Anchorage,2009,-2.773285,NorESM2-LM,historical
+Toronto,2009,8.545105,NorESM2-LM,historical
+Mexico City,2009,18.384247,NorESM2-LM,historical
+Lima,2009,23.520355,NorESM2-LM,historical
+Sao Paulo,2009,21.48236,NorESM2-LM,historical
+Buenos Aires,2009,18.993256,NorESM2-LM,historical
+Reykjavik,2009,5.2823486,NorESM2-LM,historical
+London,2009,10.514069,NorESM2-LM,historical
+Paris,2009,11.804199,NorESM2-LM,historical
+Madrid,2009,14.979553,NorESM2-LM,historical
+Moscow,2009,5.185547,NorESM2-LM,historical
+Cairo,2009,22.78656,NorESM2-LM,historical
+Lagos,2009,28.20581,NorESM2-LM,historical
+Nairobi,2009,22.822205,NorESM2-LM,historical
+Cape Town,2009,18.175568,NorESM2-LM,historical
+Riyadh,2009,25.063538,NorESM2-LM,historical
+Tehran,2009,16.025085,NorESM2-LM,historical
+Mumbai,2009,27.451294,NorESM2-LM,historical
+Delhi,2009,25.140564,NorESM2-LM,historical
+Dhaka,2009,28.95691,NorESM2-LM,historical
+Beijing,2009,9.704346,NorESM2-LM,historical
+Shanghai,2009,18.69806,NorESM2-LM,historical
+Tokyo,2009,18.50409,NorESM2-LM,historical
+Singapore,2009,28.518036,NorESM2-LM,historical
+Jakarta,2009,28.154175,NorESM2-LM,historical
+Sydney,2009,17.006958,NorESM2-LM,historical
+San Diego,2010,20.34613,NorESM2-LM,historical
+Phoenix,2010,21.510132,NorESM2-LM,historical
+New York,2010,11.594849,NorESM2-LM,historical
+Miami,2010,26.281433,NorESM2-LM,historical
+Anchorage,2010,0.5471802,NorESM2-LM,historical
+Toronto,2010,7.1513977,NorESM2-LM,historical
+Mexico City,2010,18.315979,NorESM2-LM,historical
+Lima,2010,22.991028,NorESM2-LM,historical
+Sao Paulo,2010,21.672638,NorESM2-LM,historical
+Buenos Aires,2010,19.29712,NorESM2-LM,historical
+Reykjavik,2010,4.6138,NorESM2-LM,historical
+London,2010,11.027039,NorESM2-LM,historical
+Paris,2010,11.913757,NorESM2-LM,historical
+Madrid,2010,15.095154,NorESM2-LM,historical
+Moscow,2010,6.731018,NorESM2-LM,historical
+Cairo,2010,21.981995,NorESM2-LM,historical
+Lagos,2010,27.960388,NorESM2-LM,historical
+Nairobi,2010,22.628845,NorESM2-LM,historical
+Cape Town,2010,17.871155,NorESM2-LM,historical
+Riyadh,2010,24.851105,NorESM2-LM,historical
+Tehran,2010,15.537384,NorESM2-LM,historical
+Mumbai,2010,26.963562,NorESM2-LM,historical
+Delhi,2010,23.980957,NorESM2-LM,historical
+Dhaka,2010,28.009888,NorESM2-LM,historical
+Beijing,2010,9.766907,NorESM2-LM,historical
+Shanghai,2010,18.873047,NorESM2-LM,historical
+Tokyo,2010,18.863312,NorESM2-LM,historical
+Singapore,2010,28.434387,NorESM2-LM,historical
+Jakarta,2010,28.024658,NorESM2-LM,historical
+Sydney,2010,16.639587,NorESM2-LM,historical
+San Diego,2011,20.897766,NorESM2-LM,historical
+Phoenix,2011,22.062683,NorESM2-LM,historical
+New York,2011,13.308929,NorESM2-LM,historical
+Miami,2011,26.280823,NorESM2-LM,historical
+Anchorage,2011,-1.1848145,NorESM2-LM,historical
+Toronto,2011,9.549866,NorESM2-LM,historical
+Mexico City,2011,18.30835,NorESM2-LM,historical
+Lima,2011,23.241516,NorESM2-LM,historical
+Sao Paulo,2011,21.75055,NorESM2-LM,historical
+Buenos Aires,2011,19.161469,NorESM2-LM,historical
+Reykjavik,2011,5.162445,NorESM2-LM,historical
+London,2011,11.981201,NorESM2-LM,historical
+Paris,2011,12.82785,NorESM2-LM,historical
+Madrid,2011,14.612488,NorESM2-LM,historical
+Moscow,2011,7.333008,NorESM2-LM,historical
+Cairo,2011,21.651245,NorESM2-LM,historical
+Lagos,2011,28.050385,NorESM2-LM,historical
+Nairobi,2011,22.807373,NorESM2-LM,historical
+Cape Town,2011,18.195404,NorESM2-LM,historical
+Riyadh,2011,25.130035,NorESM2-LM,historical
+Tehran,2011,15.019897,NorESM2-LM,historical
+Mumbai,2011,27.125885,NorESM2-LM,historical
+Delhi,2011,24.422607,NorESM2-LM,historical
+Dhaka,2011,28.194885,NorESM2-LM,historical
+Beijing,2011,9.595337,NorESM2-LM,historical
+Shanghai,2011,18.228699,NorESM2-LM,historical
+Tokyo,2011,18.365845,NorESM2-LM,historical
+Singapore,2011,28.584839,NorESM2-LM,historical
+Jakarta,2011,28.130188,NorESM2-LM,historical
+Sydney,2011,16.33722,NorESM2-LM,historical
+San Diego,2012,22.08194,NorESM2-LM,historical
+Phoenix,2012,23.127441,NorESM2-LM,historical
+New York,2012,11.823883,NorESM2-LM,historical
+Miami,2012,25.557434,NorESM2-LM,historical
+Anchorage,2012,-0.21633911,NorESM2-LM,historical
+Toronto,2012,7.953644,NorESM2-LM,historical
+Mexico City,2012,17.398712,NorESM2-LM,historical
+Lima,2012,22.783844,NorESM2-LM,historical
+Sao Paulo,2012,20.987488,NorESM2-LM,historical
+Buenos Aires,2012,19.119415,NorESM2-LM,historical
+Reykjavik,2012,4.175293,NorESM2-LM,historical
+London,2012,10.708069,NorESM2-LM,historical
+Paris,2012,11.88269,NorESM2-LM,historical
+Madrid,2012,14.929901,NorESM2-LM,historical
+Moscow,2012,5.9110107,NorESM2-LM,historical
+Cairo,2012,22.701721,NorESM2-LM,historical
+Lagos,2012,27.965271,NorESM2-LM,historical
+Nairobi,2012,22.559723,NorESM2-LM,historical
+Cape Town,2012,17.803406,NorESM2-LM,historical
+Riyadh,2012,26.051422,NorESM2-LM,historical
+Tehran,2012,17.11612,NorESM2-LM,historical
+Mumbai,2012,27.56305,NorESM2-LM,historical
+Delhi,2012,24.40625,NorESM2-LM,historical
+Dhaka,2012,28.361633,NorESM2-LM,historical
+Beijing,2012,9.233887,NorESM2-LM,historical
+Shanghai,2012,18.344818,NorESM2-LM,historical
+Tokyo,2012,18.174988,NorESM2-LM,historical
+Singapore,2012,28.257507,NorESM2-LM,historical
+Jakarta,2012,28.06485,NorESM2-LM,historical
+Sydney,2012,16.291351,NorESM2-LM,historical
+San Diego,2013,20.998413,NorESM2-LM,historical
+Phoenix,2013,22.177338,NorESM2-LM,historical
+New York,2013,11.566925,NorESM2-LM,historical
+Miami,2013,26.154785,NorESM2-LM,historical
+Anchorage,2013,0.56414795,NorESM2-LM,historical
+Toronto,2013,7.696228,NorESM2-LM,historical
+Mexico City,2013,18.574158,NorESM2-LM,historical
+Lima,2013,23.938232,NorESM2-LM,historical
+Sao Paulo,2013,21.074219,NorESM2-LM,historical
+Buenos Aires,2013,19.363708,NorESM2-LM,historical
+Reykjavik,2013,4.9685364,NorESM2-LM,historical
+London,2013,12.402893,NorESM2-LM,historical
+Paris,2013,14.012329,NorESM2-LM,historical
+Madrid,2013,16.23346,NorESM2-LM,historical
+Moscow,2013,6.1349487,NorESM2-LM,historical
+Cairo,2013,21.283386,NorESM2-LM,historical
+Lagos,2013,28.318573,NorESM2-LM,historical
+Nairobi,2013,22.66211,NorESM2-LM,historical
+Cape Town,2013,18.103058,NorESM2-LM,historical
+Riyadh,2013,24.457397,NorESM2-LM,historical
+Tehran,2013,15.801361,NorESM2-LM,historical
+Mumbai,2013,27.526123,NorESM2-LM,historical
+Delhi,2013,24.202057,NorESM2-LM,historical
+Dhaka,2013,27.663483,NorESM2-LM,historical
+Beijing,2013,9.179108,NorESM2-LM,historical
+Shanghai,2013,18.116821,NorESM2-LM,historical
+Tokyo,2013,18.518219,NorESM2-LM,historical
+Singapore,2013,28.309875,NorESM2-LM,historical
+Jakarta,2013,27.910583,NorESM2-LM,historical
+Sydney,2013,16.421509,NorESM2-LM,historical
+San Diego,2014,20.140808,NorESM2-LM,historical
+Phoenix,2014,21.475891,NorESM2-LM,historical
+New York,2014,13.00824,NorESM2-LM,historical
+Miami,2014,26.1987,NorESM2-LM,historical
+Anchorage,2014,1.6367798,NorESM2-LM,historical
+Toronto,2014,8.601715,NorESM2-LM,historical
+Mexico City,2014,18.465118,NorESM2-LM,historical
+Lima,2014,23.859863,NorESM2-LM,historical
+Sao Paulo,2014,21.805725,NorESM2-LM,historical
+Buenos Aires,2014,18.829681,NorESM2-LM,historical
+Reykjavik,2014,4.9263,NorESM2-LM,historical
+London,2014,11.4322815,NorESM2-LM,historical
+Paris,2014,13.266205,NorESM2-LM,historical
+Madrid,2014,16.312592,NorESM2-LM,historical
+Moscow,2014,7.663727,NorESM2-LM,historical
+Cairo,2014,23.036652,NorESM2-LM,historical
+Lagos,2014,28.746704,NorESM2-LM,historical
+Nairobi,2014,22.803467,NorESM2-LM,historical
+Cape Town,2014,18.32779,NorESM2-LM,historical
+Riyadh,2014,25.612122,NorESM2-LM,historical
+Tehran,2014,15.197388,NorESM2-LM,historical
+Mumbai,2014,27.011353,NorESM2-LM,historical
+Delhi,2014,24.381836,NorESM2-LM,historical
+Dhaka,2014,28.532867,NorESM2-LM,historical
+Beijing,2014,9.467529,NorESM2-LM,historical
+Shanghai,2014,18.48175,NorESM2-LM,historical
+Tokyo,2014,18.708527,NorESM2-LM,historical
+Singapore,2014,28.81543,NorESM2-LM,historical
+Jakarta,2014,28.396667,NorESM2-LM,historical
+Sydney,2014,16.873718,NorESM2-LM,historical

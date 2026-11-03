@@ -1,0 +1,1951 @@
+city,year,temp_c,model,scenario
+San Diego,1950,18.665771,MRI-ESM2-0,historical
+Phoenix,1950,20.689758,MRI-ESM2-0,historical
+New York,1950,10.361023,MRI-ESM2-0,historical
+Miami,1950,25.31781,MRI-ESM2-0,historical
+Anchorage,1950,1.400116,MRI-ESM2-0,historical
+Toronto,1950,7.9467163,MRI-ESM2-0,historical
+Mexico City,1950,13.41687,MRI-ESM2-0,historical
+Lima,1950,13.964325,MRI-ESM2-0,historical
+Sao Paulo,1950,19.678589,MRI-ESM2-0,historical
+Buenos Aires,1950,18.788696,MRI-ESM2-0,historical
+Reykjavik,1950,5.0878296,MRI-ESM2-0,historical
+London,1950,12.089935,MRI-ESM2-0,historical
+Paris,1950,12.558716,MRI-ESM2-0,historical
+Madrid,1950,11.151733,MRI-ESM2-0,historical
+Moscow,1950,4.5839233,MRI-ESM2-0,historical
+Cairo,1950,20.980927,MRI-ESM2-0,historical
+Lagos,1950,27.504333,MRI-ESM2-0,historical
+Nairobi,1950,19.648254,MRI-ESM2-0,historical
+Cape Town,1950,17.513641,MRI-ESM2-0,historical
+Riyadh,1950,24.49347,MRI-ESM2-0,historical
+Tehran,1950,12.558685,MRI-ESM2-0,historical
+Mumbai,1950,27.216248,MRI-ESM2-0,historical
+Delhi,1950,27.821228,MRI-ESM2-0,historical
+Dhaka,1950,27.05896,MRI-ESM2-0,historical
+Beijing,1950,10.78186,MRI-ESM2-0,historical
+Shanghai,1950,16.438416,MRI-ESM2-0,historical
+Tokyo,1950,14.018341,MRI-ESM2-0,historical
+Singapore,1950,27.418,MRI-ESM2-0,historical
+Jakarta,1950,26.184875,MRI-ESM2-0,historical
+Sydney,1950,15.659576,MRI-ESM2-0,historical
+San Diego,1951,18.90384,MRI-ESM2-0,historical
+Phoenix,1951,20.423859,MRI-ESM2-0,historical
+New York,1951,10.336853,MRI-ESM2-0,historical
+Miami,1951,24.629333,MRI-ESM2-0,historical
+Anchorage,1951,1.8146667,MRI-ESM2-0,historical
+Toronto,1951,7.993286,MRI-ESM2-0,historical
+Mexico City,1951,12.949036,MRI-ESM2-0,historical
+Lima,1951,13.978943,MRI-ESM2-0,historical
+Sao Paulo,1951,19.680176,MRI-ESM2-0,historical
+Buenos Aires,1951,18.421814,MRI-ESM2-0,historical
+Reykjavik,1951,4.1138306,MRI-ESM2-0,historical
+London,1951,10.32666,MRI-ESM2-0,historical
+Paris,1951,10.343201,MRI-ESM2-0,historical
+Madrid,1951,11.549438,MRI-ESM2-0,historical
+Moscow,1951,5.2494507,MRI-ESM2-0,historical
+Cairo,1951,22.330017,MRI-ESM2-0,historical
+Lagos,1951,27.908203,MRI-ESM2-0,historical
+Nairobi,1951,19.317444,MRI-ESM2-0,historical
+Cape Town,1951,17.621887,MRI-ESM2-0,historical
+Riyadh,1951,24.158875,MRI-ESM2-0,historical
+Tehran,1951,13.526245,MRI-ESM2-0,historical
+Mumbai,1951,26.647888,MRI-ESM2-0,historical
+Delhi,1951,27.466919,MRI-ESM2-0,historical
+Dhaka,1951,26.4776,MRI-ESM2-0,historical
+Beijing,1951,10.429718,MRI-ESM2-0,historical
+Shanghai,1951,17.027954,MRI-ESM2-0,historical
+Tokyo,1951,14.759277,MRI-ESM2-0,historical
+Singapore,1951,27.373169,MRI-ESM2-0,historical
+Jakarta,1951,26.004944,MRI-ESM2-0,historical
+Sydney,1951,16.038818,MRI-ESM2-0,historical
+San Diego,1952,19.190979,MRI-ESM2-0,historical
+Phoenix,1952,21.453491,MRI-ESM2-0,historical
+New York,1952,9.31015,MRI-ESM2-0,historical
+Miami,1952,24.805786,MRI-ESM2-0,historical
+Anchorage,1952,2.2852173,MRI-ESM2-0,historical
+Toronto,1952,6.657715,MRI-ESM2-0,historical
+Mexico City,1952,13.108459,MRI-ESM2-0,historical
+Lima,1952,13.496643,MRI-ESM2-0,historical
+Sao Paulo,1952,19.114685,MRI-ESM2-0,historical
+Buenos Aires,1952,17.906372,MRI-ESM2-0,historical
+Reykjavik,1952,3.2729492,MRI-ESM2-0,historical
+London,1952,11.286011,MRI-ESM2-0,historical
+Paris,1952,11.591187,MRI-ESM2-0,historical
+Madrid,1952,9.690674,MRI-ESM2-0,historical
+Moscow,1952,5.9599915,MRI-ESM2-0,historical
+Cairo,1952,22.18811,MRI-ESM2-0,historical
+Lagos,1952,27.539246,MRI-ESM2-0,historical
+Nairobi,1952,20.087433,MRI-ESM2-0,historical
+Cape Town,1952,17.497925,MRI-ESM2-0,historical
+Riyadh,1952,24.246643,MRI-ESM2-0,historical
+Tehran,1952,13.780365,MRI-ESM2-0,historical
+Mumbai,1952,27.679382,MRI-ESM2-0,historical
+Delhi,1952,26.570923,MRI-ESM2-0,historical
+Dhaka,1952,25.773468,MRI-ESM2-0,historical
+Beijing,1952,10.887573,MRI-ESM2-0,historical
+Shanghai,1952,17.08191,MRI-ESM2-0,historical
+Tokyo,1952,14.969543,MRI-ESM2-0,historical
+Singapore,1952,27.210999,MRI-ESM2-0,historical
+Jakarta,1952,26.052246,MRI-ESM2-0,historical
+Sydney,1952,16.48877,MRI-ESM2-0,historical
+San Diego,1953,19.906677,MRI-ESM2-0,historical
+Phoenix,1953,22.680725,MRI-ESM2-0,historical
+New York,1953,9.843018,MRI-ESM2-0,historical
+Miami,1953,24.540436,MRI-ESM2-0,historical
+Anchorage,1953,-0.81951904,MRI-ESM2-0,historical
+Toronto,1953,6.9446106,MRI-ESM2-0,historical
+Mexico City,1953,12.453918,MRI-ESM2-0,historical
+Lima,1953,12.685486,MRI-ESM2-0,historical
+Sao Paulo,1953,18.339905,MRI-ESM2-0,historical
+Buenos Aires,1953,18.319702,MRI-ESM2-0,historical
+Reykjavik,1953,3.632904,MRI-ESM2-0,historical
+London,1953,11.803741,MRI-ESM2-0,historical
+Paris,1953,11.918396,MRI-ESM2-0,historical
+Madrid,1953,11.059509,MRI-ESM2-0,historical
+Moscow,1953,6.7187805,MRI-ESM2-0,historical
+Cairo,1953,21.108398,MRI-ESM2-0,historical
+Lagos,1953,27.524597,MRI-ESM2-0,historical
+Nairobi,1953,19.860321,MRI-ESM2-0,historical
+Cape Town,1953,17.410889,MRI-ESM2-0,historical
+Riyadh,1953,24.452667,MRI-ESM2-0,historical
+Tehran,1953,13.526703,MRI-ESM2-0,historical
+Mumbai,1953,26.615479,MRI-ESM2-0,historical
+Delhi,1953,26.918213,MRI-ESM2-0,historical
+Dhaka,1953,26.262054,MRI-ESM2-0,historical
+Beijing,1953,10.460327,MRI-ESM2-0,historical
+Shanghai,1953,16.304138,MRI-ESM2-0,historical
+Tokyo,1953,14.380371,MRI-ESM2-0,historical
+Singapore,1953,27.284668,MRI-ESM2-0,historical
+Jakarta,1953,25.96045,MRI-ESM2-0,historical
+Sydney,1953,15.528778,MRI-ESM2-0,historical
+San Diego,1954,19.270447,MRI-ESM2-0,historical
+Phoenix,1954,21.285675,MRI-ESM2-0,historical
+New York,1954,9.976379,MRI-ESM2-0,historical
+Miami,1954,25.389526,MRI-ESM2-0,historical
+Anchorage,1954,0.01586914,MRI-ESM2-0,historical
+Toronto,1954,7.4717407,MRI-ESM2-0,historical
+Mexico City,1954,13.530518,MRI-ESM2-0,historical
+Lima,1954,13.589478,MRI-ESM2-0,historical
+Sao Paulo,1954,19.425598,MRI-ESM2-0,historical
+Buenos Aires,1954,18.059631,MRI-ESM2-0,historical
+Reykjavik,1954,4.0993958,MRI-ESM2-0,historical
+London,1954,11.684204,MRI-ESM2-0,historical
+Paris,1954,11.615112,MRI-ESM2-0,historical
+Madrid,1954,10.496399,MRI-ESM2-0,historical
+Moscow,1954,4.809662,MRI-ESM2-0,historical
+Cairo,1954,21.270386,MRI-ESM2-0,historical
+Lagos,1954,27.417389,MRI-ESM2-0,historical
+Nairobi,1954,20.153778,MRI-ESM2-0,historical
+Cape Town,1954,17.32605,MRI-ESM2-0,historical
+Riyadh,1954,23.83551,MRI-ESM2-0,historical
+Tehran,1954,13.974243,MRI-ESM2-0,historical
+Mumbai,1954,26.127502,MRI-ESM2-0,historical
+Delhi,1954,27.38034,MRI-ESM2-0,historical
+Dhaka,1954,26.026428,MRI-ESM2-0,historical
+Beijing,1954,10.702332,MRI-ESM2-0,historical
+Shanghai,1954,16.373352,MRI-ESM2-0,historical
+Tokyo,1954,14.501251,MRI-ESM2-0,historical
+Singapore,1954,27.077606,MRI-ESM2-0,historical
+Jakarta,1954,25.714478,MRI-ESM2-0,historical
+Sydney,1954,15.311157,MRI-ESM2-0,historical
+San Diego,1955,18.093018,MRI-ESM2-0,historical
+Phoenix,1955,19.983093,MRI-ESM2-0,historical
+New York,1955,9.672577,MRI-ESM2-0,historical
+Miami,1955,24.775513,MRI-ESM2-0,historical
+Anchorage,1955,1.7546997,MRI-ESM2-0,historical
+Toronto,1955,7.1105957,MRI-ESM2-0,historical
+Mexico City,1955,13.91626,MRI-ESM2-0,historical
+Lima,1955,14.189636,MRI-ESM2-0,historical
+Sao Paulo,1955,19.555634,MRI-ESM2-0,historical
+Buenos Aires,1955,17.76294,MRI-ESM2-0,historical
+Reykjavik,1955,3.0847473,MRI-ESM2-0,historical
+London,1955,11.780212,MRI-ESM2-0,historical
+Paris,1955,11.913605,MRI-ESM2-0,historical
+Madrid,1955,10.567078,MRI-ESM2-0,historical
+Moscow,1955,5.9818726,MRI-ESM2-0,historical
+Cairo,1955,21.071472,MRI-ESM2-0,historical
+Lagos,1955,27.494202,MRI-ESM2-0,historical
+Nairobi,1955,19.606567,MRI-ESM2-0,historical
+Cape Town,1955,17.45343,MRI-ESM2-0,historical
+Riyadh,1955,23.813568,MRI-ESM2-0,historical
+Tehran,1955,12.419281,MRI-ESM2-0,historical
+Mumbai,1955,26.612183,MRI-ESM2-0,historical
+Delhi,1955,27.039978,MRI-ESM2-0,historical
+Dhaka,1955,25.307556,MRI-ESM2-0,historical
+Beijing,1955,10.557465,MRI-ESM2-0,historical
+Shanghai,1955,17.060364,MRI-ESM2-0,historical
+Tokyo,1955,14.488434,MRI-ESM2-0,historical
+Singapore,1955,27.449615,MRI-ESM2-0,historical
+Jakarta,1955,25.977173,MRI-ESM2-0,historical
+Sydney,1955,16.09494,MRI-ESM2-0,historical
+San Diego,1956,19.449005,MRI-ESM2-0,historical
+Phoenix,1956,22.772034,MRI-ESM2-0,historical
+New York,1956,10.5841675,MRI-ESM2-0,historical
+Miami,1956,25.076904,MRI-ESM2-0,historical
+Anchorage,1956,0.36010742,MRI-ESM2-0,historical
+Toronto,1956,7.929138,MRI-ESM2-0,historical
+Mexico City,1956,12.915924,MRI-ESM2-0,historical
+Lima,1956,13.21347,MRI-ESM2-0,historical
+Sao Paulo,1956,18.42395,MRI-ESM2-0,historical
+Buenos Aires,1956,17.2583,MRI-ESM2-0,historical
+Reykjavik,1956,2.8735962,MRI-ESM2-0,historical
+London,1956,12.034424,MRI-ESM2-0,historical
+Paris,1956,12.135437,MRI-ESM2-0,historical
+Madrid,1956,11.329041,MRI-ESM2-0,historical
+Moscow,1956,6.8029785,MRI-ESM2-0,historical
+Cairo,1956,21.123169,MRI-ESM2-0,historical
+Lagos,1956,27.253143,MRI-ESM2-0,historical
+Nairobi,1956,19.83075,MRI-ESM2-0,historical
+Cape Town,1956,17.300842,MRI-ESM2-0,historical
+Riyadh,1956,23.966003,MRI-ESM2-0,historical
+Tehran,1956,12.732758,MRI-ESM2-0,historical
+Mumbai,1956,26.929413,MRI-ESM2-0,historical
+Delhi,1956,27.202362,MRI-ESM2-0,historical
+Dhaka,1956,25.863708,MRI-ESM2-0,historical
+Beijing,1956,11.308044,MRI-ESM2-0,historical
+Shanghai,1956,16.548767,MRI-ESM2-0,historical
+Tokyo,1956,14.81842,MRI-ESM2-0,historical
+Singapore,1956,27.155914,MRI-ESM2-0,historical
+Jakarta,1956,26.054596,MRI-ESM2-0,historical
+Sydney,1956,15.597839,MRI-ESM2-0,historical
+San Diego,1957,19.546051,MRI-ESM2-0,historical
+Phoenix,1957,21.951447,MRI-ESM2-0,historical
+New York,1957,10.628296,MRI-ESM2-0,historical
+Miami,1957,24.651733,MRI-ESM2-0,historical
+Anchorage,1957,-0.1708374,MRI-ESM2-0,historical
+Toronto,1957,8.731262,MRI-ESM2-0,historical
+Mexico City,1957,13.086212,MRI-ESM2-0,historical
+Lima,1957,13.350769,MRI-ESM2-0,historical
+Sao Paulo,1957,18.480865,MRI-ESM2-0,historical
+Buenos Aires,1957,19.578491,MRI-ESM2-0,historical
+Reykjavik,1957,2.682373,MRI-ESM2-0,historical
+London,1957,11.418091,MRI-ESM2-0,historical
+Paris,1957,11.589661,MRI-ESM2-0,historical
+Madrid,1957,9.820923,MRI-ESM2-0,historical
+Moscow,1957,7.1651,MRI-ESM2-0,historical
+Cairo,1957,21.622162,MRI-ESM2-0,historical
+Lagos,1957,27.388672,MRI-ESM2-0,historical
+Nairobi,1957,19.956726,MRI-ESM2-0,historical
+Cape Town,1957,17.856384,MRI-ESM2-0,historical
+Riyadh,1957,24.205536,MRI-ESM2-0,historical
+Tehran,1957,14.346405,MRI-ESM2-0,historical
+Mumbai,1957,26.194275,MRI-ESM2-0,historical
+Delhi,1957,26.672058,MRI-ESM2-0,historical
+Dhaka,1957,26.427673,MRI-ESM2-0,historical
+Beijing,1957,10.688995,MRI-ESM2-0,historical
+Shanghai,1957,17.035217,MRI-ESM2-0,historical
+Tokyo,1957,14.537231,MRI-ESM2-0,historical
+Singapore,1957,26.853516,MRI-ESM2-0,historical
+Jakarta,1957,25.810425,MRI-ESM2-0,historical
+Sydney,1957,16.267334,MRI-ESM2-0,historical
+San Diego,1958,18.181763,MRI-ESM2-0,historical
+Phoenix,1958,20.553345,MRI-ESM2-0,historical
+New York,1958,10.799622,MRI-ESM2-0,historical
+Miami,1958,24.745361,MRI-ESM2-0,historical
+Anchorage,1958,-1.0436707,MRI-ESM2-0,historical
+Toronto,1958,8.944336,MRI-ESM2-0,historical
+Mexico City,1958,13.101593,MRI-ESM2-0,historical
+Lima,1958,14.106659,MRI-ESM2-0,historical
+Sao Paulo,1958,18.831757,MRI-ESM2-0,historical
+Buenos Aires,1958,17.209839,MRI-ESM2-0,historical
+Reykjavik,1958,3.7338257,MRI-ESM2-0,historical
+London,1958,11.376709,MRI-ESM2-0,historical
+Paris,1958,11.880005,MRI-ESM2-0,historical
+Madrid,1958,10.743286,MRI-ESM2-0,historical
+Moscow,1958,4.4141846,MRI-ESM2-0,historical
+Cairo,1958,21.282043,MRI-ESM2-0,historical
+Lagos,1958,27.659271,MRI-ESM2-0,historical
+Nairobi,1958,19.700348,MRI-ESM2-0,historical
+Cape Town,1958,17.294617,MRI-ESM2-0,historical
+Riyadh,1958,24.83487,MRI-ESM2-0,historical
+Tehran,1958,13.500183,MRI-ESM2-0,historical
+Mumbai,1958,27.403137,MRI-ESM2-0,historical
+Delhi,1958,28.462189,MRI-ESM2-0,historical
+Dhaka,1958,26.73944,MRI-ESM2-0,historical
+Beijing,1958,10.628082,MRI-ESM2-0,historical
+Shanghai,1958,17.347107,MRI-ESM2-0,historical
+Tokyo,1958,14.626221,MRI-ESM2-0,historical
+Singapore,1958,27.367676,MRI-ESM2-0,historical
+Jakarta,1958,26.078186,MRI-ESM2-0,historical
+Sydney,1958,16.465332,MRI-ESM2-0,historical
+San Diego,1959,18.611633,MRI-ESM2-0,historical
+Phoenix,1959,20.571136,MRI-ESM2-0,historical
+New York,1959,9.85434,MRI-ESM2-0,historical
+Miami,1959,24.86493,MRI-ESM2-0,historical
+Anchorage,1959,0.3480835,MRI-ESM2-0,historical
+Toronto,1959,6.603485,MRI-ESM2-0,historical
+Mexico City,1959,13.573059,MRI-ESM2-0,historical
+Lima,1959,13.716553,MRI-ESM2-0,historical
+Sao Paulo,1959,19.199158,MRI-ESM2-0,historical
+Buenos Aires,1959,17.382996,MRI-ESM2-0,historical
+Reykjavik,1959,3.9622803,MRI-ESM2-0,historical
+London,1959,11.426636,MRI-ESM2-0,historical
+Paris,1959,11.680481,MRI-ESM2-0,historical
+Madrid,1959,11.029114,MRI-ESM2-0,historical
+Moscow,1959,4.60495,MRI-ESM2-0,historical
+Cairo,1959,20.936157,MRI-ESM2-0,historical
+Lagos,1959,27.838013,MRI-ESM2-0,historical
+Nairobi,1959,19.870392,MRI-ESM2-0,historical
+Cape Town,1959,17.144165,MRI-ESM2-0,historical
+Riyadh,1959,24.223053,MRI-ESM2-0,historical
+Tehran,1959,13.487244,MRI-ESM2-0,historical
+Mumbai,1959,27.927368,MRI-ESM2-0,historical
+Delhi,1959,28.097107,MRI-ESM2-0,historical
+Dhaka,1959,26.783478,MRI-ESM2-0,historical
+Beijing,1959,10.207153,MRI-ESM2-0,historical
+Shanghai,1959,17.277405,MRI-ESM2-0,historical
+Tokyo,1959,14.32431,MRI-ESM2-0,historical
+Singapore,1959,27.370605,MRI-ESM2-0,historical
+Jakarta,1959,26.454498,MRI-ESM2-0,historical
+Sydney,1959,16.9263,MRI-ESM2-0,historical
+San Diego,1960,18.484924,MRI-ESM2-0,historical
+Phoenix,1960,20.720825,MRI-ESM2-0,historical
+New York,1960,10.71347,MRI-ESM2-0,historical
+Miami,1960,25.219513,MRI-ESM2-0,historical
+Anchorage,1960,0.35650635,MRI-ESM2-0,historical
+Toronto,1960,8.017151,MRI-ESM2-0,historical
+Mexico City,1960,13.187958,MRI-ESM2-0,historical
+Lima,1960,13.455109,MRI-ESM2-0,historical
+Sao Paulo,1960,19.341309,MRI-ESM2-0,historical
+Buenos Aires,1960,17.8732,MRI-ESM2-0,historical
+Reykjavik,1960,4.5404053,MRI-ESM2-0,historical
+London,1960,11.440735,MRI-ESM2-0,historical
+Paris,1960,11.578369,MRI-ESM2-0,historical
+Madrid,1960,10.661621,MRI-ESM2-0,historical
+Moscow,1960,4.9277344,MRI-ESM2-0,historical
+Cairo,1960,21.323944,MRI-ESM2-0,historical
+Lagos,1960,27.628723,MRI-ESM2-0,historical
+Nairobi,1960,20.369934,MRI-ESM2-0,historical
+Cape Town,1960,17.176544,MRI-ESM2-0,historical
+Riyadh,1960,24.316467,MRI-ESM2-0,historical
+Tehran,1960,13.199341,MRI-ESM2-0,historical
+Mumbai,1960,27.686768,MRI-ESM2-0,historical
+Delhi,1960,27.611755,MRI-ESM2-0,historical
+Dhaka,1960,26.539795,MRI-ESM2-0,historical
+Beijing,1960,9.892181,MRI-ESM2-0,historical
+Shanghai,1960,15.893585,MRI-ESM2-0,historical
+Tokyo,1960,14.147308,MRI-ESM2-0,historical
+Singapore,1960,27.27884,MRI-ESM2-0,historical
+Jakarta,1960,26.1026,MRI-ESM2-0,historical
+Sydney,1960,16.375763,MRI-ESM2-0,historical
+San Diego,1961,18.993286,MRI-ESM2-0,historical
+Phoenix,1961,21.3432,MRI-ESM2-0,historical
+New York,1961,9.327454,MRI-ESM2-0,historical
+Miami,1961,24.762787,MRI-ESM2-0,historical
+Anchorage,1961,-0.9762268,MRI-ESM2-0,historical
+Toronto,1961,6.786499,MRI-ESM2-0,historical
+Mexico City,1961,12.94812,MRI-ESM2-0,historical
+Lima,1961,13.101685,MRI-ESM2-0,historical
+Sao Paulo,1961,18.859741,MRI-ESM2-0,historical
+Buenos Aires,1961,18.237274,MRI-ESM2-0,historical
+Reykjavik,1961,2.8059692,MRI-ESM2-0,historical
+London,1961,11.467407,MRI-ESM2-0,historical
+Paris,1961,11.638367,MRI-ESM2-0,historical
+Madrid,1961,10.249756,MRI-ESM2-0,historical
+Moscow,1961,5.3258057,MRI-ESM2-0,historical
+Cairo,1961,21.465271,MRI-ESM2-0,historical
+Lagos,1961,26.984314,MRI-ESM2-0,historical
+Nairobi,1961,19.997223,MRI-ESM2-0,historical
+Cape Town,1961,17.46344,MRI-ESM2-0,historical
+Riyadh,1961,24.257263,MRI-ESM2-0,historical
+Tehran,1961,13.83783,MRI-ESM2-0,historical
+Mumbai,1961,26.665436,MRI-ESM2-0,historical
+Delhi,1961,26.70111,MRI-ESM2-0,historical
+Dhaka,1961,26.360382,MRI-ESM2-0,historical
+Beijing,1961,10.742462,MRI-ESM2-0,historical
+Shanghai,1961,16.92517,MRI-ESM2-0,historical
+Tokyo,1961,14.898285,MRI-ESM2-0,historical
+Singapore,1961,26.878418,MRI-ESM2-0,historical
+Jakarta,1961,25.703949,MRI-ESM2-0,historical
+Sydney,1961,16.177551,MRI-ESM2-0,historical
+San Diego,1962,17.227112,MRI-ESM2-0,historical
+Phoenix,1962,19.815765,MRI-ESM2-0,historical
+New York,1962,10.203918,MRI-ESM2-0,historical
+Miami,1962,24.977661,MRI-ESM2-0,historical
+Anchorage,1962,-0.35507202,MRI-ESM2-0,historical
+Toronto,1962,7.818695,MRI-ESM2-0,historical
+Mexico City,1962,13.59256,MRI-ESM2-0,historical
+Lima,1962,13.820129,MRI-ESM2-0,historical
+Sao Paulo,1962,18.577454,MRI-ESM2-0,historical
+Buenos Aires,1962,17.695679,MRI-ESM2-0,historical
+Reykjavik,1962,4.485626,MRI-ESM2-0,historical
+London,1962,11.3394165,MRI-ESM2-0,historical
+Paris,1962,11.443512,MRI-ESM2-0,historical
+Madrid,1962,9.579041,MRI-ESM2-0,historical
+Moscow,1962,3.3959656,MRI-ESM2-0,historical
+Cairo,1962,20.77127,MRI-ESM2-0,historical
+Lagos,1962,27.506714,MRI-ESM2-0,historical
+Nairobi,1962,20.513306,MRI-ESM2-0,historical
+Cape Town,1962,17.498047,MRI-ESM2-0,historical
+Riyadh,1962,23.696564,MRI-ESM2-0,historical
+Tehran,1962,12.716461,MRI-ESM2-0,historical
+Mumbai,1962,26.583405,MRI-ESM2-0,historical
+Delhi,1962,27.731232,MRI-ESM2-0,historical
+Dhaka,1962,26.33844,MRI-ESM2-0,historical
+Beijing,1962,9.794586,MRI-ESM2-0,historical
+Shanghai,1962,16.613556,MRI-ESM2-0,historical
+Tokyo,1962,14.079285,MRI-ESM2-0,historical
+Singapore,1962,27.149963,MRI-ESM2-0,historical
+Jakarta,1962,25.831787,MRI-ESM2-0,historical
+Sydney,1962,15.968628,MRI-ESM2-0,historical
+San Diego,1963,17.773193,MRI-ESM2-0,historical
+Phoenix,1963,19.643341,MRI-ESM2-0,historical
+New York,1963,10.339752,MRI-ESM2-0,historical
+Miami,1963,25.207336,MRI-ESM2-0,historical
+Anchorage,1963,1.5716553,MRI-ESM2-0,historical
+Toronto,1963,7.3494873,MRI-ESM2-0,historical
+Mexico City,1963,13.096344,MRI-ESM2-0,historical
+Lima,1963,13.619751,MRI-ESM2-0,historical
+Sao Paulo,1963,18.725555,MRI-ESM2-0,historical
+Buenos Aires,1963,17.215881,MRI-ESM2-0,historical
+Reykjavik,1963,4.2445984,MRI-ESM2-0,historical
+London,1963,11.734863,MRI-ESM2-0,historical
+Paris,1963,12.219177,MRI-ESM2-0,historical
+Madrid,1963,10.621765,MRI-ESM2-0,historical
+Moscow,1963,4.570862,MRI-ESM2-0,historical
+Cairo,1963,21.01419,MRI-ESM2-0,historical
+Lagos,1963,27.147522,MRI-ESM2-0,historical
+Nairobi,1963,19.934021,MRI-ESM2-0,historical
+Cape Town,1963,17.535278,MRI-ESM2-0,historical
+Riyadh,1963,23.478912,MRI-ESM2-0,historical
+Tehran,1963,11.51593,MRI-ESM2-0,historical
+Mumbai,1963,26.877686,MRI-ESM2-0,historical
+Delhi,1963,27.277527,MRI-ESM2-0,historical
+Dhaka,1963,25.377258,MRI-ESM2-0,historical
+Beijing,1963,10.619019,MRI-ESM2-0,historical
+Shanghai,1963,16.61267,MRI-ESM2-0,historical
+Tokyo,1963,13.917023,MRI-ESM2-0,historical
+Singapore,1963,27.306152,MRI-ESM2-0,historical
+Jakarta,1963,25.77179,MRI-ESM2-0,historical
+Sydney,1963,15.860382,MRI-ESM2-0,historical
+San Diego,1964,17.35614,MRI-ESM2-0,historical
+Phoenix,1964,19.879059,MRI-ESM2-0,historical
+New York,1964,11.467712,MRI-ESM2-0,historical
+Miami,1964,24.82544,MRI-ESM2-0,historical
+Anchorage,1964,0.49786377,MRI-ESM2-0,historical
+Toronto,1964,9.509338,MRI-ESM2-0,historical
+Mexico City,1964,12.77356,MRI-ESM2-0,historical
+Lima,1964,13.626099,MRI-ESM2-0,historical
+Sao Paulo,1964,19.042847,MRI-ESM2-0,historical
+Buenos Aires,1964,17.234985,MRI-ESM2-0,historical
+Reykjavik,1964,3.3408813,MRI-ESM2-0,historical
+London,1964,11.801117,MRI-ESM2-0,historical
+Paris,1964,11.910553,MRI-ESM2-0,historical
+Madrid,1964,10.203064,MRI-ESM2-0,historical
+Moscow,1964,5.756897,MRI-ESM2-0,historical
+Cairo,1964,20.942108,MRI-ESM2-0,historical
+Lagos,1964,27.679535,MRI-ESM2-0,historical
+Nairobi,1964,19.925476,MRI-ESM2-0,historical
+Cape Town,1964,17.341187,MRI-ESM2-0,historical
+Riyadh,1964,24.216064,MRI-ESM2-0,historical
+Tehran,1964,12.099426,MRI-ESM2-0,historical
+Mumbai,1964,27.24762,MRI-ESM2-0,historical
+Delhi,1964,27.818817,MRI-ESM2-0,historical
+Dhaka,1964,26.479584,MRI-ESM2-0,historical
+Beijing,1964,9.622345,MRI-ESM2-0,historical
+Shanghai,1964,16.40915,MRI-ESM2-0,historical
+Tokyo,1964,14.172241,MRI-ESM2-0,historical
+Singapore,1964,27.324036,MRI-ESM2-0,historical
+Jakarta,1964,25.959229,MRI-ESM2-0,historical
+Sydney,1964,15.646057,MRI-ESM2-0,historical
+San Diego,1965,18.198486,MRI-ESM2-0,historical
+Phoenix,1965,20.135834,MRI-ESM2-0,historical
+New York,1965,9.793671,MRI-ESM2-0,historical
+Miami,1965,25.153442,MRI-ESM2-0,historical
+Anchorage,1965,-1.0031738,MRI-ESM2-0,historical
+Toronto,1965,6.635559,MRI-ESM2-0,historical
+Mexico City,1965,13.207245,MRI-ESM2-0,historical
+Lima,1965,13.302673,MRI-ESM2-0,historical
+Sao Paulo,1965,18.60492,MRI-ESM2-0,historical
+Buenos Aires,1965,17.336426,MRI-ESM2-0,historical
+Reykjavik,1965,3.8406067,MRI-ESM2-0,historical
+London,1965,11.455841,MRI-ESM2-0,historical
+Paris,1965,11.575226,MRI-ESM2-0,historical
+Madrid,1965,10.44632,MRI-ESM2-0,historical
+Moscow,1965,5.7185364,MRI-ESM2-0,historical
+Cairo,1965,21.442627,MRI-ESM2-0,historical
+Lagos,1965,27.467651,MRI-ESM2-0,historical
+Nairobi,1965,19.518463,MRI-ESM2-0,historical
+Cape Town,1965,17.234375,MRI-ESM2-0,historical
+Riyadh,1965,24.134491,MRI-ESM2-0,historical
+Tehran,1965,13.2146,MRI-ESM2-0,historical
+Mumbai,1965,27.135101,MRI-ESM2-0,historical
+Delhi,1965,27.524536,MRI-ESM2-0,historical
+Dhaka,1965,25.931763,MRI-ESM2-0,historical
+Beijing,1965,11.174255,MRI-ESM2-0,historical
+Shanghai,1965,17.230835,MRI-ESM2-0,historical
+Tokyo,1965,14.663971,MRI-ESM2-0,historical
+Singapore,1965,26.910706,MRI-ESM2-0,historical
+Jakarta,1965,25.782593,MRI-ESM2-0,historical
+Sydney,1965,15.555786,MRI-ESM2-0,historical
+San Diego,1966,18.276733,MRI-ESM2-0,historical
+Phoenix,1966,21.018677,MRI-ESM2-0,historical
+New York,1966,11.026672,MRI-ESM2-0,historical
+Miami,1966,24.736755,MRI-ESM2-0,historical
+Anchorage,1966,-1.051117,MRI-ESM2-0,historical
+Toronto,1966,8.818054,MRI-ESM2-0,historical
+Mexico City,1966,12.816406,MRI-ESM2-0,historical
+Lima,1966,13.605103,MRI-ESM2-0,historical
+Sao Paulo,1966,18.489197,MRI-ESM2-0,historical
+Buenos Aires,1966,18.166595,MRI-ESM2-0,historical
+Reykjavik,1966,3.7172852,MRI-ESM2-0,historical
+London,1966,10.96402,MRI-ESM2-0,historical
+Paris,1966,11.189545,MRI-ESM2-0,historical
+Madrid,1966,10.450104,MRI-ESM2-0,historical
+Moscow,1966,5.5903625,MRI-ESM2-0,historical
+Cairo,1966,20.499817,MRI-ESM2-0,historical
+Lagos,1966,27.502167,MRI-ESM2-0,historical
+Nairobi,1966,19.816162,MRI-ESM2-0,historical
+Cape Town,1966,17.358917,MRI-ESM2-0,historical
+Riyadh,1966,24.097107,MRI-ESM2-0,historical
+Tehran,1966,11.824768,MRI-ESM2-0,historical
+Mumbai,1966,27.038025,MRI-ESM2-0,historical
+Delhi,1966,26.47992,MRI-ESM2-0,historical
+Dhaka,1966,25.310547,MRI-ESM2-0,historical
+Beijing,1966,10.333435,MRI-ESM2-0,historical
+Shanghai,1966,16.778473,MRI-ESM2-0,historical
+Tokyo,1966,14.31311,MRI-ESM2-0,historical
+Singapore,1966,27.06726,MRI-ESM2-0,historical
+Jakarta,1966,25.766602,MRI-ESM2-0,historical
+Sydney,1966,15.9704895,MRI-ESM2-0,historical
+San Diego,1967,19.191406,MRI-ESM2-0,historical
+Phoenix,1967,21.625092,MRI-ESM2-0,historical
+New York,1967,9.86673,MRI-ESM2-0,historical
+Miami,1967,24.91037,MRI-ESM2-0,historical
+Anchorage,1967,-0.22576904,MRI-ESM2-0,historical
+Toronto,1967,7.4371033,MRI-ESM2-0,historical
+Mexico City,1967,13.154053,MRI-ESM2-0,historical
+Lima,1967,13.713959,MRI-ESM2-0,historical
+Sao Paulo,1967,19.196594,MRI-ESM2-0,historical
+Buenos Aires,1967,18.43451,MRI-ESM2-0,historical
+Reykjavik,1967,4.2053223,MRI-ESM2-0,historical
+London,1967,11.309235,MRI-ESM2-0,historical
+Paris,1967,11.392456,MRI-ESM2-0,historical
+Madrid,1967,11.220581,MRI-ESM2-0,historical
+Moscow,1967,4.059387,MRI-ESM2-0,historical
+Cairo,1967,19.986206,MRI-ESM2-0,historical
+Lagos,1967,27.28003,MRI-ESM2-0,historical
+Nairobi,1967,20.2229,MRI-ESM2-0,historical
+Cape Town,1967,17.675964,MRI-ESM2-0,historical
+Riyadh,1967,24.325714,MRI-ESM2-0,historical
+Tehran,1967,13.206268,MRI-ESM2-0,historical
+Mumbai,1967,26.740814,MRI-ESM2-0,historical
+Delhi,1967,28.355225,MRI-ESM2-0,historical
+Dhaka,1967,26.18097,MRI-ESM2-0,historical
+Beijing,1967,10.886536,MRI-ESM2-0,historical
+Shanghai,1967,17.18814,MRI-ESM2-0,historical
+Tokyo,1967,14.659393,MRI-ESM2-0,historical
+Singapore,1967,27.088837,MRI-ESM2-0,historical
+Jakarta,1967,25.736816,MRI-ESM2-0,historical
+Sydney,1967,15.930786,MRI-ESM2-0,historical
+San Diego,1968,18.22583,MRI-ESM2-0,historical
+Phoenix,1968,21.052551,MRI-ESM2-0,historical
+New York,1968,8.714539,MRI-ESM2-0,historical
+Miami,1968,24.458893,MRI-ESM2-0,historical
+Anchorage,1968,0.52130127,MRI-ESM2-0,historical
+Toronto,1968,6.38089,MRI-ESM2-0,historical
+Mexico City,1968,12.8515625,MRI-ESM2-0,historical
+Lima,1968,13.522949,MRI-ESM2-0,historical
+Sao Paulo,1968,18.60669,MRI-ESM2-0,historical
+Buenos Aires,1968,17.470581,MRI-ESM2-0,historical
+Reykjavik,1968,4.8253784,MRI-ESM2-0,historical
+London,1968,10.775024,MRI-ESM2-0,historical
+Paris,1968,10.814453,MRI-ESM2-0,historical
+Madrid,1968,9.780762,MRI-ESM2-0,historical
+Moscow,1968,3.672638,MRI-ESM2-0,historical
+Cairo,1968,21.512207,MRI-ESM2-0,historical
+Lagos,1968,27.60144,MRI-ESM2-0,historical
+Nairobi,1968,19.858978,MRI-ESM2-0,historical
+Cape Town,1968,16.932587,MRI-ESM2-0,historical
+Riyadh,1968,24.47696,MRI-ESM2-0,historical
+Tehran,1968,13.692627,MRI-ESM2-0,historical
+Mumbai,1968,26.18811,MRI-ESM2-0,historical
+Delhi,1968,26.14569,MRI-ESM2-0,historical
+Dhaka,1968,24.854431,MRI-ESM2-0,historical
+Beijing,1968,9.93634,MRI-ESM2-0,historical
+Shanghai,1968,16.468079,MRI-ESM2-0,historical
+Tokyo,1968,14.118835,MRI-ESM2-0,historical
+Singapore,1968,27.15741,MRI-ESM2-0,historical
+Jakarta,1968,25.86618,MRI-ESM2-0,historical
+Sydney,1968,16.688385,MRI-ESM2-0,historical
+San Diego,1969,18.735657,MRI-ESM2-0,historical
+Phoenix,1969,21.041138,MRI-ESM2-0,historical
+New York,1969,8.933014,MRI-ESM2-0,historical
+Miami,1969,24.38794,MRI-ESM2-0,historical
+Anchorage,1969,-0.5191345,MRI-ESM2-0,historical
+Toronto,1969,6.1025696,MRI-ESM2-0,historical
+Mexico City,1969,12.69162,MRI-ESM2-0,historical
+Lima,1969,13.113525,MRI-ESM2-0,historical
+Sao Paulo,1969,18.26416,MRI-ESM2-0,historical
+Buenos Aires,1969,18.648285,MRI-ESM2-0,historical
+Reykjavik,1969,4.498169,MRI-ESM2-0,historical
+London,1969,10.873352,MRI-ESM2-0,historical
+Paris,1969,11.017029,MRI-ESM2-0,historical
+Madrid,1969,10.30426,MRI-ESM2-0,historical
+Moscow,1969,5.316498,MRI-ESM2-0,historical
+Cairo,1969,20.917908,MRI-ESM2-0,historical
+Lagos,1969,27.500519,MRI-ESM2-0,historical
+Nairobi,1969,20.028503,MRI-ESM2-0,historical
+Cape Town,1969,17.566833,MRI-ESM2-0,historical
+Riyadh,1969,23.805115,MRI-ESM2-0,historical
+Tehran,1969,13.061951,MRI-ESM2-0,historical
+Mumbai,1969,26.618896,MRI-ESM2-0,historical
+Delhi,1969,26.111725,MRI-ESM2-0,historical
+Dhaka,1969,26.170837,MRI-ESM2-0,historical
+Beijing,1969,10.683197,MRI-ESM2-0,historical
+Shanghai,1969,16.179016,MRI-ESM2-0,historical
+Tokyo,1969,14.056549,MRI-ESM2-0,historical
+Singapore,1969,26.869629,MRI-ESM2-0,historical
+Jakarta,1969,25.75708,MRI-ESM2-0,historical
+Sydney,1969,15.668732,MRI-ESM2-0,historical
+San Diego,1970,18.416565,MRI-ESM2-0,historical
+Phoenix,1970,20.778198,MRI-ESM2-0,historical
+New York,1970,9.337463,MRI-ESM2-0,historical
+Miami,1970,24.586456,MRI-ESM2-0,historical
+Anchorage,1970,0.93362427,MRI-ESM2-0,historical
+Toronto,1970,6.7129517,MRI-ESM2-0,historical
+Mexico City,1970,13.014923,MRI-ESM2-0,historical
+Lima,1970,13.878571,MRI-ESM2-0,historical
+Sao Paulo,1970,19.113983,MRI-ESM2-0,historical
+Buenos Aires,1970,18.183868,MRI-ESM2-0,historical
+Reykjavik,1970,4.7225037,MRI-ESM2-0,historical
+London,1970,10.566437,MRI-ESM2-0,historical
+Paris,1970,10.887054,MRI-ESM2-0,historical
+Madrid,1970,10.176575,MRI-ESM2-0,historical
+Moscow,1970,5.8654175,MRI-ESM2-0,historical
+Cairo,1970,21.515228,MRI-ESM2-0,historical
+Lagos,1970,27.759186,MRI-ESM2-0,historical
+Nairobi,1970,20.267212,MRI-ESM2-0,historical
+Cape Town,1970,17.562836,MRI-ESM2-0,historical
+Riyadh,1970,23.241486,MRI-ESM2-0,historical
+Tehran,1970,12.244232,MRI-ESM2-0,historical
+Mumbai,1970,26.990417,MRI-ESM2-0,historical
+Delhi,1970,26.974945,MRI-ESM2-0,historical
+Dhaka,1970,26.798004,MRI-ESM2-0,historical
+Beijing,1970,11.205566,MRI-ESM2-0,historical
+Shanghai,1970,16.759155,MRI-ESM2-0,historical
+Tokyo,1970,14.35022,MRI-ESM2-0,historical
+Singapore,1970,27.115173,MRI-ESM2-0,historical
+Jakarta,1970,25.691528,MRI-ESM2-0,historical
+Sydney,1970,16.128693,MRI-ESM2-0,historical
+San Diego,1971,18.318542,MRI-ESM2-0,historical
+Phoenix,1971,20.779236,MRI-ESM2-0,historical
+New York,1971,10.786316,MRI-ESM2-0,historical
+Miami,1971,24.905457,MRI-ESM2-0,historical
+Anchorage,1971,-1.5427856,MRI-ESM2-0,historical
+Toronto,1971,8.264526,MRI-ESM2-0,historical
+Mexico City,1971,12.846802,MRI-ESM2-0,historical
+Lima,1971,13.990814,MRI-ESM2-0,historical
+Sao Paulo,1971,19.449707,MRI-ESM2-0,historical
+Buenos Aires,1971,17.539032,MRI-ESM2-0,historical
+Reykjavik,1971,4.746399,MRI-ESM2-0,historical
+London,1971,11.094055,MRI-ESM2-0,historical
+Paris,1971,11.33255,MRI-ESM2-0,historical
+Madrid,1971,9.94635,MRI-ESM2-0,historical
+Moscow,1971,6.047699,MRI-ESM2-0,historical
+Cairo,1971,21.56897,MRI-ESM2-0,historical
+Lagos,1971,27.531372,MRI-ESM2-0,historical
+Nairobi,1971,20.043213,MRI-ESM2-0,historical
+Cape Town,1971,17.262787,MRI-ESM2-0,historical
+Riyadh,1971,23.582794,MRI-ESM2-0,historical
+Tehran,1971,11.908203,MRI-ESM2-0,historical
+Mumbai,1971,26.793518,MRI-ESM2-0,historical
+Delhi,1971,27.455597,MRI-ESM2-0,historical
+Dhaka,1971,26.025452,MRI-ESM2-0,historical
+Beijing,1971,9.317444,MRI-ESM2-0,historical
+Shanghai,1971,16.36731,MRI-ESM2-0,historical
+Tokyo,1971,14.023865,MRI-ESM2-0,historical
+Singapore,1971,27.513458,MRI-ESM2-0,historical
+Jakarta,1971,26.117188,MRI-ESM2-0,historical
+Sydney,1971,15.901367,MRI-ESM2-0,historical
+San Diego,1972,19.285217,MRI-ESM2-0,historical
+Phoenix,1972,21.560059,MRI-ESM2-0,historical
+New York,1972,8.769775,MRI-ESM2-0,historical
+Miami,1972,24.73404,MRI-ESM2-0,historical
+Anchorage,1972,-1.6549683,MRI-ESM2-0,historical
+Toronto,1972,6.387512,MRI-ESM2-0,historical
+Mexico City,1972,12.950928,MRI-ESM2-0,historical
+Lima,1972,13.599426,MRI-ESM2-0,historical
+Sao Paulo,1972,18.72113,MRI-ESM2-0,historical
+Buenos Aires,1972,17.569458,MRI-ESM2-0,historical
+Reykjavik,1972,3.3396912,MRI-ESM2-0,historical
+London,1972,11.002991,MRI-ESM2-0,historical
+Paris,1972,11.244202,MRI-ESM2-0,historical
+Madrid,1972,10.851501,MRI-ESM2-0,historical
+Moscow,1972,5.359009,MRI-ESM2-0,historical
+Cairo,1972,21.371155,MRI-ESM2-0,historical
+Lagos,1972,27.583893,MRI-ESM2-0,historical
+Nairobi,1972,19.744293,MRI-ESM2-0,historical
+Cape Town,1972,17.436707,MRI-ESM2-0,historical
+Riyadh,1972,23.944,MRI-ESM2-0,historical
+Tehran,1972,11.929596,MRI-ESM2-0,historical
+Mumbai,1972,26.85376,MRI-ESM2-0,historical
+Delhi,1972,26.360657,MRI-ESM2-0,historical
+Dhaka,1972,25.962189,MRI-ESM2-0,historical
+Beijing,1972,9.685028,MRI-ESM2-0,historical
+Shanghai,1972,16.19989,MRI-ESM2-0,historical
+Tokyo,1972,14.27948,MRI-ESM2-0,historical
+Singapore,1972,27.196716,MRI-ESM2-0,historical
+Jakarta,1972,25.831024,MRI-ESM2-0,historical
+Sydney,1972,15.712921,MRI-ESM2-0,historical
+San Diego,1973,19.5195,MRI-ESM2-0,historical
+Phoenix,1973,21.150177,MRI-ESM2-0,historical
+New York,1973,9.009155,MRI-ESM2-0,historical
+Miami,1973,24.637817,MRI-ESM2-0,historical
+Anchorage,1973,0.048706055,MRI-ESM2-0,historical
+Toronto,1973,6.371216,MRI-ESM2-0,historical
+Mexico City,1973,13.174927,MRI-ESM2-0,historical
+Lima,1973,13.361023,MRI-ESM2-0,historical
+Sao Paulo,1973,18.97406,MRI-ESM2-0,historical
+Buenos Aires,1973,17.693115,MRI-ESM2-0,historical
+Reykjavik,1973,4.1180115,MRI-ESM2-0,historical
+London,1973,10.862671,MRI-ESM2-0,historical
+Paris,1973,11.331451,MRI-ESM2-0,historical
+Madrid,1973,9.734528,MRI-ESM2-0,historical
+Moscow,1973,5.475464,MRI-ESM2-0,historical
+Cairo,1973,20.177185,MRI-ESM2-0,historical
+Lagos,1973,27.357971,MRI-ESM2-0,historical
+Nairobi,1973,19.575958,MRI-ESM2-0,historical
+Cape Town,1973,17.579193,MRI-ESM2-0,historical
+Riyadh,1973,23.687073,MRI-ESM2-0,historical
+Tehran,1973,12.018188,MRI-ESM2-0,historical
+Mumbai,1973,27.07724,MRI-ESM2-0,historical
+Delhi,1973,27.088928,MRI-ESM2-0,historical
+Dhaka,1973,26.46936,MRI-ESM2-0,historical
+Beijing,1973,9.399719,MRI-ESM2-0,historical
+Shanghai,1973,16.481201,MRI-ESM2-0,historical
+Tokyo,1973,13.593475,MRI-ESM2-0,historical
+Singapore,1973,27.334686,MRI-ESM2-0,historical
+Jakarta,1973,25.846619,MRI-ESM2-0,historical
+Sydney,1973,15.167175,MRI-ESM2-0,historical
+San Diego,1974,18.188232,MRI-ESM2-0,historical
+Phoenix,1974,19.785034,MRI-ESM2-0,historical
+New York,1974,10.702576,MRI-ESM2-0,historical
+Miami,1974,25.08014,MRI-ESM2-0,historical
+Anchorage,1974,0.80718994,MRI-ESM2-0,historical
+Toronto,1974,8.347504,MRI-ESM2-0,historical
+Mexico City,1974,13.262268,MRI-ESM2-0,historical
+Lima,1974,14.226196,MRI-ESM2-0,historical
+Sao Paulo,1974,19.101562,MRI-ESM2-0,historical
+Buenos Aires,1974,18.43814,MRI-ESM2-0,historical
+Reykjavik,1974,4.4364624,MRI-ESM2-0,historical
+London,1974,11.116394,MRI-ESM2-0,historical
+Paris,1974,11.358215,MRI-ESM2-0,historical
+Madrid,1974,10.040314,MRI-ESM2-0,historical
+Moscow,1974,4.429138,MRI-ESM2-0,historical
+Cairo,1974,21.148651,MRI-ESM2-0,historical
+Lagos,1974,27.806519,MRI-ESM2-0,historical
+Nairobi,1974,19.698273,MRI-ESM2-0,historical
+Cape Town,1974,17.618408,MRI-ESM2-0,historical
+Riyadh,1974,23.425049,MRI-ESM2-0,historical
+Tehran,1974,12.012299,MRI-ESM2-0,historical
+Mumbai,1974,27.235992,MRI-ESM2-0,historical
+Delhi,1974,28.196808,MRI-ESM2-0,historical
+Dhaka,1974,26.402222,MRI-ESM2-0,historical
+Beijing,1974,10.654694,MRI-ESM2-0,historical
+Shanghai,1974,16.456757,MRI-ESM2-0,historical
+Tokyo,1974,13.3446045,MRI-ESM2-0,historical
+Singapore,1974,27.393707,MRI-ESM2-0,historical
+Jakarta,1974,25.849121,MRI-ESM2-0,historical
+Sydney,1974,15.844482,MRI-ESM2-0,historical
+San Diego,1975,17.543427,MRI-ESM2-0,historical
+Phoenix,1975,19.942749,MRI-ESM2-0,historical
+New York,1975,10.543121,MRI-ESM2-0,historical
+Miami,1975,24.462738,MRI-ESM2-0,historical
+Anchorage,1975,-0.1803894,MRI-ESM2-0,historical
+Toronto,1975,8.660278,MRI-ESM2-0,historical
+Mexico City,1975,13.37796,MRI-ESM2-0,historical
+Lima,1975,13.824158,MRI-ESM2-0,historical
+Sao Paulo,1975,19.193542,MRI-ESM2-0,historical
+Buenos Aires,1975,17.330048,MRI-ESM2-0,historical
+Reykjavik,1975,4.2719116,MRI-ESM2-0,historical
+London,1975,12.070648,MRI-ESM2-0,historical
+Paris,1975,12.387787,MRI-ESM2-0,historical
+Madrid,1975,10.785553,MRI-ESM2-0,historical
+Moscow,1975,3.8671875,MRI-ESM2-0,historical
+Cairo,1975,20.902893,MRI-ESM2-0,historical
+Lagos,1975,27.994995,MRI-ESM2-0,historical
+Nairobi,1975,20.135437,MRI-ESM2-0,historical
+Cape Town,1975,17.549591,MRI-ESM2-0,historical
+Riyadh,1975,24.081573,MRI-ESM2-0,historical
+Tehran,1975,13.8341675,MRI-ESM2-0,historical
+Mumbai,1975,26.81897,MRI-ESM2-0,historical
+Delhi,1975,27.274658,MRI-ESM2-0,historical
+Dhaka,1975,25.873352,MRI-ESM2-0,historical
+Beijing,1975,9.683228,MRI-ESM2-0,historical
+Shanghai,1975,16.865326,MRI-ESM2-0,historical
+Tokyo,1975,13.952026,MRI-ESM2-0,historical
+Singapore,1975,27.578308,MRI-ESM2-0,historical
+Jakarta,1975,26.298828,MRI-ESM2-0,historical
+Sydney,1975,16.115265,MRI-ESM2-0,historical
+San Diego,1976,19.011505,MRI-ESM2-0,historical
+Phoenix,1976,21.435547,MRI-ESM2-0,historical
+New York,1976,8.81665,MRI-ESM2-0,historical
+Miami,1976,24.583557,MRI-ESM2-0,historical
+Anchorage,1976,-0.35839844,MRI-ESM2-0,historical
+Toronto,1976,6.090637,MRI-ESM2-0,historical
+Mexico City,1976,12.87912,MRI-ESM2-0,historical
+Lima,1976,13.011505,MRI-ESM2-0,historical
+Sao Paulo,1976,18.568604,MRI-ESM2-0,historical
+Buenos Aires,1976,18.325958,MRI-ESM2-0,historical
+Reykjavik,1976,4.268982,MRI-ESM2-0,historical
+London,1976,10.777832,MRI-ESM2-0,historical
+Paris,1976,10.695953,MRI-ESM2-0,historical
+Madrid,1976,9.855225,MRI-ESM2-0,historical
+Moscow,1976,6.305481,MRI-ESM2-0,historical
+Cairo,1976,21.550842,MRI-ESM2-0,historical
+Lagos,1976,27.700073,MRI-ESM2-0,historical
+Nairobi,1976,19.746246,MRI-ESM2-0,historical
+Cape Town,1976,17.747253,MRI-ESM2-0,historical
+Riyadh,1976,24.272156,MRI-ESM2-0,historical
+Tehran,1976,13.796204,MRI-ESM2-0,historical
+Mumbai,1976,27.165466,MRI-ESM2-0,historical
+Delhi,1976,27.393188,MRI-ESM2-0,historical
+Dhaka,1976,26.810516,MRI-ESM2-0,historical
+Beijing,1976,9.419891,MRI-ESM2-0,historical
+Shanghai,1976,16.17926,MRI-ESM2-0,historical
+Tokyo,1976,13.258423,MRI-ESM2-0,historical
+Singapore,1976,26.952942,MRI-ESM2-0,historical
+Jakarta,1976,25.771454,MRI-ESM2-0,historical
+Sydney,1976,15.38092,MRI-ESM2-0,historical
+San Diego,1977,19.012756,MRI-ESM2-0,historical
+Phoenix,1977,21.142303,MRI-ESM2-0,historical
+New York,1977,9.435272,MRI-ESM2-0,historical
+Miami,1977,24.999847,MRI-ESM2-0,historical
+Anchorage,1977,-0.5811157,MRI-ESM2-0,historical
+Toronto,1977,7.244812,MRI-ESM2-0,historical
+Mexico City,1977,12.958984,MRI-ESM2-0,historical
+Lima,1977,13.239288,MRI-ESM2-0,historical
+Sao Paulo,1977,19.38562,MRI-ESM2-0,historical
+Buenos Aires,1977,18.725677,MRI-ESM2-0,historical
+Reykjavik,1977,4.629669,MRI-ESM2-0,historical
+London,1977,11.051971,MRI-ESM2-0,historical
+Paris,1977,10.949097,MRI-ESM2-0,historical
+Madrid,1977,10.737061,MRI-ESM2-0,historical
+Moscow,1977,4.551361,MRI-ESM2-0,historical
+Cairo,1977,20.736816,MRI-ESM2-0,historical
+Lagos,1977,27.10437,MRI-ESM2-0,historical
+Nairobi,1977,19.882782,MRI-ESM2-0,historical
+Cape Town,1977,17.53125,MRI-ESM2-0,historical
+Riyadh,1977,24.294434,MRI-ESM2-0,historical
+Tehran,1977,12.15094,MRI-ESM2-0,historical
+Mumbai,1977,26.66513,MRI-ESM2-0,historical
+Delhi,1977,25.993591,MRI-ESM2-0,historical
+Dhaka,1977,25.73529,MRI-ESM2-0,historical
+Beijing,1977,11.120972,MRI-ESM2-0,historical
+Shanghai,1977,17.3172,MRI-ESM2-0,historical
+Tokyo,1977,14.338776,MRI-ESM2-0,historical
+Singapore,1977,27.079498,MRI-ESM2-0,historical
+Jakarta,1977,25.827759,MRI-ESM2-0,historical
+Sydney,1977,16.119446,MRI-ESM2-0,historical
+San Diego,1978,17.649597,MRI-ESM2-0,historical
+Phoenix,1978,19.780884,MRI-ESM2-0,historical
+New York,1978,10.234497,MRI-ESM2-0,historical
+Miami,1978,24.884003,MRI-ESM2-0,historical
+Anchorage,1978,-0.9104614,MRI-ESM2-0,historical
+Toronto,1978,7.847168,MRI-ESM2-0,historical
+Mexico City,1978,13.49469,MRI-ESM2-0,historical
+Lima,1978,13.967346,MRI-ESM2-0,historical
+Sao Paulo,1978,18.98642,MRI-ESM2-0,historical
+Buenos Aires,1978,19.140045,MRI-ESM2-0,historical
+Reykjavik,1978,4.0556946,MRI-ESM2-0,historical
+London,1978,11.483398,MRI-ESM2-0,historical
+Paris,1978,11.364838,MRI-ESM2-0,historical
+Madrid,1978,10.285431,MRI-ESM2-0,historical
+Moscow,1978,4.9822693,MRI-ESM2-0,historical
+Cairo,1978,21.328156,MRI-ESM2-0,historical
+Lagos,1978,27.486542,MRI-ESM2-0,historical
+Nairobi,1978,19.991425,MRI-ESM2-0,historical
+Cape Town,1978,17.317932,MRI-ESM2-0,historical
+Riyadh,1978,24.553467,MRI-ESM2-0,historical
+Tehran,1978,13.678497,MRI-ESM2-0,historical
+Mumbai,1978,26.330719,MRI-ESM2-0,historical
+Delhi,1978,27.02417,MRI-ESM2-0,historical
+Dhaka,1978,25.360962,MRI-ESM2-0,historical
+Beijing,1978,9.673187,MRI-ESM2-0,historical
+Shanghai,1978,16.67157,MRI-ESM2-0,historical
+Tokyo,1978,14.382568,MRI-ESM2-0,historical
+Singapore,1978,27.150818,MRI-ESM2-0,historical
+Jakarta,1978,25.770233,MRI-ESM2-0,historical
+Sydney,1978,16.413696,MRI-ESM2-0,historical
+San Diego,1979,18.228088,MRI-ESM2-0,historical
+Phoenix,1979,20.69513,MRI-ESM2-0,historical
+New York,1979,9.593689,MRI-ESM2-0,historical
+Miami,1979,24.505676,MRI-ESM2-0,historical
+Anchorage,1979,-0.73883057,MRI-ESM2-0,historical
+Toronto,1979,7.462494,MRI-ESM2-0,historical
+Mexico City,1979,13.185059,MRI-ESM2-0,historical
+Lima,1979,13.989441,MRI-ESM2-0,historical
+Sao Paulo,1979,19.019775,MRI-ESM2-0,historical
+Buenos Aires,1979,17.279968,MRI-ESM2-0,historical
+Reykjavik,1979,3.6116943,MRI-ESM2-0,historical
+London,1979,10.965271,MRI-ESM2-0,historical
+Paris,1979,11.087952,MRI-ESM2-0,historical
+Madrid,1979,10.841858,MRI-ESM2-0,historical
+Moscow,1979,4.816803,MRI-ESM2-0,historical
+Cairo,1979,21.088959,MRI-ESM2-0,historical
+Lagos,1979,27.701416,MRI-ESM2-0,historical
+Nairobi,1979,20.113708,MRI-ESM2-0,historical
+Cape Town,1979,17.796936,MRI-ESM2-0,historical
+Riyadh,1979,24.329285,MRI-ESM2-0,historical
+Tehran,1979,13.005859,MRI-ESM2-0,historical
+Mumbai,1979,26.579529,MRI-ESM2-0,historical
+Delhi,1979,26.312073,MRI-ESM2-0,historical
+Dhaka,1979,25.459778,MRI-ESM2-0,historical
+Beijing,1979,9.581879,MRI-ESM2-0,historical
+Shanghai,1979,16.232086,MRI-ESM2-0,historical
+Tokyo,1979,13.941162,MRI-ESM2-0,historical
+Singapore,1979,27.405945,MRI-ESM2-0,historical
+Jakarta,1979,26.163696,MRI-ESM2-0,historical
+Sydney,1979,16.180023,MRI-ESM2-0,historical
+San Diego,1980,18.613953,MRI-ESM2-0,historical
+Phoenix,1980,20.07782,MRI-ESM2-0,historical
+New York,1980,9.895142,MRI-ESM2-0,historical
+Miami,1980,24.95401,MRI-ESM2-0,historical
+Anchorage,1980,-0.0134887695,MRI-ESM2-0,historical
+Toronto,1980,7.3088684,MRI-ESM2-0,historical
+Mexico City,1980,13.5159,MRI-ESM2-0,historical
+Lima,1980,13.492065,MRI-ESM2-0,historical
+Sao Paulo,1980,19.088013,MRI-ESM2-0,historical
+Buenos Aires,1980,17.567871,MRI-ESM2-0,historical
+Reykjavik,1980,3.0074463,MRI-ESM2-0,historical
+London,1980,11.603668,MRI-ESM2-0,historical
+Paris,1980,11.801941,MRI-ESM2-0,historical
+Madrid,1980,10.815857,MRI-ESM2-0,historical
+Moscow,1980,4.280243,MRI-ESM2-0,historical
+Cairo,1980,21.170563,MRI-ESM2-0,historical
+Lagos,1980,27.667816,MRI-ESM2-0,historical
+Nairobi,1980,20.051697,MRI-ESM2-0,historical
+Cape Town,1980,17.54126,MRI-ESM2-0,historical
+Riyadh,1980,24.241852,MRI-ESM2-0,historical
+Tehran,1980,13.951721,MRI-ESM2-0,historical
+Mumbai,1980,27.934418,MRI-ESM2-0,historical
+Delhi,1980,28.745605,MRI-ESM2-0,historical
+Dhaka,1980,26.211487,MRI-ESM2-0,historical
+Beijing,1980,9.628601,MRI-ESM2-0,historical
+Shanghai,1980,15.969788,MRI-ESM2-0,historical
+Tokyo,1980,14.043945,MRI-ESM2-0,historical
+Singapore,1980,26.928375,MRI-ESM2-0,historical
+Jakarta,1980,25.966827,MRI-ESM2-0,historical
+Sydney,1980,15.513275,MRI-ESM2-0,historical
+San Diego,1981,18.125336,MRI-ESM2-0,historical
+Phoenix,1981,20.471436,MRI-ESM2-0,historical
+New York,1981,9.828888,MRI-ESM2-0,historical
+Miami,1981,24.695099,MRI-ESM2-0,historical
+Anchorage,1981,1.3868408,MRI-ESM2-0,historical
+Toronto,1981,7.558197,MRI-ESM2-0,historical
+Mexico City,1981,13.420837,MRI-ESM2-0,historical
+Lima,1981,14.186279,MRI-ESM2-0,historical
+Sao Paulo,1981,18.947815,MRI-ESM2-0,historical
+Buenos Aires,1981,18.351196,MRI-ESM2-0,historical
+Reykjavik,1981,4.6807556,MRI-ESM2-0,historical
+London,1981,11.166992,MRI-ESM2-0,historical
+Paris,1981,11.021088,MRI-ESM2-0,historical
+Madrid,1981,9.566895,MRI-ESM2-0,historical
+Moscow,1981,4.759674,MRI-ESM2-0,historical
+Cairo,1981,21.035858,MRI-ESM2-0,historical
+Lagos,1981,27.824219,MRI-ESM2-0,historical
+Nairobi,1981,19.778625,MRI-ESM2-0,historical
+Cape Town,1981,16.780212,MRI-ESM2-0,historical
+Riyadh,1981,23.31958,MRI-ESM2-0,historical
+Tehran,1981,11.196716,MRI-ESM2-0,historical
+Mumbai,1981,26.621643,MRI-ESM2-0,historical
+Delhi,1981,26.164612,MRI-ESM2-0,historical
+Dhaka,1981,25.426178,MRI-ESM2-0,historical
+Beijing,1981,9.274445,MRI-ESM2-0,historical
+Shanghai,1981,16.290009,MRI-ESM2-0,historical
+Tokyo,1981,14.0928955,MRI-ESM2-0,historical
+Singapore,1981,27.404022,MRI-ESM2-0,historical
+Jakarta,1981,26.069641,MRI-ESM2-0,historical
+Sydney,1981,16.758423,MRI-ESM2-0,historical
+San Diego,1982,18.545013,MRI-ESM2-0,historical
+Phoenix,1982,21.175476,MRI-ESM2-0,historical
+New York,1982,9.459106,MRI-ESM2-0,historical
+Miami,1982,24.87976,MRI-ESM2-0,historical
+Anchorage,1982,-0.4345703,MRI-ESM2-0,historical
+Toronto,1982,7.543091,MRI-ESM2-0,historical
+Mexico City,1982,12.995544,MRI-ESM2-0,historical
+Lima,1982,14.19397,MRI-ESM2-0,historical
+Sao Paulo,1982,20.192017,MRI-ESM2-0,historical
+Buenos Aires,1982,17.880737,MRI-ESM2-0,historical
+Reykjavik,1982,3.6325684,MRI-ESM2-0,historical
+London,1982,10.981476,MRI-ESM2-0,historical
+Paris,1982,10.961578,MRI-ESM2-0,historical
+Madrid,1982,11.178955,MRI-ESM2-0,historical
+Moscow,1982,5.0328674,MRI-ESM2-0,historical
+Cairo,1982,21.150024,MRI-ESM2-0,historical
+Lagos,1982,27.692963,MRI-ESM2-0,historical
+Nairobi,1982,19.50299,MRI-ESM2-0,historical
+Cape Town,1982,17.519775,MRI-ESM2-0,historical
+Riyadh,1982,23.931946,MRI-ESM2-0,historical
+Tehran,1982,12.839111,MRI-ESM2-0,historical
+Mumbai,1982,26.632385,MRI-ESM2-0,historical
+Delhi,1982,27.065643,MRI-ESM2-0,historical
+Dhaka,1982,26.269348,MRI-ESM2-0,historical
+Beijing,1982,10.764435,MRI-ESM2-0,historical
+Shanghai,1982,16.030518,MRI-ESM2-0,historical
+Tokyo,1982,14.566742,MRI-ESM2-0,historical
+Singapore,1982,27.417053,MRI-ESM2-0,historical
+Jakarta,1982,26.034912,MRI-ESM2-0,historical
+Sydney,1982,17.350647,MRI-ESM2-0,historical
+San Diego,1983,19.05371,MRI-ESM2-0,historical
+Phoenix,1983,21.168152,MRI-ESM2-0,historical
+New York,1983,9.55072,MRI-ESM2-0,historical
+Miami,1983,24.874634,MRI-ESM2-0,historical
+Anchorage,1983,0.62002563,MRI-ESM2-0,historical
+Toronto,1983,7.4349365,MRI-ESM2-0,historical
+Mexico City,1983,13.404236,MRI-ESM2-0,historical
+Lima,1983,13.808838,MRI-ESM2-0,historical
+Sao Paulo,1983,18.757874,MRI-ESM2-0,historical
+Buenos Aires,1983,17.463165,MRI-ESM2-0,historical
+Reykjavik,1983,3.7837524,MRI-ESM2-0,historical
+London,1983,11.135468,MRI-ESM2-0,historical
+Paris,1983,11.441528,MRI-ESM2-0,historical
+Madrid,1983,10.677826,MRI-ESM2-0,historical
+Moscow,1983,4.9626465,MRI-ESM2-0,historical
+Cairo,1983,20.702759,MRI-ESM2-0,historical
+Lagos,1983,27.560516,MRI-ESM2-0,historical
+Nairobi,1983,20.508972,MRI-ESM2-0,historical
+Cape Town,1983,17.688965,MRI-ESM2-0,historical
+Riyadh,1983,23.672607,MRI-ESM2-0,historical
+Tehran,1983,11.971558,MRI-ESM2-0,historical
+Mumbai,1983,26.53894,MRI-ESM2-0,historical
+Delhi,1983,26.9823,MRI-ESM2-0,historical
+Dhaka,1983,25.817444,MRI-ESM2-0,historical
+Beijing,1983,10.062775,MRI-ESM2-0,historical
+Shanghai,1983,16.69159,MRI-ESM2-0,historical
+Tokyo,1983,13.977539,MRI-ESM2-0,historical
+Singapore,1983,27.567657,MRI-ESM2-0,historical
+Jakarta,1983,26.070038,MRI-ESM2-0,historical
+Sydney,1983,16.225037,MRI-ESM2-0,historical
+San Diego,1984,18.73877,MRI-ESM2-0,historical
+Phoenix,1984,20.19571,MRI-ESM2-0,historical
+New York,1984,9.852356,MRI-ESM2-0,historical
+Miami,1984,24.85254,MRI-ESM2-0,historical
+Anchorage,1984,0.114990234,MRI-ESM2-0,historical
+Toronto,1984,7.5392456,MRI-ESM2-0,historical
+Mexico City,1984,12.972656,MRI-ESM2-0,historical
+Lima,1984,13.680969,MRI-ESM2-0,historical
+Sao Paulo,1984,18.312256,MRI-ESM2-0,historical
+Buenos Aires,1984,18.460358,MRI-ESM2-0,historical
+Reykjavik,1984,5.5708923,MRI-ESM2-0,historical
+London,1984,11.367798,MRI-ESM2-0,historical
+Paris,1984,11.474915,MRI-ESM2-0,historical
+Madrid,1984,10.838501,MRI-ESM2-0,historical
+Moscow,1984,4.422943,MRI-ESM2-0,historical
+Cairo,1984,21.23108,MRI-ESM2-0,historical
+Lagos,1984,27.922852,MRI-ESM2-0,historical
+Nairobi,1984,19.886475,MRI-ESM2-0,historical
+Cape Town,1984,17.150208,MRI-ESM2-0,historical
+Riyadh,1984,24.475128,MRI-ESM2-0,historical
+Tehran,1984,13.527618,MRI-ESM2-0,historical
+Mumbai,1984,26.807983,MRI-ESM2-0,historical
+Delhi,1984,27.338074,MRI-ESM2-0,historical
+Dhaka,1984,26.186462,MRI-ESM2-0,historical
+Beijing,1984,9.764709,MRI-ESM2-0,historical
+Shanghai,1984,16.202667,MRI-ESM2-0,historical
+Tokyo,1984,13.80954,MRI-ESM2-0,historical
+Singapore,1984,27.295929,MRI-ESM2-0,historical
+Jakarta,1984,25.973572,MRI-ESM2-0,historical
+Sydney,1984,16.549377,MRI-ESM2-0,historical
+San Diego,1985,18.515137,MRI-ESM2-0,historical
+Phoenix,1985,20.80777,MRI-ESM2-0,historical
+New York,1985,9.85144,MRI-ESM2-0,historical
+Miami,1985,24.97815,MRI-ESM2-0,historical
+Anchorage,1985,1.9082336,MRI-ESM2-0,historical
+Toronto,1985,7.6937866,MRI-ESM2-0,historical
+Mexico City,1985,13.558228,MRI-ESM2-0,historical
+Lima,1985,14.12738,MRI-ESM2-0,historical
+Sao Paulo,1985,19.225525,MRI-ESM2-0,historical
+Buenos Aires,1985,18.323425,MRI-ESM2-0,historical
+Reykjavik,1985,4.775177,MRI-ESM2-0,historical
+London,1985,10.907715,MRI-ESM2-0,historical
+Paris,1985,10.922241,MRI-ESM2-0,historical
+Madrid,1985,11.001801,MRI-ESM2-0,historical
+Moscow,1985,5.620575,MRI-ESM2-0,historical
+Cairo,1985,20.992676,MRI-ESM2-0,historical
+Lagos,1985,27.843964,MRI-ESM2-0,historical
+Nairobi,1985,19.537262,MRI-ESM2-0,historical
+Cape Town,1985,17.684998,MRI-ESM2-0,historical
+Riyadh,1985,24.18341,MRI-ESM2-0,historical
+Tehran,1985,12.935059,MRI-ESM2-0,historical
+Mumbai,1985,26.68457,MRI-ESM2-0,historical
+Delhi,1985,25.959412,MRI-ESM2-0,historical
+Dhaka,1985,26.2919,MRI-ESM2-0,historical
+Beijing,1985,10.085327,MRI-ESM2-0,historical
+Shanghai,1985,16.342285,MRI-ESM2-0,historical
+Tokyo,1985,13.720856,MRI-ESM2-0,historical
+Singapore,1985,27.641602,MRI-ESM2-0,historical
+Jakarta,1985,26.230804,MRI-ESM2-0,historical
+Sydney,1985,16.745544,MRI-ESM2-0,historical
+San Diego,1986,17.970917,MRI-ESM2-0,historical
+Phoenix,1986,19.769012,MRI-ESM2-0,historical
+New York,1986,10.694122,MRI-ESM2-0,historical
+Miami,1986,24.728485,MRI-ESM2-0,historical
+Anchorage,1986,1.3598022,MRI-ESM2-0,historical
+Toronto,1986,8.352295,MRI-ESM2-0,historical
+Mexico City,1986,13.558228,MRI-ESM2-0,historical
+Lima,1986,14.472717,MRI-ESM2-0,historical
+Sao Paulo,1986,18.63269,MRI-ESM2-0,historical
+Buenos Aires,1986,18.416992,MRI-ESM2-0,historical
+Reykjavik,1986,4.7053223,MRI-ESM2-0,historical
+London,1986,11.498688,MRI-ESM2-0,historical
+Paris,1986,11.589691,MRI-ESM2-0,historical
+Madrid,1986,9.783142,MRI-ESM2-0,historical
+Moscow,1986,3.6724854,MRI-ESM2-0,historical
+Cairo,1986,21.753296,MRI-ESM2-0,historical
+Lagos,1986,28.076416,MRI-ESM2-0,historical
+Nairobi,1986,20.582947,MRI-ESM2-0,historical
+Cape Town,1986,17.30304,MRI-ESM2-0,historical
+Riyadh,1986,24.603912,MRI-ESM2-0,historical
+Tehran,1986,13.056885,MRI-ESM2-0,historical
+Mumbai,1986,27.14746,MRI-ESM2-0,historical
+Delhi,1986,27.651245,MRI-ESM2-0,historical
+Dhaka,1986,26.580109,MRI-ESM2-0,historical
+Beijing,1986,10.948853,MRI-ESM2-0,historical
+Shanghai,1986,17.630127,MRI-ESM2-0,historical
+Tokyo,1986,14.6979065,MRI-ESM2-0,historical
+Singapore,1986,27.516907,MRI-ESM2-0,historical
+Jakarta,1986,26.310364,MRI-ESM2-0,historical
+Sydney,1986,16.270721,MRI-ESM2-0,historical
+San Diego,1987,19.27304,MRI-ESM2-0,historical
+Phoenix,1987,21.758118,MRI-ESM2-0,historical
+New York,1987,9.31958,MRI-ESM2-0,historical
+Miami,1987,25.040833,MRI-ESM2-0,historical
+Anchorage,1987,1.45047,MRI-ESM2-0,historical
+Toronto,1987,6.6766357,MRI-ESM2-0,historical
+Mexico City,1987,13.563629,MRI-ESM2-0,historical
+Lima,1987,13.972961,MRI-ESM2-0,historical
+Sao Paulo,1987,19.01416,MRI-ESM2-0,historical
+Buenos Aires,1987,18.775421,MRI-ESM2-0,historical
+Reykjavik,1987,5.055359,MRI-ESM2-0,historical
+London,1987,11.397308,MRI-ESM2-0,historical
+Paris,1987,11.627747,MRI-ESM2-0,historical
+Madrid,1987,9.822418,MRI-ESM2-0,historical
+Moscow,1987,4.791565,MRI-ESM2-0,historical
+Cairo,1987,21.850708,MRI-ESM2-0,historical
+Lagos,1987,27.975128,MRI-ESM2-0,historical
+Nairobi,1987,19.340973,MRI-ESM2-0,historical
+Cape Town,1987,17.822968,MRI-ESM2-0,historical
+Riyadh,1987,23.880249,MRI-ESM2-0,historical
+Tehran,1987,11.943787,MRI-ESM2-0,historical
+Mumbai,1987,27.064484,MRI-ESM2-0,historical
+Delhi,1987,27.78125,MRI-ESM2-0,historical
+Dhaka,1987,27.550842,MRI-ESM2-0,historical
+Beijing,1987,9.903748,MRI-ESM2-0,historical
+Shanghai,1987,15.99527,MRI-ESM2-0,historical
+Tokyo,1987,13.763672,MRI-ESM2-0,historical
+Singapore,1987,27.385284,MRI-ESM2-0,historical
+Jakarta,1987,25.958832,MRI-ESM2-0,historical
+Sydney,1987,15.95755,MRI-ESM2-0,historical
+San Diego,1988,18.320587,MRI-ESM2-0,historical
+Phoenix,1988,20.770996,MRI-ESM2-0,historical
+New York,1988,9.709625,MRI-ESM2-0,historical
+Miami,1988,24.800537,MRI-ESM2-0,historical
+Anchorage,1988,2.2161255,MRI-ESM2-0,historical
+Toronto,1988,7.4740906,MRI-ESM2-0,historical
+Mexico City,1988,13.290619,MRI-ESM2-0,historical
+Lima,1988,14.191345,MRI-ESM2-0,historical
+Sao Paulo,1988,18.788269,MRI-ESM2-0,historical
+Buenos Aires,1988,17.588379,MRI-ESM2-0,historical
+Reykjavik,1988,4.9415894,MRI-ESM2-0,historical
+London,1988,10.2560425,MRI-ESM2-0,historical
+Paris,1988,10.487518,MRI-ESM2-0,historical
+Madrid,1988,9.964935,MRI-ESM2-0,historical
+Moscow,1988,5.1760864,MRI-ESM2-0,historical
+Cairo,1988,21.319275,MRI-ESM2-0,historical
+Lagos,1988,28.00177,MRI-ESM2-0,historical
+Nairobi,1988,20.469818,MRI-ESM2-0,historical
+Cape Town,1988,17.823364,MRI-ESM2-0,historical
+Riyadh,1988,24.274841,MRI-ESM2-0,historical
+Tehran,1988,11.446045,MRI-ESM2-0,historical
+Mumbai,1988,27.044922,MRI-ESM2-0,historical
+Delhi,1988,26.949799,MRI-ESM2-0,historical
+Dhaka,1988,25.807312,MRI-ESM2-0,historical
+Beijing,1988,10.412476,MRI-ESM2-0,historical
+Shanghai,1988,16.262451,MRI-ESM2-0,historical
+Tokyo,1988,14.26532,MRI-ESM2-0,historical
+Singapore,1988,27.754791,MRI-ESM2-0,historical
+Jakarta,1988,26.502136,MRI-ESM2-0,historical
+Sydney,1988,16.565277,MRI-ESM2-0,historical
+San Diego,1989,18.081116,MRI-ESM2-0,historical
+Phoenix,1989,19.878723,MRI-ESM2-0,historical
+New York,1989,9.543793,MRI-ESM2-0,historical
+Miami,1989,25.022827,MRI-ESM2-0,historical
+Anchorage,1989,0.8528137,MRI-ESM2-0,historical
+Toronto,1989,7.3740845,MRI-ESM2-0,historical
+Mexico City,1989,13.473511,MRI-ESM2-0,historical
+Lima,1989,13.35437,MRI-ESM2-0,historical
+Sao Paulo,1989,18.736847,MRI-ESM2-0,historical
+Buenos Aires,1989,19.026245,MRI-ESM2-0,historical
+Reykjavik,1989,3.8812256,MRI-ESM2-0,historical
+London,1989,11.90564,MRI-ESM2-0,historical
+Paris,1989,12.1267395,MRI-ESM2-0,historical
+Madrid,1989,11.031708,MRI-ESM2-0,historical
+Moscow,1989,5.6829834,MRI-ESM2-0,historical
+Cairo,1989,20.866516,MRI-ESM2-0,historical
+Lagos,1989,27.77539,MRI-ESM2-0,historical
+Nairobi,1989,19.97931,MRI-ESM2-0,historical
+Cape Town,1989,17.642334,MRI-ESM2-0,historical
+Riyadh,1989,23.774658,MRI-ESM2-0,historical
+Tehran,1989,13.416077,MRI-ESM2-0,historical
+Mumbai,1989,27.206055,MRI-ESM2-0,historical
+Delhi,1989,27.06723,MRI-ESM2-0,historical
+Dhaka,1989,25.814209,MRI-ESM2-0,historical
+Beijing,1989,10.334015,MRI-ESM2-0,historical
+Shanghai,1989,15.637268,MRI-ESM2-0,historical
+Tokyo,1989,13.848694,MRI-ESM2-0,historical
+Singapore,1989,27.163239,MRI-ESM2-0,historical
+Jakarta,1989,26.12613,MRI-ESM2-0,historical
+Sydney,1989,15.676514,MRI-ESM2-0,historical
+San Diego,1990,18.492706,MRI-ESM2-0,historical
+Phoenix,1990,20.540161,MRI-ESM2-0,historical
+New York,1990,9.517944,MRI-ESM2-0,historical
+Miami,1990,24.624176,MRI-ESM2-0,historical
+Anchorage,1990,0.32128906,MRI-ESM2-0,historical
+Toronto,1990,7.1265564,MRI-ESM2-0,historical
+Mexico City,1990,13.159851,MRI-ESM2-0,historical
+Lima,1990,13.905945,MRI-ESM2-0,historical
+Sao Paulo,1990,19.945007,MRI-ESM2-0,historical
+Buenos Aires,1990,17.8703,MRI-ESM2-0,historical
+Reykjavik,1990,2.9107666,MRI-ESM2-0,historical
+London,1990,11.312561,MRI-ESM2-0,historical
+Paris,1990,11.666748,MRI-ESM2-0,historical
+Madrid,1990,11.267487,MRI-ESM2-0,historical
+Moscow,1990,5.8256836,MRI-ESM2-0,historical
+Cairo,1990,21.334106,MRI-ESM2-0,historical
+Lagos,1990,27.604645,MRI-ESM2-0,historical
+Nairobi,1990,19.631378,MRI-ESM2-0,historical
+Cape Town,1990,18.01764,MRI-ESM2-0,historical
+Riyadh,1990,24.904816,MRI-ESM2-0,historical
+Tehran,1990,14.744141,MRI-ESM2-0,historical
+Mumbai,1990,26.491608,MRI-ESM2-0,historical
+Delhi,1990,27.273376,MRI-ESM2-0,historical
+Dhaka,1990,26.58966,MRI-ESM2-0,historical
+Beijing,1990,10.863922,MRI-ESM2-0,historical
+Shanghai,1990,17.132294,MRI-ESM2-0,historical
+Tokyo,1990,14.945984,MRI-ESM2-0,historical
+Singapore,1990,27.087158,MRI-ESM2-0,historical
+Jakarta,1990,25.5932,MRI-ESM2-0,historical
+Sydney,1990,15.8862915,MRI-ESM2-0,historical
+San Diego,1991,18.287292,MRI-ESM2-0,historical
+Phoenix,1991,20.627197,MRI-ESM2-0,historical
+New York,1991,9.914215,MRI-ESM2-0,historical
+Miami,1991,24.766937,MRI-ESM2-0,historical
+Anchorage,1991,1.6520386,MRI-ESM2-0,historical
+Toronto,1991,8.043823,MRI-ESM2-0,historical
+Mexico City,1991,13.86731,MRI-ESM2-0,historical
+Lima,1991,14.404602,MRI-ESM2-0,historical
+Sao Paulo,1991,19.537659,MRI-ESM2-0,historical
+Buenos Aires,1991,17.70929,MRI-ESM2-0,historical
+Reykjavik,1991,3.6950989,MRI-ESM2-0,historical
+London,1991,11.350098,MRI-ESM2-0,historical
+Paris,1991,11.612732,MRI-ESM2-0,historical
+Madrid,1991,10.810486,MRI-ESM2-0,historical
+Moscow,1991,3.7330322,MRI-ESM2-0,historical
+Cairo,1991,21.156311,MRI-ESM2-0,historical
+Lagos,1991,28.09262,MRI-ESM2-0,historical
+Nairobi,1991,19.32721,MRI-ESM2-0,historical
+Cape Town,1991,17.93274,MRI-ESM2-0,historical
+Riyadh,1991,24.901733,MRI-ESM2-0,historical
+Tehran,1991,13.295898,MRI-ESM2-0,historical
+Mumbai,1991,27.352997,MRI-ESM2-0,historical
+Delhi,1991,26.467682,MRI-ESM2-0,historical
+Dhaka,1991,25.236664,MRI-ESM2-0,historical
+Beijing,1991,10.435638,MRI-ESM2-0,historical
+Shanghai,1991,16.138672,MRI-ESM2-0,historical
+Tokyo,1991,14.185303,MRI-ESM2-0,historical
+Singapore,1991,27.40802,MRI-ESM2-0,historical
+Jakarta,1991,26.107178,MRI-ESM2-0,historical
+Sydney,1991,16.57254,MRI-ESM2-0,historical
+San Diego,1992,18.451263,MRI-ESM2-0,historical
+Phoenix,1992,21.080322,MRI-ESM2-0,historical
+New York,1992,9.68689,MRI-ESM2-0,historical
+Miami,1992,24.858124,MRI-ESM2-0,historical
+Anchorage,1992,0.110565186,MRI-ESM2-0,historical
+Toronto,1992,7.294342,MRI-ESM2-0,historical
+Mexico City,1992,13.206543,MRI-ESM2-0,historical
+Lima,1992,13.314758,MRI-ESM2-0,historical
+Sao Paulo,1992,17.96112,MRI-ESM2-0,historical
+Buenos Aires,1992,16.650085,MRI-ESM2-0,historical
+Reykjavik,1992,2.9470215,MRI-ESM2-0,historical
+London,1992,11.09848,MRI-ESM2-0,historical
+Paris,1992,11.410217,MRI-ESM2-0,historical
+Madrid,1992,10.477997,MRI-ESM2-0,historical
+Moscow,1992,5.349762,MRI-ESM2-0,historical
+Cairo,1992,21.24527,MRI-ESM2-0,historical
+Lagos,1992,27.616974,MRI-ESM2-0,historical
+Nairobi,1992,20.31134,MRI-ESM2-0,historical
+Cape Town,1992,17.206787,MRI-ESM2-0,historical
+Riyadh,1992,24.587036,MRI-ESM2-0,historical
+Tehran,1992,13.921478,MRI-ESM2-0,historical
+Mumbai,1992,27.532135,MRI-ESM2-0,historical
+Delhi,1992,27.478027,MRI-ESM2-0,historical
+Dhaka,1992,25.612122,MRI-ESM2-0,historical
+Beijing,1992,9.162964,MRI-ESM2-0,historical
+Shanghai,1992,16.059631,MRI-ESM2-0,historical
+Tokyo,1992,13.227081,MRI-ESM2-0,historical
+Singapore,1992,26.837067,MRI-ESM2-0,historical
+Jakarta,1992,25.877625,MRI-ESM2-0,historical
+Sydney,1992,15.678467,MRI-ESM2-0,historical
+San Diego,1993,18.40683,MRI-ESM2-0,historical
+Phoenix,1993,20.768524,MRI-ESM2-0,historical
+New York,1993,10.2795105,MRI-ESM2-0,historical
+Miami,1993,24.976013,MRI-ESM2-0,historical
+Anchorage,1993,0.47555542,MRI-ESM2-0,historical
+Toronto,1993,8.060608,MRI-ESM2-0,historical
+Mexico City,1993,13.038544,MRI-ESM2-0,historical
+Lima,1993,13.68042,MRI-ESM2-0,historical
+Sao Paulo,1993,19.834167,MRI-ESM2-0,historical
+Buenos Aires,1993,17.517426,MRI-ESM2-0,historical
+Reykjavik,1993,3.8543396,MRI-ESM2-0,historical
+London,1993,12.023132,MRI-ESM2-0,historical
+Paris,1993,12.196899,MRI-ESM2-0,historical
+Madrid,1993,10.548401,MRI-ESM2-0,historical
+Moscow,1993,6.169281,MRI-ESM2-0,historical
+Cairo,1993,21.42691,MRI-ESM2-0,historical
+Lagos,1993,27.322998,MRI-ESM2-0,historical
+Nairobi,1993,19.752869,MRI-ESM2-0,historical
+Cape Town,1993,16.744202,MRI-ESM2-0,historical
+Riyadh,1993,23.995056,MRI-ESM2-0,historical
+Tehran,1993,11.664307,MRI-ESM2-0,historical
+Mumbai,1993,26.514252,MRI-ESM2-0,historical
+Delhi,1993,26.525421,MRI-ESM2-0,historical
+Dhaka,1993,25.540222,MRI-ESM2-0,historical
+Beijing,1993,9.691132,MRI-ESM2-0,historical
+Shanghai,1993,16.13501,MRI-ESM2-0,historical
+Tokyo,1993,13.404358,MRI-ESM2-0,historical
+Singapore,1993,27.123596,MRI-ESM2-0,historical
+Jakarta,1993,25.908722,MRI-ESM2-0,historical
+Sydney,1993,15.652252,MRI-ESM2-0,historical
+San Diego,1994,17.989136,MRI-ESM2-0,historical
+Phoenix,1994,20.62732,MRI-ESM2-0,historical
+New York,1994,10.018005,MRI-ESM2-0,historical
+Miami,1994,25.156036,MRI-ESM2-0,historical
+Anchorage,1994,0.35958862,MRI-ESM2-0,historical
+Toronto,1994,7.4835815,MRI-ESM2-0,historical
+Mexico City,1994,13.416931,MRI-ESM2-0,historical
+Lima,1994,13.760193,MRI-ESM2-0,historical
+Sao Paulo,1994,19.04837,MRI-ESM2-0,historical
+Buenos Aires,1994,17.052673,MRI-ESM2-0,historical
+Reykjavik,1994,3.4848633,MRI-ESM2-0,historical
+London,1994,11.346344,MRI-ESM2-0,historical
+Paris,1994,11.736969,MRI-ESM2-0,historical
+Madrid,1994,10.08905,MRI-ESM2-0,historical
+Moscow,1994,4.758209,MRI-ESM2-0,historical
+Cairo,1994,22.152893,MRI-ESM2-0,historical
+Lagos,1994,27.857605,MRI-ESM2-0,historical
+Nairobi,1994,19.926636,MRI-ESM2-0,historical
+Cape Town,1994,17.401062,MRI-ESM2-0,historical
+Riyadh,1994,24.45398,MRI-ESM2-0,historical
+Tehran,1994,13.0503845,MRI-ESM2-0,historical
+Mumbai,1994,27.378601,MRI-ESM2-0,historical
+Delhi,1994,27.500397,MRI-ESM2-0,historical
+Dhaka,1994,26.388336,MRI-ESM2-0,historical
+Beijing,1994,9.95459,MRI-ESM2-0,historical
+Shanghai,1994,16.721375,MRI-ESM2-0,historical
+Tokyo,1994,14.436035,MRI-ESM2-0,historical
+Singapore,1994,27.125763,MRI-ESM2-0,historical
+Jakarta,1994,25.960205,MRI-ESM2-0,historical
+Sydney,1994,16.515106,MRI-ESM2-0,historical
+San Diego,1995,18.607513,MRI-ESM2-0,historical
+Phoenix,1995,20.812042,MRI-ESM2-0,historical
+New York,1995,10.521545,MRI-ESM2-0,historical
+Miami,1995,24.952057,MRI-ESM2-0,historical
+Anchorage,1995,-0.06878662,MRI-ESM2-0,historical
+Toronto,1995,8.258087,MRI-ESM2-0,historical
+Mexico City,1995,13.487335,MRI-ESM2-0,historical
+Lima,1995,14.239929,MRI-ESM2-0,historical
+Sao Paulo,1995,19.244019,MRI-ESM2-0,historical
+Buenos Aires,1995,17.169617,MRI-ESM2-0,historical
+Reykjavik,1995,3.2193909,MRI-ESM2-0,historical
+London,1995,11.208984,MRI-ESM2-0,historical
+Paris,1995,11.497131,MRI-ESM2-0,historical
+Madrid,1995,10.229309,MRI-ESM2-0,historical
+Moscow,1995,6.2925415,MRI-ESM2-0,historical
+Cairo,1995,22.24887,MRI-ESM2-0,historical
+Lagos,1995,27.621674,MRI-ESM2-0,historical
+Nairobi,1995,19.78534,MRI-ESM2-0,historical
+Cape Town,1995,17.509338,MRI-ESM2-0,historical
+Riyadh,1995,25.129944,MRI-ESM2-0,historical
+Tehran,1995,13.783386,MRI-ESM2-0,historical
+Mumbai,1995,27.273071,MRI-ESM2-0,historical
+Delhi,1995,27.485779,MRI-ESM2-0,historical
+Dhaka,1995,25.400238,MRI-ESM2-0,historical
+Beijing,1995,9.882172,MRI-ESM2-0,historical
+Shanghai,1995,16.476868,MRI-ESM2-0,historical
+Tokyo,1995,14.157349,MRI-ESM2-0,historical
+Singapore,1995,27.598328,MRI-ESM2-0,historical
+Jakarta,1995,26.304474,MRI-ESM2-0,historical
+Sydney,1995,16.497955,MRI-ESM2-0,historical
+San Diego,1996,20.059631,MRI-ESM2-0,historical
+Phoenix,1996,22.380157,MRI-ESM2-0,historical
+New York,1996,9.601288,MRI-ESM2-0,historical
+Miami,1996,24.595337,MRI-ESM2-0,historical
+Anchorage,1996,0.6106262,MRI-ESM2-0,historical
+Toronto,1996,7.0075684,MRI-ESM2-0,historical
+Mexico City,1996,12.759277,MRI-ESM2-0,historical
+Lima,1996,13.448273,MRI-ESM2-0,historical
+Sao Paulo,1996,18.683899,MRI-ESM2-0,historical
+Buenos Aires,1996,18.965637,MRI-ESM2-0,historical
+Reykjavik,1996,4.274658,MRI-ESM2-0,historical
+London,1996,11.142639,MRI-ESM2-0,historical
+Paris,1996,11.226257,MRI-ESM2-0,historical
+Madrid,1996,10.263184,MRI-ESM2-0,historical
+Moscow,1996,6.0667114,MRI-ESM2-0,historical
+Cairo,1996,21.41098,MRI-ESM2-0,historical
+Lagos,1996,27.86023,MRI-ESM2-0,historical
+Nairobi,1996,20.073578,MRI-ESM2-0,historical
+Cape Town,1996,18.164185,MRI-ESM2-0,historical
+Riyadh,1996,24.565979,MRI-ESM2-0,historical
+Tehran,1996,12.771332,MRI-ESM2-0,historical
+Mumbai,1996,27.287292,MRI-ESM2-0,historical
+Delhi,1996,26.927246,MRI-ESM2-0,historical
+Dhaka,1996,26.720947,MRI-ESM2-0,historical
+Beijing,1996,10.351501,MRI-ESM2-0,historical
+Shanghai,1996,16.19806,MRI-ESM2-0,historical
+Tokyo,1996,14.148468,MRI-ESM2-0,historical
+Singapore,1996,27.269104,MRI-ESM2-0,historical
+Jakarta,1996,26.101624,MRI-ESM2-0,historical
+Sydney,1996,15.764343,MRI-ESM2-0,historical
+San Diego,1997,17.67221,MRI-ESM2-0,historical
+Phoenix,1997,19.86905,MRI-ESM2-0,historical
+New York,1997,10.182556,MRI-ESM2-0,historical
+Miami,1997,24.975098,MRI-ESM2-0,historical
+Anchorage,1997,0.17376709,MRI-ESM2-0,historical
+Toronto,1997,7.930237,MRI-ESM2-0,historical
+Mexico City,1997,13.390869,MRI-ESM2-0,historical
+Lima,1997,13.888489,MRI-ESM2-0,historical
+Sao Paulo,1997,19.55957,MRI-ESM2-0,historical
+Buenos Aires,1997,18.236145,MRI-ESM2-0,historical
+Reykjavik,1997,3.1192627,MRI-ESM2-0,historical
+London,1997,11.219025,MRI-ESM2-0,historical
+Paris,1997,11.564545,MRI-ESM2-0,historical
+Madrid,1997,10.929749,MRI-ESM2-0,historical
+Moscow,1997,5.563385,MRI-ESM2-0,historical
+Cairo,1997,21.947388,MRI-ESM2-0,historical
+Lagos,1997,28.032043,MRI-ESM2-0,historical
+Nairobi,1997,20.087158,MRI-ESM2-0,historical
+Cape Town,1997,17.793335,MRI-ESM2-0,historical
+Riyadh,1997,24.119293,MRI-ESM2-0,historical
+Tehran,1997,13.001465,MRI-ESM2-0,historical
+Mumbai,1997,27.213745,MRI-ESM2-0,historical
+Delhi,1997,27.009369,MRI-ESM2-0,historical
+Dhaka,1997,26.46466,MRI-ESM2-0,historical
+Beijing,1997,11.468872,MRI-ESM2-0,historical
+Shanghai,1997,16.658081,MRI-ESM2-0,historical
+Tokyo,1997,14.624329,MRI-ESM2-0,historical
+Singapore,1997,27.158142,MRI-ESM2-0,historical
+Jakarta,1997,25.812408,MRI-ESM2-0,historical
+Sydney,1997,16.1651,MRI-ESM2-0,historical
+San Diego,1998,18.886444,MRI-ESM2-0,historical
+Phoenix,1998,21.390411,MRI-ESM2-0,historical
+New York,1998,10.066406,MRI-ESM2-0,historical
+Miami,1998,24.619019,MRI-ESM2-0,historical
+Anchorage,1998,0.7788696,MRI-ESM2-0,historical
+Toronto,1998,7.8356323,MRI-ESM2-0,historical
+Mexico City,1998,12.986694,MRI-ESM2-0,historical
+Lima,1998,14.661011,MRI-ESM2-0,historical
+Sao Paulo,1998,19.398987,MRI-ESM2-0,historical
+Buenos Aires,1998,18.31662,MRI-ESM2-0,historical
+Reykjavik,1998,2.5240173,MRI-ESM2-0,historical
+London,1998,12.318054,MRI-ESM2-0,historical
+Paris,1998,12.597321,MRI-ESM2-0,historical
+Madrid,1998,11.115234,MRI-ESM2-0,historical
+Moscow,1998,8.477478,MRI-ESM2-0,historical
+Cairo,1998,21.439087,MRI-ESM2-0,historical
+Lagos,1998,28.050842,MRI-ESM2-0,historical
+Nairobi,1998,19.346252,MRI-ESM2-0,historical
+Cape Town,1998,17.253235,MRI-ESM2-0,historical
+Riyadh,1998,23.303589,MRI-ESM2-0,historical
+Tehran,1998,11.923859,MRI-ESM2-0,historical
+Mumbai,1998,26.921814,MRI-ESM2-0,historical
+Delhi,1998,25.976288,MRI-ESM2-0,historical
+Dhaka,1998,25.27893,MRI-ESM2-0,historical
+Beijing,1998,11.145569,MRI-ESM2-0,historical
+Shanghai,1998,16.199097,MRI-ESM2-0,historical
+Tokyo,1998,14.419128,MRI-ESM2-0,historical
+Singapore,1998,27.55722,MRI-ESM2-0,historical
+Jakarta,1998,26.482544,MRI-ESM2-0,historical
+Sydney,1998,16.8172,MRI-ESM2-0,historical
+San Diego,1999,19.50595,MRI-ESM2-0,historical
+Phoenix,1999,21.10614,MRI-ESM2-0,historical
+New York,1999,10.346527,MRI-ESM2-0,historical
+Miami,1999,25.326782,MRI-ESM2-0,historical
+Anchorage,1999,2.3703918,MRI-ESM2-0,historical
+Toronto,1999,7.4584045,MRI-ESM2-0,historical
+Mexico City,1999,13.3078,MRI-ESM2-0,historical
+Lima,1999,13.673218,MRI-ESM2-0,historical
+Sao Paulo,1999,19.107544,MRI-ESM2-0,historical
+Buenos Aires,1999,18.687012,MRI-ESM2-0,historical
+Reykjavik,1999,3.9029236,MRI-ESM2-0,historical
+London,1999,11.519714,MRI-ESM2-0,historical
+Paris,1999,11.850708,MRI-ESM2-0,historical
+Madrid,1999,10.1206665,MRI-ESM2-0,historical
+Moscow,1999,6.4722595,MRI-ESM2-0,historical
+Cairo,1999,21.895142,MRI-ESM2-0,historical
+Lagos,1999,27.726196,MRI-ESM2-0,historical
+Nairobi,1999,20.612457,MRI-ESM2-0,historical
+Cape Town,1999,16.748657,MRI-ESM2-0,historical
+Riyadh,1999,24.363312,MRI-ESM2-0,historical
+Tehran,1999,13.887512,MRI-ESM2-0,historical
+Mumbai,1999,26.278656,MRI-ESM2-0,historical
+Delhi,1999,25.796143,MRI-ESM2-0,historical
+Dhaka,1999,25.437378,MRI-ESM2-0,historical
+Beijing,1999,11.953796,MRI-ESM2-0,historical
+Shanghai,1999,16.419342,MRI-ESM2-0,historical
+Tokyo,1999,14.540161,MRI-ESM2-0,historical
+Singapore,1999,27.31961,MRI-ESM2-0,historical
+Jakarta,1999,25.927979,MRI-ESM2-0,historical
+Sydney,1999,15.744141,MRI-ESM2-0,historical
+San Diego,2000,19.503876,MRI-ESM2-0,historical
+Phoenix,2000,21.011902,MRI-ESM2-0,historical
+New York,2000,10.911682,MRI-ESM2-0,historical
+Miami,2000,24.857147,MRI-ESM2-0,historical
+Anchorage,2000,0.30874634,MRI-ESM2-0,historical
+Toronto,2000,8.914185,MRI-ESM2-0,historical
+Mexico City,2000,13.272369,MRI-ESM2-0,historical
+Lima,2000,14.268372,MRI-ESM2-0,historical
+Sao Paulo,2000,20.197357,MRI-ESM2-0,historical
+Buenos Aires,2000,18.832062,MRI-ESM2-0,historical
+Reykjavik,2000,4.4453735,MRI-ESM2-0,historical
+London,2000,12.259399,MRI-ESM2-0,historical
+Paris,2000,12.351685,MRI-ESM2-0,historical
+Madrid,2000,11.268188,MRI-ESM2-0,historical
+Moscow,2000,6.2515564,MRI-ESM2-0,historical
+Cairo,2000,21.682953,MRI-ESM2-0,historical
+Lagos,2000,27.77655,MRI-ESM2-0,historical
+Nairobi,2000,19.763306,MRI-ESM2-0,historical
+Cape Town,2000,17.585632,MRI-ESM2-0,historical
+Riyadh,2000,24.0271,MRI-ESM2-0,historical
+Tehran,2000,13.523987,MRI-ESM2-0,historical
+Mumbai,2000,27.339783,MRI-ESM2-0,historical
+Delhi,2000,28.117523,MRI-ESM2-0,historical
+Dhaka,2000,26.418274,MRI-ESM2-0,historical
+Beijing,2000,11.16687,MRI-ESM2-0,historical
+Shanghai,2000,16.931854,MRI-ESM2-0,historical
+Tokyo,2000,14.741974,MRI-ESM2-0,historical
+Singapore,2000,27.370056,MRI-ESM2-0,historical
+Jakarta,2000,25.992828,MRI-ESM2-0,historical
+Sydney,2000,17.100006,MRI-ESM2-0,historical
+San Diego,2001,18.512665,MRI-ESM2-0,historical
+Phoenix,2001,20.569519,MRI-ESM2-0,historical
+New York,2001,9.898987,MRI-ESM2-0,historical
+Miami,2001,24.4805,MRI-ESM2-0,historical
+Anchorage,2001,3.6209717,MRI-ESM2-0,historical
+Toronto,2001,7.8414307,MRI-ESM2-0,historical
+Mexico City,2001,13.631866,MRI-ESM2-0,historical
+Lima,2001,14.729919,MRI-ESM2-0,historical
+Sao Paulo,2001,19.296326,MRI-ESM2-0,historical
+Buenos Aires,2001,17.663788,MRI-ESM2-0,historical
+Reykjavik,2001,3.1030579,MRI-ESM2-0,historical
+London,2001,11.5902405,MRI-ESM2-0,historical
+Paris,2001,11.803406,MRI-ESM2-0,historical
+Madrid,2001,9.712799,MRI-ESM2-0,historical
+Moscow,2001,5.671295,MRI-ESM2-0,historical
+Cairo,2001,21.884369,MRI-ESM2-0,historical
+Lagos,2001,28.01065,MRI-ESM2-0,historical
+Nairobi,2001,19.494263,MRI-ESM2-0,historical
+Cape Town,2001,17.934479,MRI-ESM2-0,historical
+Riyadh,2001,25.035187,MRI-ESM2-0,historical
+Tehran,2001,12.1579895,MRI-ESM2-0,historical
+Mumbai,2001,27.137634,MRI-ESM2-0,historical
+Delhi,2001,27.830841,MRI-ESM2-0,historical
+Dhaka,2001,25.946808,MRI-ESM2-0,historical
+Beijing,2001,9.756226,MRI-ESM2-0,historical
+Shanghai,2001,16.949738,MRI-ESM2-0,historical
+Tokyo,2001,14.692017,MRI-ESM2-0,historical
+Singapore,2001,27.809998,MRI-ESM2-0,historical
+Jakarta,2001,26.369751,MRI-ESM2-0,historical
+Sydney,2001,16.255493,MRI-ESM2-0,historical
+San Diego,2002,20.88974,MRI-ESM2-0,historical
+Phoenix,2002,23.06073,MRI-ESM2-0,historical
+New York,2002,10.163544,MRI-ESM2-0,historical
+Miami,2002,24.670532,MRI-ESM2-0,historical
+Anchorage,2002,0.089141846,MRI-ESM2-0,historical
+Toronto,2002,7.412689,MRI-ESM2-0,historical
+Mexico City,2002,12.730499,MRI-ESM2-0,historical
+Lima,2002,13.303589,MRI-ESM2-0,historical
+Sao Paulo,2002,19.317993,MRI-ESM2-0,historical
+Buenos Aires,2002,18.234528,MRI-ESM2-0,historical
+Reykjavik,2002,4.219055,MRI-ESM2-0,historical
+London,2002,10.957062,MRI-ESM2-0,historical
+Paris,2002,11.196777,MRI-ESM2-0,historical
+Madrid,2002,10.268433,MRI-ESM2-0,historical
+Moscow,2002,6.8291016,MRI-ESM2-0,historical
+Cairo,2002,21.784912,MRI-ESM2-0,historical
+Lagos,2002,27.887604,MRI-ESM2-0,historical
+Nairobi,2002,20.317688,MRI-ESM2-0,historical
+Cape Town,2002,17.756226,MRI-ESM2-0,historical
+Riyadh,2002,25.240173,MRI-ESM2-0,historical
+Tehran,2002,14.007935,MRI-ESM2-0,historical
+Mumbai,2002,26.38736,MRI-ESM2-0,historical
+Delhi,2002,26.744537,MRI-ESM2-0,historical
+Dhaka,2002,25.58435,MRI-ESM2-0,historical
+Beijing,2002,10.036041,MRI-ESM2-0,historical
+Shanghai,2002,16.750885,MRI-ESM2-0,historical
+Tokyo,2002,14.365112,MRI-ESM2-0,historical
+Singapore,2002,27.484955,MRI-ESM2-0,historical
+Jakarta,2002,26.183441,MRI-ESM2-0,historical
+Sydney,2002,15.80661,MRI-ESM2-0,historical
+San Diego,2003,19.347961,MRI-ESM2-0,historical
+Phoenix,2003,21.423218,MRI-ESM2-0,historical
+New York,2003,9.638519,MRI-ESM2-0,historical
+Miami,2003,24.721588,MRI-ESM2-0,historical
+Anchorage,2003,2.6797485,MRI-ESM2-0,historical
+Toronto,2003,7.316864,MRI-ESM2-0,historical
+Mexico City,2003,13.063538,MRI-ESM2-0,historical
+Lima,2003,13.560181,MRI-ESM2-0,historical
+Sao Paulo,2003,19.749207,MRI-ESM2-0,historical
+Buenos Aires,2003,17.910828,MRI-ESM2-0,historical
+Reykjavik,2003,3.5809326,MRI-ESM2-0,historical
+London,2003,12.2673645,MRI-ESM2-0,historical
+Paris,2003,12.579895,MRI-ESM2-0,historical
+Madrid,2003,10.56485,MRI-ESM2-0,historical
+Moscow,2003,7.644226,MRI-ESM2-0,historical
+Cairo,2003,22.384766,MRI-ESM2-0,historical
+Lagos,2003,27.911469,MRI-ESM2-0,historical
+Nairobi,2003,20.10083,MRI-ESM2-0,historical
+Cape Town,2003,17.374176,MRI-ESM2-0,historical
+Riyadh,2003,24.579712,MRI-ESM2-0,historical
+Tehran,2003,13.4151,MRI-ESM2-0,historical
+Mumbai,2003,27.567017,MRI-ESM2-0,historical
+Delhi,2003,27.457,MRI-ESM2-0,historical
+Dhaka,2003,25.8255,MRI-ESM2-0,historical
+Beijing,2003,11.525574,MRI-ESM2-0,historical
+Shanghai,2003,16.295532,MRI-ESM2-0,historical
+Tokyo,2003,14.352966,MRI-ESM2-0,historical
+Singapore,2003,27.00763,MRI-ESM2-0,historical
+Jakarta,2003,25.893005,MRI-ESM2-0,historical
+Sydney,2003,16.371979,MRI-ESM2-0,historical
+San Diego,2004,19.989319,MRI-ESM2-0,historical
+Phoenix,2004,22.143494,MRI-ESM2-0,historical
+New York,2004,9.887756,MRI-ESM2-0,historical
+Miami,2004,25.049957,MRI-ESM2-0,historical
+Anchorage,2004,3.5581055,MRI-ESM2-0,historical
+Toronto,2004,7.4980774,MRI-ESM2-0,historical
+Mexico City,2004,13.38504,MRI-ESM2-0,historical
+Lima,2004,14.224152,MRI-ESM2-0,historical
+Sao Paulo,2004,19.373657,MRI-ESM2-0,historical
+Buenos Aires,2004,18.340576,MRI-ESM2-0,historical
+Reykjavik,2004,2.9789429,MRI-ESM2-0,historical
+London,2004,11.238586,MRI-ESM2-0,historical
+Paris,2004,11.3591,MRI-ESM2-0,historical
+Madrid,2004,11.700073,MRI-ESM2-0,historical
+Moscow,2004,5.953125,MRI-ESM2-0,historical
+Cairo,2004,21.391907,MRI-ESM2-0,historical
+Lagos,2004,27.682281,MRI-ESM2-0,historical
+Nairobi,2004,19.972992,MRI-ESM2-0,historical
+Cape Town,2004,17.883698,MRI-ESM2-0,historical
+Riyadh,2004,24.578613,MRI-ESM2-0,historical
+Tehran,2004,12.989624,MRI-ESM2-0,historical
+Mumbai,2004,26.377838,MRI-ESM2-0,historical
+Delhi,2004,27.224121,MRI-ESM2-0,historical
+Dhaka,2004,25.069336,MRI-ESM2-0,historical
+Beijing,2004,10.128418,MRI-ESM2-0,historical
+Shanghai,2004,16.753967,MRI-ESM2-0,historical
+Tokyo,2004,14.359863,MRI-ESM2-0,historical
+Singapore,2004,27.728699,MRI-ESM2-0,historical
+Jakarta,2004,26.382233,MRI-ESM2-0,historical
+Sydney,2004,16.984436,MRI-ESM2-0,historical
+San Diego,2005,18.459717,MRI-ESM2-0,historical
+Phoenix,2005,21.23999,MRI-ESM2-0,historical
+New York,2005,11.414856,MRI-ESM2-0,historical
+Miami,2005,25.271912,MRI-ESM2-0,historical
+Anchorage,2005,2.992096,MRI-ESM2-0,historical
+Toronto,2005,8.83371,MRI-ESM2-0,historical
+Mexico City,2005,13.68985,MRI-ESM2-0,historical
+Lima,2005,15.104797,MRI-ESM2-0,historical
+Sao Paulo,2005,18.94226,MRI-ESM2-0,historical
+Buenos Aires,2005,17.996094,MRI-ESM2-0,historical
+Reykjavik,2005,4.7442017,MRI-ESM2-0,historical
+London,2005,12.939697,MRI-ESM2-0,historical
+Paris,2005,13.520599,MRI-ESM2-0,historical
+Madrid,2005,12.073883,MRI-ESM2-0,historical
+Moscow,2005,6.242401,MRI-ESM2-0,historical
+Cairo,2005,21.27771,MRI-ESM2-0,historical
+Lagos,2005,28.221863,MRI-ESM2-0,historical
+Nairobi,2005,20.330383,MRI-ESM2-0,historical
+Cape Town,2005,17.867981,MRI-ESM2-0,historical
+Riyadh,2005,24.027405,MRI-ESM2-0,historical
+Tehran,2005,12.105591,MRI-ESM2-0,historical
+Mumbai,2005,27.479492,MRI-ESM2-0,historical
+Delhi,2005,26.733154,MRI-ESM2-0,historical
+Dhaka,2005,25.89508,MRI-ESM2-0,historical
+Beijing,2005,11.895813,MRI-ESM2-0,historical
+Shanghai,2005,16.91684,MRI-ESM2-0,historical
+Tokyo,2005,15.021606,MRI-ESM2-0,historical
+Singapore,2005,28.043365,MRI-ESM2-0,historical
+Jakarta,2005,26.719727,MRI-ESM2-0,historical
+Sydney,2005,16.785614,MRI-ESM2-0,historical
+San Diego,2006,18.857666,MRI-ESM2-0,historical
+Phoenix,2006,21.562683,MRI-ESM2-0,historical
+New York,2006,11.202332,MRI-ESM2-0,historical
+Miami,2006,25.41391,MRI-ESM2-0,historical
+Anchorage,2006,2.6219482,MRI-ESM2-0,historical
+Toronto,2006,8.856323,MRI-ESM2-0,historical
+Mexico City,2006,13.694,MRI-ESM2-0,historical
+Lima,2006,14.280304,MRI-ESM2-0,historical
+Sao Paulo,2006,19.804535,MRI-ESM2-0,historical
+Buenos Aires,2006,17.806824,MRI-ESM2-0,historical
+Reykjavik,2006,4.6169434,MRI-ESM2-0,historical
+London,2006,12.692322,MRI-ESM2-0,historical
+Paris,2006,13.455261,MRI-ESM2-0,historical
+Madrid,2006,12.917694,MRI-ESM2-0,historical
+Moscow,2006,6.5407104,MRI-ESM2-0,historical
+Cairo,2006,21.937683,MRI-ESM2-0,historical
+Lagos,2006,28.147522,MRI-ESM2-0,historical
+Nairobi,2006,20.212067,MRI-ESM2-0,historical
+Cape Town,2006,17.768524,MRI-ESM2-0,historical
+Riyadh,2006,25.251953,MRI-ESM2-0,historical
+Tehran,2006,13.20755,MRI-ESM2-0,historical
+Mumbai,2006,27.835388,MRI-ESM2-0,historical
+Delhi,2006,26.936584,MRI-ESM2-0,historical
+Dhaka,2006,25.947388,MRI-ESM2-0,historical
+Beijing,2006,10.969177,MRI-ESM2-0,historical
+Shanghai,2006,16.348022,MRI-ESM2-0,historical
+Tokyo,2006,14.016541,MRI-ESM2-0,historical
+Singapore,2006,27.814026,MRI-ESM2-0,historical
+Jakarta,2006,26.55426,MRI-ESM2-0,historical
+Sydney,2006,16.09137,MRI-ESM2-0,historical
+San Diego,2007,18.556396,MRI-ESM2-0,historical
+Phoenix,2007,20.881622,MRI-ESM2-0,historical
+New York,2007,11.102264,MRI-ESM2-0,historical
+Miami,2007,25.39624,MRI-ESM2-0,historical
+Anchorage,2007,3.2629395,MRI-ESM2-0,historical
+Toronto,2007,8.291687,MRI-ESM2-0,historical
+Mexico City,2007,13.625183,MRI-ESM2-0,historical
+Lima,2007,14.623199,MRI-ESM2-0,historical
+Sao Paulo,2007,19.619415,MRI-ESM2-0,historical
+Buenos Aires,2007,17.762878,MRI-ESM2-0,historical
+Reykjavik,2007,4.851715,MRI-ESM2-0,historical
+London,2007,11.9313965,MRI-ESM2-0,historical
+Paris,2007,12.338562,MRI-ESM2-0,historical
+Madrid,2007,11.570435,MRI-ESM2-0,historical
+Moscow,2007,5.850647,MRI-ESM2-0,historical
+Cairo,2007,22.649689,MRI-ESM2-0,historical
+Lagos,2007,28.11139,MRI-ESM2-0,historical
+Nairobi,2007,20.547485,MRI-ESM2-0,historical
+Cape Town,2007,17.522797,MRI-ESM2-0,historical
+Riyadh,2007,25.811768,MRI-ESM2-0,historical
+Tehran,2007,14.466888,MRI-ESM2-0,historical
+Mumbai,2007,27.960083,MRI-ESM2-0,historical
+Delhi,2007,28.658264,MRI-ESM2-0,historical
+Dhaka,2007,26.320496,MRI-ESM2-0,historical
+Beijing,2007,9.680603,MRI-ESM2-0,historical
+Shanghai,2007,17.141357,MRI-ESM2-0,historical
+Tokyo,2007,14.438293,MRI-ESM2-0,historical
+Singapore,2007,27.575043,MRI-ESM2-0,historical
+Jakarta,2007,26.224731,MRI-ESM2-0,historical
+Sydney,2007,16.453583,MRI-ESM2-0,historical
+San Diego,2008,18.417297,MRI-ESM2-0,historical
+Phoenix,2008,20.203247,MRI-ESM2-0,historical
+New York,2008,11.073273,MRI-ESM2-0,historical
+Miami,2008,25.27533,MRI-ESM2-0,historical
+Anchorage,2008,2.7318726,MRI-ESM2-0,historical
+Toronto,2008,8.393005,MRI-ESM2-0,historical
+Mexico City,2008,14.149811,MRI-ESM2-0,historical
+Lima,2008,15.021271,MRI-ESM2-0,historical
+Sao Paulo,2008,20.074554,MRI-ESM2-0,historical
+Buenos Aires,2008,18.505981,MRI-ESM2-0,historical
+Reykjavik,2008,5.8974915,MRI-ESM2-0,historical
+London,2008,11.622253,MRI-ESM2-0,historical
+Paris,2008,11.910431,MRI-ESM2-0,historical
+Madrid,2008,11.489929,MRI-ESM2-0,historical
+Moscow,2008,6.2461853,MRI-ESM2-0,historical
+Cairo,2008,21.877136,MRI-ESM2-0,historical
+Lagos,2008,28.330261,MRI-ESM2-0,historical
+Nairobi,2008,19.967285,MRI-ESM2-0,historical
+Cape Town,2008,17.752808,MRI-ESM2-0,historical
+Riyadh,2008,25.468292,MRI-ESM2-0,historical
+Tehran,2008,14.168549,MRI-ESM2-0,historical
+Mumbai,2008,26.605835,MRI-ESM2-0,historical
+Delhi,2008,27.058899,MRI-ESM2-0,historical
+Dhaka,2008,25.676727,MRI-ESM2-0,historical
+Beijing,2008,10.303162,MRI-ESM2-0,historical
+Shanghai,2008,17.23938,MRI-ESM2-0,historical
+Tokyo,2008,14.839447,MRI-ESM2-0,historical
+Singapore,2008,27.846375,MRI-ESM2-0,historical
+Jakarta,2008,26.49121,MRI-ESM2-0,historical
+Sydney,2008,17.35852,MRI-ESM2-0,historical
+San Diego,2009,18.570038,MRI-ESM2-0,historical
+Phoenix,2009,21.384888,MRI-ESM2-0,historical
+New York,2009,10.805328,MRI-ESM2-0,historical
+Miami,2009,25.25531,MRI-ESM2-0,historical
+Anchorage,2009,3.2710571,MRI-ESM2-0,historical
+Toronto,2009,8.428894,MRI-ESM2-0,historical
+Mexico City,2009,13.968018,MRI-ESM2-0,historical
+Lima,2009,14.612549,MRI-ESM2-0,historical
+Sao Paulo,2009,19.964478,MRI-ESM2-0,historical
+Buenos Aires,2009,18.254791,MRI-ESM2-0,historical
+Reykjavik,2009,5.5029297,MRI-ESM2-0,historical
+London,2009,11.929718,MRI-ESM2-0,historical
+Paris,2009,11.813599,MRI-ESM2-0,historical
+Madrid,2009,10.825439,MRI-ESM2-0,historical
+Moscow,2009,6.5541077,MRI-ESM2-0,historical
+Cairo,2009,22.686249,MRI-ESM2-0,historical
+Lagos,2009,28.07904,MRI-ESM2-0,historical
+Nairobi,2009,19.849182,MRI-ESM2-0,historical
+Cape Town,2009,18.090515,MRI-ESM2-0,historical
+Riyadh,2009,24.223633,MRI-ESM2-0,historical
+Tehran,2009,12.912201,MRI-ESM2-0,historical
+Mumbai,2009,27.37085,MRI-ESM2-0,historical
+Delhi,2009,27.002472,MRI-ESM2-0,historical
+Dhaka,2009,26.3945,MRI-ESM2-0,historical
+Beijing,2009,9.78653,MRI-ESM2-0,historical
+Shanghai,2009,16.886353,MRI-ESM2-0,historical
+Tokyo,2009,14.443146,MRI-ESM2-0,historical
+Singapore,2009,27.75705,MRI-ESM2-0,historical
+Jakarta,2009,26.440918,MRI-ESM2-0,historical
+Sydney,2009,17.146149,MRI-ESM2-0,historical
+San Diego,2010,19.234863,MRI-ESM2-0,historical
+Phoenix,2010,21.939697,MRI-ESM2-0,historical
+New York,2010,10.05127,MRI-ESM2-0,historical
+Miami,2010,25.13507,MRI-ESM2-0,historical
+Anchorage,2010,2.3079224,MRI-ESM2-0,historical
+Toronto,2010,7.5115356,MRI-ESM2-0,historical
+Mexico City,2010,13.441864,MRI-ESM2-0,historical
+Lima,2010,13.936523,MRI-ESM2-0,historical
+Sao Paulo,2010,19.733276,MRI-ESM2-0,historical
+Buenos Aires,2010,18.036224,MRI-ESM2-0,historical
+Reykjavik,2010,4.7358093,MRI-ESM2-0,historical
+London,2010,11.565613,MRI-ESM2-0,historical
+Paris,2010,11.88385,MRI-ESM2-0,historical
+Madrid,2010,11.154724,MRI-ESM2-0,historical
+Moscow,2010,5.2868958,MRI-ESM2-0,historical
+Cairo,2010,22.809448,MRI-ESM2-0,historical
+Lagos,2010,27.965515,MRI-ESM2-0,historical
+Nairobi,2010,20.345032,MRI-ESM2-0,historical
+Cape Town,2010,18.357422,MRI-ESM2-0,historical
+Riyadh,2010,25.635437,MRI-ESM2-0,historical
+Tehran,2010,14.562653,MRI-ESM2-0,historical
+Mumbai,2010,27.045898,MRI-ESM2-0,historical
+Delhi,2010,27.362701,MRI-ESM2-0,historical
+Dhaka,2010,26.483612,MRI-ESM2-0,historical
+Beijing,2010,11.236359,MRI-ESM2-0,historical
+Shanghai,2010,17.328491,MRI-ESM2-0,historical
+Tokyo,2010,15.206665,MRI-ESM2-0,historical
+Singapore,2010,27.503967,MRI-ESM2-0,historical
+Jakarta,2010,26.289062,MRI-ESM2-0,historical
+Sydney,2010,16.785645,MRI-ESM2-0,historical
+San Diego,2011,19.786865,MRI-ESM2-0,historical
+Phoenix,2011,22.126404,MRI-ESM2-0,historical
+New York,2011,10.722809,MRI-ESM2-0,historical
+Miami,2011,25.339722,MRI-ESM2-0,historical
+Anchorage,2011,2.0350342,MRI-ESM2-0,historical
+Toronto,2011,8.492065,MRI-ESM2-0,historical
+Mexico City,2011,13.840576,MRI-ESM2-0,historical
+Lima,2011,13.54068,MRI-ESM2-0,historical
+Sao Paulo,2011,18.304474,MRI-ESM2-0,historical
+Buenos Aires,2011,18.653625,MRI-ESM2-0,historical
+Reykjavik,2011,4.7768555,MRI-ESM2-0,historical
+London,2011,11.274048,MRI-ESM2-0,historical
+Paris,2011,11.623444,MRI-ESM2-0,historical
+Madrid,2011,11.288879,MRI-ESM2-0,historical
+Moscow,2011,6.6844482,MRI-ESM2-0,historical
+Cairo,2011,22.924744,MRI-ESM2-0,historical
+Lagos,2011,28.072754,MRI-ESM2-0,historical
+Nairobi,2011,20.527985,MRI-ESM2-0,historical
+Cape Town,2011,18.048462,MRI-ESM2-0,historical
+Riyadh,2011,25.105164,MRI-ESM2-0,historical
+Tehran,2011,13.724457,MRI-ESM2-0,historical
+Mumbai,2011,26.736877,MRI-ESM2-0,historical
+Delhi,2011,26.676025,MRI-ESM2-0,historical
+Dhaka,2011,26.244385,MRI-ESM2-0,historical
+Beijing,2011,10.874573,MRI-ESM2-0,historical
+Shanghai,2011,16.656433,MRI-ESM2-0,historical
+Tokyo,2011,14.638184,MRI-ESM2-0,historical
+Singapore,2011,27.366394,MRI-ESM2-0,historical
+Jakarta,2011,26.31247,MRI-ESM2-0,historical
+Sydney,2011,15.565582,MRI-ESM2-0,historical
+San Diego,2012,19.310425,MRI-ESM2-0,historical
+Phoenix,2012,21.312988,MRI-ESM2-0,historical
+New York,2012,9.690674,MRI-ESM2-0,historical
+Miami,2012,25.153503,MRI-ESM2-0,historical
+Anchorage,2012,0.9784546,MRI-ESM2-0,historical
+Toronto,2012,7.2750244,MRI-ESM2-0,historical
+Mexico City,2012,13.537231,MRI-ESM2-0,historical
+Lima,2012,14.677673,MRI-ESM2-0,historical
+Sao Paulo,2012,20.369812,MRI-ESM2-0,historical
+Buenos Aires,2012,18.411377,MRI-ESM2-0,historical
+Reykjavik,2012,5.534973,MRI-ESM2-0,historical
+London,2012,11.944305,MRI-ESM2-0,historical
+Paris,2012,12.225586,MRI-ESM2-0,historical
+Madrid,2012,11.608643,MRI-ESM2-0,historical
+Moscow,2012,6.8223267,MRI-ESM2-0,historical
+Cairo,2012,22.275269,MRI-ESM2-0,historical
+Lagos,2012,28.17743,MRI-ESM2-0,historical
+Nairobi,2012,20.811707,MRI-ESM2-0,historical
+Cape Town,2012,17.276825,MRI-ESM2-0,historical
+Riyadh,2012,24.310669,MRI-ESM2-0,historical
+Tehran,2012,12.316711,MRI-ESM2-0,historical
+Mumbai,2012,27.34076,MRI-ESM2-0,historical
+Delhi,2012,27.523438,MRI-ESM2-0,historical
+Dhaka,2012,26.749756,MRI-ESM2-0,historical
+Beijing,2012,10.817017,MRI-ESM2-0,historical
+Shanghai,2012,16.190002,MRI-ESM2-0,historical
+Tokyo,2012,14.725708,MRI-ESM2-0,historical
+Singapore,2012,27.448334,MRI-ESM2-0,historical
+Jakarta,2012,26.191528,MRI-ESM2-0,historical
+Sydney,2012,16.492035,MRI-ESM2-0,historical
+San Diego,2013,18.319763,MRI-ESM2-0,historical
+Phoenix,2013,20.85617,MRI-ESM2-0,historical
+New York,2013,11.884888,MRI-ESM2-0,historical
+Miami,2013,25.775208,MRI-ESM2-0,historical
+Anchorage,2013,2.373413,MRI-ESM2-0,historical
+Toronto,2013,9.408386,MRI-ESM2-0,historical
+Mexico City,2013,14.535828,MRI-ESM2-0,historical
+Lima,2013,14.714172,MRI-ESM2-0,historical
+Sao Paulo,2013,19.769226,MRI-ESM2-0,historical
+Buenos Aires,2013,17.416992,MRI-ESM2-0,historical
+Reykjavik,2013,5.9598694,MRI-ESM2-0,historical
+London,2013,12.421326,MRI-ESM2-0,historical
+Paris,2013,12.588501,MRI-ESM2-0,historical
+Madrid,2013,11.467316,MRI-ESM2-0,historical
+Moscow,2013,6.729889,MRI-ESM2-0,historical
+Cairo,2013,22.229431,MRI-ESM2-0,historical
+Lagos,2013,28.067108,MRI-ESM2-0,historical
+Nairobi,2013,19.657104,MRI-ESM2-0,historical
+Cape Town,2013,17.599304,MRI-ESM2-0,historical
+Riyadh,2013,24.409912,MRI-ESM2-0,historical
+Tehran,2013,13.707672,MRI-ESM2-0,historical
+Mumbai,2013,27.264313,MRI-ESM2-0,historical
+Delhi,2013,26.34851,MRI-ESM2-0,historical
+Dhaka,2013,26.693237,MRI-ESM2-0,historical
+Beijing,2013,11.597321,MRI-ESM2-0,historical
+Shanghai,2013,17.634003,MRI-ESM2-0,historical
+Tokyo,2013,14.881744,MRI-ESM2-0,historical
+Singapore,2013,27.550842,MRI-ESM2-0,historical
+Jakarta,2013,26.133057,MRI-ESM2-0,historical
+Sydney,2013,16.391602,MRI-ESM2-0,historical
+San Diego,2014,20.934875,MRI-ESM2-0,historical
+Phoenix,2014,22.75122,MRI-ESM2-0,historical
+New York,2014,11.675232,MRI-ESM2-0,historical
+Miami,2014,25.371582,MRI-ESM2-0,historical
+Anchorage,2014,-0.8267212,MRI-ESM2-0,historical
+Toronto,2014,9.128357,MRI-ESM2-0,historical
+Mexico City,2014,13.182373,MRI-ESM2-0,historical
+Lima,2014,13.786133,MRI-ESM2-0,historical
+Sao Paulo,2014,19.260437,MRI-ESM2-0,historical
+Buenos Aires,2014,17.732666,MRI-ESM2-0,historical
+Reykjavik,2014,4.7920227,MRI-ESM2-0,historical
+London,2014,12.752441,MRI-ESM2-0,historical
+Paris,2014,13.08197,MRI-ESM2-0,historical
+Madrid,2014,12.146271,MRI-ESM2-0,historical
+Moscow,2014,8.048126,MRI-ESM2-0,historical
+Cairo,2014,22.626831,MRI-ESM2-0,historical
+Lagos,2014,28.303253,MRI-ESM2-0,historical
+Nairobi,2014,20.185364,MRI-ESM2-0,historical
+Cape Town,2014,18.484833,MRI-ESM2-0,historical
+Riyadh,2014,25.632965,MRI-ESM2-0,historical
+Tehran,2014,15.120239,MRI-ESM2-0,historical
+Mumbai,2014,26.758972,MRI-ESM2-0,historical
+Delhi,2014,27.222717,MRI-ESM2-0,historical
+Dhaka,2014,25.834045,MRI-ESM2-0,historical
+Beijing,2014,11.492157,MRI-ESM2-0,historical
+Shanghai,2014,17.2435,MRI-ESM2-0,historical
+Tokyo,2014,15.251404,MRI-ESM2-0,historical
+Singapore,2014,27.404938,MRI-ESM2-0,historical
+Jakarta,2014,26.235168,MRI-ESM2-0,historical
+Sydney,2014,16.321686,MRI-ESM2-0,historical

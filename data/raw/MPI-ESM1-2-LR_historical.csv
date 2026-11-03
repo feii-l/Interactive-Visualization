@@ -1,0 +1,1951 @@
+city,year,temp_c,model,scenario
+San Diego,1950,20.485382,MPI-ESM1-2-LR,historical
+Phoenix,1950,19.269226,MPI-ESM1-2-LR,historical
+New York,1950,12.204468,MPI-ESM1-2-LR,historical
+Miami,1950,24.707886,MPI-ESM1-2-LR,historical
+Anchorage,1950,-6.145813,MPI-ESM1-2-LR,historical
+Toronto,1950,5.7174683,MPI-ESM1-2-LR,historical
+Mexico City,1950,14.518921,MPI-ESM1-2-LR,historical
+Lima,1950,17.343445,MPI-ESM1-2-LR,historical
+Sao Paulo,1950,17.944855,MPI-ESM1-2-LR,historical
+Buenos Aires,1950,18.666687,MPI-ESM1-2-LR,historical
+Reykjavik,1950,5.282898,MPI-ESM1-2-LR,historical
+London,1950,10.742065,MPI-ESM1-2-LR,historical
+Paris,1950,11.737488,MPI-ESM1-2-LR,historical
+Madrid,1950,10.490601,MPI-ESM1-2-LR,historical
+Moscow,1950,3.7983704,MPI-ESM1-2-LR,historical
+Cairo,1950,19.948761,MPI-ESM1-2-LR,historical
+Lagos,1950,27.17923,MPI-ESM1-2-LR,historical
+Nairobi,1950,20.9906,MPI-ESM1-2-LR,historical
+Cape Town,1950,17.953644,MPI-ESM1-2-LR,historical
+Riyadh,1950,23.819214,MPI-ESM1-2-LR,historical
+Tehran,1950,12.750519,MPI-ESM1-2-LR,historical
+Mumbai,1950,24.534058,MPI-ESM1-2-LR,historical
+Delhi,1950,24.710968,MPI-ESM1-2-LR,historical
+Dhaka,1950,27.815308,MPI-ESM1-2-LR,historical
+Beijing,1950,8.190613,MPI-ESM1-2-LR,historical
+Shanghai,1950,16.500366,MPI-ESM1-2-LR,historical
+Tokyo,1950,15.580444,MPI-ESM1-2-LR,historical
+Singapore,1950,24.620972,MPI-ESM1-2-LR,historical
+Jakarta,1950,25.341492,MPI-ESM1-2-LR,historical
+Sydney,1950,18.084503,MPI-ESM1-2-LR,historical
+San Diego,1951,20.644989,MPI-ESM1-2-LR,historical
+Phoenix,1951,20.091278,MPI-ESM1-2-LR,historical
+New York,1951,11.960754,MPI-ESM1-2-LR,historical
+Miami,1951,24.99997,MPI-ESM1-2-LR,historical
+Anchorage,1951,-2.8338623,MPI-ESM1-2-LR,historical
+Toronto,1951,5.6272583,MPI-ESM1-2-LR,historical
+Mexico City,1951,15.498505,MPI-ESM1-2-LR,historical
+Lima,1951,17.896454,MPI-ESM1-2-LR,historical
+Sao Paulo,1951,18.486786,MPI-ESM1-2-LR,historical
+Buenos Aires,1951,20.114716,MPI-ESM1-2-LR,historical
+Reykjavik,1951,4.3987427,MPI-ESM1-2-LR,historical
+London,1951,9.131653,MPI-ESM1-2-LR,historical
+Paris,1951,9.80304,MPI-ESM1-2-LR,historical
+Madrid,1951,8.924927,MPI-ESM1-2-LR,historical
+Moscow,1951,2.828247,MPI-ESM1-2-LR,historical
+Cairo,1951,19.731415,MPI-ESM1-2-LR,historical
+Lagos,1951,27.393677,MPI-ESM1-2-LR,historical
+Nairobi,1951,20.80075,MPI-ESM1-2-LR,historical
+Cape Town,1951,17.628723,MPI-ESM1-2-LR,historical
+Riyadh,1951,24.856567,MPI-ESM1-2-LR,historical
+Tehran,1951,13.469849,MPI-ESM1-2-LR,historical
+Mumbai,1951,25.388489,MPI-ESM1-2-LR,historical
+Delhi,1951,27.82956,MPI-ESM1-2-LR,historical
+Dhaka,1951,28.890259,MPI-ESM1-2-LR,historical
+Beijing,1951,8.238739,MPI-ESM1-2-LR,historical
+Shanghai,1951,16.336884,MPI-ESM1-2-LR,historical
+Tokyo,1951,14.73761,MPI-ESM1-2-LR,historical
+Singapore,1951,24.818665,MPI-ESM1-2-LR,historical
+Jakarta,1951,26.632935,MPI-ESM1-2-LR,historical
+Sydney,1951,18.01413,MPI-ESM1-2-LR,historical
+San Diego,1952,20.57843,MPI-ESM1-2-LR,historical
+Phoenix,1952,19.509552,MPI-ESM1-2-LR,historical
+New York,1952,12.043732,MPI-ESM1-2-LR,historical
+Miami,1952,24.96872,MPI-ESM1-2-LR,historical
+Anchorage,1952,-4.1369324,MPI-ESM1-2-LR,historical
+Toronto,1952,5.5212708,MPI-ESM1-2-LR,historical
+Mexico City,1952,14.537048,MPI-ESM1-2-LR,historical
+Lima,1952,17.912537,MPI-ESM1-2-LR,historical
+Sao Paulo,1952,18.394653,MPI-ESM1-2-LR,historical
+Buenos Aires,1952,18.501587,MPI-ESM1-2-LR,historical
+Reykjavik,1952,2.7686768,MPI-ESM1-2-LR,historical
+London,1952,10.868927,MPI-ESM1-2-LR,historical
+Paris,1952,11.811157,MPI-ESM1-2-LR,historical
+Madrid,1952,11.002563,MPI-ESM1-2-LR,historical
+Moscow,1952,4.2333374,MPI-ESM1-2-LR,historical
+Cairo,1952,19.543732,MPI-ESM1-2-LR,historical
+Lagos,1952,27.397278,MPI-ESM1-2-LR,historical
+Nairobi,1952,20.630005,MPI-ESM1-2-LR,historical
+Cape Town,1952,18.581482,MPI-ESM1-2-LR,historical
+Riyadh,1952,24.03595,MPI-ESM1-2-LR,historical
+Tehran,1952,12.660767,MPI-ESM1-2-LR,historical
+Mumbai,1952,24.728638,MPI-ESM1-2-LR,historical
+Delhi,1952,26.637177,MPI-ESM1-2-LR,historical
+Dhaka,1952,27.091614,MPI-ESM1-2-LR,historical
+Beijing,1952,9.264923,MPI-ESM1-2-LR,historical
+Shanghai,1952,15.514282,MPI-ESM1-2-LR,historical
+Tokyo,1952,15.412384,MPI-ESM1-2-LR,historical
+Singapore,1952,25.153137,MPI-ESM1-2-LR,historical
+Jakarta,1952,26.201965,MPI-ESM1-2-LR,historical
+Sydney,1952,18.518494,MPI-ESM1-2-LR,historical
+San Diego,1953,20.100708,MPI-ESM1-2-LR,historical
+Phoenix,1953,18.795197,MPI-ESM1-2-LR,historical
+New York,1953,11.240509,MPI-ESM1-2-LR,historical
+Miami,1953,24.667603,MPI-ESM1-2-LR,historical
+Anchorage,1953,-4.2703857,MPI-ESM1-2-LR,historical
+Toronto,1953,5.414337,MPI-ESM1-2-LR,historical
+Mexico City,1953,14.908966,MPI-ESM1-2-LR,historical
+Lima,1953,17.280884,MPI-ESM1-2-LR,historical
+Sao Paulo,1953,18.092072,MPI-ESM1-2-LR,historical
+Buenos Aires,1953,17.833435,MPI-ESM1-2-LR,historical
+Reykjavik,1953,3.4501343,MPI-ESM1-2-LR,historical
+London,1953,9.508575,MPI-ESM1-2-LR,historical
+Paris,1953,10.446899,MPI-ESM1-2-LR,historical
+Madrid,1953,10.205841,MPI-ESM1-2-LR,historical
+Moscow,1953,4.01297,MPI-ESM1-2-LR,historical
+Cairo,1953,19.970642,MPI-ESM1-2-LR,historical
+Lagos,1953,27.26117,MPI-ESM1-2-LR,historical
+Nairobi,1953,20.423126,MPI-ESM1-2-LR,historical
+Cape Town,1953,17.746216,MPI-ESM1-2-LR,historical
+Riyadh,1953,24.894806,MPI-ESM1-2-LR,historical
+Tehran,1953,13.746216,MPI-ESM1-2-LR,historical
+Mumbai,1953,24.289337,MPI-ESM1-2-LR,historical
+Delhi,1953,25.50467,MPI-ESM1-2-LR,historical
+Dhaka,1953,27.934021,MPI-ESM1-2-LR,historical
+Beijing,1953,9.555115,MPI-ESM1-2-LR,historical
+Shanghai,1953,16.850708,MPI-ESM1-2-LR,historical
+Tokyo,1953,15.819458,MPI-ESM1-2-LR,historical
+Singapore,1953,24.653748,MPI-ESM1-2-LR,historical
+Jakarta,1953,25.498474,MPI-ESM1-2-LR,historical
+Sydney,1953,18.241974,MPI-ESM1-2-LR,historical
+San Diego,1954,19.44107,MPI-ESM1-2-LR,historical
+Phoenix,1954,18.608551,MPI-ESM1-2-LR,historical
+New York,1954,10.143372,MPI-ESM1-2-LR,historical
+Miami,1954,24.45929,MPI-ESM1-2-LR,historical
+Anchorage,1954,-4.8185425,MPI-ESM1-2-LR,historical
+Toronto,1954,5.0981445,MPI-ESM1-2-LR,historical
+Mexico City,1954,14.966461,MPI-ESM1-2-LR,historical
+Lima,1954,16.992981,MPI-ESM1-2-LR,historical
+Sao Paulo,1954,17.550446,MPI-ESM1-2-LR,historical
+Buenos Aires,1954,19.651367,MPI-ESM1-2-LR,historical
+Reykjavik,1954,3.051422,MPI-ESM1-2-LR,historical
+London,1954,8.908203,MPI-ESM1-2-LR,historical
+Paris,1954,10.002747,MPI-ESM1-2-LR,historical
+Madrid,1954,10.175293,MPI-ESM1-2-LR,historical
+Moscow,1954,5.5029297,MPI-ESM1-2-LR,historical
+Cairo,1954,20.448883,MPI-ESM1-2-LR,historical
+Lagos,1954,27.326965,MPI-ESM1-2-LR,historical
+Nairobi,1954,20.425934,MPI-ESM1-2-LR,historical
+Cape Town,1954,17.804688,MPI-ESM1-2-LR,historical
+Riyadh,1954,23.838043,MPI-ESM1-2-LR,historical
+Tehran,1954,13.971191,MPI-ESM1-2-LR,historical
+Mumbai,1954,24.618805,MPI-ESM1-2-LR,historical
+Delhi,1954,26.1315,MPI-ESM1-2-LR,historical
+Dhaka,1954,28.52002,MPI-ESM1-2-LR,historical
+Beijing,1954,8.182129,MPI-ESM1-2-LR,historical
+Shanghai,1954,16.054016,MPI-ESM1-2-LR,historical
+Tokyo,1954,15.645508,MPI-ESM1-2-LR,historical
+Singapore,1954,24.137024,MPI-ESM1-2-LR,historical
+Jakarta,1954,25.645508,MPI-ESM1-2-LR,historical
+Sydney,1954,18.262848,MPI-ESM1-2-LR,historical
+San Diego,1955,19.768677,MPI-ESM1-2-LR,historical
+Phoenix,1955,18.951294,MPI-ESM1-2-LR,historical
+New York,1955,9.704407,MPI-ESM1-2-LR,historical
+Miami,1955,24.540497,MPI-ESM1-2-LR,historical
+Anchorage,1955,-5.5023193,MPI-ESM1-2-LR,historical
+Toronto,1955,5.2130127,MPI-ESM1-2-LR,historical
+Mexico City,1955,14.644348,MPI-ESM1-2-LR,historical
+Lima,1955,16.740051,MPI-ESM1-2-LR,historical
+Sao Paulo,1955,17.584778,MPI-ESM1-2-LR,historical
+Buenos Aires,1955,18.768524,MPI-ESM1-2-LR,historical
+Reykjavik,1955,2.7669067,MPI-ESM1-2-LR,historical
+London,1955,8.744934,MPI-ESM1-2-LR,historical
+Paris,1955,9.892212,MPI-ESM1-2-LR,historical
+Madrid,1955,9.501923,MPI-ESM1-2-LR,historical
+Moscow,1955,3.03479,MPI-ESM1-2-LR,historical
+Cairo,1955,20.310669,MPI-ESM1-2-LR,historical
+Lagos,1955,27.417786,MPI-ESM1-2-LR,historical
+Nairobi,1955,20.6297,MPI-ESM1-2-LR,historical
+Cape Town,1955,17.523895,MPI-ESM1-2-LR,historical
+Riyadh,1955,23.757782,MPI-ESM1-2-LR,historical
+Tehran,1955,12.098602,MPI-ESM1-2-LR,historical
+Mumbai,1955,24.800903,MPI-ESM1-2-LR,historical
+Delhi,1955,25.253723,MPI-ESM1-2-LR,historical
+Dhaka,1955,27.482544,MPI-ESM1-2-LR,historical
+Beijing,1955,8.458466,MPI-ESM1-2-LR,historical
+Shanghai,1955,15.332336,MPI-ESM1-2-LR,historical
+Tokyo,1955,15.083801,MPI-ESM1-2-LR,historical
+Singapore,1955,24.13556,MPI-ESM1-2-LR,historical
+Jakarta,1955,25.015106,MPI-ESM1-2-LR,historical
+Sydney,1955,18.251587,MPI-ESM1-2-LR,historical
+San Diego,1956,20.108185,MPI-ESM1-2-LR,historical
+Phoenix,1956,19.682068,MPI-ESM1-2-LR,historical
+New York,1956,11.755493,MPI-ESM1-2-LR,historical
+Miami,1956,24.86795,MPI-ESM1-2-LR,historical
+Anchorage,1956,-6.2536316,MPI-ESM1-2-LR,historical
+Toronto,1956,6.436798,MPI-ESM1-2-LR,historical
+Mexico City,1956,14.423126,MPI-ESM1-2-LR,historical
+Lima,1956,16.901306,MPI-ESM1-2-LR,historical
+Sao Paulo,1956,17.91858,MPI-ESM1-2-LR,historical
+Buenos Aires,1956,19.068146,MPI-ESM1-2-LR,historical
+Reykjavik,1956,3.8344116,MPI-ESM1-2-LR,historical
+London,1956,10.387482,MPI-ESM1-2-LR,historical
+Paris,1956,11.058044,MPI-ESM1-2-LR,historical
+Madrid,1956,10.050415,MPI-ESM1-2-LR,historical
+Moscow,1956,3.8780518,MPI-ESM1-2-LR,historical
+Cairo,1956,19.363403,MPI-ESM1-2-LR,historical
+Lagos,1956,27.267212,MPI-ESM1-2-LR,historical
+Nairobi,1956,20.379028,MPI-ESM1-2-LR,historical
+Cape Town,1956,18.323181,MPI-ESM1-2-LR,historical
+Riyadh,1956,23.813904,MPI-ESM1-2-LR,historical
+Tehran,1956,11.67688,MPI-ESM1-2-LR,historical
+Mumbai,1956,25.10608,MPI-ESM1-2-LR,historical
+Delhi,1956,25.145447,MPI-ESM1-2-LR,historical
+Dhaka,1956,27.526978,MPI-ESM1-2-LR,historical
+Beijing,1956,7.7105713,MPI-ESM1-2-LR,historical
+Shanghai,1956,16.421173,MPI-ESM1-2-LR,historical
+Tokyo,1956,15.523376,MPI-ESM1-2-LR,historical
+Singapore,1956,24.009216,MPI-ESM1-2-LR,historical
+Jakarta,1956,25.932556,MPI-ESM1-2-LR,historical
+Sydney,1956,18.200134,MPI-ESM1-2-LR,historical
+San Diego,1957,20.000763,MPI-ESM1-2-LR,historical
+Phoenix,1957,19.467407,MPI-ESM1-2-LR,historical
+New York,1957,11.576599,MPI-ESM1-2-LR,historical
+Miami,1957,24.729431,MPI-ESM1-2-LR,historical
+Anchorage,1957,-5.900116,MPI-ESM1-2-LR,historical
+Toronto,1957,5.772583,MPI-ESM1-2-LR,historical
+Mexico City,1957,14.643494,MPI-ESM1-2-LR,historical
+Lima,1957,16.710388,MPI-ESM1-2-LR,historical
+Sao Paulo,1957,17.76184,MPI-ESM1-2-LR,historical
+Buenos Aires,1957,18.832153,MPI-ESM1-2-LR,historical
+Reykjavik,1957,3.1031494,MPI-ESM1-2-LR,historical
+London,1957,9.820251,MPI-ESM1-2-LR,historical
+Paris,1957,10.966431,MPI-ESM1-2-LR,historical
+Madrid,1957,9.969849,MPI-ESM1-2-LR,historical
+Moscow,1957,4.888794,MPI-ESM1-2-LR,historical
+Cairo,1957,19.941528,MPI-ESM1-2-LR,historical
+Lagos,1957,27.110626,MPI-ESM1-2-LR,historical
+Nairobi,1957,20.325623,MPI-ESM1-2-LR,historical
+Cape Town,1957,17.453735,MPI-ESM1-2-LR,historical
+Riyadh,1957,23.455505,MPI-ESM1-2-LR,historical
+Tehran,1957,12.245544,MPI-ESM1-2-LR,historical
+Mumbai,1957,25.080017,MPI-ESM1-2-LR,historical
+Delhi,1957,25.470337,MPI-ESM1-2-LR,historical
+Dhaka,1957,27.33313,MPI-ESM1-2-LR,historical
+Beijing,1957,8.115356,MPI-ESM1-2-LR,historical
+Shanghai,1957,15.565216,MPI-ESM1-2-LR,historical
+Tokyo,1957,15.510681,MPI-ESM1-2-LR,historical
+Singapore,1957,24.309845,MPI-ESM1-2-LR,historical
+Jakarta,1957,25.118103,MPI-ESM1-2-LR,historical
+Sydney,1957,18.165314,MPI-ESM1-2-LR,historical
+San Diego,1958,20.763672,MPI-ESM1-2-LR,historical
+Phoenix,1958,19.95459,MPI-ESM1-2-LR,historical
+New York,1958,11.485352,MPI-ESM1-2-LR,historical
+Miami,1958,24.658691,MPI-ESM1-2-LR,historical
+Anchorage,1958,-6.9493713,MPI-ESM1-2-LR,historical
+Toronto,1958,5.487152,MPI-ESM1-2-LR,historical
+Mexico City,1958,14.428406,MPI-ESM1-2-LR,historical
+Lima,1958,16.640625,MPI-ESM1-2-LR,historical
+Sao Paulo,1958,17.25293,MPI-ESM1-2-LR,historical
+Buenos Aires,1958,18.593445,MPI-ESM1-2-LR,historical
+Reykjavik,1958,3.4788513,MPI-ESM1-2-LR,historical
+London,1958,9.869476,MPI-ESM1-2-LR,historical
+Paris,1958,10.669281,MPI-ESM1-2-LR,historical
+Madrid,1958,10.364929,MPI-ESM1-2-LR,historical
+Moscow,1958,5.189789,MPI-ESM1-2-LR,historical
+Cairo,1958,19.25409,MPI-ESM1-2-LR,historical
+Lagos,1958,27.22934,MPI-ESM1-2-LR,historical
+Nairobi,1958,20.030457,MPI-ESM1-2-LR,historical
+Cape Town,1958,17.570984,MPI-ESM1-2-LR,historical
+Riyadh,1958,24.13559,MPI-ESM1-2-LR,historical
+Tehran,1958,13.638855,MPI-ESM1-2-LR,historical
+Mumbai,1958,24.572754,MPI-ESM1-2-LR,historical
+Delhi,1958,24.530762,MPI-ESM1-2-LR,historical
+Dhaka,1958,27.347992,MPI-ESM1-2-LR,historical
+Beijing,1958,8.440765,MPI-ESM1-2-LR,historical
+Shanghai,1958,16.469727,MPI-ESM1-2-LR,historical
+Tokyo,1958,15.682617,MPI-ESM1-2-LR,historical
+Singapore,1958,24.333008,MPI-ESM1-2-LR,historical
+Jakarta,1958,24.629395,MPI-ESM1-2-LR,historical
+Sydney,1958,17.714844,MPI-ESM1-2-LR,historical
+San Diego,1959,20.353882,MPI-ESM1-2-LR,historical
+Phoenix,1959,19.473999,MPI-ESM1-2-LR,historical
+New York,1959,11.387238,MPI-ESM1-2-LR,historical
+Miami,1959,24.69812,MPI-ESM1-2-LR,historical
+Anchorage,1959,-6.3749695,MPI-ESM1-2-LR,historical
+Toronto,1959,5.3758545,MPI-ESM1-2-LR,historical
+Mexico City,1959,14.695343,MPI-ESM1-2-LR,historical
+Lima,1959,17.205444,MPI-ESM1-2-LR,historical
+Sao Paulo,1959,17.745789,MPI-ESM1-2-LR,historical
+Buenos Aires,1959,19.246613,MPI-ESM1-2-LR,historical
+Reykjavik,1959,3.8361206,MPI-ESM1-2-LR,historical
+London,1959,9.731964,MPI-ESM1-2-LR,historical
+Paris,1959,10.613312,MPI-ESM1-2-LR,historical
+Madrid,1959,10.576691,MPI-ESM1-2-LR,historical
+Moscow,1959,3.1629639,MPI-ESM1-2-LR,historical
+Cairo,1959,19.630402,MPI-ESM1-2-LR,historical
+Lagos,1959,27.377136,MPI-ESM1-2-LR,historical
+Nairobi,1959,20.290222,MPI-ESM1-2-LR,historical
+Cape Town,1959,17.885284,MPI-ESM1-2-LR,historical
+Riyadh,1959,23.924988,MPI-ESM1-2-LR,historical
+Tehran,1959,13.224976,MPI-ESM1-2-LR,historical
+Mumbai,1959,25.482452,MPI-ESM1-2-LR,historical
+Delhi,1959,25.470886,MPI-ESM1-2-LR,historical
+Dhaka,1959,27.64862,MPI-ESM1-2-LR,historical
+Beijing,1959,8.840515,MPI-ESM1-2-LR,historical
+Shanghai,1959,16.011261,MPI-ESM1-2-LR,historical
+Tokyo,1959,15.433472,MPI-ESM1-2-LR,historical
+Singapore,1959,24.816772,MPI-ESM1-2-LR,historical
+Jakarta,1959,25.845734,MPI-ESM1-2-LR,historical
+Sydney,1959,17.713562,MPI-ESM1-2-LR,historical
+San Diego,1960,19.68811,MPI-ESM1-2-LR,historical
+Phoenix,1960,19.137482,MPI-ESM1-2-LR,historical
+New York,1960,11.246521,MPI-ESM1-2-LR,historical
+Miami,1960,24.60379,MPI-ESM1-2-LR,historical
+Anchorage,1960,-3.9041748,MPI-ESM1-2-LR,historical
+Toronto,1960,6.5045166,MPI-ESM1-2-LR,historical
+Mexico City,1960,14.736603,MPI-ESM1-2-LR,historical
+Lima,1960,18.22699,MPI-ESM1-2-LR,historical
+Sao Paulo,1960,18.233185,MPI-ESM1-2-LR,historical
+Buenos Aires,1960,18.803162,MPI-ESM1-2-LR,historical
+Reykjavik,1960,3.4304504,MPI-ESM1-2-LR,historical
+London,1960,8.851349,MPI-ESM1-2-LR,historical
+Paris,1960,9.537872,MPI-ESM1-2-LR,historical
+Madrid,1960,9.539337,MPI-ESM1-2-LR,historical
+Moscow,1960,3.5398254,MPI-ESM1-2-LR,historical
+Cairo,1960,20.439728,MPI-ESM1-2-LR,historical
+Lagos,1960,27.408142,MPI-ESM1-2-LR,historical
+Nairobi,1960,20.726685,MPI-ESM1-2-LR,historical
+Cape Town,1960,17.965454,MPI-ESM1-2-LR,historical
+Riyadh,1960,24.436157,MPI-ESM1-2-LR,historical
+Tehran,1960,13.345154,MPI-ESM1-2-LR,historical
+Mumbai,1960,25.538696,MPI-ESM1-2-LR,historical
+Delhi,1960,26.736755,MPI-ESM1-2-LR,historical
+Dhaka,1960,27.456665,MPI-ESM1-2-LR,historical
+Beijing,1960,9.209106,MPI-ESM1-2-LR,historical
+Shanghai,1960,15.151978,MPI-ESM1-2-LR,historical
+Tokyo,1960,15.51004,MPI-ESM1-2-LR,historical
+Singapore,1960,25.653442,MPI-ESM1-2-LR,historical
+Jakarta,1960,26.192505,MPI-ESM1-2-LR,historical
+Sydney,1960,17.970001,MPI-ESM1-2-LR,historical
+San Diego,1961,18.918213,MPI-ESM1-2-LR,historical
+Phoenix,1961,18.44815,MPI-ESM1-2-LR,historical
+New York,1961,12.529541,MPI-ESM1-2-LR,historical
+Miami,1961,24.90094,MPI-ESM1-2-LR,historical
+Anchorage,1961,-2.947998,MPI-ESM1-2-LR,historical
+Toronto,1961,7.03067,MPI-ESM1-2-LR,historical
+Mexico City,1961,15.056061,MPI-ESM1-2-LR,historical
+Lima,1961,18.307678,MPI-ESM1-2-LR,historical
+Sao Paulo,1961,17.766663,MPI-ESM1-2-LR,historical
+Buenos Aires,1961,18.435944,MPI-ESM1-2-LR,historical
+Reykjavik,1961,3.4828186,MPI-ESM1-2-LR,historical
+London,1961,9.587952,MPI-ESM1-2-LR,historical
+Paris,1961,10.750885,MPI-ESM1-2-LR,historical
+Madrid,1961,9.3479,MPI-ESM1-2-LR,historical
+Moscow,1961,4.011963,MPI-ESM1-2-LR,historical
+Cairo,1961,20.294983,MPI-ESM1-2-LR,historical
+Lagos,1961,27.749268,MPI-ESM1-2-LR,historical
+Nairobi,1961,21.01831,MPI-ESM1-2-LR,historical
+Cape Town,1961,18.173248,MPI-ESM1-2-LR,historical
+Riyadh,1961,24.987366,MPI-ESM1-2-LR,historical
+Tehran,1961,14.642639,MPI-ESM1-2-LR,historical
+Mumbai,1961,25.695068,MPI-ESM1-2-LR,historical
+Delhi,1961,25.936432,MPI-ESM1-2-LR,historical
+Dhaka,1961,28.445557,MPI-ESM1-2-LR,historical
+Beijing,1961,8.989166,MPI-ESM1-2-LR,historical
+Shanghai,1961,15.821045,MPI-ESM1-2-LR,historical
+Tokyo,1961,15.81958,MPI-ESM1-2-LR,historical
+Singapore,1961,25.280182,MPI-ESM1-2-LR,historical
+Jakarta,1961,25.809631,MPI-ESM1-2-LR,historical
+Sydney,1961,18.372467,MPI-ESM1-2-LR,historical
+San Diego,1962,19.857086,MPI-ESM1-2-LR,historical
+Phoenix,1962,19.47525,MPI-ESM1-2-LR,historical
+New York,1962,11.85318,MPI-ESM1-2-LR,historical
+Miami,1962,24.913727,MPI-ESM1-2-LR,historical
+Anchorage,1962,-6.090027,MPI-ESM1-2-LR,historical
+Toronto,1962,5.5266724,MPI-ESM1-2-LR,historical
+Mexico City,1962,15.08136,MPI-ESM1-2-LR,historical
+Lima,1962,17.035156,MPI-ESM1-2-LR,historical
+Sao Paulo,1962,17.204742,MPI-ESM1-2-LR,historical
+Buenos Aires,1962,19.644836,MPI-ESM1-2-LR,historical
+Reykjavik,1962,2.7861328,MPI-ESM1-2-LR,historical
+London,1962,10.039856,MPI-ESM1-2-LR,historical
+Paris,1962,11.066406,MPI-ESM1-2-LR,historical
+Madrid,1962,10.357422,MPI-ESM1-2-LR,historical
+Moscow,1962,3.243164,MPI-ESM1-2-LR,historical
+Cairo,1962,19.747223,MPI-ESM1-2-LR,historical
+Lagos,1962,27.505524,MPI-ESM1-2-LR,historical
+Nairobi,1962,20.899414,MPI-ESM1-2-LR,historical
+Cape Town,1962,17.94693,MPI-ESM1-2-LR,historical
+Riyadh,1962,24.425293,MPI-ESM1-2-LR,historical
+Tehran,1962,13.498352,MPI-ESM1-2-LR,historical
+Mumbai,1962,25.233215,MPI-ESM1-2-LR,historical
+Delhi,1962,25.437012,MPI-ESM1-2-LR,historical
+Dhaka,1962,27.217773,MPI-ESM1-2-LR,historical
+Beijing,1962,8.27652,MPI-ESM1-2-LR,historical
+Shanghai,1962,16.4375,MPI-ESM1-2-LR,historical
+Tokyo,1962,15.706848,MPI-ESM1-2-LR,historical
+Singapore,1962,24.39502,MPI-ESM1-2-LR,historical
+Jakarta,1962,25.13086,MPI-ESM1-2-LR,historical
+Sydney,1962,17.983704,MPI-ESM1-2-LR,historical
+San Diego,1963,20.430847,MPI-ESM1-2-LR,historical
+Phoenix,1963,18.6763,MPI-ESM1-2-LR,historical
+New York,1963,11.893097,MPI-ESM1-2-LR,historical
+Miami,1963,24.849152,MPI-ESM1-2-LR,historical
+Anchorage,1963,-6.155243,MPI-ESM1-2-LR,historical
+Toronto,1963,5.827179,MPI-ESM1-2-LR,historical
+Mexico City,1963,14.347046,MPI-ESM1-2-LR,historical
+Lima,1963,16.317413,MPI-ESM1-2-LR,historical
+Sao Paulo,1963,17.70575,MPI-ESM1-2-LR,historical
+Buenos Aires,1963,18.421906,MPI-ESM1-2-LR,historical
+Reykjavik,1963,3.1364136,MPI-ESM1-2-LR,historical
+London,1963,9.504578,MPI-ESM1-2-LR,historical
+Paris,1963,10.478394,MPI-ESM1-2-LR,historical
+Madrid,1963,10.182983,MPI-ESM1-2-LR,historical
+Moscow,1963,6.4638977,MPI-ESM1-2-LR,historical
+Cairo,1963,19.365753,MPI-ESM1-2-LR,historical
+Lagos,1963,26.775574,MPI-ESM1-2-LR,historical
+Nairobi,1963,20.268433,MPI-ESM1-2-LR,historical
+Cape Town,1963,17.771667,MPI-ESM1-2-LR,historical
+Riyadh,1963,23.400421,MPI-ESM1-2-LR,historical
+Tehran,1963,12.333862,MPI-ESM1-2-LR,historical
+Mumbai,1963,24.894714,MPI-ESM1-2-LR,historical
+Delhi,1963,25.236206,MPI-ESM1-2-LR,historical
+Dhaka,1963,28.316437,MPI-ESM1-2-LR,historical
+Beijing,1963,8.242554,MPI-ESM1-2-LR,historical
+Shanghai,1963,16.093292,MPI-ESM1-2-LR,historical
+Tokyo,1963,16.012726,MPI-ESM1-2-LR,historical
+Singapore,1963,23.998566,MPI-ESM1-2-LR,historical
+Jakarta,1963,25.101257,MPI-ESM1-2-LR,historical
+Sydney,1963,17.66101,MPI-ESM1-2-LR,historical
+San Diego,1964,19.347107,MPI-ESM1-2-LR,historical
+Phoenix,1964,18.876068,MPI-ESM1-2-LR,historical
+New York,1964,11.866943,MPI-ESM1-2-LR,historical
+Miami,1964,24.81781,MPI-ESM1-2-LR,historical
+Anchorage,1964,-6.3456116,MPI-ESM1-2-LR,historical
+Toronto,1964,4.3236694,MPI-ESM1-2-LR,historical
+Mexico City,1964,14.522888,MPI-ESM1-2-LR,historical
+Lima,1964,16.617767,MPI-ESM1-2-LR,historical
+Sao Paulo,1964,17.375427,MPI-ESM1-2-LR,historical
+Buenos Aires,1964,18.51538,MPI-ESM1-2-LR,historical
+Reykjavik,1964,3.3249512,MPI-ESM1-2-LR,historical
+London,1964,9.922119,MPI-ESM1-2-LR,historical
+Paris,1964,10.463623,MPI-ESM1-2-LR,historical
+Madrid,1964,9.466248,MPI-ESM1-2-LR,historical
+Moscow,1964,3.9743652,MPI-ESM1-2-LR,historical
+Cairo,1964,19.272217,MPI-ESM1-2-LR,historical
+Lagos,1964,26.956146,MPI-ESM1-2-LR,historical
+Nairobi,1964,19.797455,MPI-ESM1-2-LR,historical
+Cape Town,1964,17.753662,MPI-ESM1-2-LR,historical
+Riyadh,1964,24.000244,MPI-ESM1-2-LR,historical
+Tehran,1964,13.377045,MPI-ESM1-2-LR,historical
+Mumbai,1964,23.330994,MPI-ESM1-2-LR,historical
+Delhi,1964,24.067627,MPI-ESM1-2-LR,historical
+Dhaka,1964,26.071228,MPI-ESM1-2-LR,historical
+Beijing,1964,8.32074,MPI-ESM1-2-LR,historical
+Shanghai,1964,15.834717,MPI-ESM1-2-LR,historical
+Tokyo,1964,15.667236,MPI-ESM1-2-LR,historical
+Singapore,1964,24.154236,MPI-ESM1-2-LR,historical
+Jakarta,1964,25.679932,MPI-ESM1-2-LR,historical
+Sydney,1964,17.678802,MPI-ESM1-2-LR,historical
+San Diego,1965,19.786713,MPI-ESM1-2-LR,historical
+Phoenix,1965,18.615479,MPI-ESM1-2-LR,historical
+New York,1965,12.009216,MPI-ESM1-2-LR,historical
+Miami,1965,24.450134,MPI-ESM1-2-LR,historical
+Anchorage,1965,-5.2720337,MPI-ESM1-2-LR,historical
+Toronto,1965,5.00531,MPI-ESM1-2-LR,historical
+Mexico City,1965,14.462158,MPI-ESM1-2-LR,historical
+Lima,1965,17.19574,MPI-ESM1-2-LR,historical
+Sao Paulo,1965,16.757263,MPI-ESM1-2-LR,historical
+Buenos Aires,1965,18.842377,MPI-ESM1-2-LR,historical
+Reykjavik,1965,3.7894897,MPI-ESM1-2-LR,historical
+London,1965,8.609955,MPI-ESM1-2-LR,historical
+Paris,1965,9.623138,MPI-ESM1-2-LR,historical
+Madrid,1965,9.797119,MPI-ESM1-2-LR,historical
+Moscow,1965,3.6452637,MPI-ESM1-2-LR,historical
+Cairo,1965,19.949158,MPI-ESM1-2-LR,historical
+Lagos,1965,27.393494,MPI-ESM1-2-LR,historical
+Nairobi,1965,20.261322,MPI-ESM1-2-LR,historical
+Cape Town,1965,17.592377,MPI-ESM1-2-LR,historical
+Riyadh,1965,23.757904,MPI-ESM1-2-LR,historical
+Tehran,1965,13.373291,MPI-ESM1-2-LR,historical
+Mumbai,1965,24.130463,MPI-ESM1-2-LR,historical
+Delhi,1965,26.50415,MPI-ESM1-2-LR,historical
+Dhaka,1965,27.57904,MPI-ESM1-2-LR,historical
+Beijing,1965,7.607666,MPI-ESM1-2-LR,historical
+Shanghai,1965,14.577881,MPI-ESM1-2-LR,historical
+Tokyo,1965,15.015076,MPI-ESM1-2-LR,historical
+Singapore,1965,24.210388,MPI-ESM1-2-LR,historical
+Jakarta,1965,25.926361,MPI-ESM1-2-LR,historical
+Sydney,1965,18.45874,MPI-ESM1-2-LR,historical
+San Diego,1966,19.372986,MPI-ESM1-2-LR,historical
+Phoenix,1966,18.451782,MPI-ESM1-2-LR,historical
+New York,1966,12.632446,MPI-ESM1-2-LR,historical
+Miami,1966,25.088165,MPI-ESM1-2-LR,historical
+Anchorage,1966,-6.0993347,MPI-ESM1-2-LR,historical
+Toronto,1966,6.2375793,MPI-ESM1-2-LR,historical
+Mexico City,1966,14.740356,MPI-ESM1-2-LR,historical
+Lima,1966,17.036743,MPI-ESM1-2-LR,historical
+Sao Paulo,1966,17.88147,MPI-ESM1-2-LR,historical
+Buenos Aires,1966,18.723267,MPI-ESM1-2-LR,historical
+Reykjavik,1966,3.610138,MPI-ESM1-2-LR,historical
+London,1966,9.680939,MPI-ESM1-2-LR,historical
+Paris,1966,10.439392,MPI-ESM1-2-LR,historical
+Madrid,1966,9.690369,MPI-ESM1-2-LR,historical
+Moscow,1966,4.3576965,MPI-ESM1-2-LR,historical
+Cairo,1966,20.248474,MPI-ESM1-2-LR,historical
+Lagos,1966,27.247345,MPI-ESM1-2-LR,historical
+Nairobi,1966,20.383423,MPI-ESM1-2-LR,historical
+Cape Town,1966,17.60379,MPI-ESM1-2-LR,historical
+Riyadh,1966,23.58899,MPI-ESM1-2-LR,historical
+Tehran,1966,12.448669,MPI-ESM1-2-LR,historical
+Mumbai,1966,24.415314,MPI-ESM1-2-LR,historical
+Delhi,1966,26.49588,MPI-ESM1-2-LR,historical
+Dhaka,1966,28.925232,MPI-ESM1-2-LR,historical
+Beijing,1966,9.068634,MPI-ESM1-2-LR,historical
+Shanghai,1966,16.243927,MPI-ESM1-2-LR,historical
+Tokyo,1966,15.371704,MPI-ESM1-2-LR,historical
+Singapore,1966,24.277466,MPI-ESM1-2-LR,historical
+Jakarta,1966,26.079224,MPI-ESM1-2-LR,historical
+Sydney,1966,17.482056,MPI-ESM1-2-LR,historical
+San Diego,1967,20.562378,MPI-ESM1-2-LR,historical
+Phoenix,1967,19.656311,MPI-ESM1-2-LR,historical
+New York,1967,10.553772,MPI-ESM1-2-LR,historical
+Miami,1967,24.367737,MPI-ESM1-2-LR,historical
+Anchorage,1967,-4.4665833,MPI-ESM1-2-LR,historical
+Toronto,1967,4.449768,MPI-ESM1-2-LR,historical
+Mexico City,1967,13.884003,MPI-ESM1-2-LR,historical
+Lima,1967,17.845093,MPI-ESM1-2-LR,historical
+Sao Paulo,1967,17.584686,MPI-ESM1-2-LR,historical
+Buenos Aires,1967,19.229706,MPI-ESM1-2-LR,historical
+Reykjavik,1967,4.4155884,MPI-ESM1-2-LR,historical
+London,1967,10.530151,MPI-ESM1-2-LR,historical
+Paris,1967,11.395874,MPI-ESM1-2-LR,historical
+Madrid,1967,9.33844,MPI-ESM1-2-LR,historical
+Moscow,1967,2.8236084,MPI-ESM1-2-LR,historical
+Cairo,1967,19.388245,MPI-ESM1-2-LR,historical
+Lagos,1967,27.286346,MPI-ESM1-2-LR,historical
+Nairobi,1967,20.45871,MPI-ESM1-2-LR,historical
+Cape Town,1967,17.82965,MPI-ESM1-2-LR,historical
+Riyadh,1967,24.537811,MPI-ESM1-2-LR,historical
+Tehran,1967,13.017792,MPI-ESM1-2-LR,historical
+Mumbai,1967,24.378479,MPI-ESM1-2-LR,historical
+Delhi,1967,25.919159,MPI-ESM1-2-LR,historical
+Dhaka,1967,27.493866,MPI-ESM1-2-LR,historical
+Beijing,1967,8.400269,MPI-ESM1-2-LR,historical
+Shanghai,1967,15.162659,MPI-ESM1-2-LR,historical
+Tokyo,1967,14.999878,MPI-ESM1-2-LR,historical
+Singapore,1967,24.426483,MPI-ESM1-2-LR,historical
+Jakarta,1967,26.524292,MPI-ESM1-2-LR,historical
+Sydney,1967,18.552795,MPI-ESM1-2-LR,historical
+San Diego,1968,20.404541,MPI-ESM1-2-LR,historical
+Phoenix,1968,19.674713,MPI-ESM1-2-LR,historical
+New York,1968,11.4279785,MPI-ESM1-2-LR,historical
+Miami,1968,24.647705,MPI-ESM1-2-LR,historical
+Anchorage,1968,-3.3365173,MPI-ESM1-2-LR,historical
+Toronto,1968,5.727936,MPI-ESM1-2-LR,historical
+Mexico City,1968,14.388092,MPI-ESM1-2-LR,historical
+Lima,1968,17.613525,MPI-ESM1-2-LR,historical
+Sao Paulo,1968,17.819244,MPI-ESM1-2-LR,historical
+Buenos Aires,1968,18.820068,MPI-ESM1-2-LR,historical
+Reykjavik,1968,3.7276,MPI-ESM1-2-LR,historical
+London,1968,10.422913,MPI-ESM1-2-LR,historical
+Paris,1968,11.4104,MPI-ESM1-2-LR,historical
+Madrid,1968,10.385803,MPI-ESM1-2-LR,historical
+Moscow,1968,3.7806702,MPI-ESM1-2-LR,historical
+Cairo,1968,19.805725,MPI-ESM1-2-LR,historical
+Lagos,1968,27.130127,MPI-ESM1-2-LR,historical
+Nairobi,1968,20.476807,MPI-ESM1-2-LR,historical
+Cape Town,1968,17.256409,MPI-ESM1-2-LR,historical
+Riyadh,1968,25.026917,MPI-ESM1-2-LR,historical
+Tehran,1968,13.444733,MPI-ESM1-2-LR,historical
+Mumbai,1968,24.604065,MPI-ESM1-2-LR,historical
+Delhi,1968,27.716553,MPI-ESM1-2-LR,historical
+Dhaka,1968,27.63385,MPI-ESM1-2-LR,historical
+Beijing,1968,7.8177795,MPI-ESM1-2-LR,historical
+Shanghai,1968,14.7899475,MPI-ESM1-2-LR,historical
+Tokyo,1968,14.200592,MPI-ESM1-2-LR,historical
+Singapore,1968,24.516174,MPI-ESM1-2-LR,historical
+Jakarta,1968,25.737854,MPI-ESM1-2-LR,historical
+Sydney,1968,17.981201,MPI-ESM1-2-LR,historical
+San Diego,1969,19.075745,MPI-ESM1-2-LR,historical
+Phoenix,1969,18.94278,MPI-ESM1-2-LR,historical
+New York,1969,11.379303,MPI-ESM1-2-LR,historical
+Miami,1969,24.92569,MPI-ESM1-2-LR,historical
+Anchorage,1969,-5.782318,MPI-ESM1-2-LR,historical
+Toronto,1969,5.2416077,MPI-ESM1-2-LR,historical
+Mexico City,1969,15.640686,MPI-ESM1-2-LR,historical
+Lima,1969,17.348541,MPI-ESM1-2-LR,historical
+Sao Paulo,1969,17.91803,MPI-ESM1-2-LR,historical
+Buenos Aires,1969,17.654694,MPI-ESM1-2-LR,historical
+Reykjavik,1969,4.2365723,MPI-ESM1-2-LR,historical
+London,1969,9.02594,MPI-ESM1-2-LR,historical
+Paris,1969,9.86792,MPI-ESM1-2-LR,historical
+Madrid,1969,9.61026,MPI-ESM1-2-LR,historical
+Moscow,1969,2.8208618,MPI-ESM1-2-LR,historical
+Cairo,1969,20.586334,MPI-ESM1-2-LR,historical
+Lagos,1969,27.253326,MPI-ESM1-2-LR,historical
+Nairobi,1969,20.619537,MPI-ESM1-2-LR,historical
+Cape Town,1969,18.014404,MPI-ESM1-2-LR,historical
+Riyadh,1969,24.512115,MPI-ESM1-2-LR,historical
+Tehran,1969,13.934631,MPI-ESM1-2-LR,historical
+Mumbai,1969,25.281982,MPI-ESM1-2-LR,historical
+Delhi,1969,25.301666,MPI-ESM1-2-LR,historical
+Dhaka,1969,28.04712,MPI-ESM1-2-LR,historical
+Beijing,1969,8.370361,MPI-ESM1-2-LR,historical
+Shanghai,1969,15.154053,MPI-ESM1-2-LR,historical
+Tokyo,1969,14.707275,MPI-ESM1-2-LR,historical
+Singapore,1969,24.653717,MPI-ESM1-2-LR,historical
+Jakarta,1969,26.178955,MPI-ESM1-2-LR,historical
+Sydney,1969,18.334534,MPI-ESM1-2-LR,historical
+San Diego,1970,18.940826,MPI-ESM1-2-LR,historical
+Phoenix,1970,18.04419,MPI-ESM1-2-LR,historical
+New York,1970,10.917389,MPI-ESM1-2-LR,historical
+Miami,1970,25.107666,MPI-ESM1-2-LR,historical
+Anchorage,1970,-4.5388184,MPI-ESM1-2-LR,historical
+Toronto,1970,4.5910645,MPI-ESM1-2-LR,historical
+Mexico City,1970,14.757233,MPI-ESM1-2-LR,historical
+Lima,1970,16.855865,MPI-ESM1-2-LR,historical
+Sao Paulo,1970,17.381897,MPI-ESM1-2-LR,historical
+Buenos Aires,1970,18.318268,MPI-ESM1-2-LR,historical
+Reykjavik,1970,4.236389,MPI-ESM1-2-LR,historical
+London,1970,9.772858,MPI-ESM1-2-LR,historical
+Paris,1970,10.539612,MPI-ESM1-2-LR,historical
+Madrid,1970,9.346588,MPI-ESM1-2-LR,historical
+Moscow,1970,2.3519592,MPI-ESM1-2-LR,historical
+Cairo,1970,19.332764,MPI-ESM1-2-LR,historical
+Lagos,1970,27.306702,MPI-ESM1-2-LR,historical
+Nairobi,1970,20.670166,MPI-ESM1-2-LR,historical
+Cape Town,1970,18.341064,MPI-ESM1-2-LR,historical
+Riyadh,1970,24.316315,MPI-ESM1-2-LR,historical
+Tehran,1970,13.525299,MPI-ESM1-2-LR,historical
+Mumbai,1970,24.873596,MPI-ESM1-2-LR,historical
+Delhi,1970,25.288818,MPI-ESM1-2-LR,historical
+Dhaka,1970,28.28897,MPI-ESM1-2-LR,historical
+Beijing,1970,8.737854,MPI-ESM1-2-LR,historical
+Shanghai,1970,15.933502,MPI-ESM1-2-LR,historical
+Tokyo,1970,15.483459,MPI-ESM1-2-LR,historical
+Singapore,1970,24.54303,MPI-ESM1-2-LR,historical
+Jakarta,1970,25.349518,MPI-ESM1-2-LR,historical
+Sydney,1970,18.341553,MPI-ESM1-2-LR,historical
+San Diego,1971,19.359863,MPI-ESM1-2-LR,historical
+Phoenix,1971,18.67514,MPI-ESM1-2-LR,historical
+New York,1971,11.021179,MPI-ESM1-2-LR,historical
+Miami,1971,24.794617,MPI-ESM1-2-LR,historical
+Anchorage,1971,-6.0683594,MPI-ESM1-2-LR,historical
+Toronto,1971,5.0270386,MPI-ESM1-2-LR,historical
+Mexico City,1971,14.09082,MPI-ESM1-2-LR,historical
+Lima,1971,17.084167,MPI-ESM1-2-LR,historical
+Sao Paulo,1971,17.62207,MPI-ESM1-2-LR,historical
+Buenos Aires,1971,18.898773,MPI-ESM1-2-LR,historical
+Reykjavik,1971,4.1419373,MPI-ESM1-2-LR,historical
+London,1971,9.429871,MPI-ESM1-2-LR,historical
+Paris,1971,9.893066,MPI-ESM1-2-LR,historical
+Madrid,1971,8.161804,MPI-ESM1-2-LR,historical
+Moscow,1971,3.7262573,MPI-ESM1-2-LR,historical
+Cairo,1971,20.183594,MPI-ESM1-2-LR,historical
+Lagos,1971,26.923523,MPI-ESM1-2-LR,historical
+Nairobi,1971,20.465668,MPI-ESM1-2-LR,historical
+Cape Town,1971,17.508148,MPI-ESM1-2-LR,historical
+Riyadh,1971,23.90039,MPI-ESM1-2-LR,historical
+Tehran,1971,12.45932,MPI-ESM1-2-LR,historical
+Mumbai,1971,24.76596,MPI-ESM1-2-LR,historical
+Delhi,1971,24.908539,MPI-ESM1-2-LR,historical
+Dhaka,1971,27.207214,MPI-ESM1-2-LR,historical
+Beijing,1971,7.791504,MPI-ESM1-2-LR,historical
+Shanghai,1971,15.594086,MPI-ESM1-2-LR,historical
+Tokyo,1971,15.216003,MPI-ESM1-2-LR,historical
+Singapore,1971,24.514984,MPI-ESM1-2-LR,historical
+Jakarta,1971,25.686035,MPI-ESM1-2-LR,historical
+Sydney,1971,18.421387,MPI-ESM1-2-LR,historical
+San Diego,1972,19.737946,MPI-ESM1-2-LR,historical
+Phoenix,1972,18.372864,MPI-ESM1-2-LR,historical
+New York,1972,11.309387,MPI-ESM1-2-LR,historical
+Miami,1972,24.723938,MPI-ESM1-2-LR,historical
+Anchorage,1972,-5.5167847,MPI-ESM1-2-LR,historical
+Toronto,1972,5.1959534,MPI-ESM1-2-LR,historical
+Mexico City,1972,13.84845,MPI-ESM1-2-LR,historical
+Lima,1972,17.276031,MPI-ESM1-2-LR,historical
+Sao Paulo,1972,17.61377,MPI-ESM1-2-LR,historical
+Buenos Aires,1972,18.47232,MPI-ESM1-2-LR,historical
+Reykjavik,1972,3.4119263,MPI-ESM1-2-LR,historical
+London,1972,9.908356,MPI-ESM1-2-LR,historical
+Paris,1972,10.689606,MPI-ESM1-2-LR,historical
+Madrid,1972,10.205566,MPI-ESM1-2-LR,historical
+Moscow,1972,1.954895,MPI-ESM1-2-LR,historical
+Cairo,1972,19.511047,MPI-ESM1-2-LR,historical
+Lagos,1972,27.230469,MPI-ESM1-2-LR,historical
+Nairobi,1972,20.117981,MPI-ESM1-2-LR,historical
+Cape Town,1972,18.333008,MPI-ESM1-2-LR,historical
+Riyadh,1972,24.44986,MPI-ESM1-2-LR,historical
+Tehran,1972,14.046539,MPI-ESM1-2-LR,historical
+Mumbai,1972,24.541016,MPI-ESM1-2-LR,historical
+Delhi,1972,26.863281,MPI-ESM1-2-LR,historical
+Dhaka,1972,27.363586,MPI-ESM1-2-LR,historical
+Beijing,1972,9.074219,MPI-ESM1-2-LR,historical
+Shanghai,1972,16.030579,MPI-ESM1-2-LR,historical
+Tokyo,1972,15.902649,MPI-ESM1-2-LR,historical
+Singapore,1972,24.582672,MPI-ESM1-2-LR,historical
+Jakarta,1972,25.338043,MPI-ESM1-2-LR,historical
+Sydney,1972,18.412903,MPI-ESM1-2-LR,historical
+San Diego,1973,19.210388,MPI-ESM1-2-LR,historical
+Phoenix,1973,18.548767,MPI-ESM1-2-LR,historical
+New York,1973,10.606567,MPI-ESM1-2-LR,historical
+Miami,1973,24.653595,MPI-ESM1-2-LR,historical
+Anchorage,1973,-3.4241943,MPI-ESM1-2-LR,historical
+Toronto,1973,4.930603,MPI-ESM1-2-LR,historical
+Mexico City,1973,14.291138,MPI-ESM1-2-LR,historical
+Lima,1973,18.163849,MPI-ESM1-2-LR,historical
+Sao Paulo,1973,17.799927,MPI-ESM1-2-LR,historical
+Buenos Aires,1973,19.063751,MPI-ESM1-2-LR,historical
+Reykjavik,1973,3.5289307,MPI-ESM1-2-LR,historical
+London,1973,9.601196,MPI-ESM1-2-LR,historical
+Paris,1973,10.850372,MPI-ESM1-2-LR,historical
+Madrid,1973,9.497192,MPI-ESM1-2-LR,historical
+Moscow,1973,3.8475952,MPI-ESM1-2-LR,historical
+Cairo,1973,19.213165,MPI-ESM1-2-LR,historical
+Lagos,1973,27.693146,MPI-ESM1-2-LR,historical
+Nairobi,1973,20.294708,MPI-ESM1-2-LR,historical
+Cape Town,1973,17.746368,MPI-ESM1-2-LR,historical
+Riyadh,1973,24.049744,MPI-ESM1-2-LR,historical
+Tehran,1973,13.569611,MPI-ESM1-2-LR,historical
+Mumbai,1973,24.829529,MPI-ESM1-2-LR,historical
+Delhi,1973,27.383087,MPI-ESM1-2-LR,historical
+Dhaka,1973,26.74524,MPI-ESM1-2-LR,historical
+Beijing,1973,8.098572,MPI-ESM1-2-LR,historical
+Shanghai,1973,15.713806,MPI-ESM1-2-LR,historical
+Tokyo,1973,15.051392,MPI-ESM1-2-LR,historical
+Singapore,1973,24.755646,MPI-ESM1-2-LR,historical
+Jakarta,1973,26.372986,MPI-ESM1-2-LR,historical
+Sydney,1973,19.210388,MPI-ESM1-2-LR,historical
+San Diego,1974,18.829407,MPI-ESM1-2-LR,historical
+Phoenix,1974,18.428864,MPI-ESM1-2-LR,historical
+New York,1974,11.467926,MPI-ESM1-2-LR,historical
+Miami,1974,24.709473,MPI-ESM1-2-LR,historical
+Anchorage,1974,-3.8183594,MPI-ESM1-2-LR,historical
+Toronto,1974,5.7512817,MPI-ESM1-2-LR,historical
+Mexico City,1974,15.154938,MPI-ESM1-2-LR,historical
+Lima,1974,17.332031,MPI-ESM1-2-LR,historical
+Sao Paulo,1974,18.008453,MPI-ESM1-2-LR,historical
+Buenos Aires,1974,19.058105,MPI-ESM1-2-LR,historical
+Reykjavik,1974,3.3496094,MPI-ESM1-2-LR,historical
+London,1974,9.698059,MPI-ESM1-2-LR,historical
+Paris,1974,10.868469,MPI-ESM1-2-LR,historical
+Madrid,1974,9.673492,MPI-ESM1-2-LR,historical
+Moscow,1974,2.3671875,MPI-ESM1-2-LR,historical
+Cairo,1974,20.043457,MPI-ESM1-2-LR,historical
+Lagos,1974,27.313965,MPI-ESM1-2-LR,historical
+Nairobi,1974,20.388977,MPI-ESM1-2-LR,historical
+Cape Town,1974,18.259094,MPI-ESM1-2-LR,historical
+Riyadh,1974,24.045563,MPI-ESM1-2-LR,historical
+Tehran,1974,13.7942505,MPI-ESM1-2-LR,historical
+Mumbai,1974,24.408356,MPI-ESM1-2-LR,historical
+Delhi,1974,27.185547,MPI-ESM1-2-LR,historical
+Dhaka,1974,28.61377,MPI-ESM1-2-LR,historical
+Beijing,1974,8.700195,MPI-ESM1-2-LR,historical
+Shanghai,1974,16.586578,MPI-ESM1-2-LR,historical
+Tokyo,1974,15.602203,MPI-ESM1-2-LR,historical
+Singapore,1974,24.371094,MPI-ESM1-2-LR,historical
+Jakarta,1974,26.111816,MPI-ESM1-2-LR,historical
+Sydney,1974,18.606445,MPI-ESM1-2-LR,historical
+San Diego,1975,19.706238,MPI-ESM1-2-LR,historical
+Phoenix,1975,18.601746,MPI-ESM1-2-LR,historical
+New York,1975,12.015625,MPI-ESM1-2-LR,historical
+Miami,1975,25.013031,MPI-ESM1-2-LR,historical
+Anchorage,1975,-7.271637,MPI-ESM1-2-LR,historical
+Toronto,1975,6.018738,MPI-ESM1-2-LR,historical
+Mexico City,1975,14.838562,MPI-ESM1-2-LR,historical
+Lima,1975,16.595062,MPI-ESM1-2-LR,historical
+Sao Paulo,1975,17.222992,MPI-ESM1-2-LR,historical
+Buenos Aires,1975,19.818695,MPI-ESM1-2-LR,historical
+Reykjavik,1975,3.833496,MPI-ESM1-2-LR,historical
+London,1975,9.41864,MPI-ESM1-2-LR,historical
+Paris,1975,10.477722,MPI-ESM1-2-LR,historical
+Madrid,1975,9.991211,MPI-ESM1-2-LR,historical
+Moscow,1975,2.1852417,MPI-ESM1-2-LR,historical
+Cairo,1975,19.960938,MPI-ESM1-2-LR,historical
+Lagos,1975,26.964844,MPI-ESM1-2-LR,historical
+Nairobi,1975,20.513855,MPI-ESM1-2-LR,historical
+Cape Town,1975,17.760742,MPI-ESM1-2-LR,historical
+Riyadh,1975,24.528656,MPI-ESM1-2-LR,historical
+Tehran,1975,14.069183,MPI-ESM1-2-LR,historical
+Mumbai,1975,23.980957,MPI-ESM1-2-LR,historical
+Delhi,1975,25.019714,MPI-ESM1-2-LR,historical
+Dhaka,1975,27.676117,MPI-ESM1-2-LR,historical
+Beijing,1975,7.845398,MPI-ESM1-2-LR,historical
+Shanghai,1975,15.769043,MPI-ESM1-2-LR,historical
+Tokyo,1975,15.82309,MPI-ESM1-2-LR,historical
+Singapore,1975,24.469727,MPI-ESM1-2-LR,historical
+Jakarta,1975,25.010925,MPI-ESM1-2-LR,historical
+Sydney,1975,17.867859,MPI-ESM1-2-LR,historical
+San Diego,1976,19.509308,MPI-ESM1-2-LR,historical
+Phoenix,1976,18.728058,MPI-ESM1-2-LR,historical
+New York,1976,12.035187,MPI-ESM1-2-LR,historical
+Miami,1976,24.781128,MPI-ESM1-2-LR,historical
+Anchorage,1976,-7.5107117,MPI-ESM1-2-LR,historical
+Toronto,1976,5.7793274,MPI-ESM1-2-LR,historical
+Mexico City,1976,14.715027,MPI-ESM1-2-LR,historical
+Lima,1976,16.70105,MPI-ESM1-2-LR,historical
+Sao Paulo,1976,18.074585,MPI-ESM1-2-LR,historical
+Buenos Aires,1976,18.335144,MPI-ESM1-2-LR,historical
+Reykjavik,1976,4.426941,MPI-ESM1-2-LR,historical
+London,1976,9.018738,MPI-ESM1-2-LR,historical
+Paris,1976,9.771515,MPI-ESM1-2-LR,historical
+Madrid,1976,9.615601,MPI-ESM1-2-LR,historical
+Moscow,1976,2.557495,MPI-ESM1-2-LR,historical
+Cairo,1976,19.45755,MPI-ESM1-2-LR,historical
+Lagos,1976,26.850616,MPI-ESM1-2-LR,historical
+Nairobi,1976,20.108093,MPI-ESM1-2-LR,historical
+Cape Town,1976,18.07196,MPI-ESM1-2-LR,historical
+Riyadh,1976,24.202667,MPI-ESM1-2-LR,historical
+Tehran,1976,14.236694,MPI-ESM1-2-LR,historical
+Mumbai,1976,24.070831,MPI-ESM1-2-LR,historical
+Delhi,1976,25.705261,MPI-ESM1-2-LR,historical
+Dhaka,1976,26.065796,MPI-ESM1-2-LR,historical
+Beijing,1976,7.0321045,MPI-ESM1-2-LR,historical
+Shanghai,1976,14.662964,MPI-ESM1-2-LR,historical
+Tokyo,1976,15.05423,MPI-ESM1-2-LR,historical
+Singapore,1976,24.251984,MPI-ESM1-2-LR,historical
+Jakarta,1976,25.63562,MPI-ESM1-2-LR,historical
+Sydney,1976,18.03128,MPI-ESM1-2-LR,historical
+San Diego,1977,20.591583,MPI-ESM1-2-LR,historical
+Phoenix,1977,19.799255,MPI-ESM1-2-LR,historical
+New York,1977,11.053497,MPI-ESM1-2-LR,historical
+Miami,1977,24.44461,MPI-ESM1-2-LR,historical
+Anchorage,1977,-4.7576904,MPI-ESM1-2-LR,historical
+Toronto,1977,4.49881,MPI-ESM1-2-LR,historical
+Mexico City,1977,13.648071,MPI-ESM1-2-LR,historical
+Lima,1977,16.849884,MPI-ESM1-2-LR,historical
+Sao Paulo,1977,18.485138,MPI-ESM1-2-LR,historical
+Buenos Aires,1977,18.904419,MPI-ESM1-2-LR,historical
+Reykjavik,1977,4.789673,MPI-ESM1-2-LR,historical
+London,1977,10.261505,MPI-ESM1-2-LR,historical
+Paris,1977,10.899841,MPI-ESM1-2-LR,historical
+Madrid,1977,8.413513,MPI-ESM1-2-LR,historical
+Moscow,1977,2.3412476,MPI-ESM1-2-LR,historical
+Cairo,1977,19.687622,MPI-ESM1-2-LR,historical
+Lagos,1977,27.059998,MPI-ESM1-2-LR,historical
+Nairobi,1977,20.611115,MPI-ESM1-2-LR,historical
+Cape Town,1977,17.786896,MPI-ESM1-2-LR,historical
+Riyadh,1977,24.24945,MPI-ESM1-2-LR,historical
+Tehran,1977,12.118286,MPI-ESM1-2-LR,historical
+Mumbai,1977,24.87381,MPI-ESM1-2-LR,historical
+Delhi,1977,26.91565,MPI-ESM1-2-LR,historical
+Dhaka,1977,26.819946,MPI-ESM1-2-LR,historical
+Beijing,1977,7.5650635,MPI-ESM1-2-LR,historical
+Shanghai,1977,14.795685,MPI-ESM1-2-LR,historical
+Tokyo,1977,15.146118,MPI-ESM1-2-LR,historical
+Singapore,1977,24.395294,MPI-ESM1-2-LR,historical
+Jakarta,1977,25.847443,MPI-ESM1-2-LR,historical
+Sydney,1977,17.832794,MPI-ESM1-2-LR,historical
+San Diego,1978,20.648499,MPI-ESM1-2-LR,historical
+Phoenix,1978,19.64801,MPI-ESM1-2-LR,historical
+New York,1978,12.15094,MPI-ESM1-2-LR,historical
+Miami,1978,24.77481,MPI-ESM1-2-LR,historical
+Anchorage,1978,-5.7526855,MPI-ESM1-2-LR,historical
+Toronto,1978,5.985901,MPI-ESM1-2-LR,historical
+Mexico City,1978,13.793518,MPI-ESM1-2-LR,historical
+Lima,1978,16.422607,MPI-ESM1-2-LR,historical
+Sao Paulo,1978,18.229889,MPI-ESM1-2-LR,historical
+Buenos Aires,1978,19.510986,MPI-ESM1-2-LR,historical
+Reykjavik,1978,3.4842834,MPI-ESM1-2-LR,historical
+London,1978,10.235413,MPI-ESM1-2-LR,historical
+Paris,1978,11.354889,MPI-ESM1-2-LR,historical
+Madrid,1978,10.097229,MPI-ESM1-2-LR,historical
+Moscow,1978,3.9320374,MPI-ESM1-2-LR,historical
+Cairo,1978,19.379791,MPI-ESM1-2-LR,historical
+Lagos,1978,27.013092,MPI-ESM1-2-LR,historical
+Nairobi,1978,19.84674,MPI-ESM1-2-LR,historical
+Cape Town,1978,18.055237,MPI-ESM1-2-LR,historical
+Riyadh,1978,24.002838,MPI-ESM1-2-LR,historical
+Tehran,1978,13.415283,MPI-ESM1-2-LR,historical
+Mumbai,1978,24.341705,MPI-ESM1-2-LR,historical
+Delhi,1978,26.058502,MPI-ESM1-2-LR,historical
+Dhaka,1978,27.013916,MPI-ESM1-2-LR,historical
+Beijing,1978,7.7183228,MPI-ESM1-2-LR,historical
+Shanghai,1978,14.831299,MPI-ESM1-2-LR,historical
+Tokyo,1978,15.153076,MPI-ESM1-2-LR,historical
+Singapore,1978,24.167877,MPI-ESM1-2-LR,historical
+Jakarta,1978,25.09253,MPI-ESM1-2-LR,historical
+Sydney,1978,17.88208,MPI-ESM1-2-LR,historical
+San Diego,1979,20.036469,MPI-ESM1-2-LR,historical
+Phoenix,1979,19.64325,MPI-ESM1-2-LR,historical
+New York,1979,11.641449,MPI-ESM1-2-LR,historical
+Miami,1979,25.145844,MPI-ESM1-2-LR,historical
+Anchorage,1979,-4.025879,MPI-ESM1-2-LR,historical
+Toronto,1979,4.495453,MPI-ESM1-2-LR,historical
+Mexico City,1979,15.014984,MPI-ESM1-2-LR,historical
+Lima,1979,17.629883,MPI-ESM1-2-LR,historical
+Sao Paulo,1979,18.108093,MPI-ESM1-2-LR,historical
+Buenos Aires,1979,19.83905,MPI-ESM1-2-LR,historical
+Reykjavik,1979,3.6852417,MPI-ESM1-2-LR,historical
+London,1979,9.754089,MPI-ESM1-2-LR,historical
+Paris,1979,10.823242,MPI-ESM1-2-LR,historical
+Madrid,1979,9.650574,MPI-ESM1-2-LR,historical
+Moscow,1979,4.0794373,MPI-ESM1-2-LR,historical
+Cairo,1979,19.67627,MPI-ESM1-2-LR,historical
+Lagos,1979,27.668945,MPI-ESM1-2-LR,historical
+Nairobi,1979,20.346527,MPI-ESM1-2-LR,historical
+Cape Town,1979,18.278503,MPI-ESM1-2-LR,historical
+Riyadh,1979,24.766785,MPI-ESM1-2-LR,historical
+Tehran,1979,13.632019,MPI-ESM1-2-LR,historical
+Mumbai,1979,24.499695,MPI-ESM1-2-LR,historical
+Delhi,1979,25.943054,MPI-ESM1-2-LR,historical
+Dhaka,1979,27.302094,MPI-ESM1-2-LR,historical
+Beijing,1979,7.3999023,MPI-ESM1-2-LR,historical
+Shanghai,1979,15.139496,MPI-ESM1-2-LR,historical
+Tokyo,1979,15.038574,MPI-ESM1-2-LR,historical
+Singapore,1979,24.457031,MPI-ESM1-2-LR,historical
+Jakarta,1979,25.776855,MPI-ESM1-2-LR,historical
+Sydney,1979,18.546875,MPI-ESM1-2-LR,historical
+San Diego,1980,19.413696,MPI-ESM1-2-LR,historical
+Phoenix,1980,19.06195,MPI-ESM1-2-LR,historical
+New York,1980,12.186951,MPI-ESM1-2-LR,historical
+Miami,1980,25.079529,MPI-ESM1-2-LR,historical
+Anchorage,1980,-5.436096,MPI-ESM1-2-LR,historical
+Toronto,1980,6.377716,MPI-ESM1-2-LR,historical
+Mexico City,1980,14.924927,MPI-ESM1-2-LR,historical
+Lima,1980,17.7016,MPI-ESM1-2-LR,historical
+Sao Paulo,1980,18.590942,MPI-ESM1-2-LR,historical
+Buenos Aires,1980,18.337341,MPI-ESM1-2-LR,historical
+Reykjavik,1980,3.2696533,MPI-ESM1-2-LR,historical
+London,1980,9.3927,MPI-ESM1-2-LR,historical
+Paris,1980,10.58197,MPI-ESM1-2-LR,historical
+Madrid,1980,10.053009,MPI-ESM1-2-LR,historical
+Moscow,1980,4.646759,MPI-ESM1-2-LR,historical
+Cairo,1980,19.706482,MPI-ESM1-2-LR,historical
+Lagos,1980,27.857056,MPI-ESM1-2-LR,historical
+Nairobi,1980,21.18695,MPI-ESM1-2-LR,historical
+Cape Town,1980,18.167267,MPI-ESM1-2-LR,historical
+Riyadh,1980,25.119904,MPI-ESM1-2-LR,historical
+Tehran,1980,13.364197,MPI-ESM1-2-LR,historical
+Mumbai,1980,24.869263,MPI-ESM1-2-LR,historical
+Delhi,1980,25.906036,MPI-ESM1-2-LR,historical
+Dhaka,1980,28.186646,MPI-ESM1-2-LR,historical
+Beijing,1980,6.8638916,MPI-ESM1-2-LR,historical
+Shanghai,1980,14.922638,MPI-ESM1-2-LR,historical
+Tokyo,1980,14.971313,MPI-ESM1-2-LR,historical
+Singapore,1980,24.97879,MPI-ESM1-2-LR,historical
+Jakarta,1980,26.262146,MPI-ESM1-2-LR,historical
+Sydney,1980,18.935669,MPI-ESM1-2-LR,historical
+San Diego,1981,19.970734,MPI-ESM1-2-LR,historical
+Phoenix,1981,19.171906,MPI-ESM1-2-LR,historical
+New York,1981,11.943054,MPI-ESM1-2-LR,historical
+Miami,1981,24.915894,MPI-ESM1-2-LR,historical
+Anchorage,1981,-2.9156494,MPI-ESM1-2-LR,historical
+Toronto,1981,5.4375305,MPI-ESM1-2-LR,historical
+Mexico City,1981,15.096222,MPI-ESM1-2-LR,historical
+Lima,1981,17.486206,MPI-ESM1-2-LR,historical
+Sao Paulo,1981,17.572937,MPI-ESM1-2-LR,historical
+Buenos Aires,1981,18.78128,MPI-ESM1-2-LR,historical
+Reykjavik,1981,4.43573,MPI-ESM1-2-LR,historical
+London,1981,9.759949,MPI-ESM1-2-LR,historical
+Paris,1981,10.6310425,MPI-ESM1-2-LR,historical
+Madrid,1981,9.05423,MPI-ESM1-2-LR,historical
+Moscow,1981,5.034851,MPI-ESM1-2-LR,historical
+Cairo,1981,20.055695,MPI-ESM1-2-LR,historical
+Lagos,1981,27.501007,MPI-ESM1-2-LR,historical
+Nairobi,1981,21.470734,MPI-ESM1-2-LR,historical
+Cape Town,1981,18.348816,MPI-ESM1-2-LR,historical
+Riyadh,1981,24.838745,MPI-ESM1-2-LR,historical
+Tehran,1981,12.425171,MPI-ESM1-2-LR,historical
+Mumbai,1981,25.75116,MPI-ESM1-2-LR,historical
+Delhi,1981,26.200714,MPI-ESM1-2-LR,historical
+Dhaka,1981,28.784363,MPI-ESM1-2-LR,historical
+Beijing,1981,8.806183,MPI-ESM1-2-LR,historical
+Shanghai,1981,15.600464,MPI-ESM1-2-LR,historical
+Tokyo,1981,15.862671,MPI-ESM1-2-LR,historical
+Singapore,1981,24.728394,MPI-ESM1-2-LR,historical
+Jakarta,1981,25.869171,MPI-ESM1-2-LR,historical
+Sydney,1981,18.304077,MPI-ESM1-2-LR,historical
+San Diego,1982,21.161377,MPI-ESM1-2-LR,historical
+Phoenix,1982,20.445557,MPI-ESM1-2-LR,historical
+New York,1982,12.125885,MPI-ESM1-2-LR,historical
+Miami,1982,24.870667,MPI-ESM1-2-LR,historical
+Anchorage,1982,-5.7660522,MPI-ESM1-2-LR,historical
+Toronto,1982,6.4066467,MPI-ESM1-2-LR,historical
+Mexico City,1982,14.314697,MPI-ESM1-2-LR,historical
+Lima,1982,17.30069,MPI-ESM1-2-LR,historical
+Sao Paulo,1982,17.69635,MPI-ESM1-2-LR,historical
+Buenos Aires,1982,18.821686,MPI-ESM1-2-LR,historical
+Reykjavik,1982,3.7658691,MPI-ESM1-2-LR,historical
+London,1982,9.372803,MPI-ESM1-2-LR,historical
+Paris,1982,10.200592,MPI-ESM1-2-LR,historical
+Madrid,1982,8.93985,MPI-ESM1-2-LR,historical
+Moscow,1982,3.4510803,MPI-ESM1-2-LR,historical
+Cairo,1982,20.229248,MPI-ESM1-2-LR,historical
+Lagos,1982,27.059814,MPI-ESM1-2-LR,historical
+Nairobi,1982,19.879944,MPI-ESM1-2-LR,historical
+Cape Town,1982,18.135162,MPI-ESM1-2-LR,historical
+Riyadh,1982,24.700928,MPI-ESM1-2-LR,historical
+Tehran,1982,12.549377,MPI-ESM1-2-LR,historical
+Mumbai,1982,24.178467,MPI-ESM1-2-LR,historical
+Delhi,1982,25.610413,MPI-ESM1-2-LR,historical
+Dhaka,1982,27.979248,MPI-ESM1-2-LR,historical
+Beijing,1982,8.520752,MPI-ESM1-2-LR,historical
+Shanghai,1982,15.287018,MPI-ESM1-2-LR,historical
+Tokyo,1982,15.591553,MPI-ESM1-2-LR,historical
+Singapore,1982,24.489655,MPI-ESM1-2-LR,historical
+Jakarta,1982,25.6026,MPI-ESM1-2-LR,historical
+Sydney,1982,18.799377,MPI-ESM1-2-LR,historical
+San Diego,1983,19.458008,MPI-ESM1-2-LR,historical
+Phoenix,1983,18.986633,MPI-ESM1-2-LR,historical
+New York,1983,12.030426,MPI-ESM1-2-LR,historical
+Miami,1983,25.122223,MPI-ESM1-2-LR,historical
+Anchorage,1983,-6.153015,MPI-ESM1-2-LR,historical
+Toronto,1983,6.219055,MPI-ESM1-2-LR,historical
+Mexico City,1983,14.898743,MPI-ESM1-2-LR,historical
+Lima,1983,17.565094,MPI-ESM1-2-LR,historical
+Sao Paulo,1983,17.793762,MPI-ESM1-2-LR,historical
+Buenos Aires,1983,20.797028,MPI-ESM1-2-LR,historical
+Reykjavik,1983,3.368805,MPI-ESM1-2-LR,historical
+London,1983,10.445129,MPI-ESM1-2-LR,historical
+Paris,1983,11.473938,MPI-ESM1-2-LR,historical
+Madrid,1983,11.19693,MPI-ESM1-2-LR,historical
+Moscow,1983,3.2931213,MPI-ESM1-2-LR,historical
+Cairo,1983,19.467285,MPI-ESM1-2-LR,historical
+Lagos,1983,26.716125,MPI-ESM1-2-LR,historical
+Nairobi,1983,20.637024,MPI-ESM1-2-LR,historical
+Cape Town,1983,18.634766,MPI-ESM1-2-LR,historical
+Riyadh,1983,24.740387,MPI-ESM1-2-LR,historical
+Tehran,1983,12.149719,MPI-ESM1-2-LR,historical
+Mumbai,1983,24.1333,MPI-ESM1-2-LR,historical
+Delhi,1983,25.152344,MPI-ESM1-2-LR,historical
+Dhaka,1983,27.482574,MPI-ESM1-2-LR,historical
+Beijing,1983,8.552734,MPI-ESM1-2-LR,historical
+Shanghai,1983,15.842773,MPI-ESM1-2-LR,historical
+Tokyo,1983,15.428375,MPI-ESM1-2-LR,historical
+Singapore,1983,24.270508,MPI-ESM1-2-LR,historical
+Jakarta,1983,25.254395,MPI-ESM1-2-LR,historical
+Sydney,1983,17.967438,MPI-ESM1-2-LR,historical
+San Diego,1984,19.416931,MPI-ESM1-2-LR,historical
+Phoenix,1984,18.961212,MPI-ESM1-2-LR,historical
+New York,1984,12.475372,MPI-ESM1-2-LR,historical
+Miami,1984,25.332947,MPI-ESM1-2-LR,historical
+Anchorage,1984,-5.1968384,MPI-ESM1-2-LR,historical
+Toronto,1984,6.267853,MPI-ESM1-2-LR,historical
+Mexico City,1984,15.26297,MPI-ESM1-2-LR,historical
+Lima,1984,17.970978,MPI-ESM1-2-LR,historical
+Sao Paulo,1984,18.285767,MPI-ESM1-2-LR,historical
+Buenos Aires,1984,19.498962,MPI-ESM1-2-LR,historical
+Reykjavik,1984,4.0968018,MPI-ESM1-2-LR,historical
+London,1984,10.749634,MPI-ESM1-2-LR,historical
+Paris,1984,11.619904,MPI-ESM1-2-LR,historical
+Madrid,1984,9.687775,MPI-ESM1-2-LR,historical
+Moscow,1984,4.209259,MPI-ESM1-2-LR,historical
+Cairo,1984,20.223267,MPI-ESM1-2-LR,historical
+Lagos,1984,27.48758,MPI-ESM1-2-LR,historical
+Nairobi,1984,20.71643,MPI-ESM1-2-LR,historical
+Cape Town,1984,17.823853,MPI-ESM1-2-LR,historical
+Riyadh,1984,24.650818,MPI-ESM1-2-LR,historical
+Tehran,1984,13.0980835,MPI-ESM1-2-LR,historical
+Mumbai,1984,24.969025,MPI-ESM1-2-LR,historical
+Delhi,1984,25.325806,MPI-ESM1-2-LR,historical
+Dhaka,1984,28.285278,MPI-ESM1-2-LR,historical
+Beijing,1984,8.87088,MPI-ESM1-2-LR,historical
+Shanghai,1984,16.244263,MPI-ESM1-2-LR,historical
+Tokyo,1984,16.071411,MPI-ESM1-2-LR,historical
+Singapore,1984,24.75647,MPI-ESM1-2-LR,historical
+Jakarta,1984,26.216095,MPI-ESM1-2-LR,historical
+Sydney,1984,18.434998,MPI-ESM1-2-LR,historical
+San Diego,1985,20.212952,MPI-ESM1-2-LR,historical
+Phoenix,1985,19.355377,MPI-ESM1-2-LR,historical
+New York,1985,12.861084,MPI-ESM1-2-LR,historical
+Miami,1985,25.278564,MPI-ESM1-2-LR,historical
+Anchorage,1985,-6.0861816,MPI-ESM1-2-LR,historical
+Toronto,1985,6.768463,MPI-ESM1-2-LR,historical
+Mexico City,1985,14.868408,MPI-ESM1-2-LR,historical
+Lima,1985,18.17633,MPI-ESM1-2-LR,historical
+Sao Paulo,1985,17.700928,MPI-ESM1-2-LR,historical
+Buenos Aires,1985,19.467194,MPI-ESM1-2-LR,historical
+Reykjavik,1985,3.556549,MPI-ESM1-2-LR,historical
+London,1985,10.76651,MPI-ESM1-2-LR,historical
+Paris,1985,12.294678,MPI-ESM1-2-LR,historical
+Madrid,1985,11.323303,MPI-ESM1-2-LR,historical
+Moscow,1985,4.1237793,MPI-ESM1-2-LR,historical
+Cairo,1985,19.627838,MPI-ESM1-2-LR,historical
+Lagos,1985,27.760315,MPI-ESM1-2-LR,historical
+Nairobi,1985,21.18628,MPI-ESM1-2-LR,historical
+Cape Town,1985,18.42276,MPI-ESM1-2-LR,historical
+Riyadh,1985,25.048584,MPI-ESM1-2-LR,historical
+Tehran,1985,13.581451,MPI-ESM1-2-LR,historical
+Mumbai,1985,25.071686,MPI-ESM1-2-LR,historical
+Delhi,1985,26.361572,MPI-ESM1-2-LR,historical
+Dhaka,1985,27.59674,MPI-ESM1-2-LR,historical
+Beijing,1985,9.083405,MPI-ESM1-2-LR,historical
+Shanghai,1985,15.886627,MPI-ESM1-2-LR,historical
+Tokyo,1985,15.881256,MPI-ESM1-2-LR,historical
+Singapore,1985,24.716217,MPI-ESM1-2-LR,historical
+Jakarta,1985,25.498596,MPI-ESM1-2-LR,historical
+Sydney,1985,18.461823,MPI-ESM1-2-LR,historical
+San Diego,1986,19.683838,MPI-ESM1-2-LR,historical
+Phoenix,1986,19.120361,MPI-ESM1-2-LR,historical
+New York,1986,12.569397,MPI-ESM1-2-LR,historical
+Miami,1986,25.232056,MPI-ESM1-2-LR,historical
+Anchorage,1986,-5.7101746,MPI-ESM1-2-LR,historical
+Toronto,1986,6.9732056,MPI-ESM1-2-LR,historical
+Mexico City,1986,15.4487915,MPI-ESM1-2-LR,historical
+Lima,1986,17.739807,MPI-ESM1-2-LR,historical
+Sao Paulo,1986,17.93399,MPI-ESM1-2-LR,historical
+Buenos Aires,1986,19.052643,MPI-ESM1-2-LR,historical
+Reykjavik,1986,3.5401,MPI-ESM1-2-LR,historical
+London,1986,9.363831,MPI-ESM1-2-LR,historical
+Paris,1986,10.309631,MPI-ESM1-2-LR,historical
+Madrid,1986,9.9331665,MPI-ESM1-2-LR,historical
+Moscow,1986,3.3076782,MPI-ESM1-2-LR,historical
+Cairo,1986,20.656647,MPI-ESM1-2-LR,historical
+Lagos,1986,27.75061,MPI-ESM1-2-LR,historical
+Nairobi,1986,20.945587,MPI-ESM1-2-LR,historical
+Cape Town,1986,18.01294,MPI-ESM1-2-LR,historical
+Riyadh,1986,24.835571,MPI-ESM1-2-LR,historical
+Tehran,1986,14.314514,MPI-ESM1-2-LR,historical
+Mumbai,1986,25.300568,MPI-ESM1-2-LR,historical
+Delhi,1986,26.776794,MPI-ESM1-2-LR,historical
+Dhaka,1986,27.321075,MPI-ESM1-2-LR,historical
+Beijing,1986,8.799377,MPI-ESM1-2-LR,historical
+Shanghai,1986,15.562073,MPI-ESM1-2-LR,historical
+Tokyo,1986,15.487061,MPI-ESM1-2-LR,historical
+Singapore,1986,24.600037,MPI-ESM1-2-LR,historical
+Jakarta,1986,25.536896,MPI-ESM1-2-LR,historical
+Sydney,1986,18.861877,MPI-ESM1-2-LR,historical
+San Diego,1987,19.972382,MPI-ESM1-2-LR,historical
+Phoenix,1987,19.802307,MPI-ESM1-2-LR,historical
+New York,1987,11.568909,MPI-ESM1-2-LR,historical
+Miami,1987,24.810425,MPI-ESM1-2-LR,historical
+Anchorage,1987,-3.1854858,MPI-ESM1-2-LR,historical
+Toronto,1987,5.6335144,MPI-ESM1-2-LR,historical
+Mexico City,1987,15.03244,MPI-ESM1-2-LR,historical
+Lima,1987,17.296265,MPI-ESM1-2-LR,historical
+Sao Paulo,1987,18.177795,MPI-ESM1-2-LR,historical
+Buenos Aires,1987,18.919983,MPI-ESM1-2-LR,historical
+Reykjavik,1987,4.5939636,MPI-ESM1-2-LR,historical
+London,1987,9.874573,MPI-ESM1-2-LR,historical
+Paris,1987,10.875366,MPI-ESM1-2-LR,historical
+Madrid,1987,10.38562,MPI-ESM1-2-LR,historical
+Moscow,1987,1.5633545,MPI-ESM1-2-LR,historical
+Cairo,1987,19.941956,MPI-ESM1-2-LR,historical
+Lagos,1987,27.184448,MPI-ESM1-2-LR,historical
+Nairobi,1987,20.914612,MPI-ESM1-2-LR,historical
+Cape Town,1987,18.04123,MPI-ESM1-2-LR,historical
+Riyadh,1987,24.872772,MPI-ESM1-2-LR,historical
+Tehran,1987,13.771545,MPI-ESM1-2-LR,historical
+Mumbai,1987,25.66867,MPI-ESM1-2-LR,historical
+Delhi,1987,25.870483,MPI-ESM1-2-LR,historical
+Dhaka,1987,27.80133,MPI-ESM1-2-LR,historical
+Beijing,1987,7.696167,MPI-ESM1-2-LR,historical
+Shanghai,1987,15.286835,MPI-ESM1-2-LR,historical
+Tokyo,1987,15.073944,MPI-ESM1-2-LR,historical
+Singapore,1987,24.479706,MPI-ESM1-2-LR,historical
+Jakarta,1987,26.214233,MPI-ESM1-2-LR,historical
+Sydney,1987,18.477905,MPI-ESM1-2-LR,historical
+San Diego,1988,19.868866,MPI-ESM1-2-LR,historical
+Phoenix,1988,19.210663,MPI-ESM1-2-LR,historical
+New York,1988,12.910858,MPI-ESM1-2-LR,historical
+Miami,1988,24.989471,MPI-ESM1-2-LR,historical
+Anchorage,1988,-6.2087708,MPI-ESM1-2-LR,historical
+Toronto,1988,6.341034,MPI-ESM1-2-LR,historical
+Mexico City,1988,15.23053,MPI-ESM1-2-LR,historical
+Lima,1988,17.294983,MPI-ESM1-2-LR,historical
+Sao Paulo,1988,17.912323,MPI-ESM1-2-LR,historical
+Buenos Aires,1988,18.104553,MPI-ESM1-2-LR,historical
+Reykjavik,1988,4.313202,MPI-ESM1-2-LR,historical
+London,1988,10.398651,MPI-ESM1-2-LR,historical
+Paris,1988,11.317261,MPI-ESM1-2-LR,historical
+Madrid,1988,10.228088,MPI-ESM1-2-LR,historical
+Moscow,1988,5.277405,MPI-ESM1-2-LR,historical
+Cairo,1988,19.910522,MPI-ESM1-2-LR,historical
+Lagos,1988,27.085999,MPI-ESM1-2-LR,historical
+Nairobi,1988,20.71994,MPI-ESM1-2-LR,historical
+Cape Town,1988,17.93805,MPI-ESM1-2-LR,historical
+Riyadh,1988,24.391968,MPI-ESM1-2-LR,historical
+Tehran,1988,13.395233,MPI-ESM1-2-LR,historical
+Mumbai,1988,24.40744,MPI-ESM1-2-LR,historical
+Delhi,1988,25.242554,MPI-ESM1-2-LR,historical
+Dhaka,1988,27.87262,MPI-ESM1-2-LR,historical
+Beijing,1988,7.9216003,MPI-ESM1-2-LR,historical
+Shanghai,1988,16.118378,MPI-ESM1-2-LR,historical
+Tokyo,1988,16.298706,MPI-ESM1-2-LR,historical
+Singapore,1988,24.400757,MPI-ESM1-2-LR,historical
+Jakarta,1988,24.87555,MPI-ESM1-2-LR,historical
+Sydney,1988,18.723358,MPI-ESM1-2-LR,historical
+San Diego,1989,21.80832,MPI-ESM1-2-LR,historical
+Phoenix,1989,21.077026,MPI-ESM1-2-LR,historical
+New York,1989,11.740295,MPI-ESM1-2-LR,historical
+Miami,1989,24.852905,MPI-ESM1-2-LR,historical
+Anchorage,1989,-5.1179504,MPI-ESM1-2-LR,historical
+Toronto,1989,4.3923035,MPI-ESM1-2-LR,historical
+Mexico City,1989,14.740936,MPI-ESM1-2-LR,historical
+Lima,1989,17.578491,MPI-ESM1-2-LR,historical
+Sao Paulo,1989,17.870972,MPI-ESM1-2-LR,historical
+Buenos Aires,1989,19.875366,MPI-ESM1-2-LR,historical
+Reykjavik,1989,3.9893188,MPI-ESM1-2-LR,historical
+London,1989,9.799866,MPI-ESM1-2-LR,historical
+Paris,1989,10.432495,MPI-ESM1-2-LR,historical
+Madrid,1989,9.059143,MPI-ESM1-2-LR,historical
+Moscow,1989,4.0798035,MPI-ESM1-2-LR,historical
+Cairo,1989,20.27185,MPI-ESM1-2-LR,historical
+Lagos,1989,27.259003,MPI-ESM1-2-LR,historical
+Nairobi,1989,20.727753,MPI-ESM1-2-LR,historical
+Cape Town,1989,18.106323,MPI-ESM1-2-LR,historical
+Riyadh,1989,24.654999,MPI-ESM1-2-LR,historical
+Tehran,1989,13.912659,MPI-ESM1-2-LR,historical
+Mumbai,1989,23.968811,MPI-ESM1-2-LR,historical
+Delhi,1989,25.717346,MPI-ESM1-2-LR,historical
+Dhaka,1989,27.306519,MPI-ESM1-2-LR,historical
+Beijing,1989,7.83844,MPI-ESM1-2-LR,historical
+Shanghai,1989,16.21994,MPI-ESM1-2-LR,historical
+Tokyo,1989,16.105835,MPI-ESM1-2-LR,historical
+Singapore,1989,24.529358,MPI-ESM1-2-LR,historical
+Jakarta,1989,25.34021,MPI-ESM1-2-LR,historical
+Sydney,1989,18.483276,MPI-ESM1-2-LR,historical
+San Diego,1990,20.78772,MPI-ESM1-2-LR,historical
+Phoenix,1990,20.401642,MPI-ESM1-2-LR,historical
+New York,1990,10.814575,MPI-ESM1-2-LR,historical
+Miami,1990,24.80365,MPI-ESM1-2-LR,historical
+Anchorage,1990,-3.5911865,MPI-ESM1-2-LR,historical
+Toronto,1990,4.661743,MPI-ESM1-2-LR,historical
+Mexico City,1990,15.186157,MPI-ESM1-2-LR,historical
+Lima,1990,17.999298,MPI-ESM1-2-LR,historical
+Sao Paulo,1990,18.531677,MPI-ESM1-2-LR,historical
+Buenos Aires,1990,18.281525,MPI-ESM1-2-LR,historical
+Reykjavik,1990,2.841095,MPI-ESM1-2-LR,historical
+London,1990,9.677185,MPI-ESM1-2-LR,historical
+Paris,1990,10.700134,MPI-ESM1-2-LR,historical
+Madrid,1990,10.652283,MPI-ESM1-2-LR,historical
+Moscow,1990,5.382263,MPI-ESM1-2-LR,historical
+Cairo,1990,20.111603,MPI-ESM1-2-LR,historical
+Lagos,1990,27.589966,MPI-ESM1-2-LR,historical
+Nairobi,1990,20.814392,MPI-ESM1-2-LR,historical
+Cape Town,1990,18.392517,MPI-ESM1-2-LR,historical
+Riyadh,1990,24.97815,MPI-ESM1-2-LR,historical
+Tehran,1990,14.490997,MPI-ESM1-2-LR,historical
+Mumbai,1990,25.152954,MPI-ESM1-2-LR,historical
+Delhi,1990,27.7052,MPI-ESM1-2-LR,historical
+Dhaka,1990,27.313599,MPI-ESM1-2-LR,historical
+Beijing,1990,7.7890015,MPI-ESM1-2-LR,historical
+Shanghai,1990,15.064728,MPI-ESM1-2-LR,historical
+Tokyo,1990,15.5512085,MPI-ESM1-2-LR,historical
+Singapore,1990,24.549591,MPI-ESM1-2-LR,historical
+Jakarta,1990,26.436646,MPI-ESM1-2-LR,historical
+Sydney,1990,18.426056,MPI-ESM1-2-LR,historical
+San Diego,1991,20.84729,MPI-ESM1-2-LR,historical
+Phoenix,1991,20.43695,MPI-ESM1-2-LR,historical
+New York,1991,11.192017,MPI-ESM1-2-LR,historical
+Miami,1991,25.009064,MPI-ESM1-2-LR,historical
+Anchorage,1991,-2.4953308,MPI-ESM1-2-LR,historical
+Toronto,1991,5.355255,MPI-ESM1-2-LR,historical
+Mexico City,1991,15.121704,MPI-ESM1-2-LR,historical
+Lima,1991,18.090118,MPI-ESM1-2-LR,historical
+Sao Paulo,1991,18.304626,MPI-ESM1-2-LR,historical
+Buenos Aires,1991,17.880157,MPI-ESM1-2-LR,historical
+Reykjavik,1991,5.0460205,MPI-ESM1-2-LR,historical
+London,1991,9.327423,MPI-ESM1-2-LR,historical
+Paris,1991,10.846954,MPI-ESM1-2-LR,historical
+Madrid,1991,9.927673,MPI-ESM1-2-LR,historical
+Moscow,1991,2.6931458,MPI-ESM1-2-LR,historical
+Cairo,1991,20.067993,MPI-ESM1-2-LR,historical
+Lagos,1991,27.710083,MPI-ESM1-2-LR,historical
+Nairobi,1991,21.142853,MPI-ESM1-2-LR,historical
+Cape Town,1991,18.594025,MPI-ESM1-2-LR,historical
+Riyadh,1991,24.753052,MPI-ESM1-2-LR,historical
+Tehran,1991,11.659454,MPI-ESM1-2-LR,historical
+Mumbai,1991,25.464478,MPI-ESM1-2-LR,historical
+Delhi,1991,26.36502,MPI-ESM1-2-LR,historical
+Dhaka,1991,27.502563,MPI-ESM1-2-LR,historical
+Beijing,1991,8.268188,MPI-ESM1-2-LR,historical
+Shanghai,1991,14.37088,MPI-ESM1-2-LR,historical
+Tokyo,1991,15.661407,MPI-ESM1-2-LR,historical
+Singapore,1991,25.205994,MPI-ESM1-2-LR,historical
+Jakarta,1991,26.219666,MPI-ESM1-2-LR,historical
+Sydney,1991,18.823029,MPI-ESM1-2-LR,historical
+San Diego,1992,19.13443,MPI-ESM1-2-LR,historical
+Phoenix,1992,19.135742,MPI-ESM1-2-LR,historical
+New York,1992,12.067688,MPI-ESM1-2-LR,historical
+Miami,1992,25.30011,MPI-ESM1-2-LR,historical
+Anchorage,1992,-5.4404297,MPI-ESM1-2-LR,historical
+Toronto,1992,5.7783203,MPI-ESM1-2-LR,historical
+Mexico City,1992,14.693512,MPI-ESM1-2-LR,historical
+Lima,1992,17.861816,MPI-ESM1-2-LR,historical
+Sao Paulo,1992,17.680817,MPI-ESM1-2-LR,historical
+Buenos Aires,1992,18.046051,MPI-ESM1-2-LR,historical
+Reykjavik,1992,4.2719727,MPI-ESM1-2-LR,historical
+London,1992,10.780579,MPI-ESM1-2-LR,historical
+Paris,1992,12.183746,MPI-ESM1-2-LR,historical
+Madrid,1992,11.233063,MPI-ESM1-2-LR,historical
+Moscow,1992,4.779785,MPI-ESM1-2-LR,historical
+Cairo,1992,19.841461,MPI-ESM1-2-LR,historical
+Lagos,1992,27.186829,MPI-ESM1-2-LR,historical
+Nairobi,1992,20.419739,MPI-ESM1-2-LR,historical
+Cape Town,1992,18.139313,MPI-ESM1-2-LR,historical
+Riyadh,1992,24.158356,MPI-ESM1-2-LR,historical
+Tehran,1992,12.189606,MPI-ESM1-2-LR,historical
+Mumbai,1992,24.451965,MPI-ESM1-2-LR,historical
+Delhi,1992,25.458008,MPI-ESM1-2-LR,historical
+Dhaka,1992,27.208313,MPI-ESM1-2-LR,historical
+Beijing,1992,8.089996,MPI-ESM1-2-LR,historical
+Shanghai,1992,16.203125,MPI-ESM1-2-LR,historical
+Tokyo,1992,15.787262,MPI-ESM1-2-LR,historical
+Singapore,1992,24.893219,MPI-ESM1-2-LR,historical
+Jakarta,1992,26.490234,MPI-ESM1-2-LR,historical
+Sydney,1992,18.77945,MPI-ESM1-2-LR,historical
+San Diego,1993,20.106812,MPI-ESM1-2-LR,historical
+Phoenix,1993,19.392761,MPI-ESM1-2-LR,historical
+New York,1993,10.954285,MPI-ESM1-2-LR,historical
+Miami,1993,24.93216,MPI-ESM1-2-LR,historical
+Anchorage,1993,-4.092743,MPI-ESM1-2-LR,historical
+Toronto,1993,4.6741943,MPI-ESM1-2-LR,historical
+Mexico City,1993,14.589539,MPI-ESM1-2-LR,historical
+Lima,1993,17.76355,MPI-ESM1-2-LR,historical
+Sao Paulo,1993,17.816437,MPI-ESM1-2-LR,historical
+Buenos Aires,1993,18.607788,MPI-ESM1-2-LR,historical
+Reykjavik,1993,3.659546,MPI-ESM1-2-LR,historical
+London,1993,10.015808,MPI-ESM1-2-LR,historical
+Paris,1993,10.8437805,MPI-ESM1-2-LR,historical
+Madrid,1993,8.727722,MPI-ESM1-2-LR,historical
+Moscow,1993,5.297882,MPI-ESM1-2-LR,historical
+Cairo,1993,19.952026,MPI-ESM1-2-LR,historical
+Lagos,1993,27.676453,MPI-ESM1-2-LR,historical
+Nairobi,1993,20.504272,MPI-ESM1-2-LR,historical
+Cape Town,1993,18.91864,MPI-ESM1-2-LR,historical
+Riyadh,1993,25.138855,MPI-ESM1-2-LR,historical
+Tehran,1993,14.134796,MPI-ESM1-2-LR,historical
+Mumbai,1993,24.702667,MPI-ESM1-2-LR,historical
+Delhi,1993,26.405151,MPI-ESM1-2-LR,historical
+Dhaka,1993,27.78064,MPI-ESM1-2-LR,historical
+Beijing,1993,8.801636,MPI-ESM1-2-LR,historical
+Shanghai,1993,15.450378,MPI-ESM1-2-LR,historical
+Tokyo,1993,16.083862,MPI-ESM1-2-LR,historical
+Singapore,1993,25.107452,MPI-ESM1-2-LR,historical
+Jakarta,1993,26.579773,MPI-ESM1-2-LR,historical
+Sydney,1993,18.145386,MPI-ESM1-2-LR,historical
+San Diego,1994,21.023987,MPI-ESM1-2-LR,historical
+Phoenix,1994,20.58371,MPI-ESM1-2-LR,historical
+New York,1994,12.971252,MPI-ESM1-2-LR,historical
+Miami,1994,24.624237,MPI-ESM1-2-LR,historical
+Anchorage,1994,-3.721466,MPI-ESM1-2-LR,historical
+Toronto,1994,7.2345886,MPI-ESM1-2-LR,historical
+Mexico City,1994,14.268768,MPI-ESM1-2-LR,historical
+Lima,1994,16.8508,MPI-ESM1-2-LR,historical
+Sao Paulo,1994,17.812561,MPI-ESM1-2-LR,historical
+Buenos Aires,1994,18.568573,MPI-ESM1-2-LR,historical
+Reykjavik,1994,3.23703,MPI-ESM1-2-LR,historical
+London,1994,10.468964,MPI-ESM1-2-LR,historical
+Paris,1994,11.389709,MPI-ESM1-2-LR,historical
+Madrid,1994,10.556854,MPI-ESM1-2-LR,historical
+Moscow,1994,6.2048035,MPI-ESM1-2-LR,historical
+Cairo,1994,20.467987,MPI-ESM1-2-LR,historical
+Lagos,1994,27.206757,MPI-ESM1-2-LR,historical
+Nairobi,1994,21.203674,MPI-ESM1-2-LR,historical
+Cape Town,1994,18.150757,MPI-ESM1-2-LR,historical
+Riyadh,1994,24.431854,MPI-ESM1-2-LR,historical
+Tehran,1994,13.159729,MPI-ESM1-2-LR,historical
+Mumbai,1994,24.70758,MPI-ESM1-2-LR,historical
+Delhi,1994,25.681519,MPI-ESM1-2-LR,historical
+Dhaka,1994,28.436401,MPI-ESM1-2-LR,historical
+Beijing,1994,8.761108,MPI-ESM1-2-LR,historical
+Shanghai,1994,16.6716,MPI-ESM1-2-LR,historical
+Tokyo,1994,16.222046,MPI-ESM1-2-LR,historical
+Singapore,1994,24.39392,MPI-ESM1-2-LR,historical
+Jakarta,1994,25.431366,MPI-ESM1-2-LR,historical
+Sydney,1994,17.882202,MPI-ESM1-2-LR,historical
+San Diego,1995,20.830963,MPI-ESM1-2-LR,historical
+Phoenix,1995,19.654053,MPI-ESM1-2-LR,historical
+New York,1995,12.405182,MPI-ESM1-2-LR,historical
+Miami,1995,24.871826,MPI-ESM1-2-LR,historical
+Anchorage,1995,-4.664154,MPI-ESM1-2-LR,historical
+Toronto,1995,6.437561,MPI-ESM1-2-LR,historical
+Mexico City,1995,14.303619,MPI-ESM1-2-LR,historical
+Lima,1995,16.992737,MPI-ESM1-2-LR,historical
+Sao Paulo,1995,17.70288,MPI-ESM1-2-LR,historical
+Buenos Aires,1995,20.109772,MPI-ESM1-2-LR,historical
+Reykjavik,1995,4.1765137,MPI-ESM1-2-LR,historical
+London,1995,10.841217,MPI-ESM1-2-LR,historical
+Paris,1995,11.839905,MPI-ESM1-2-LR,historical
+Madrid,1995,10.238831,MPI-ESM1-2-LR,historical
+Moscow,1995,3.9925842,MPI-ESM1-2-LR,historical
+Cairo,1995,20.00055,MPI-ESM1-2-LR,historical
+Lagos,1995,27.193115,MPI-ESM1-2-LR,historical
+Nairobi,1995,20.014221,MPI-ESM1-2-LR,historical
+Cape Town,1995,17.874756,MPI-ESM1-2-LR,historical
+Riyadh,1995,24.97174,MPI-ESM1-2-LR,historical
+Tehran,1995,14.5354,MPI-ESM1-2-LR,historical
+Mumbai,1995,24.050842,MPI-ESM1-2-LR,historical
+Delhi,1995,24.643127,MPI-ESM1-2-LR,historical
+Dhaka,1995,26.736237,MPI-ESM1-2-LR,historical
+Beijing,1995,8.585846,MPI-ESM1-2-LR,historical
+Shanghai,1995,14.893127,MPI-ESM1-2-LR,historical
+Tokyo,1995,15.236572,MPI-ESM1-2-LR,historical
+Singapore,1995,24.192444,MPI-ESM1-2-LR,historical
+Jakarta,1995,24.68872,MPI-ESM1-2-LR,historical
+Sydney,1995,17.791748,MPI-ESM1-2-LR,historical
+San Diego,1996,20.94873,MPI-ESM1-2-LR,historical
+Phoenix,1996,20.229675,MPI-ESM1-2-LR,historical
+New York,1996,12.344727,MPI-ESM1-2-LR,historical
+Miami,1996,24.903992,MPI-ESM1-2-LR,historical
+Anchorage,1996,-4.041504,MPI-ESM1-2-LR,historical
+Toronto,1996,6.658203,MPI-ESM1-2-LR,historical
+Mexico City,1996,15.259613,MPI-ESM1-2-LR,historical
+Lima,1996,17.476257,MPI-ESM1-2-LR,historical
+Sao Paulo,1996,17.591003,MPI-ESM1-2-LR,historical
+Buenos Aires,1996,18.159668,MPI-ESM1-2-LR,historical
+Reykjavik,1996,3.9821167,MPI-ESM1-2-LR,historical
+London,1996,11.152527,MPI-ESM1-2-LR,historical
+Paris,1996,12.148621,MPI-ESM1-2-LR,historical
+Madrid,1996,9.899261,MPI-ESM1-2-LR,historical
+Moscow,1996,4.779297,MPI-ESM1-2-LR,historical
+Cairo,1996,20.198242,MPI-ESM1-2-LR,historical
+Lagos,1996,27.404633,MPI-ESM1-2-LR,historical
+Nairobi,1996,20.96518,MPI-ESM1-2-LR,historical
+Cape Town,1996,17.809418,MPI-ESM1-2-LR,historical
+Riyadh,1996,25.671722,MPI-ESM1-2-LR,historical
+Tehran,1996,14.39032,MPI-ESM1-2-LR,historical
+Mumbai,1996,24.53598,MPI-ESM1-2-LR,historical
+Delhi,1996,24.883972,MPI-ESM1-2-LR,historical
+Dhaka,1996,27.326843,MPI-ESM1-2-LR,historical
+Beijing,1996,9.673523,MPI-ESM1-2-LR,historical
+Shanghai,1996,16.639984,MPI-ESM1-2-LR,historical
+Tokyo,1996,16.428894,MPI-ESM1-2-LR,historical
+Singapore,1996,24.63623,MPI-ESM1-2-LR,historical
+Jakarta,1996,25.911621,MPI-ESM1-2-LR,historical
+Sydney,1996,18.30893,MPI-ESM1-2-LR,historical
+San Diego,1997,19.999664,MPI-ESM1-2-LR,historical
+Phoenix,1997,19.277008,MPI-ESM1-2-LR,historical
+New York,1997,12.67984,MPI-ESM1-2-LR,historical
+Miami,1997,25.34195,MPI-ESM1-2-LR,historical
+Anchorage,1997,-2.9363708,MPI-ESM1-2-LR,historical
+Toronto,1997,6.7745667,MPI-ESM1-2-LR,historical
+Mexico City,1997,15.89859,MPI-ESM1-2-LR,historical
+Lima,1997,18.351868,MPI-ESM1-2-LR,historical
+Sao Paulo,1997,18.805664,MPI-ESM1-2-LR,historical
+Buenos Aires,1997,19.373047,MPI-ESM1-2-LR,historical
+Reykjavik,1997,5.0805664,MPI-ESM1-2-LR,historical
+London,1997,10.620758,MPI-ESM1-2-LR,historical
+Paris,1997,11.4453125,MPI-ESM1-2-LR,historical
+Madrid,1997,9.94693,MPI-ESM1-2-LR,historical
+Moscow,1997,5.3759766,MPI-ESM1-2-LR,historical
+Cairo,1997,19.815918,MPI-ESM1-2-LR,historical
+Lagos,1997,27.387207,MPI-ESM1-2-LR,historical
+Nairobi,1997,21.34552,MPI-ESM1-2-LR,historical
+Cape Town,1997,18.5083,MPI-ESM1-2-LR,historical
+Riyadh,1997,25.71695,MPI-ESM1-2-LR,historical
+Tehran,1997,14.083649,MPI-ESM1-2-LR,historical
+Mumbai,1997,25.173828,MPI-ESM1-2-LR,historical
+Delhi,1997,25.855286,MPI-ESM1-2-LR,historical
+Dhaka,1997,28.211243,MPI-ESM1-2-LR,historical
+Beijing,1997,9.385742,MPI-ESM1-2-LR,historical
+Shanghai,1997,16.008606,MPI-ESM1-2-LR,historical
+Tokyo,1997,16.18927,MPI-ESM1-2-LR,historical
+Singapore,1997,25.008942,MPI-ESM1-2-LR,historical
+Jakarta,1997,26.143066,MPI-ESM1-2-LR,historical
+Sydney,1997,18.600739,MPI-ESM1-2-LR,historical
+San Diego,1998,19.926758,MPI-ESM1-2-LR,historical
+Phoenix,1998,18.824524,MPI-ESM1-2-LR,historical
+New York,1998,11.453766,MPI-ESM1-2-LR,historical
+Miami,1998,25.277832,MPI-ESM1-2-LR,historical
+Anchorage,1998,-2.012085,MPI-ESM1-2-LR,historical
+Toronto,1998,5.0786133,MPI-ESM1-2-LR,historical
+Mexico City,1998,15.017242,MPI-ESM1-2-LR,historical
+Lima,1998,18.081055,MPI-ESM1-2-LR,historical
+Sao Paulo,1998,18.519836,MPI-ESM1-2-LR,historical
+Buenos Aires,1998,18.718079,MPI-ESM1-2-LR,historical
+Reykjavik,1998,4.8683167,MPI-ESM1-2-LR,historical
+London,1998,9.49527,MPI-ESM1-2-LR,historical
+Paris,1998,10.281891,MPI-ESM1-2-LR,historical
+Madrid,1998,9.546051,MPI-ESM1-2-LR,historical
+Moscow,1998,4.3567505,MPI-ESM1-2-LR,historical
+Cairo,1998,20.75586,MPI-ESM1-2-LR,historical
+Lagos,1998,27.470703,MPI-ESM1-2-LR,historical
+Nairobi,1998,21.109192,MPI-ESM1-2-LR,historical
+Cape Town,1998,18.466309,MPI-ESM1-2-LR,historical
+Riyadh,1998,25.095703,MPI-ESM1-2-LR,historical
+Tehran,1998,14.374023,MPI-ESM1-2-LR,historical
+Mumbai,1998,25.542969,MPI-ESM1-2-LR,historical
+Delhi,1998,27.418121,MPI-ESM1-2-LR,historical
+Dhaka,1998,27.638824,MPI-ESM1-2-LR,historical
+Beijing,1998,9.160309,MPI-ESM1-2-LR,historical
+Shanghai,1998,16.536774,MPI-ESM1-2-LR,historical
+Tokyo,1998,15.923828,MPI-ESM1-2-LR,historical
+Singapore,1998,24.974274,MPI-ESM1-2-LR,historical
+Jakarta,1998,26.22705,MPI-ESM1-2-LR,historical
+Sydney,1998,18.801758,MPI-ESM1-2-LR,historical
+San Diego,1999,20.268219,MPI-ESM1-2-LR,historical
+Phoenix,1999,19.527008,MPI-ESM1-2-LR,historical
+New York,1999,13.444336,MPI-ESM1-2-LR,historical
+Miami,1999,25.294739,MPI-ESM1-2-LR,historical
+Anchorage,1999,-6.2824097,MPI-ESM1-2-LR,historical
+Toronto,1999,7.7539062,MPI-ESM1-2-LR,historical
+Mexico City,1999,15.457184,MPI-ESM1-2-LR,historical
+Lima,1999,17.546204,MPI-ESM1-2-LR,historical
+Sao Paulo,1999,18.596832,MPI-ESM1-2-LR,historical
+Buenos Aires,1999,19.19986,MPI-ESM1-2-LR,historical
+Reykjavik,1999,4.432129,MPI-ESM1-2-LR,historical
+London,1999,10.428375,MPI-ESM1-2-LR,historical
+Paris,1999,11.347961,MPI-ESM1-2-LR,historical
+Madrid,1999,10.4422,MPI-ESM1-2-LR,historical
+Moscow,1999,3.1118164,MPI-ESM1-2-LR,historical
+Cairo,1999,19.125153,MPI-ESM1-2-LR,historical
+Lagos,1999,27.687164,MPI-ESM1-2-LR,historical
+Nairobi,1999,21.326172,MPI-ESM1-2-LR,historical
+Cape Town,1999,18.309082,MPI-ESM1-2-LR,historical
+Riyadh,1999,24.9917,MPI-ESM1-2-LR,historical
+Tehran,1999,14.394348,MPI-ESM1-2-LR,historical
+Mumbai,1999,24.587067,MPI-ESM1-2-LR,historical
+Delhi,1999,25.621246,MPI-ESM1-2-LR,historical
+Dhaka,1999,26.618958,MPI-ESM1-2-LR,historical
+Beijing,1999,8.74527,MPI-ESM1-2-LR,historical
+Shanghai,1999,16.888824,MPI-ESM1-2-LR,historical
+Tokyo,1999,16.47818,MPI-ESM1-2-LR,historical
+Singapore,1999,24.67871,MPI-ESM1-2-LR,historical
+Jakarta,1999,25.993805,MPI-ESM1-2-LR,historical
+Sydney,1999,18.289368,MPI-ESM1-2-LR,historical
+San Diego,2000,20.097198,MPI-ESM1-2-LR,historical
+Phoenix,2000,19.452667,MPI-ESM1-2-LR,historical
+New York,2000,12.207062,MPI-ESM1-2-LR,historical
+Miami,2000,25.04837,MPI-ESM1-2-LR,historical
+Anchorage,2000,-4.9794617,MPI-ESM1-2-LR,historical
+Toronto,2000,6.350464,MPI-ESM1-2-LR,historical
+Mexico City,2000,15.2344055,MPI-ESM1-2-LR,historical
+Lima,2000,17.740265,MPI-ESM1-2-LR,historical
+Sao Paulo,2000,18.274445,MPI-ESM1-2-LR,historical
+Buenos Aires,2000,20.241882,MPI-ESM1-2-LR,historical
+Reykjavik,2000,3.8346558,MPI-ESM1-2-LR,historical
+London,2000,9.317078,MPI-ESM1-2-LR,historical
+Paris,2000,10.667999,MPI-ESM1-2-LR,historical
+Madrid,2000,10.773804,MPI-ESM1-2-LR,historical
+Moscow,2000,4.843933,MPI-ESM1-2-LR,historical
+Cairo,2000,20.650574,MPI-ESM1-2-LR,historical
+Lagos,2000,27.713257,MPI-ESM1-2-LR,historical
+Nairobi,2000,21.227081,MPI-ESM1-2-LR,historical
+Cape Town,2000,18.51239,MPI-ESM1-2-LR,historical
+Riyadh,2000,24.530945,MPI-ESM1-2-LR,historical
+Tehran,2000,13.653015,MPI-ESM1-2-LR,historical
+Mumbai,2000,24.713745,MPI-ESM1-2-LR,historical
+Delhi,2000,26.263214,MPI-ESM1-2-LR,historical
+Dhaka,2000,27.225952,MPI-ESM1-2-LR,historical
+Beijing,2000,8.775421,MPI-ESM1-2-LR,historical
+Shanghai,2000,16.019714,MPI-ESM1-2-LR,historical
+Tokyo,2000,16.181183,MPI-ESM1-2-LR,historical
+Singapore,2000,24.635925,MPI-ESM1-2-LR,historical
+Jakarta,2000,25.865265,MPI-ESM1-2-LR,historical
+Sydney,2000,18.277863,MPI-ESM1-2-LR,historical
+San Diego,2001,21.259674,MPI-ESM1-2-LR,historical
+Phoenix,2001,20.564209,MPI-ESM1-2-LR,historical
+New York,2001,12.242584,MPI-ESM1-2-LR,historical
+Miami,2001,25.013092,MPI-ESM1-2-LR,historical
+Anchorage,2001,-5.155365,MPI-ESM1-2-LR,historical
+Toronto,2001,6.0794983,MPI-ESM1-2-LR,historical
+Mexico City,2001,14.567932,MPI-ESM1-2-LR,historical
+Lima,2001,17.479889,MPI-ESM1-2-LR,historical
+Sao Paulo,2001,18.05835,MPI-ESM1-2-LR,historical
+Buenos Aires,2001,20.153564,MPI-ESM1-2-LR,historical
+Reykjavik,2001,4.107971,MPI-ESM1-2-LR,historical
+London,2001,10.409576,MPI-ESM1-2-LR,historical
+Paris,2001,11.218323,MPI-ESM1-2-LR,historical
+Madrid,2001,11.575256,MPI-ESM1-2-LR,historical
+Moscow,2001,6.263733,MPI-ESM1-2-LR,historical
+Cairo,2001,19.99292,MPI-ESM1-2-LR,historical
+Lagos,2001,27.388428,MPI-ESM1-2-LR,historical
+Nairobi,2001,21.108795,MPI-ESM1-2-LR,historical
+Cape Town,2001,18.449768,MPI-ESM1-2-LR,historical
+Riyadh,2001,25.348053,MPI-ESM1-2-LR,historical
+Tehran,2001,14.445374,MPI-ESM1-2-LR,historical
+Mumbai,2001,25.049072,MPI-ESM1-2-LR,historical
+Delhi,2001,26.535065,MPI-ESM1-2-LR,historical
+Dhaka,2001,27.566803,MPI-ESM1-2-LR,historical
+Beijing,2001,8.90094,MPI-ESM1-2-LR,historical
+Shanghai,2001,14.671936,MPI-ESM1-2-LR,historical
+Tokyo,2001,15.470459,MPI-ESM1-2-LR,historical
+Singapore,2001,24.60733,MPI-ESM1-2-LR,historical
+Jakarta,2001,25.2146,MPI-ESM1-2-LR,historical
+Sydney,2001,17.924713,MPI-ESM1-2-LR,historical
+San Diego,2002,21.25296,MPI-ESM1-2-LR,historical
+Phoenix,2002,20.1781,MPI-ESM1-2-LR,historical
+New York,2002,12.640167,MPI-ESM1-2-LR,historical
+Miami,2002,25.546753,MPI-ESM1-2-LR,historical
+Anchorage,2002,-3.8824463,MPI-ESM1-2-LR,historical
+Toronto,2002,6.007019,MPI-ESM1-2-LR,historical
+Mexico City,2002,15.33905,MPI-ESM1-2-LR,historical
+Lima,2002,17.888062,MPI-ESM1-2-LR,historical
+Sao Paulo,2002,18.348663,MPI-ESM1-2-LR,historical
+Buenos Aires,2002,19.61316,MPI-ESM1-2-LR,historical
+Reykjavik,2002,3.9818115,MPI-ESM1-2-LR,historical
+London,2002,10.617859,MPI-ESM1-2-LR,historical
+Paris,2002,11.655945,MPI-ESM1-2-LR,historical
+Madrid,2002,10.520874,MPI-ESM1-2-LR,historical
+Moscow,2002,5.453308,MPI-ESM1-2-LR,historical
+Cairo,2002,20.3013,MPI-ESM1-2-LR,historical
+Lagos,2002,27.579468,MPI-ESM1-2-LR,historical
+Nairobi,2002,20.883667,MPI-ESM1-2-LR,historical
+Cape Town,2002,18.474792,MPI-ESM1-2-LR,historical
+Riyadh,2002,25.123718,MPI-ESM1-2-LR,historical
+Tehran,2002,14.218628,MPI-ESM1-2-LR,historical
+Mumbai,2002,24.749054,MPI-ESM1-2-LR,historical
+Delhi,2002,26.725616,MPI-ESM1-2-LR,historical
+Dhaka,2002,27.747437,MPI-ESM1-2-LR,historical
+Beijing,2002,8.684937,MPI-ESM1-2-LR,historical
+Shanghai,2002,16.072449,MPI-ESM1-2-LR,historical
+Tokyo,2002,16.457886,MPI-ESM1-2-LR,historical
+Singapore,2002,24.848022,MPI-ESM1-2-LR,historical
+Jakarta,2002,26.1221,MPI-ESM1-2-LR,historical
+Sydney,2002,18.976746,MPI-ESM1-2-LR,historical
+San Diego,2003,19.385315,MPI-ESM1-2-LR,historical
+Phoenix,2003,18.826538,MPI-ESM1-2-LR,historical
+New York,2003,12.445862,MPI-ESM1-2-LR,historical
+Miami,2003,25.78424,MPI-ESM1-2-LR,historical
+Anchorage,2003,-2.8987122,MPI-ESM1-2-LR,historical
+Toronto,2003,6.317444,MPI-ESM1-2-LR,historical
+Mexico City,2003,16.420288,MPI-ESM1-2-LR,historical
+Lima,2003,18.617249,MPI-ESM1-2-LR,historical
+Sao Paulo,2003,18.633179,MPI-ESM1-2-LR,historical
+Buenos Aires,2003,20.28064,MPI-ESM1-2-LR,historical
+Reykjavik,2003,4.7334595,MPI-ESM1-2-LR,historical
+London,2003,11.175659,MPI-ESM1-2-LR,historical
+Paris,2003,12.539917,MPI-ESM1-2-LR,historical
+Madrid,2003,10.993042,MPI-ESM1-2-LR,historical
+Moscow,2003,4.2409363,MPI-ESM1-2-LR,historical
+Cairo,2003,19.878967,MPI-ESM1-2-LR,historical
+Lagos,2003,27.763733,MPI-ESM1-2-LR,historical
+Nairobi,2003,21.431519,MPI-ESM1-2-LR,historical
+Cape Town,2003,18.35144,MPI-ESM1-2-LR,historical
+Riyadh,2003,25.59674,MPI-ESM1-2-LR,historical
+Tehran,2003,13.262268,MPI-ESM1-2-LR,historical
+Mumbai,2003,24.739471,MPI-ESM1-2-LR,historical
+Delhi,2003,26.30426,MPI-ESM1-2-LR,historical
+Dhaka,2003,28.094604,MPI-ESM1-2-LR,historical
+Beijing,2003,8.300842,MPI-ESM1-2-LR,historical
+Shanghai,2003,15.885315,MPI-ESM1-2-LR,historical
+Tokyo,2003,16.317596,MPI-ESM1-2-LR,historical
+Singapore,2003,24.965881,MPI-ESM1-2-LR,historical
+Jakarta,2003,26.89508,MPI-ESM1-2-LR,historical
+Sydney,2003,19.238007,MPI-ESM1-2-LR,historical
+San Diego,2004,21.199799,MPI-ESM1-2-LR,historical
+Phoenix,2004,19.690674,MPI-ESM1-2-LR,historical
+New York,2004,12.630127,MPI-ESM1-2-LR,historical
+Miami,2004,25.16269,MPI-ESM1-2-LR,historical
+Anchorage,2004,-2.909729,MPI-ESM1-2-LR,historical
+Toronto,2004,7.1963806,MPI-ESM1-2-LR,historical
+Mexico City,2004,15.62085,MPI-ESM1-2-LR,historical
+Lima,2004,17.788025,MPI-ESM1-2-LR,historical
+Sao Paulo,2004,18.305908,MPI-ESM1-2-LR,historical
+Buenos Aires,2004,19.552673,MPI-ESM1-2-LR,historical
+Reykjavik,2004,4.2691345,MPI-ESM1-2-LR,historical
+London,2004,11.622986,MPI-ESM1-2-LR,historical
+Paris,2004,13.030365,MPI-ESM1-2-LR,historical
+Madrid,2004,11.7099,MPI-ESM1-2-LR,historical
+Moscow,2004,5.370056,MPI-ESM1-2-LR,historical
+Cairo,2004,20.077087,MPI-ESM1-2-LR,historical
+Lagos,2004,27.895264,MPI-ESM1-2-LR,historical
+Nairobi,2004,20.924744,MPI-ESM1-2-LR,historical
+Cape Town,2004,18.922455,MPI-ESM1-2-LR,historical
+Riyadh,2004,25.447357,MPI-ESM1-2-LR,historical
+Tehran,2004,14.635986,MPI-ESM1-2-LR,historical
+Mumbai,2004,25.207764,MPI-ESM1-2-LR,historical
+Delhi,2004,25.879639,MPI-ESM1-2-LR,historical
+Dhaka,2004,27.599213,MPI-ESM1-2-LR,historical
+Beijing,2004,8.965088,MPI-ESM1-2-LR,historical
+Shanghai,2004,16.657806,MPI-ESM1-2-LR,historical
+Tokyo,2004,16.612885,MPI-ESM1-2-LR,historical
+Singapore,2004,24.796967,MPI-ESM1-2-LR,historical
+Jakarta,2004,26.154724,MPI-ESM1-2-LR,historical
+Sydney,2004,18.727295,MPI-ESM1-2-LR,historical
+San Diego,2005,20.808716,MPI-ESM1-2-LR,historical
+Phoenix,2005,20.19754,MPI-ESM1-2-LR,historical
+New York,2005,13.18158,MPI-ESM1-2-LR,historical
+Miami,2005,25.412384,MPI-ESM1-2-LR,historical
+Anchorage,2005,-6.3325806,MPI-ESM1-2-LR,historical
+Toronto,2005,7.8082275,MPI-ESM1-2-LR,historical
+Mexico City,2005,14.855103,MPI-ESM1-2-LR,historical
+Lima,2005,17.079865,MPI-ESM1-2-LR,historical
+Sao Paulo,2005,18.619751,MPI-ESM1-2-LR,historical
+Buenos Aires,2005,19.99408,MPI-ESM1-2-LR,historical
+Reykjavik,2005,5.192505,MPI-ESM1-2-LR,historical
+London,2005,10.183716,MPI-ESM1-2-LR,historical
+Paris,2005,11.479431,MPI-ESM1-2-LR,historical
+Madrid,2005,10.407837,MPI-ESM1-2-LR,historical
+Moscow,2005,5.2440796,MPI-ESM1-2-LR,historical
+Cairo,2005,20.926544,MPI-ESM1-2-LR,historical
+Lagos,2005,27.627869,MPI-ESM1-2-LR,historical
+Nairobi,2005,20.828888,MPI-ESM1-2-LR,historical
+Cape Town,2005,18.581818,MPI-ESM1-2-LR,historical
+Riyadh,2005,26.148712,MPI-ESM1-2-LR,historical
+Tehran,2005,14.975372,MPI-ESM1-2-LR,historical
+Mumbai,2005,24.302368,MPI-ESM1-2-LR,historical
+Delhi,2005,25.073517,MPI-ESM1-2-LR,historical
+Dhaka,2005,26.984497,MPI-ESM1-2-LR,historical
+Beijing,2005,8.459412,MPI-ESM1-2-LR,historical
+Shanghai,2005,15.581818,MPI-ESM1-2-LR,historical
+Tokyo,2005,15.831665,MPI-ESM1-2-LR,historical
+Singapore,2005,24.5867,MPI-ESM1-2-LR,historical
+Jakarta,2005,25.684845,MPI-ESM1-2-LR,historical
+Sydney,2005,18.655212,MPI-ESM1-2-LR,historical
+San Diego,2006,20.940979,MPI-ESM1-2-LR,historical
+Phoenix,2006,20.221405,MPI-ESM1-2-LR,historical
+New York,2006,13.086975,MPI-ESM1-2-LR,historical
+Miami,2006,25.34787,MPI-ESM1-2-LR,historical
+Anchorage,2006,-6.7769775,MPI-ESM1-2-LR,historical
+Toronto,2006,8.139526,MPI-ESM1-2-LR,historical
+Mexico City,2006,15.499573,MPI-ESM1-2-LR,historical
+Lima,2006,17.579956,MPI-ESM1-2-LR,historical
+Sao Paulo,2006,17.800354,MPI-ESM1-2-LR,historical
+Buenos Aires,2006,20.555054,MPI-ESM1-2-LR,historical
+Reykjavik,2006,5.086792,MPI-ESM1-2-LR,historical
+London,2006,11.035522,MPI-ESM1-2-LR,historical
+Paris,2006,11.980347,MPI-ESM1-2-LR,historical
+Madrid,2006,11.278381,MPI-ESM1-2-LR,historical
+Moscow,2006,6.021698,MPI-ESM1-2-LR,historical
+Cairo,2006,20.76892,MPI-ESM1-2-LR,historical
+Lagos,2006,27.566772,MPI-ESM1-2-LR,historical
+Nairobi,2006,21.052124,MPI-ESM1-2-LR,historical
+Cape Town,2006,18.73816,MPI-ESM1-2-LR,historical
+Riyadh,2006,25.744019,MPI-ESM1-2-LR,historical
+Tehran,2006,14.063202,MPI-ESM1-2-LR,historical
+Mumbai,2006,23.26941,MPI-ESM1-2-LR,historical
+Delhi,2006,24.696655,MPI-ESM1-2-LR,historical
+Dhaka,2006,26.93103,MPI-ESM1-2-LR,historical
+Beijing,2006,8.405823,MPI-ESM1-2-LR,historical
+Shanghai,2006,15.167206,MPI-ESM1-2-LR,historical
+Tokyo,2006,16.151917,MPI-ESM1-2-LR,historical
+Singapore,2006,24.672089,MPI-ESM1-2-LR,historical
+Jakarta,2006,25.072815,MPI-ESM1-2-LR,historical
+Sydney,2006,18.386444,MPI-ESM1-2-LR,historical
+San Diego,2007,20.576294,MPI-ESM1-2-LR,historical
+Phoenix,2007,20.390747,MPI-ESM1-2-LR,historical
+New York,2007,12.858215,MPI-ESM1-2-LR,historical
+Miami,2007,25.335907,MPI-ESM1-2-LR,historical
+Anchorage,2007,-2.8153076,MPI-ESM1-2-LR,historical
+Toronto,2007,6.7886963,MPI-ESM1-2-LR,historical
+Mexico City,2007,15.082825,MPI-ESM1-2-LR,historical
+Lima,2007,18.121552,MPI-ESM1-2-LR,historical
+Sao Paulo,2007,19.138306,MPI-ESM1-2-LR,historical
+Buenos Aires,2007,20.365356,MPI-ESM1-2-LR,historical
+Reykjavik,2007,4.7764893,MPI-ESM1-2-LR,historical
+London,2007,10.40686,MPI-ESM1-2-LR,historical
+Paris,2007,11.741821,MPI-ESM1-2-LR,historical
+Madrid,2007,10.469849,MPI-ESM1-2-LR,historical
+Moscow,2007,4.2595825,MPI-ESM1-2-LR,historical
+Cairo,2007,20.742157,MPI-ESM1-2-LR,historical
+Lagos,2007,27.612427,MPI-ESM1-2-LR,historical
+Nairobi,2007,21.023254,MPI-ESM1-2-LR,historical
+Cape Town,2007,18.835907,MPI-ESM1-2-LR,historical
+Riyadh,2007,26.320923,MPI-ESM1-2-LR,historical
+Tehran,2007,15.070282,MPI-ESM1-2-LR,historical
+Mumbai,2007,23.942017,MPI-ESM1-2-LR,historical
+Delhi,2007,24.332489,MPI-ESM1-2-LR,historical
+Dhaka,2007,27.972137,MPI-ESM1-2-LR,historical
+Beijing,2007,7.8417664,MPI-ESM1-2-LR,historical
+Shanghai,2007,15.821899,MPI-ESM1-2-LR,historical
+Tokyo,2007,16.26413,MPI-ESM1-2-LR,historical
+Singapore,2007,24.799438,MPI-ESM1-2-LR,historical
+Jakarta,2007,25.460419,MPI-ESM1-2-LR,historical
+Sydney,2007,18.346985,MPI-ESM1-2-LR,historical
+San Diego,2008,21.522522,MPI-ESM1-2-LR,historical
+Phoenix,2008,20.370514,MPI-ESM1-2-LR,historical
+New York,2008,12.704468,MPI-ESM1-2-LR,historical
+Miami,2008,25.345459,MPI-ESM1-2-LR,historical
+Anchorage,2008,-2.066681,MPI-ESM1-2-LR,historical
+Toronto,2008,6.3529053,MPI-ESM1-2-LR,historical
+Mexico City,2008,14.655487,MPI-ESM1-2-LR,historical
+Lima,2008,18.26892,MPI-ESM1-2-LR,historical
+Sao Paulo,2008,18.482971,MPI-ESM1-2-LR,historical
+Buenos Aires,2008,18.898834,MPI-ESM1-2-LR,historical
+Reykjavik,2008,4.8060303,MPI-ESM1-2-LR,historical
+London,2008,10.686401,MPI-ESM1-2-LR,historical
+Paris,2008,11.928589,MPI-ESM1-2-LR,historical
+Madrid,2008,11.358948,MPI-ESM1-2-LR,historical
+Moscow,2008,6.673401,MPI-ESM1-2-LR,historical
+Cairo,2008,20.851318,MPI-ESM1-2-LR,historical
+Lagos,2008,28.049866,MPI-ESM1-2-LR,historical
+Nairobi,2008,20.761963,MPI-ESM1-2-LR,historical
+Cape Town,2008,18.096252,MPI-ESM1-2-LR,historical
+Riyadh,2008,25.432037,MPI-ESM1-2-LR,historical
+Tehran,2008,14.66394,MPI-ESM1-2-LR,historical
+Mumbai,2008,24.937256,MPI-ESM1-2-LR,historical
+Delhi,2008,26.08667,MPI-ESM1-2-LR,historical
+Dhaka,2008,27.49292,MPI-ESM1-2-LR,historical
+Beijing,2008,9.02478,MPI-ESM1-2-LR,historical
+Shanghai,2008,16.303436,MPI-ESM1-2-LR,historical
+Tokyo,2008,16.390503,MPI-ESM1-2-LR,historical
+Singapore,2008,25.138092,MPI-ESM1-2-LR,historical
+Jakarta,2008,25.513245,MPI-ESM1-2-LR,historical
+Sydney,2008,19.104065,MPI-ESM1-2-LR,historical
+San Diego,2009,20.894745,MPI-ESM1-2-LR,historical
+Phoenix,2009,19.409393,MPI-ESM1-2-LR,historical
+New York,2009,12.503784,MPI-ESM1-2-LR,historical
+Miami,2009,25.586304,MPI-ESM1-2-LR,historical
+Anchorage,2009,-2.8218994,MPI-ESM1-2-LR,historical
+Toronto,2009,6.533264,MPI-ESM1-2-LR,historical
+Mexico City,2009,16.153534,MPI-ESM1-2-LR,historical
+Lima,2009,17.822968,MPI-ESM1-2-LR,historical
+Sao Paulo,2009,19.002808,MPI-ESM1-2-LR,historical
+Buenos Aires,2009,19.41394,MPI-ESM1-2-LR,historical
+Reykjavik,2009,5.159729,MPI-ESM1-2-LR,historical
+London,2009,11.295624,MPI-ESM1-2-LR,historical
+Paris,2009,12.226135,MPI-ESM1-2-LR,historical
+Madrid,2009,11.6698,MPI-ESM1-2-LR,historical
+Moscow,2009,2.7233582,MPI-ESM1-2-LR,historical
+Cairo,2009,20.26941,MPI-ESM1-2-LR,historical
+Lagos,2009,27.647186,MPI-ESM1-2-LR,historical
+Nairobi,2009,21.163635,MPI-ESM1-2-LR,historical
+Cape Town,2009,18.047241,MPI-ESM1-2-LR,historical
+Riyadh,2009,25.56955,MPI-ESM1-2-LR,historical
+Tehran,2009,14.690002,MPI-ESM1-2-LR,historical
+Mumbai,2009,24.680237,MPI-ESM1-2-LR,historical
+Delhi,2009,26.790405,MPI-ESM1-2-LR,historical
+Dhaka,2009,27.544647,MPI-ESM1-2-LR,historical
+Beijing,2009,8.731812,MPI-ESM1-2-LR,historical
+Shanghai,2009,16.748749,MPI-ESM1-2-LR,historical
+Tokyo,2009,16.50998,MPI-ESM1-2-LR,historical
+Singapore,2009,25.31076,MPI-ESM1-2-LR,historical
+Jakarta,2009,25.778687,MPI-ESM1-2-LR,historical
+Sydney,2009,19.01535,MPI-ESM1-2-LR,historical
+San Diego,2010,21.717041,MPI-ESM1-2-LR,historical
+Phoenix,2010,20.893951,MPI-ESM1-2-LR,historical
+New York,2010,11.747131,MPI-ESM1-2-LR,historical
+Miami,2010,25.652405,MPI-ESM1-2-LR,historical
+Anchorage,2010,-3.2535095,MPI-ESM1-2-LR,historical
+Toronto,2010,6.5371704,MPI-ESM1-2-LR,historical
+Mexico City,2010,15.521545,MPI-ESM1-2-LR,historical
+Lima,2010,17.923248,MPI-ESM1-2-LR,historical
+Sao Paulo,2010,18.62378,MPI-ESM1-2-LR,historical
+Buenos Aires,2010,19.210022,MPI-ESM1-2-LR,historical
+Reykjavik,2010,4.599518,MPI-ESM1-2-LR,historical
+London,2010,10.973389,MPI-ESM1-2-LR,historical
+Paris,2010,11.906647,MPI-ESM1-2-LR,historical
+Madrid,2010,11.379791,MPI-ESM1-2-LR,historical
+Moscow,2010,5.3130493,MPI-ESM1-2-LR,historical
+Cairo,2010,21.131744,MPI-ESM1-2-LR,historical
+Lagos,2010,27.452545,MPI-ESM1-2-LR,historical
+Nairobi,2010,21.056213,MPI-ESM1-2-LR,historical
+Cape Town,2010,19.155518,MPI-ESM1-2-LR,historical
+Riyadh,2010,25.708252,MPI-ESM1-2-LR,historical
+Tehran,2010,14.371643,MPI-ESM1-2-LR,historical
+Mumbai,2010,24.88208,MPI-ESM1-2-LR,historical
+Delhi,2010,26.05133,MPI-ESM1-2-LR,historical
+Dhaka,2010,26.464905,MPI-ESM1-2-LR,historical
+Beijing,2010,8.886139,MPI-ESM1-2-LR,historical
+Shanghai,2010,15.917389,MPI-ESM1-2-LR,historical
+Tokyo,2010,16.674225,MPI-ESM1-2-LR,historical
+Singapore,2010,25.437256,MPI-ESM1-2-LR,historical
+Jakarta,2010,26.257233,MPI-ESM1-2-LR,historical
+Sydney,2010,19.081787,MPI-ESM1-2-LR,historical
+San Diego,2011,21.438477,MPI-ESM1-2-LR,historical
+Phoenix,2011,20.518738,MPI-ESM1-2-LR,historical
+New York,2011,12.054047,MPI-ESM1-2-LR,historical
+Miami,2011,25.563171,MPI-ESM1-2-LR,historical
+Anchorage,2011,-2.5178833,MPI-ESM1-2-LR,historical
+Toronto,2011,6.883484,MPI-ESM1-2-LR,historical
+Mexico City,2011,16.222168,MPI-ESM1-2-LR,historical
+Lima,2011,18.671387,MPI-ESM1-2-LR,historical
+Sao Paulo,2011,18.351562,MPI-ESM1-2-LR,historical
+Buenos Aires,2011,19.007996,MPI-ESM1-2-LR,historical
+Reykjavik,2011,5.7789917,MPI-ESM1-2-LR,historical
+London,2011,9.678711,MPI-ESM1-2-LR,historical
+Paris,2011,10.263672,MPI-ESM1-2-LR,historical
+Madrid,2011,10.086914,MPI-ESM1-2-LR,historical
+Moscow,2011,4.052246,MPI-ESM1-2-LR,historical
+Cairo,2011,21.390808,MPI-ESM1-2-LR,historical
+Lagos,2011,27.75879,MPI-ESM1-2-LR,historical
+Nairobi,2011,21.239594,MPI-ESM1-2-LR,historical
+Cape Town,2011,18.219421,MPI-ESM1-2-LR,historical
+Riyadh,2011,25.528503,MPI-ESM1-2-LR,historical
+Tehran,2011,14.295258,MPI-ESM1-2-LR,historical
+Mumbai,2011,25.129395,MPI-ESM1-2-LR,historical
+Delhi,2011,26.995605,MPI-ESM1-2-LR,historical
+Dhaka,2011,28.414886,MPI-ESM1-2-LR,historical
+Beijing,2011,8.846039,MPI-ESM1-2-LR,historical
+Shanghai,2011,15.554382,MPI-ESM1-2-LR,historical
+Tokyo,2011,16.638672,MPI-ESM1-2-LR,historical
+Singapore,2011,25.444519,MPI-ESM1-2-LR,historical
+Jakarta,2011,26.660156,MPI-ESM1-2-LR,historical
+Sydney,2011,19.005066,MPI-ESM1-2-LR,historical
+San Diego,2012,20.425201,MPI-ESM1-2-LR,historical
+Phoenix,2012,19.321045,MPI-ESM1-2-LR,historical
+New York,2012,11.078369,MPI-ESM1-2-LR,historical
+Miami,2012,25.07788,MPI-ESM1-2-LR,historical
+Anchorage,2012,-0.2670288,MPI-ESM1-2-LR,historical
+Toronto,2012,6.2817993,MPI-ESM1-2-LR,historical
+Mexico City,2012,15.853424,MPI-ESM1-2-LR,historical
+Lima,2012,18.459045,MPI-ESM1-2-LR,historical
+Sao Paulo,2012,18.234924,MPI-ESM1-2-LR,historical
+Buenos Aires,2012,19.42862,MPI-ESM1-2-LR,historical
+Reykjavik,2012,5.0516663,MPI-ESM1-2-LR,historical
+London,2012,9.43042,MPI-ESM1-2-LR,historical
+Paris,2012,10.556549,MPI-ESM1-2-LR,historical
+Madrid,2012,9.781799,MPI-ESM1-2-LR,historical
+Moscow,2012,4.115967,MPI-ESM1-2-LR,historical
+Cairo,2012,20.431702,MPI-ESM1-2-LR,historical
+Lagos,2012,27.849854,MPI-ESM1-2-LR,historical
+Nairobi,2012,21.442139,MPI-ESM1-2-LR,historical
+Cape Town,2012,18.372955,MPI-ESM1-2-LR,historical
+Riyadh,2012,25.789795,MPI-ESM1-2-LR,historical
+Tehran,2012,14.857483,MPI-ESM1-2-LR,historical
+Mumbai,2012,25.249573,MPI-ESM1-2-LR,historical
+Delhi,2012,26.256744,MPI-ESM1-2-LR,historical
+Dhaka,2012,28.144775,MPI-ESM1-2-LR,historical
+Beijing,2012,7.7826233,MPI-ESM1-2-LR,historical
+Shanghai,2012,14.94165,MPI-ESM1-2-LR,historical
+Tokyo,2012,15.621979,MPI-ESM1-2-LR,historical
+Singapore,2012,25.107483,MPI-ESM1-2-LR,historical
+Jakarta,2012,26.367584,MPI-ESM1-2-LR,historical
+Sydney,2012,18.433014,MPI-ESM1-2-LR,historical
+San Diego,2013,20.152649,MPI-ESM1-2-LR,historical
+Phoenix,2013,20.360321,MPI-ESM1-2-LR,historical
+New York,2013,12.781708,MPI-ESM1-2-LR,historical
+Miami,2013,25.789368,MPI-ESM1-2-LR,historical
+Anchorage,2013,-5.0355225,MPI-ESM1-2-LR,historical
+Toronto,2013,6.093567,MPI-ESM1-2-LR,historical
+Mexico City,2013,16.005981,MPI-ESM1-2-LR,historical
+Lima,2013,18.163544,MPI-ESM1-2-LR,historical
+Sao Paulo,2013,18.255493,MPI-ESM1-2-LR,historical
+Buenos Aires,2013,19.92395,MPI-ESM1-2-LR,historical
+Reykjavik,2013,5.59079,MPI-ESM1-2-LR,historical
+London,2013,11.009399,MPI-ESM1-2-LR,historical
+Paris,2013,11.682587,MPI-ESM1-2-LR,historical
+Madrid,2013,11.551086,MPI-ESM1-2-LR,historical
+Moscow,2013,3.5489502,MPI-ESM1-2-LR,historical
+Cairo,2013,20.398743,MPI-ESM1-2-LR,historical
+Lagos,2013,27.654602,MPI-ESM1-2-LR,historical
+Nairobi,2013,20.714813,MPI-ESM1-2-LR,historical
+Cape Town,2013,18.027954,MPI-ESM1-2-LR,historical
+Riyadh,2013,25.67102,MPI-ESM1-2-LR,historical
+Tehran,2013,14.23761,MPI-ESM1-2-LR,historical
+Mumbai,2013,25.018524,MPI-ESM1-2-LR,historical
+Delhi,2013,25.614868,MPI-ESM1-2-LR,historical
+Dhaka,2013,27.087708,MPI-ESM1-2-LR,historical
+Beijing,2013,9.871704,MPI-ESM1-2-LR,historical
+Shanghai,2013,16.367981,MPI-ESM1-2-LR,historical
+Tokyo,2013,16.491516,MPI-ESM1-2-LR,historical
+Singapore,2013,24.948853,MPI-ESM1-2-LR,historical
+Jakarta,2013,26.636688,MPI-ESM1-2-LR,historical
+Sydney,2013,18.185669,MPI-ESM1-2-LR,historical
+San Diego,2014,21.513,MPI-ESM1-2-LR,historical
+Phoenix,2014,20.37677,MPI-ESM1-2-LR,historical
+New York,2014,11.7621765,MPI-ESM1-2-LR,historical
+Miami,2014,25.192993,MPI-ESM1-2-LR,historical
+Anchorage,2014,-4.1746826,MPI-ESM1-2-LR,historical
+Toronto,2014,6.16745,MPI-ESM1-2-LR,historical
+Mexico City,2014,15.281372,MPI-ESM1-2-LR,historical
+Lima,2014,18.129028,MPI-ESM1-2-LR,historical
+Sao Paulo,2014,18.082153,MPI-ESM1-2-LR,historical
+Buenos Aires,2014,20.883911,MPI-ESM1-2-LR,historical
+Reykjavik,2014,5.1866455,MPI-ESM1-2-LR,historical
+London,2014,10.022095,MPI-ESM1-2-LR,historical
+Paris,2014,10.952759,MPI-ESM1-2-LR,historical
+Madrid,2014,10.195923,MPI-ESM1-2-LR,historical
+Moscow,2014,4.878723,MPI-ESM1-2-LR,historical
+Cairo,2014,20.703094,MPI-ESM1-2-LR,historical
+Lagos,2014,27.718384,MPI-ESM1-2-LR,historical
+Nairobi,2014,21.132935,MPI-ESM1-2-LR,historical
+Cape Town,2014,18.447876,MPI-ESM1-2-LR,historical
+Riyadh,2014,25.605286,MPI-ESM1-2-LR,historical
+Tehran,2014,14.468079,MPI-ESM1-2-LR,historical
+Mumbai,2014,24.772278,MPI-ESM1-2-LR,historical
+Delhi,2014,25.60559,MPI-ESM1-2-LR,historical
+Dhaka,2014,27.243774,MPI-ESM1-2-LR,historical
+Beijing,2014,10.42218,MPI-ESM1-2-LR,historical
+Shanghai,2014,15.865356,MPI-ESM1-2-LR,historical
+Tokyo,2014,16.400696,MPI-ESM1-2-LR,historical
+Singapore,2014,25.085419,MPI-ESM1-2-LR,historical
+Jakarta,2014,25.929504,MPI-ESM1-2-LR,historical
+Sydney,2014,18.39743,MPI-ESM1-2-LR,historical

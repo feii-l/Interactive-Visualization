@@ -1,0 +1,1951 @@
+city,year,temp_c,model,scenario
+San Diego,1950,20.609863,CanESM5,historical
+Phoenix,1950,21.84552,CanESM5,historical
+New York,1950,13.465698,CanESM5,historical
+Miami,1950,23.722534,CanESM5,historical
+Anchorage,1950,-0.24249268,CanESM5,historical
+Toronto,1950,7.680603,CanESM5,historical
+Mexico City,1950,18.380829,CanESM5,historical
+Lima,1950,17.661865,CanESM5,historical
+Sao Paulo,1950,20.104248,CanESM5,historical
+Buenos Aires,1950,15.287567,CanESM5,historical
+Reykjavik,1950,4.180969,CanESM5,historical
+London,1950,9.514099,CanESM5,historical
+Paris,1950,10.856873,CanESM5,historical
+Madrid,1950,11.810059,CanESM5,historical
+Moscow,1950,5.1759644,CanESM5,historical
+Cairo,1950,18.783203,CanESM5,historical
+Lagos,1950,25.92163,CanESM5,historical
+Nairobi,1950,20.482727,CanESM5,historical
+Cape Town,1950,17.977203,CanESM5,historical
+Riyadh,1950,22.650177,CanESM5,historical
+Tehran,1950,9.512146,CanESM5,historical
+Mumbai,1950,27.977722,CanESM5,historical
+Delhi,1950,24.79541,CanESM5,historical
+Dhaka,1950,26.73944,CanESM5,historical
+Beijing,1950,3.648346,CanESM5,historical
+Shanghai,1950,14.358795,CanESM5,historical
+Tokyo,1950,18.527344,CanESM5,historical
+Singapore,1950,28.170319,CanESM5,historical
+Jakarta,1950,27.774841,CanESM5,historical
+Sydney,1950,19.494263,CanESM5,historical
+San Diego,1951,20.625122,CanESM5,historical
+Phoenix,1951,22.150696,CanESM5,historical
+New York,1951,14.160492,CanESM5,historical
+Miami,1951,23.794067,CanESM5,historical
+Anchorage,1951,-0.9455261,CanESM5,historical
+Toronto,1951,6.9931946,CanESM5,historical
+Mexico City,1951,18.771729,CanESM5,historical
+Lima,1951,17.841858,CanESM5,historical
+Sao Paulo,1951,20.224487,CanESM5,historical
+Buenos Aires,1951,15.215363,CanESM5,historical
+Reykjavik,1951,4.376648,CanESM5,historical
+London,1951,9.655029,CanESM5,historical
+Paris,1951,10.057007,CanESM5,historical
+Madrid,1951,10.067505,CanESM5,historical
+Moscow,1951,4.7025757,CanESM5,historical
+Cairo,1951,19.840637,CanESM5,historical
+Lagos,1951,25.823547,CanESM5,historical
+Nairobi,1951,20.358887,CanESM5,historical
+Cape Town,1951,18.125916,CanESM5,historical
+Riyadh,1951,23.125854,CanESM5,historical
+Tehran,1951,9.070129,CanESM5,historical
+Mumbai,1951,27.738373,CanESM5,historical
+Delhi,1951,24.313965,CanESM5,historical
+Dhaka,1951,26.713501,CanESM5,historical
+Beijing,1951,2.4140015,CanESM5,historical
+Shanghai,1951,14.007172,CanESM5,historical
+Tokyo,1951,18.452759,CanESM5,historical
+Singapore,1951,28.118164,CanESM5,historical
+Jakarta,1951,28.02002,CanESM5,historical
+Sydney,1951,19.41687,CanESM5,historical
+San Diego,1952,19.791382,CanESM5,historical
+Phoenix,1952,21.214111,CanESM5,historical
+New York,1952,15.164886,CanESM5,historical
+Miami,1952,24.283081,CanESM5,historical
+Anchorage,1952,-1.9577637,CanESM5,historical
+Toronto,1952,8.273254,CanESM5,historical
+Mexico City,1952,18.918335,CanESM5,historical
+Lima,1952,17.011292,CanESM5,historical
+Sao Paulo,1952,20.737793,CanESM5,historical
+Buenos Aires,1952,14.752075,CanESM5,historical
+Reykjavik,1952,5.0212097,CanESM5,historical
+London,1952,9.388702,CanESM5,historical
+Paris,1952,11.245026,CanESM5,historical
+Madrid,1952,12.092499,CanESM5,historical
+Moscow,1952,6.6476135,CanESM5,historical
+Cairo,1952,19.945251,CanESM5,historical
+Lagos,1952,25.993958,CanESM5,historical
+Nairobi,1952,18.955322,CanESM5,historical
+Cape Town,1952,18.371918,CanESM5,historical
+Riyadh,1952,22.87909,CanESM5,historical
+Tehran,1952,10.018188,CanESM5,historical
+Mumbai,1952,28.240662,CanESM5,historical
+Delhi,1952,23.365845,CanESM5,historical
+Dhaka,1952,27.281128,CanESM5,historical
+Beijing,1952,2.7864685,CanESM5,historical
+Shanghai,1952,14.472656,CanESM5,historical
+Tokyo,1952,18.866394,CanESM5,historical
+Singapore,1952,28.154755,CanESM5,historical
+Jakarta,1952,27.870514,CanESM5,historical
+Sydney,1952,19.32965,CanESM5,historical
+San Diego,1953,20.372345,CanESM5,historical
+Phoenix,1953,22.204956,CanESM5,historical
+New York,1953,14.787384,CanESM5,historical
+Miami,1953,23.388123,CanESM5,historical
+Anchorage,1953,-3.288086,CanESM5,historical
+Toronto,1953,8.821808,CanESM5,historical
+Mexico City,1953,17.914032,CanESM5,historical
+Lima,1953,16.878052,CanESM5,historical
+Sao Paulo,1953,20.213196,CanESM5,historical
+Buenos Aires,1953,15.705627,CanESM5,historical
+Reykjavik,1953,4.902588,CanESM5,historical
+London,1953,8.809845,CanESM5,historical
+Paris,1953,10.066437,CanESM5,historical
+Madrid,1953,10.951691,CanESM5,historical
+Moscow,1953,4.2321167,CanESM5,historical
+Cairo,1953,19.580902,CanESM5,historical
+Lagos,1953,25.572815,CanESM5,historical
+Nairobi,1953,20.221588,CanESM5,historical
+Cape Town,1953,17.645874,CanESM5,historical
+Riyadh,1953,22.41333,CanESM5,historical
+Tehran,1953,8.542389,CanESM5,historical
+Mumbai,1953,27.179352,CanESM5,historical
+Delhi,1953,23.845398,CanESM5,historical
+Dhaka,1953,25.320679,CanESM5,historical
+Beijing,1953,1.7265625,CanESM5,historical
+Shanghai,1953,13.464447,CanESM5,historical
+Tokyo,1953,18.841736,CanESM5,historical
+Singapore,1953,27.824615,CanESM5,historical
+Jakarta,1953,27.432373,CanESM5,historical
+Sydney,1953,19.137604,CanESM5,historical
+San Diego,1954,19.801453,CanESM5,historical
+Phoenix,1954,21.816406,CanESM5,historical
+New York,1954,14.34671,CanESM5,historical
+Miami,1954,24.044739,CanESM5,historical
+Anchorage,1954,-1.8903503,CanESM5,historical
+Toronto,1954,8.247711,CanESM5,historical
+Mexico City,1954,18.422577,CanESM5,historical
+Lima,1954,17.037628,CanESM5,historical
+Sao Paulo,1954,20.029236,CanESM5,historical
+Buenos Aires,1954,15.916077,CanESM5,historical
+Reykjavik,1954,4.920532,CanESM5,historical
+London,1954,9.880981,CanESM5,historical
+Paris,1954,10.907135,CanESM5,historical
+Madrid,1954,11.397278,CanESM5,historical
+Moscow,1954,6.687134,CanESM5,historical
+Cairo,1954,19.681793,CanESM5,historical
+Lagos,1954,25.362305,CanESM5,historical
+Nairobi,1954,19.837769,CanESM5,historical
+Cape Town,1954,17.23761,CanESM5,historical
+Riyadh,1954,22.607422,CanESM5,historical
+Tehran,1954,8.263794,CanESM5,historical
+Mumbai,1954,26.204285,CanESM5,historical
+Delhi,1954,22.725311,CanESM5,historical
+Dhaka,1954,25.474731,CanESM5,historical
+Beijing,1954,2.4553223,CanESM5,historical
+Shanghai,1954,13.613678,CanESM5,historical
+Tokyo,1954,18.585022,CanESM5,historical
+Singapore,1954,27.775787,CanESM5,historical
+Jakarta,1954,27.329773,CanESM5,historical
+Sydney,1954,19.299438,CanESM5,historical
+San Diego,1955,19.82547,CanESM5,historical
+Phoenix,1955,21.433624,CanESM5,historical
+New York,1955,13.620972,CanESM5,historical
+Miami,1955,23.53186,CanESM5,historical
+Anchorage,1955,-3.0729065,CanESM5,historical
+Toronto,1955,7.355072,CanESM5,historical
+Mexico City,1955,18.580841,CanESM5,historical
+Lima,1955,17.507263,CanESM5,historical
+Sao Paulo,1955,19.988525,CanESM5,historical
+Buenos Aires,1955,15.754578,CanESM5,historical
+Reykjavik,1955,6.3709717,CanESM5,historical
+London,1955,9.178162,CanESM5,historical
+Paris,1955,10.399414,CanESM5,historical
+Madrid,1955,11.461304,CanESM5,historical
+Moscow,1955,4.1064453,CanESM5,historical
+Cairo,1955,19.183533,CanESM5,historical
+Lagos,1955,25.56543,CanESM5,historical
+Nairobi,1955,19.403442,CanESM5,historical
+Cape Town,1955,17.89154,CanESM5,historical
+Riyadh,1955,22.649963,CanESM5,historical
+Tehran,1955,9.882996,CanESM5,historical
+Mumbai,1955,27.110199,CanESM5,historical
+Delhi,1955,24.160675,CanESM5,historical
+Dhaka,1955,26.399231,CanESM5,historical
+Beijing,1955,2.9004211,CanESM5,historical
+Shanghai,1955,14.555634,CanESM5,historical
+Tokyo,1955,18.332642,CanESM5,historical
+Singapore,1955,27.67041,CanESM5,historical
+Jakarta,1955,27.500977,CanESM5,historical
+Sydney,1955,19.136475,CanESM5,historical
+San Diego,1956,19.630249,CanESM5,historical
+Phoenix,1956,21.818787,CanESM5,historical
+New York,1956,12.699097,CanESM5,historical
+Miami,1956,23.948029,CanESM5,historical
+Anchorage,1956,-2.2164307,CanESM5,historical
+Toronto,1956,7.1269836,CanESM5,historical
+Mexico City,1956,18.823212,CanESM5,historical
+Lima,1956,17.46518,CanESM5,historical
+Sao Paulo,1956,19.687378,CanESM5,historical
+Buenos Aires,1956,14.991425,CanESM5,historical
+Reykjavik,1956,5.9617615,CanESM5,historical
+London,1956,9.279694,CanESM5,historical
+Paris,1956,9.9210205,CanESM5,historical
+Madrid,1956,11.372192,CanESM5,historical
+Moscow,1956,2.798767,CanESM5,historical
+Cairo,1956,19.426239,CanESM5,historical
+Lagos,1956,25.786743,CanESM5,historical
+Nairobi,1956,19.860687,CanESM5,historical
+Cape Town,1956,18.170654,CanESM5,historical
+Riyadh,1956,22.260315,CanESM5,historical
+Tehran,1956,8.974731,CanESM5,historical
+Mumbai,1956,27.509644,CanESM5,historical
+Delhi,1956,23.200043,CanESM5,historical
+Dhaka,1956,25.812744,CanESM5,historical
+Beijing,1956,1.7026978,CanESM5,historical
+Shanghai,1956,13.46936,CanESM5,historical
+Tokyo,1956,18.320465,CanESM5,historical
+Singapore,1956,28.104797,CanESM5,historical
+Jakarta,1956,27.728027,CanESM5,historical
+Sydney,1956,19.56189,CanESM5,historical
+San Diego,1957,19.457397,CanESM5,historical
+Phoenix,1957,20.956177,CanESM5,historical
+New York,1957,12.860962,CanESM5,historical
+Miami,1957,23.82965,CanESM5,historical
+Anchorage,1957,-1.288147,CanESM5,historical
+Toronto,1957,6.3336487,CanESM5,historical
+Mexico City,1957,18.979797,CanESM5,historical
+Lima,1957,17.748962,CanESM5,historical
+Sao Paulo,1957,20.286438,CanESM5,historical
+Buenos Aires,1957,15.181122,CanESM5,historical
+Reykjavik,1957,5.336151,CanESM5,historical
+London,1957,8.88443,CanESM5,historical
+Paris,1957,9.512054,CanESM5,historical
+Madrid,1957,10.664337,CanESM5,historical
+Moscow,1957,3.498169,CanESM5,historical
+Cairo,1957,19.236755,CanESM5,historical
+Lagos,1957,25.714142,CanESM5,historical
+Nairobi,1957,20.540466,CanESM5,historical
+Cape Town,1957,17.634583,CanESM5,historical
+Riyadh,1957,22.815857,CanESM5,historical
+Tehran,1957,10.318207,CanESM5,historical
+Mumbai,1957,27.43631,CanESM5,historical
+Delhi,1957,22.82306,CanESM5,historical
+Dhaka,1957,25.91452,CanESM5,historical
+Beijing,1957,3.0480957,CanESM5,historical
+Shanghai,1957,14.347992,CanESM5,historical
+Tokyo,1957,18.495422,CanESM5,historical
+Singapore,1957,28.190338,CanESM5,historical
+Jakarta,1957,27.601196,CanESM5,historical
+Sydney,1957,19.106598,CanESM5,historical
+San Diego,1958,19.305847,CanESM5,historical
+Phoenix,1958,21.532623,CanESM5,historical
+New York,1958,14.382935,CanESM5,historical
+Miami,1958,24.680176,CanESM5,historical
+Anchorage,1958,-2.4497375,CanESM5,historical
+Toronto,1958,8.579956,CanESM5,historical
+Mexico City,1958,18.546997,CanESM5,historical
+Lima,1958,17.301453,CanESM5,historical
+Sao Paulo,1958,20.572906,CanESM5,historical
+Buenos Aires,1958,15.298706,CanESM5,historical
+Reykjavik,1958,5.5285034,CanESM5,historical
+London,1958,9.493347,CanESM5,historical
+Paris,1958,10.957855,CanESM5,historical
+Madrid,1958,12.066406,CanESM5,historical
+Moscow,1958,5.3519897,CanESM5,historical
+Cairo,1958,19.106659,CanESM5,historical
+Lagos,1958,25.21936,CanESM5,historical
+Nairobi,1958,18.880615,CanESM5,historical
+Cape Town,1958,17.952911,CanESM5,historical
+Riyadh,1958,22.50589,CanESM5,historical
+Tehran,1958,9.223999,CanESM5,historical
+Mumbai,1958,27.458496,CanESM5,historical
+Delhi,1958,23.043396,CanESM5,historical
+Dhaka,1958,26.79541,CanESM5,historical
+Beijing,1958,1.5603943,CanESM5,historical
+Shanghai,1958,13.713745,CanESM5,historical
+Tokyo,1958,18.769958,CanESM5,historical
+Singapore,1958,28.030518,CanESM5,historical
+Jakarta,1958,27.536285,CanESM5,historical
+Sydney,1958,18.76059,CanESM5,historical
+San Diego,1959,19.780457,CanESM5,historical
+Phoenix,1959,20.673218,CanESM5,historical
+New York,1959,14.670441,CanESM5,historical
+Miami,1959,23.92865,CanESM5,historical
+Anchorage,1959,-2.038147,CanESM5,historical
+Toronto,1959,7.784912,CanESM5,historical
+Mexico City,1959,18.64209,CanESM5,historical
+Lima,1959,17.335388,CanESM5,historical
+Sao Paulo,1959,20.67334,CanESM5,historical
+Buenos Aires,1959,16.031433,CanESM5,historical
+Reykjavik,1959,4.5632935,CanESM5,historical
+London,1959,8.705139,CanESM5,historical
+Paris,1959,9.5086975,CanESM5,historical
+Madrid,1959,11.05011,CanESM5,historical
+Moscow,1959,5.0451965,CanESM5,historical
+Cairo,1959,19.074951,CanESM5,historical
+Lagos,1959,25.989838,CanESM5,historical
+Nairobi,1959,19.913544,CanESM5,historical
+Cape Town,1959,18.125214,CanESM5,historical
+Riyadh,1959,23.133545,CanESM5,historical
+Tehran,1959,9.033081,CanESM5,historical
+Mumbai,1959,27.305756,CanESM5,historical
+Delhi,1959,23.129395,CanESM5,historical
+Dhaka,1959,25.52121,CanESM5,historical
+Beijing,1959,2.1237793,CanESM5,historical
+Shanghai,1959,13.650635,CanESM5,historical
+Tokyo,1959,18.422516,CanESM5,historical
+Singapore,1959,28.05072,CanESM5,historical
+Jakarta,1959,27.707703,CanESM5,historical
+Sydney,1959,19.279785,CanESM5,historical
+San Diego,1960,20.191162,CanESM5,historical
+Phoenix,1960,20.696198,CanESM5,historical
+New York,1960,13.151886,CanESM5,historical
+Miami,1960,23.438843,CanESM5,historical
+Anchorage,1960,-0.55407715,CanESM5,historical
+Toronto,1960,7.251404,CanESM5,historical
+Mexico City,1960,19.00763,CanESM5,historical
+Lima,1960,17.924866,CanESM5,historical
+Sao Paulo,1960,20.237976,CanESM5,historical
+Buenos Aires,1960,15.017242,CanESM5,historical
+Reykjavik,1960,5.1984863,CanESM5,historical
+London,1960,8.443634,CanESM5,historical
+Paris,1960,8.87561,CanESM5,historical
+Madrid,1960,10.795837,CanESM5,historical
+Moscow,1960,3.3692322,CanESM5,historical
+Cairo,1960,19.109863,CanESM5,historical
+Lagos,1960,26.059326,CanESM5,historical
+Nairobi,1960,21.140839,CanESM5,historical
+Cape Town,1960,17.976532,CanESM5,historical
+Riyadh,1960,22.451721,CanESM5,historical
+Tehran,1960,9.305664,CanESM5,historical
+Mumbai,1960,27.299713,CanESM5,historical
+Delhi,1960,23.143219,CanESM5,historical
+Dhaka,1960,26.136383,CanESM5,historical
+Beijing,1960,1.3540039,CanESM5,historical
+Shanghai,1960,12.733368,CanESM5,historical
+Tokyo,1960,17.349823,CanESM5,historical
+Singapore,1960,28.087585,CanESM5,historical
+Jakarta,1960,27.59491,CanESM5,historical
+Sydney,1960,19.591553,CanESM5,historical
+San Diego,1961,19.15271,CanESM5,historical
+Phoenix,1961,20.173676,CanESM5,historical
+New York,1961,14.165802,CanESM5,historical
+Miami,1961,23.990845,CanESM5,historical
+Anchorage,1961,0.30651855,CanESM5,historical
+Toronto,1961,8.301941,CanESM5,historical
+Mexico City,1961,19.139282,CanESM5,historical
+Lima,1961,17.315155,CanESM5,historical
+Sao Paulo,1961,21.21811,CanESM5,historical
+Buenos Aires,1961,15.193451,CanESM5,historical
+Reykjavik,1961,5.283325,CanESM5,historical
+London,1961,9.356293,CanESM5,historical
+Paris,1961,10.4158325,CanESM5,historical
+Madrid,1961,11.289429,CanESM5,historical
+Moscow,1961,5.0306396,CanESM5,historical
+Cairo,1961,18.705475,CanESM5,historical
+Lagos,1961,25.999237,CanESM5,historical
+Nairobi,1961,20.329254,CanESM5,historical
+Cape Town,1961,18.14801,CanESM5,historical
+Riyadh,1961,22.607666,CanESM5,historical
+Tehran,1961,8.535828,CanESM5,historical
+Mumbai,1961,28.077515,CanESM5,historical
+Delhi,1961,23.687714,CanESM5,historical
+Dhaka,1961,26.486572,CanESM5,historical
+Beijing,1961,2.5577393,CanESM5,historical
+Shanghai,1961,14.393677,CanESM5,historical
+Tokyo,1961,18.265015,CanESM5,historical
+Singapore,1961,28.040894,CanESM5,historical
+Jakarta,1961,27.726807,CanESM5,historical
+Sydney,1961,19.650513,CanESM5,historical
+San Diego,1962,19.875793,CanESM5,historical
+Phoenix,1962,21.897766,CanESM5,historical
+New York,1962,15.551849,CanESM5,historical
+Miami,1962,24.154175,CanESM5,historical
+Anchorage,1962,-1.9978027,CanESM5,historical
+Toronto,1962,9.410706,CanESM5,historical
+Mexico City,1962,18.447021,CanESM5,historical
+Lima,1962,16.818665,CanESM5,historical
+Sao Paulo,1962,20.228119,CanESM5,historical
+Buenos Aires,1962,15.258728,CanESM5,historical
+Reykjavik,1962,4.0654907,CanESM5,historical
+London,1962,9.918213,CanESM5,historical
+Paris,1962,10.915649,CanESM5,historical
+Madrid,1962,10.964294,CanESM5,historical
+Moscow,1962,5.5959167,CanESM5,historical
+Cairo,1962,18.794373,CanESM5,historical
+Lagos,1962,25.547974,CanESM5,historical
+Nairobi,1962,19.705719,CanESM5,historical
+Cape Town,1962,17.78772,CanESM5,historical
+Riyadh,1962,22.06189,CanESM5,historical
+Tehran,1962,7.5798645,CanESM5,historical
+Mumbai,1962,28.002594,CanESM5,historical
+Delhi,1962,23.292603,CanESM5,historical
+Dhaka,1962,27.508423,CanESM5,historical
+Beijing,1962,3.4137573,CanESM5,historical
+Shanghai,1962,14.3307495,CanESM5,historical
+Tokyo,1962,18.851624,CanESM5,historical
+Singapore,1962,28.10028,CanESM5,historical
+Jakarta,1962,27.534912,CanESM5,historical
+Sydney,1962,18.976044,CanESM5,historical
+San Diego,1963,19.69812,CanESM5,historical
+Phoenix,1963,21.70755,CanESM5,historical
+New York,1963,13.758453,CanESM5,historical
+Miami,1963,23.654846,CanESM5,historical
+Anchorage,1963,-2.4829407,CanESM5,historical
+Toronto,1963,7.2338257,CanESM5,historical
+Mexico City,1963,18.171265,CanESM5,historical
+Lima,1963,16.952026,CanESM5,historical
+Sao Paulo,1963,19.114746,CanESM5,historical
+Buenos Aires,1963,15.486298,CanESM5,historical
+Reykjavik,1963,4.8227844,CanESM5,historical
+London,1963,9.479767,CanESM5,historical
+Paris,1963,10.194824,CanESM5,historical
+Madrid,1963,11.118774,CanESM5,historical
+Moscow,1963,3.7045898,CanESM5,historical
+Cairo,1963,19.364868,CanESM5,historical
+Lagos,1963,25.44519,CanESM5,historical
+Nairobi,1963,20.267883,CanESM5,historical
+Cape Town,1963,17.250305,CanESM5,historical
+Riyadh,1963,21.964996,CanESM5,historical
+Tehran,1963,8.87854,CanESM5,historical
+Mumbai,1963,27.204712,CanESM5,historical
+Delhi,1963,23.696167,CanESM5,historical
+Dhaka,1963,25.768555,CanESM5,historical
+Beijing,1963,1.18573,CanESM5,historical
+Shanghai,1963,13.472229,CanESM5,historical
+Tokyo,1963,18.271118,CanESM5,historical
+Singapore,1963,27.72705,CanESM5,historical
+Jakarta,1963,27.197144,CanESM5,historical
+Sydney,1963,18.556274,CanESM5,historical
+San Diego,1964,19.578918,CanESM5,historical
+Phoenix,1964,20.755615,CanESM5,historical
+New York,1964,12.763916,CanESM5,historical
+Miami,1964,23.573212,CanESM5,historical
+Anchorage,1964,-2.0222778,CanESM5,historical
+Toronto,1964,5.9102783,CanESM5,historical
+Mexico City,1964,18.555511,CanESM5,historical
+Lima,1964,17.538025,CanESM5,historical
+Sao Paulo,1964,19.869904,CanESM5,historical
+Buenos Aires,1964,16.041016,CanESM5,historical
+Reykjavik,1964,4.98999,CanESM5,historical
+London,1964,9.008575,CanESM5,historical
+Paris,1964,9.506378,CanESM5,historical
+Madrid,1964,9.702179,CanESM5,historical
+Moscow,1964,4.114868,CanESM5,historical
+Cairo,1964,18.69867,CanESM5,historical
+Lagos,1964,25.480408,CanESM5,historical
+Nairobi,1964,19.80722,CanESM5,historical
+Cape Town,1964,16.998901,CanESM5,historical
+Riyadh,1964,21.579712,CanESM5,historical
+Tehran,1964,7.7149963,CanESM5,historical
+Mumbai,1964,26.995178,CanESM5,historical
+Delhi,1964,23.477783,CanESM5,historical
+Dhaka,1964,26.534882,CanESM5,historical
+Beijing,1964,2.5315552,CanESM5,historical
+Shanghai,1964,14.048767,CanESM5,historical
+Tokyo,1964,18.33139,CanESM5,historical
+Singapore,1964,27.648315,CanESM5,historical
+Jakarta,1964,27.210358,CanESM5,historical
+Sydney,1964,19.094513,CanESM5,historical
+San Diego,1965,20.533142,CanESM5,historical
+Phoenix,1965,20.857788,CanESM5,historical
+New York,1965,13.218964,CanESM5,historical
+Miami,1965,23.201477,CanESM5,historical
+Anchorage,1965,-0.69454956,CanESM5,historical
+Toronto,1965,6.432678,CanESM5,historical
+Mexico City,1965,18.359467,CanESM5,historical
+Lima,1965,17.661194,CanESM5,historical
+Sao Paulo,1965,20.512512,CanESM5,historical
+Buenos Aires,1965,15.1874695,CanESM5,historical
+Reykjavik,1965,5.8016357,CanESM5,historical
+London,1965,9.714111,CanESM5,historical
+Paris,1965,10.682312,CanESM5,historical
+Madrid,1965,10.306519,CanESM5,historical
+Moscow,1965,3.856018,CanESM5,historical
+Cairo,1965,18.688995,CanESM5,historical
+Lagos,1965,25.82074,CanESM5,historical
+Nairobi,1965,20.08551,CanESM5,historical
+Cape Town,1965,17.57898,CanESM5,historical
+Riyadh,1965,22.08612,CanESM5,historical
+Tehran,1965,9.105896,CanESM5,historical
+Mumbai,1965,27.422974,CanESM5,historical
+Delhi,1965,23.31314,CanESM5,historical
+Dhaka,1965,25.479858,CanESM5,historical
+Beijing,1965,3.729187,CanESM5,historical
+Shanghai,1965,14.601593,CanESM5,historical
+Tokyo,1965,18.201752,CanESM5,historical
+Singapore,1965,27.83957,CanESM5,historical
+Jakarta,1965,27.474182,CanESM5,historical
+Sydney,1965,19.238678,CanESM5,historical
+San Diego,1966,19.501465,CanESM5,historical
+Phoenix,1966,20.451752,CanESM5,historical
+New York,1966,13.6979065,CanESM5,historical
+Miami,1966,23.933167,CanESM5,historical
+Anchorage,1966,0.040618896,CanESM5,historical
+Toronto,1966,6.5906982,CanESM5,historical
+Mexico City,1966,19.779083,CanESM5,historical
+Lima,1966,18.023499,CanESM5,historical
+Sao Paulo,1966,20.830444,CanESM5,historical
+Buenos Aires,1966,15.133423,CanESM5,historical
+Reykjavik,1966,6.281616,CanESM5,historical
+London,1966,9.120056,CanESM5,historical
+Paris,1966,10.466919,CanESM5,historical
+Madrid,1966,11.019348,CanESM5,historical
+Moscow,1966,6.043091,CanESM5,historical
+Cairo,1966,20.261475,CanESM5,historical
+Lagos,1966,26.167908,CanESM5,historical
+Nairobi,1966,20.404724,CanESM5,historical
+Cape Town,1966,18.301239,CanESM5,historical
+Riyadh,1966,22.378387,CanESM5,historical
+Tehran,1966,8.129761,CanESM5,historical
+Mumbai,1966,27.730652,CanESM5,historical
+Delhi,1966,23.905151,CanESM5,historical
+Dhaka,1966,27.657257,CanESM5,historical
+Beijing,1966,3.6551208,CanESM5,historical
+Shanghai,1966,14.525818,CanESM5,historical
+Tokyo,1966,18.606506,CanESM5,historical
+Singapore,1966,28.134155,CanESM5,historical
+Jakarta,1966,27.703003,CanESM5,historical
+Sydney,1966,19.819061,CanESM5,historical
+San Diego,1967,19.665588,CanESM5,historical
+Phoenix,1967,20.869873,CanESM5,historical
+New York,1967,14.337921,CanESM5,historical
+Miami,1967,24.03534,CanESM5,historical
+Anchorage,1967,-0.80352783,CanESM5,historical
+Toronto,1967,7.7615356,CanESM5,historical
+Mexico City,1967,18.560425,CanESM5,historical
+Lima,1967,17.352203,CanESM5,historical
+Sao Paulo,1967,20.401611,CanESM5,historical
+Buenos Aires,1967,15.117493,CanESM5,historical
+Reykjavik,1967,5.7165527,CanESM5,historical
+London,1967,8.543671,CanESM5,historical
+Paris,1967,9.274963,CanESM5,historical
+Madrid,1967,11.384918,CanESM5,historical
+Moscow,1967,5.6083374,CanESM5,historical
+Cairo,1967,19.572052,CanESM5,historical
+Lagos,1967,25.917175,CanESM5,historical
+Nairobi,1967,19.642395,CanESM5,historical
+Cape Town,1967,18.033356,CanESM5,historical
+Riyadh,1967,22.28772,CanESM5,historical
+Tehran,1967,9.384796,CanESM5,historical
+Mumbai,1967,27.34491,CanESM5,historical
+Delhi,1967,23.543762,CanESM5,historical
+Dhaka,1967,27.115967,CanESM5,historical
+Beijing,1967,3.6750488,CanESM5,historical
+Shanghai,1967,13.973633,CanESM5,historical
+Tokyo,1967,18.39447,CanESM5,historical
+Singapore,1967,27.849915,CanESM5,historical
+Jakarta,1967,27.454498,CanESM5,historical
+Sydney,1967,19.528992,CanESM5,historical
+San Diego,1968,19.920593,CanESM5,historical
+Phoenix,1968,21.719666,CanESM5,historical
+New York,1968,15.215607,CanESM5,historical
+Miami,1968,23.56189,CanESM5,historical
+Anchorage,1968,-2.3060608,CanESM5,historical
+Toronto,1968,8.93335,CanESM5,historical
+Mexico City,1968,18.621338,CanESM5,historical
+Lima,1968,17.253601,CanESM5,historical
+Sao Paulo,1968,20.296783,CanESM5,historical
+Buenos Aires,1968,14.831726,CanESM5,historical
+Reykjavik,1968,4.867676,CanESM5,historical
+London,1968,8.603943,CanESM5,historical
+Paris,1968,9.827179,CanESM5,historical
+Madrid,1968,10.70871,CanESM5,historical
+Moscow,1968,4.7019653,CanESM5,historical
+Cairo,1968,19.334717,CanESM5,historical
+Lagos,1968,26.035034,CanESM5,historical
+Nairobi,1968,20.449768,CanESM5,historical
+Cape Town,1968,17.857727,CanESM5,historical
+Riyadh,1968,23.40747,CanESM5,historical
+Tehran,1968,8.996185,CanESM5,historical
+Mumbai,1968,26.416107,CanESM5,historical
+Delhi,1968,22.134247,CanESM5,historical
+Dhaka,1968,25.744934,CanESM5,historical
+Beijing,1968,2.6345825,CanESM5,historical
+Shanghai,1968,13.333893,CanESM5,historical
+Tokyo,1968,18.291595,CanESM5,historical
+Singapore,1968,27.870575,CanESM5,historical
+Jakarta,1968,27.603455,CanESM5,historical
+Sydney,1968,19.118927,CanESM5,historical
+San Diego,1969,19.459015,CanESM5,historical
+Phoenix,1969,20.8992,CanESM5,historical
+New York,1969,13.926178,CanESM5,historical
+Miami,1969,23.609283,CanESM5,historical
+Anchorage,1969,-1.7138062,CanESM5,historical
+Toronto,1969,7.951874,CanESM5,historical
+Mexico City,1969,18.95166,CanESM5,historical
+Lima,1969,17.509796,CanESM5,historical
+Sao Paulo,1969,19.882751,CanESM5,historical
+Buenos Aires,1969,15.779724,CanESM5,historical
+Reykjavik,1969,4.668976,CanESM5,historical
+London,1969,8.987854,CanESM5,historical
+Paris,1969,9.465485,CanESM5,historical
+Madrid,1969,10.591553,CanESM5,historical
+Moscow,1969,4.6953735,CanESM5,historical
+Cairo,1969,19.734589,CanESM5,historical
+Lagos,1969,25.762482,CanESM5,historical
+Nairobi,1969,19.7146,CanESM5,historical
+Cape Town,1969,17.819458,CanESM5,historical
+Riyadh,1969,22.566437,CanESM5,historical
+Tehran,1969,8.135132,CanESM5,historical
+Mumbai,1969,27.20459,CanESM5,historical
+Delhi,1969,24.211365,CanESM5,historical
+Dhaka,1969,25.472717,CanESM5,historical
+Beijing,1969,2.3847046,CanESM5,historical
+Shanghai,1969,14.00116,CanESM5,historical
+Tokyo,1969,18.382233,CanESM5,historical
+Singapore,1969,27.88623,CanESM5,historical
+Jakarta,1969,27.509552,CanESM5,historical
+Sydney,1969,19.179626,CanESM5,historical
+San Diego,1970,19.301636,CanESM5,historical
+Phoenix,1970,20.836853,CanESM5,historical
+New York,1970,14.52243,CanESM5,historical
+Miami,1970,24.096466,CanESM5,historical
+Anchorage,1970,-0.6933594,CanESM5,historical
+Toronto,1970,7.6399536,CanESM5,historical
+Mexico City,1970,18.746735,CanESM5,historical
+Lima,1970,17.16278,CanESM5,historical
+Sao Paulo,1970,20.899017,CanESM5,historical
+Buenos Aires,1970,15.440369,CanESM5,historical
+Reykjavik,1970,4.2574463,CanESM5,historical
+London,1970,8.595337,CanESM5,historical
+Paris,1970,9.0191345,CanESM5,historical
+Madrid,1970,10.2438965,CanESM5,historical
+Moscow,1970,4.546173,CanESM5,historical
+Cairo,1970,18.89679,CanESM5,historical
+Lagos,1970,25.468079,CanESM5,historical
+Nairobi,1970,20.977936,CanESM5,historical
+Cape Town,1970,18.125,CanESM5,historical
+Riyadh,1970,22.262268,CanESM5,historical
+Tehran,1970,7.892517,CanESM5,historical
+Mumbai,1970,27.35794,CanESM5,historical
+Delhi,1970,23.514832,CanESM5,historical
+Dhaka,1970,25.810974,CanESM5,historical
+Beijing,1970,2.0401611,CanESM5,historical
+Shanghai,1970,13.492554,CanESM5,historical
+Tokyo,1970,17.906311,CanESM5,historical
+Singapore,1970,27.991516,CanESM5,historical
+Jakarta,1970,27.35498,CanESM5,historical
+Sydney,1970,18.578156,CanESM5,historical
+San Diego,1971,20.141418,CanESM5,historical
+Phoenix,1971,20.9086,CanESM5,historical
+New York,1971,15.364014,CanESM5,historical
+Miami,1971,24.07666,CanESM5,historical
+Anchorage,1971,-0.69207764,CanESM5,historical
+Toronto,1971,9.17749,CanESM5,historical
+Mexico City,1971,18.554657,CanESM5,historical
+Lima,1971,17.03366,CanESM5,historical
+Sao Paulo,1971,20.756897,CanESM5,historical
+Buenos Aires,1971,15.202301,CanESM5,historical
+Reykjavik,1971,4.2416077,CanESM5,historical
+London,1971,9.091309,CanESM5,historical
+Paris,1971,9.88443,CanESM5,historical
+Madrid,1971,10.297974,CanESM5,historical
+Moscow,1971,4.2719116,CanESM5,historical
+Cairo,1971,19.000854,CanESM5,historical
+Lagos,1971,25.72464,CanESM5,historical
+Nairobi,1971,21.073273,CanESM5,historical
+Cape Town,1971,17.97763,CanESM5,historical
+Riyadh,1971,22.376556,CanESM5,historical
+Tehran,1971,7.4140015,CanESM5,historical
+Mumbai,1971,26.778442,CanESM5,historical
+Delhi,1971,23.297668,CanESM5,historical
+Dhaka,1971,25.937439,CanESM5,historical
+Beijing,1971,1.8862305,CanESM5,historical
+Shanghai,1971,13.489746,CanESM5,historical
+Tokyo,1971,18.41748,CanESM5,historical
+Singapore,1971,27.957977,CanESM5,historical
+Jakarta,1971,27.350403,CanESM5,historical
+Sydney,1971,19.195557,CanESM5,historical
+San Diego,1972,19.590302,CanESM5,historical
+Phoenix,1972,21.1734,CanESM5,historical
+New York,1972,14.4227295,CanESM5,historical
+Miami,1972,23.421326,CanESM5,historical
+Anchorage,1972,-1.9046936,CanESM5,historical
+Toronto,1972,7.681671,CanESM5,historical
+Mexico City,1972,18.020813,CanESM5,historical
+Lima,1972,16.918182,CanESM5,historical
+Sao Paulo,1972,20.629333,CanESM5,historical
+Buenos Aires,1972,15.790405,CanESM5,historical
+Reykjavik,1972,3.875061,CanESM5,historical
+London,1972,8.872192,CanESM5,historical
+Paris,1972,9.910797,CanESM5,historical
+Madrid,1972,10.836273,CanESM5,historical
+Moscow,1972,4.527252,CanESM5,historical
+Cairo,1972,19.095795,CanESM5,historical
+Lagos,1972,25.393433,CanESM5,historical
+Nairobi,1972,20.342834,CanESM5,historical
+Cape Town,1972,17.483337,CanESM5,historical
+Riyadh,1972,22.103882,CanESM5,historical
+Tehran,1972,9.0147705,CanESM5,historical
+Mumbai,1972,26.945374,CanESM5,historical
+Delhi,1972,23.078094,CanESM5,historical
+Dhaka,1972,26.126556,CanESM5,historical
+Beijing,1972,2.069397,CanESM5,historical
+Shanghai,1972,13.299377,CanESM5,historical
+Tokyo,1972,18.05127,CanESM5,historical
+Singapore,1972,27.815277,CanESM5,historical
+Jakarta,1972,27.30133,CanESM5,historical
+Sydney,1972,18.468628,CanESM5,historical
+San Diego,1973,20.230469,CanESM5,historical
+Phoenix,1973,21.159546,CanESM5,historical
+New York,1973,13.76593,CanESM5,historical
+Miami,1973,23.624695,CanESM5,historical
+Anchorage,1973,-0.9493408,CanESM5,historical
+Toronto,1973,6.9750977,CanESM5,historical
+Mexico City,1973,19.039795,CanESM5,historical
+Lima,1973,17.990479,CanESM5,historical
+Sao Paulo,1973,21.222198,CanESM5,historical
+Buenos Aires,1973,14.204498,CanESM5,historical
+Reykjavik,1973,4.2852173,CanESM5,historical
+London,1973,9.435028,CanESM5,historical
+Paris,1973,10.277954,CanESM5,historical
+Madrid,1973,10.611328,CanESM5,historical
+Moscow,1973,4.6124573,CanESM5,historical
+Cairo,1973,19.512848,CanESM5,historical
+Lagos,1973,25.968567,CanESM5,historical
+Nairobi,1973,21.214203,CanESM5,historical
+Cape Town,1973,17.986877,CanESM5,historical
+Riyadh,1973,22.659668,CanESM5,historical
+Tehran,1973,8.766296,CanESM5,historical
+Mumbai,1973,27.601715,CanESM5,historical
+Delhi,1973,23.586914,CanESM5,historical
+Dhaka,1973,26.630981,CanESM5,historical
+Beijing,1973,2.6549683,CanESM5,historical
+Shanghai,1973,13.545166,CanESM5,historical
+Tokyo,1973,17.874634,CanESM5,historical
+Singapore,1973,28.129883,CanESM5,historical
+Jakarta,1973,27.840912,CanESM5,historical
+Sydney,1973,19.673096,CanESM5,historical
+San Diego,1974,19.974792,CanESM5,historical
+Phoenix,1974,20.542786,CanESM5,historical
+New York,1974,13.487427,CanESM5,historical
+Miami,1974,23.294617,CanESM5,historical
+Anchorage,1974,0.005004883,CanESM5,historical
+Toronto,1974,7.875885,CanESM5,historical
+Mexico City,1974,19.465088,CanESM5,historical
+Lima,1974,18.193237,CanESM5,historical
+Sao Paulo,1974,20.841888,CanESM5,historical
+Buenos Aires,1974,14.744873,CanESM5,historical
+Reykjavik,1974,4.4860535,CanESM5,historical
+London,1974,9.618317,CanESM5,historical
+Paris,1974,11.00592,CanESM5,historical
+Madrid,1974,10.943756,CanESM5,historical
+Moscow,1974,6.0839233,CanESM5,historical
+Cairo,1974,20.556122,CanESM5,historical
+Lagos,1974,26.328705,CanESM5,historical
+Nairobi,1974,21.392273,CanESM5,historical
+Cape Town,1974,18.110352,CanESM5,historical
+Riyadh,1974,23.371582,CanESM5,historical
+Tehran,1974,10.022339,CanESM5,historical
+Mumbai,1974,28.002869,CanESM5,historical
+Delhi,1974,24.3732,CanESM5,historical
+Dhaka,1974,27.501709,CanESM5,historical
+Beijing,1974,2.5353394,CanESM5,historical
+Shanghai,1974,14.724915,CanESM5,historical
+Tokyo,1974,18.820892,CanESM5,historical
+Singapore,1974,28.417114,CanESM5,historical
+Jakarta,1974,27.867554,CanESM5,historical
+Sydney,1974,19.813385,CanESM5,historical
+San Diego,1975,20.98999,CanESM5,historical
+Phoenix,1975,22.341522,CanESM5,historical
+New York,1975,14.444122,CanESM5,historical
+Miami,1975,23.554535,CanESM5,historical
+Anchorage,1975,0.1852417,CanESM5,historical
+Toronto,1975,7.6808777,CanESM5,historical
+Mexico City,1975,17.853699,CanESM5,historical
+Lima,1975,17.355469,CanESM5,historical
+Sao Paulo,1975,20.55368,CanESM5,historical
+Buenos Aires,1975,15.516846,CanESM5,historical
+Reykjavik,1975,5.5294495,CanESM5,historical
+London,1975,9.218262,CanESM5,historical
+Paris,1975,10.279968,CanESM5,historical
+Madrid,1975,11.832092,CanESM5,historical
+Moscow,1975,6.369629,CanESM5,historical
+Cairo,1975,19.392395,CanESM5,historical
+Lagos,1975,25.793335,CanESM5,historical
+Nairobi,1975,18.892517,CanESM5,historical
+Cape Town,1975,18.406525,CanESM5,historical
+Riyadh,1975,22.281952,CanESM5,historical
+Tehran,1975,8.13855,CanESM5,historical
+Mumbai,1975,27.173157,CanESM5,historical
+Delhi,1975,23.419556,CanESM5,historical
+Dhaka,1975,26.783203,CanESM5,historical
+Beijing,1975,2.226471,CanESM5,historical
+Shanghai,1975,13.381958,CanESM5,historical
+Tokyo,1975,18.333069,CanESM5,historical
+Singapore,1975,28.16687,CanESM5,historical
+Jakarta,1975,27.837158,CanESM5,historical
+Sydney,1975,19.807678,CanESM5,historical
+San Diego,1976,20.712524,CanESM5,historical
+Phoenix,1976,22.115723,CanESM5,historical
+New York,1976,14.261597,CanESM5,historical
+Miami,1976,23.888428,CanESM5,historical
+Anchorage,1976,-1.5458984,CanESM5,historical
+Toronto,1976,7.42688,CanESM5,historical
+Mexico City,1976,18.621155,CanESM5,historical
+Lima,1976,17.403625,CanESM5,historical
+Sao Paulo,1976,20.606903,CanESM5,historical
+Buenos Aires,1976,16.3797,CanESM5,historical
+Reykjavik,1976,5.400482,CanESM5,historical
+London,1976,8.600861,CanESM5,historical
+Paris,1976,9.245361,CanESM5,historical
+Madrid,1976,10.478607,CanESM5,historical
+Moscow,1976,4.6779785,CanESM5,historical
+Cairo,1976,19.42511,CanESM5,historical
+Lagos,1976,25.630249,CanESM5,historical
+Nairobi,1976,20.554352,CanESM5,historical
+Cape Town,1976,17.357086,CanESM5,historical
+Riyadh,1976,22.665405,CanESM5,historical
+Tehran,1976,8.740631,CanESM5,historical
+Mumbai,1976,27.567535,CanESM5,historical
+Delhi,1976,23.990723,CanESM5,historical
+Dhaka,1976,27.150085,CanESM5,historical
+Beijing,1976,2.7280579,CanESM5,historical
+Shanghai,1976,13.508423,CanESM5,historical
+Tokyo,1976,18.099579,CanESM5,historical
+Singapore,1976,28.08139,CanESM5,historical
+Jakarta,1976,27.580902,CanESM5,historical
+Sydney,1976,19.529846,CanESM5,historical
+San Diego,1977,21.04834,CanESM5,historical
+Phoenix,1977,21.533203,CanESM5,historical
+New York,1977,14.634064,CanESM5,historical
+Miami,1977,23.793335,CanESM5,historical
+Anchorage,1977,0.96850586,CanESM5,historical
+Toronto,1977,8.65802,CanESM5,historical
+Mexico City,1977,19.117249,CanESM5,historical
+Lima,1977,17.74002,CanESM5,historical
+Sao Paulo,1977,21.345459,CanESM5,historical
+Buenos Aires,1977,14.39798,CanESM5,historical
+Reykjavik,1977,5.195984,CanESM5,historical
+London,1977,8.816956,CanESM5,historical
+Paris,1977,9.301025,CanESM5,historical
+Madrid,1977,10.48407,CanESM5,historical
+Moscow,1977,5.3894653,CanESM5,historical
+Cairo,1977,19.198364,CanESM5,historical
+Lagos,1977,26.080688,CanESM5,historical
+Nairobi,1977,21.33554,CanESM5,historical
+Cape Town,1977,18.398743,CanESM5,historical
+Riyadh,1977,22.714874,CanESM5,historical
+Tehran,1977,9.723206,CanESM5,historical
+Mumbai,1977,27.493927,CanESM5,historical
+Delhi,1977,24.249115,CanESM5,historical
+Dhaka,1977,26.804626,CanESM5,historical
+Beijing,1977,2.0633545,CanESM5,historical
+Shanghai,1977,13.770813,CanESM5,historical
+Tokyo,1977,18.121216,CanESM5,historical
+Singapore,1977,28.298126,CanESM5,historical
+Jakarta,1977,27.987274,CanESM5,historical
+Sydney,1977,19.840271,CanESM5,historical
+San Diego,1978,19.718323,CanESM5,historical
+Phoenix,1978,20.323853,CanESM5,historical
+New York,1978,14.647278,CanESM5,historical
+Miami,1978,24.097961,CanESM5,historical
+Anchorage,1978,0.72631836,CanESM5,historical
+Toronto,1978,7.1404114,CanESM5,historical
+Mexico City,1978,19.302734,CanESM5,historical
+Lima,1978,17.598236,CanESM5,historical
+Sao Paulo,1978,20.885803,CanESM5,historical
+Buenos Aires,1978,15.840149,CanESM5,historical
+Reykjavik,1978,4.504242,CanESM5,historical
+London,1978,9.211334,CanESM5,historical
+Paris,1978,10.786987,CanESM5,historical
+Madrid,1978,10.745422,CanESM5,historical
+Moscow,1978,6.6915283,CanESM5,historical
+Cairo,1978,20.203491,CanESM5,historical
+Lagos,1978,26.339264,CanESM5,historical
+Nairobi,1978,20.99237,CanESM5,historical
+Cape Town,1978,18.389282,CanESM5,historical
+Riyadh,1978,22.922089,CanESM5,historical
+Tehran,1978,8.983612,CanESM5,historical
+Mumbai,1978,27.583313,CanESM5,historical
+Delhi,1978,24.619873,CanESM5,historical
+Dhaka,1978,25.831818,CanESM5,historical
+Beijing,1978,3.8376465,CanESM5,historical
+Shanghai,1978,14.333954,CanESM5,historical
+Tokyo,1978,18.560486,CanESM5,historical
+Singapore,1978,28.273315,CanESM5,historical
+Jakarta,1978,27.986145,CanESM5,historical
+Sydney,1978,19.568115,CanESM5,historical
+San Diego,1979,19.528961,CanESM5,historical
+Phoenix,1979,21.339355,CanESM5,historical
+New York,1979,16.43518,CanESM5,historical
+Miami,1979,24.559875,CanESM5,historical
+Anchorage,1979,-1.9483032,CanESM5,historical
+Toronto,1979,10.187988,CanESM5,historical
+Mexico City,1979,18.302155,CanESM5,historical
+Lima,1979,16.828796,CanESM5,historical
+Sao Paulo,1979,20.282349,CanESM5,historical
+Buenos Aires,1979,15.999023,CanESM5,historical
+Reykjavik,1979,4.8861084,CanESM5,historical
+London,1979,10.006989,CanESM5,historical
+Paris,1979,10.67395,CanESM5,historical
+Madrid,1979,10.545563,CanESM5,historical
+Moscow,1979,3.725769,CanESM5,historical
+Cairo,1979,19.417877,CanESM5,historical
+Lagos,1979,25.914307,CanESM5,historical
+Nairobi,1979,19.293121,CanESM5,historical
+Cape Town,1979,17.822235,CanESM5,historical
+Riyadh,1979,23.061737,CanESM5,historical
+Tehran,1979,9.50238,CanESM5,historical
+Mumbai,1979,27.541138,CanESM5,historical
+Delhi,1979,23.573395,CanESM5,historical
+Dhaka,1979,25.317505,CanESM5,historical
+Beijing,1979,3.1474,CanESM5,historical
+Shanghai,1979,14.181519,CanESM5,historical
+Tokyo,1979,19.094513,CanESM5,historical
+Singapore,1979,28.21936,CanESM5,historical
+Jakarta,1979,27.774841,CanESM5,historical
+Sydney,1979,19.163635,CanESM5,historical
+San Diego,1980,19.823853,CanESM5,historical
+Phoenix,1980,20.940033,CanESM5,historical
+New York,1980,13.976044,CanESM5,historical
+Miami,1980,24.053864,CanESM5,historical
+Anchorage,1980,-0.5937805,CanESM5,historical
+Toronto,1980,7.445526,CanESM5,historical
+Mexico City,1980,18.839417,CanESM5,historical
+Lima,1980,17.816162,CanESM5,historical
+Sao Paulo,1980,20.769958,CanESM5,historical
+Buenos Aires,1980,15.527771,CanESM5,historical
+Reykjavik,1980,5.26532,CanESM5,historical
+London,1980,9.583588,CanESM5,historical
+Paris,1980,10.799194,CanESM5,historical
+Madrid,1980,11.414429,CanESM5,historical
+Moscow,1980,4.9943542,CanESM5,historical
+Cairo,1980,19.128845,CanESM5,historical
+Lagos,1980,26.173157,CanESM5,historical
+Nairobi,1980,19.843842,CanESM5,historical
+Cape Town,1980,17.935852,CanESM5,historical
+Riyadh,1980,23.139832,CanESM5,historical
+Tehran,1980,9.009155,CanESM5,historical
+Mumbai,1980,27.317322,CanESM5,historical
+Delhi,1980,23.754883,CanESM5,historical
+Dhaka,1980,26.25586,CanESM5,historical
+Beijing,1980,3.36792,CanESM5,historical
+Shanghai,1980,14.701721,CanESM5,historical
+Tokyo,1980,18.789978,CanESM5,historical
+Singapore,1980,28.162018,CanESM5,historical
+Jakarta,1980,27.824524,CanESM5,historical
+Sydney,1980,19.378845,CanESM5,historical
+San Diego,1981,20.831848,CanESM5,historical
+Phoenix,1981,21.991425,CanESM5,historical
+New York,1981,14.096436,CanESM5,historical
+Miami,1981,24.073914,CanESM5,historical
+Anchorage,1981,-1.7762451,CanESM5,historical
+Toronto,1981,7.562439,CanESM5,historical
+Mexico City,1981,19.196533,CanESM5,historical
+Lima,1981,18.125458,CanESM5,historical
+Sao Paulo,1981,20.914001,CanESM5,historical
+Buenos Aires,1981,15.736816,CanESM5,historical
+Reykjavik,1981,5.1304626,CanESM5,historical
+London,1981,9.784058,CanESM5,historical
+Paris,1981,10.383606,CanESM5,historical
+Madrid,1981,10.446167,CanESM5,historical
+Moscow,1981,3.864563,CanESM5,historical
+Cairo,1981,19.12558,CanESM5,historical
+Lagos,1981,26.38617,CanESM5,historical
+Nairobi,1981,20.893341,CanESM5,historical
+Cape Town,1981,18.080872,CanESM5,historical
+Riyadh,1981,23.595123,CanESM5,historical
+Tehran,1981,9.531403,CanESM5,historical
+Mumbai,1981,27.606964,CanESM5,historical
+Delhi,1981,23.74524,CanESM5,historical
+Dhaka,1981,25.415741,CanESM5,historical
+Beijing,1981,1.81427,CanESM5,historical
+Shanghai,1981,13.425781,CanESM5,historical
+Tokyo,1981,18.397339,CanESM5,historical
+Singapore,1981,28.28189,CanESM5,historical
+Jakarta,1981,27.907104,CanESM5,historical
+Sydney,1981,19.881897,CanESM5,historical
+San Diego,1982,19.998657,CanESM5,historical
+Phoenix,1982,20.758026,CanESM5,historical
+New York,1982,13.655945,CanESM5,historical
+Miami,1982,24.160095,CanESM5,historical
+Anchorage,1982,-0.48165894,CanESM5,historical
+Toronto,1982,6.9978027,CanESM5,historical
+Mexico City,1982,19.682373,CanESM5,historical
+Lima,1982,18.20642,CanESM5,historical
+Sao Paulo,1982,22.144318,CanESM5,historical
+Buenos Aires,1982,15.0303955,CanESM5,historical
+Reykjavik,1982,5.3311462,CanESM5,historical
+London,1982,10.005707,CanESM5,historical
+Paris,1982,10.427338,CanESM5,historical
+Madrid,1982,10.381439,CanESM5,historical
+Moscow,1982,5.6359253,CanESM5,historical
+Cairo,1982,19.874298,CanESM5,historical
+Lagos,1982,26.130676,CanESM5,historical
+Nairobi,1982,21.422546,CanESM5,historical
+Cape Town,1982,18.023956,CanESM5,historical
+Riyadh,1982,22.909576,CanESM5,historical
+Tehran,1982,9.0399475,CanESM5,historical
+Mumbai,1982,27.556122,CanESM5,historical
+Delhi,1982,24.696198,CanESM5,historical
+Dhaka,1982,26.987488,CanESM5,historical
+Beijing,1982,3.0412292,CanESM5,historical
+Shanghai,1982,14.309479,CanESM5,historical
+Tokyo,1982,18.444458,CanESM5,historical
+Singapore,1982,28.529602,CanESM5,historical
+Jakarta,1982,28.010986,CanESM5,historical
+Sydney,1982,19.562408,CanESM5,historical
+San Diego,1983,19.984314,CanESM5,historical
+Phoenix,1983,21.89743,CanESM5,historical
+New York,1983,14.362579,CanESM5,historical
+Miami,1983,24.253754,CanESM5,historical
+Anchorage,1983,-0.81643677,CanESM5,historical
+Toronto,1983,8.099701,CanESM5,historical
+Mexico City,1983,18.390778,CanESM5,historical
+Lima,1983,17.678833,CanESM5,historical
+Sao Paulo,1983,21.508636,CanESM5,historical
+Buenos Aires,1983,15.142181,CanESM5,historical
+Reykjavik,1983,5.2493896,CanESM5,historical
+London,1983,10.122345,CanESM5,historical
+Paris,1983,11.516968,CanESM5,historical
+Madrid,1983,12.528961,CanESM5,historical
+Moscow,1983,4.323883,CanESM5,historical
+Cairo,1983,19.956177,CanESM5,historical
+Lagos,1983,26.17987,CanESM5,historical
+Nairobi,1983,20.33664,CanESM5,historical
+Cape Town,1983,18.072327,CanESM5,historical
+Riyadh,1983,22.948425,CanESM5,historical
+Tehran,1983,9.629578,CanESM5,historical
+Mumbai,1983,27.453705,CanESM5,historical
+Delhi,1983,24.351044,CanESM5,historical
+Dhaka,1983,26.646667,CanESM5,historical
+Beijing,1983,2.2651062,CanESM5,historical
+Shanghai,1983,13.581177,CanESM5,historical
+Tokyo,1983,18.617798,CanESM5,historical
+Singapore,1983,28.448578,CanESM5,historical
+Jakarta,1983,27.831818,CanESM5,historical
+Sydney,1983,19.362335,CanESM5,historical
+San Diego,1984,19.10559,CanESM5,historical
+Phoenix,1984,21.119293,CanESM5,historical
+New York,1984,15.760712,CanESM5,historical
+Miami,1984,24.757751,CanESM5,historical
+Anchorage,1984,-2.238739,CanESM5,historical
+Toronto,1984,9.155029,CanESM5,historical
+Mexico City,1984,18.763062,CanESM5,historical
+Lima,1984,17.63263,CanESM5,historical
+Sao Paulo,1984,21.079102,CanESM5,historical
+Buenos Aires,1984,15.686768,CanESM5,historical
+Reykjavik,1984,5.304291,CanESM5,historical
+London,1984,10.549225,CanESM5,historical
+Paris,1984,11.467041,CanESM5,historical
+Madrid,1984,11.232452,CanESM5,historical
+Moscow,1984,5.206299,CanESM5,historical
+Cairo,1984,19.189209,CanESM5,historical
+Lagos,1984,25.931519,CanESM5,historical
+Nairobi,1984,20.269287,CanESM5,historical
+Cape Town,1984,17.844025,CanESM5,historical
+Riyadh,1984,23.21637,CanESM5,historical
+Tehran,1984,9.342957,CanESM5,historical
+Mumbai,1984,27.845215,CanESM5,historical
+Delhi,1984,24.365814,CanESM5,historical
+Dhaka,1984,25.806152,CanESM5,historical
+Beijing,1984,2.5605164,CanESM5,historical
+Shanghai,1984,13.596252,CanESM5,historical
+Tokyo,1984,18.776398,CanESM5,historical
+Singapore,1984,28.219757,CanESM5,historical
+Jakarta,1984,27.662354,CanESM5,historical
+Sydney,1984,19.960907,CanESM5,historical
+San Diego,1985,19.586884,CanESM5,historical
+Phoenix,1985,21.970093,CanESM5,historical
+New York,1985,15.109863,CanESM5,historical
+Miami,1985,24.087402,CanESM5,historical
+Anchorage,1985,-1.8236694,CanESM5,historical
+Toronto,1985,8.80249,CanESM5,historical
+Mexico City,1985,18.503174,CanESM5,historical
+Lima,1985,17.36267,CanESM5,historical
+Sao Paulo,1985,20.005798,CanESM5,historical
+Buenos Aires,1985,15.453583,CanESM5,historical
+Reykjavik,1985,4.9458313,CanESM5,historical
+London,1985,9.672485,CanESM5,historical
+Paris,1985,10.710388,CanESM5,historical
+Madrid,1985,11.3396,CanESM5,historical
+Moscow,1985,6.210388,CanESM5,historical
+Cairo,1985,19.574371,CanESM5,historical
+Lagos,1985,25.97931,CanESM5,historical
+Nairobi,1985,21.026794,CanESM5,historical
+Cape Town,1985,18.263306,CanESM5,historical
+Riyadh,1985,23.473328,CanESM5,historical
+Tehran,1985,10.2960205,CanESM5,historical
+Mumbai,1985,27.052856,CanESM5,historical
+Delhi,1985,23.34085,CanESM5,historical
+Dhaka,1985,25.076385,CanESM5,historical
+Beijing,1985,2.704956,CanESM5,historical
+Shanghai,1985,14.074249,CanESM5,historical
+Tokyo,1985,18.844727,CanESM5,historical
+Singapore,1985,28.119263,CanESM5,historical
+Jakarta,1985,27.706207,CanESM5,historical
+Sydney,1985,19.241852,CanESM5,historical
+San Diego,1986,20.511932,CanESM5,historical
+Phoenix,1986,22.465881,CanESM5,historical
+New York,1986,15.863251,CanESM5,historical
+Miami,1986,24.415588,CanESM5,historical
+Anchorage,1986,-1.177124,CanESM5,historical
+Toronto,1986,9.431335,CanESM5,historical
+Mexico City,1986,18.33258,CanESM5,historical
+Lima,1986,17.359863,CanESM5,historical
+Sao Paulo,1986,21.032715,CanESM5,historical
+Buenos Aires,1986,15.936005,CanESM5,historical
+Reykjavik,1986,4.529907,CanESM5,historical
+London,1986,9.673035,CanESM5,historical
+Paris,1986,10.502472,CanESM5,historical
+Madrid,1986,12.0159,CanESM5,historical
+Moscow,1986,6.369049,CanESM5,historical
+Cairo,1986,18.653687,CanESM5,historical
+Lagos,1986,25.498383,CanESM5,historical
+Nairobi,1986,20.403107,CanESM5,historical
+Cape Town,1986,17.69104,CanESM5,historical
+Riyadh,1986,22.764954,CanESM5,historical
+Tehran,1986,9.060699,CanESM5,historical
+Mumbai,1986,27.29071,CanESM5,historical
+Delhi,1986,23.821594,CanESM5,historical
+Dhaka,1986,26.529236,CanESM5,historical
+Beijing,1986,3.0430908,CanESM5,historical
+Shanghai,1986,13.81842,CanESM5,historical
+Tokyo,1986,18.995178,CanESM5,historical
+Singapore,1986,28.150757,CanESM5,historical
+Jakarta,1986,27.738129,CanESM5,historical
+Sydney,1986,19.245544,CanESM5,historical
+San Diego,1987,21.169128,CanESM5,historical
+Phoenix,1987,22.38562,CanESM5,historical
+New York,1987,13.820465,CanESM5,historical
+Miami,1987,23.662292,CanESM5,historical
+Anchorage,1987,-0.0072631836,CanESM5,historical
+Toronto,1987,7.643524,CanESM5,historical
+Mexico City,1987,19.02417,CanESM5,historical
+Lima,1987,17.98288,CanESM5,historical
+Sao Paulo,1987,20.361084,CanESM5,historical
+Buenos Aires,1987,16.498566,CanESM5,historical
+Reykjavik,1987,5.3358765,CanESM5,historical
+London,1987,10.219177,CanESM5,historical
+Paris,1987,11.350433,CanESM5,historical
+Madrid,1987,11.917725,CanESM5,historical
+Moscow,1987,3.6933594,CanESM5,historical
+Cairo,1987,19.690887,CanESM5,historical
+Lagos,1987,26.419495,CanESM5,historical
+Nairobi,1987,21.190979,CanESM5,historical
+Cape Town,1987,17.886719,CanESM5,historical
+Riyadh,1987,22.775574,CanESM5,historical
+Tehran,1987,10.531738,CanESM5,historical
+Mumbai,1987,28.093842,CanESM5,historical
+Delhi,1987,24.622498,CanESM5,historical
+Dhaka,1987,27.079529,CanESM5,historical
+Beijing,1987,2.369995,CanESM5,historical
+Shanghai,1987,13.582581,CanESM5,historical
+Tokyo,1987,18.15448,CanESM5,historical
+Singapore,1987,28.230255,CanESM5,historical
+Jakarta,1987,27.87912,CanESM5,historical
+Sydney,1987,19.636719,CanESM5,historical
+San Diego,1988,19.713867,CanESM5,historical
+Phoenix,1988,22.156311,CanESM5,historical
+New York,1988,14.78479,CanESM5,historical
+Miami,1988,24.670654,CanESM5,historical
+Anchorage,1988,-2.1914368,CanESM5,historical
+Toronto,1988,9.107025,CanESM5,historical
+Mexico City,1988,19.191895,CanESM5,historical
+Lima,1988,18.069,CanESM5,historical
+Sao Paulo,1988,21.268127,CanESM5,historical
+Buenos Aires,1988,15.405182,CanESM5,historical
+Reykjavik,1988,5.167755,CanESM5,historical
+London,1988,10.177185,CanESM5,historical
+Paris,1988,11.005859,CanESM5,historical
+Madrid,1988,11.34314,CanESM5,historical
+Moscow,1988,4.9938354,CanESM5,historical
+Cairo,1988,19.662079,CanESM5,historical
+Lagos,1988,26.449493,CanESM5,historical
+Nairobi,1988,21.097534,CanESM5,historical
+Cape Town,1988,18.275757,CanESM5,historical
+Riyadh,1988,22.80835,CanESM5,historical
+Tehran,1988,9.549072,CanESM5,historical
+Mumbai,1988,27.750885,CanESM5,historical
+Delhi,1988,24.470703,CanESM5,historical
+Dhaka,1988,25.70996,CanESM5,historical
+Beijing,1988,3.4846497,CanESM5,historical
+Shanghai,1988,14.705811,CanESM5,historical
+Tokyo,1988,18.720276,CanESM5,historical
+Singapore,1988,28.39212,CanESM5,historical
+Jakarta,1988,27.902954,CanESM5,historical
+Sydney,1988,19.678192,CanESM5,historical
+San Diego,1989,20.528748,CanESM5,historical
+Phoenix,1989,22.197021,CanESM5,historical
+New York,1989,14.756836,CanESM5,historical
+Miami,1989,24.24701,CanESM5,historical
+Anchorage,1989,-0.7312012,CanESM5,historical
+Toronto,1989,8.050415,CanESM5,historical
+Mexico City,1989,19.81305,CanESM5,historical
+Lima,1989,18.020264,CanESM5,historical
+Sao Paulo,1989,20.19806,CanESM5,historical
+Buenos Aires,1989,16.482178,CanESM5,historical
+Reykjavik,1989,5.072754,CanESM5,historical
+London,1989,10.254089,CanESM5,historical
+Paris,1989,10.727112,CanESM5,historical
+Madrid,1989,11.083191,CanESM5,historical
+Moscow,1989,5.584717,CanESM5,historical
+Cairo,1989,19.297241,CanESM5,historical
+Lagos,1989,26.144806,CanESM5,historical
+Nairobi,1989,20.469177,CanESM5,historical
+Cape Town,1989,18.268738,CanESM5,historical
+Riyadh,1989,23.070007,CanESM5,historical
+Tehran,1989,9.8463745,CanESM5,historical
+Mumbai,1989,27.480438,CanESM5,historical
+Delhi,1989,24.643127,CanESM5,historical
+Dhaka,1989,25.930481,CanESM5,historical
+Beijing,1989,2.2947998,CanESM5,historical
+Shanghai,1989,14.412903,CanESM5,historical
+Tokyo,1989,18.56549,CanESM5,historical
+Singapore,1989,28.414062,CanESM5,historical
+Jakarta,1989,28.171783,CanESM5,historical
+Sydney,1989,19.718292,CanESM5,historical
+San Diego,1990,19.970184,CanESM5,historical
+Phoenix,1990,22.105347,CanESM5,historical
+New York,1990,15.15802,CanESM5,historical
+Miami,1990,24.564484,CanESM5,historical
+Anchorage,1990,-2.1061707,CanESM5,historical
+Toronto,1990,9.011414,CanESM5,historical
+Mexico City,1990,19.098541,CanESM5,historical
+Lima,1990,17.938354,CanESM5,historical
+Sao Paulo,1990,20.716187,CanESM5,historical
+Buenos Aires,1990,15.773132,CanESM5,historical
+Reykjavik,1990,4.431122,CanESM5,historical
+London,1990,9.4973755,CanESM5,historical
+Paris,1990,10.736847,CanESM5,historical
+Madrid,1990,12.839691,CanESM5,historical
+Moscow,1990,6.6013794,CanESM5,historical
+Cairo,1990,19.632202,CanESM5,historical
+Lagos,1990,26.339874,CanESM5,historical
+Nairobi,1990,20.067688,CanESM5,historical
+Cape Town,1990,17.99408,CanESM5,historical
+Riyadh,1990,23.583008,CanESM5,historical
+Tehran,1990,10.723938,CanESM5,historical
+Mumbai,1990,27.608307,CanESM5,historical
+Delhi,1990,24.215271,CanESM5,historical
+Dhaka,1990,26.471252,CanESM5,historical
+Beijing,1990,3.0223083,CanESM5,historical
+Shanghai,1990,14.009186,CanESM5,historical
+Tokyo,1990,18.978699,CanESM5,historical
+Singapore,1990,28.39624,CanESM5,historical
+Jakarta,1990,28.124573,CanESM5,historical
+Sydney,1990,19.62088,CanESM5,historical
+San Diego,1991,18.350037,CanESM5,historical
+Phoenix,1991,20.206482,CanESM5,historical
+New York,1991,14.869812,CanESM5,historical
+Miami,1991,24.979492,CanESM5,historical
+Anchorage,1991,-0.69869995,CanESM5,historical
+Toronto,1991,8.312866,CanESM5,historical
+Mexico City,1991,19.68634,CanESM5,historical
+Lima,1991,17.834991,CanESM5,historical
+Sao Paulo,1991,21.064514,CanESM5,historical
+Buenos Aires,1991,15.342316,CanESM5,historical
+Reykjavik,1991,4.2536926,CanESM5,historical
+London,1991,9.506531,CanESM5,historical
+Paris,1991,10.880737,CanESM5,historical
+Madrid,1991,12.473572,CanESM5,historical
+Moscow,1991,6.364807,CanESM5,historical
+Cairo,1991,19.964355,CanESM5,historical
+Lagos,1991,26.109741,CanESM5,historical
+Nairobi,1991,20.121735,CanESM5,historical
+Cape Town,1991,18.410889,CanESM5,historical
+Riyadh,1991,23.084412,CanESM5,historical
+Tehran,1991,8.837585,CanESM5,historical
+Mumbai,1991,27.774597,CanESM5,historical
+Delhi,1991,24.337952,CanESM5,historical
+Dhaka,1991,26.977356,CanESM5,historical
+Beijing,1991,3.831665,CanESM5,historical
+Shanghai,1991,14.657959,CanESM5,historical
+Tokyo,1991,19.34317,CanESM5,historical
+Singapore,1991,28.214844,CanESM5,historical
+Jakarta,1991,27.917725,CanESM5,historical
+Sydney,1991,19.901733,CanESM5,historical
+San Diego,1992,19.35147,CanESM5,historical
+Phoenix,1992,20.937561,CanESM5,historical
+New York,1992,14.702148,CanESM5,historical
+Miami,1992,23.952362,CanESM5,historical
+Anchorage,1992,-1.2144165,CanESM5,historical
+Toronto,1992,8.82959,CanESM5,historical
+Mexico City,1992,19.31839,CanESM5,historical
+Lima,1992,17.783356,CanESM5,historical
+Sao Paulo,1992,20.619476,CanESM5,historical
+Buenos Aires,1992,15.560303,CanESM5,historical
+Reykjavik,1992,4.314148,CanESM5,historical
+London,1992,9.28067,CanESM5,historical
+Paris,1992,10.132416,CanESM5,historical
+Madrid,1992,11.59671,CanESM5,historical
+Moscow,1992,3.8269653,CanESM5,historical
+Cairo,1992,19.163483,CanESM5,historical
+Lagos,1992,25.820038,CanESM5,historical
+Nairobi,1992,20.926636,CanESM5,historical
+Cape Town,1992,18.266602,CanESM5,historical
+Riyadh,1992,22.366364,CanESM5,historical
+Tehran,1992,9.014954,CanESM5,historical
+Mumbai,1992,27.96637,CanESM5,historical
+Delhi,1992,23.63556,CanESM5,historical
+Dhaka,1992,26.182495,CanESM5,historical
+Beijing,1992,2.325348,CanESM5,historical
+Shanghai,1992,13.941345,CanESM5,historical
+Tokyo,1992,18.178833,CanESM5,historical
+Singapore,1992,28.18216,CanESM5,historical
+Jakarta,1992,27.797546,CanESM5,historical
+Sydney,1992,19.957031,CanESM5,historical
+San Diego,1993,19.85379,CanESM5,historical
+Phoenix,1993,22.29889,CanESM5,historical
+New York,1993,14.835388,CanESM5,historical
+Miami,1993,23.933899,CanESM5,historical
+Anchorage,1993,-1.4226074,CanESM5,historical
+Toronto,1993,7.656311,CanESM5,historical
+Mexico City,1993,18.72699,CanESM5,historical
+Lima,1993,17.178284,CanESM5,historical
+Sao Paulo,1993,20.774261,CanESM5,historical
+Buenos Aires,1993,14.516357,CanESM5,historical
+Reykjavik,1993,2.8895264,CanESM5,historical
+London,1993,9.355286,CanESM5,historical
+Paris,1993,10.373596,CanESM5,historical
+Madrid,1993,11.874695,CanESM5,historical
+Moscow,1993,5.515564,CanESM5,historical
+Cairo,1993,19.12622,CanESM5,historical
+Lagos,1993,25.691528,CanESM5,historical
+Nairobi,1993,20.177124,CanESM5,historical
+Cape Town,1993,18.2948,CanESM5,historical
+Riyadh,1993,22.403381,CanESM5,historical
+Tehran,1993,10.268311,CanESM5,historical
+Mumbai,1993,27.115295,CanESM5,historical
+Delhi,1993,23.531525,CanESM5,historical
+Dhaka,1993,25.771729,CanESM5,historical
+Beijing,1993,1.7834473,CanESM5,historical
+Shanghai,1993,13.340515,CanESM5,historical
+Tokyo,1993,18.621094,CanESM5,historical
+Singapore,1993,28.007019,CanESM5,historical
+Jakarta,1993,27.609192,CanESM5,historical
+Sydney,1993,19.282837,CanESM5,historical
+San Diego,1994,19.97406,CanESM5,historical
+Phoenix,1994,22.371552,CanESM5,historical
+New York,1994,14.559662,CanESM5,historical
+Miami,1994,23.984253,CanESM5,historical
+Anchorage,1994,-1.2039185,CanESM5,historical
+Toronto,1994,8.104309,CanESM5,historical
+Mexico City,1994,18.800018,CanESM5,historical
+Lima,1994,17.812225,CanESM5,historical
+Sao Paulo,1994,20.772278,CanESM5,historical
+Buenos Aires,1994,14.7977295,CanESM5,historical
+Reykjavik,1994,4.4709473,CanESM5,historical
+London,1994,10.187866,CanESM5,historical
+Paris,1994,11.5703125,CanESM5,historical
+Madrid,1994,11.809479,CanESM5,historical
+Moscow,1994,5.364685,CanESM5,historical
+Cairo,1994,19.663849,CanESM5,historical
+Lagos,1994,26.020203,CanESM5,historical
+Nairobi,1994,21.02246,CanESM5,historical
+Cape Town,1994,18.00943,CanESM5,historical
+Riyadh,1994,22.563354,CanESM5,historical
+Tehran,1994,9.54303,CanESM5,historical
+Mumbai,1994,27.456665,CanESM5,historical
+Delhi,1994,23.702515,CanESM5,historical
+Dhaka,1994,26.958344,CanESM5,historical
+Beijing,1994,4.3086243,CanESM5,historical
+Shanghai,1994,14.924164,CanESM5,historical
+Tokyo,1994,19.272766,CanESM5,historical
+Singapore,1994,28.233917,CanESM5,historical
+Jakarta,1994,27.81012,CanESM5,historical
+Sydney,1994,19.50882,CanESM5,historical
+San Diego,1995,19.65155,CanESM5,historical
+Phoenix,1995,22.192627,CanESM5,historical
+New York,1995,15.289978,CanESM5,historical
+Miami,1995,24.532837,CanESM5,historical
+Anchorage,1995,-1.3100281,CanESM5,historical
+Toronto,1995,8.835297,CanESM5,historical
+Mexico City,1995,19.065735,CanESM5,historical
+Lima,1995,17.755707,CanESM5,historical
+Sao Paulo,1995,20.864044,CanESM5,historical
+Buenos Aires,1995,15.1423645,CanESM5,historical
+Reykjavik,1995,4.8417664,CanESM5,historical
+London,1995,10.09021,CanESM5,historical
+Paris,1995,11.629395,CanESM5,historical
+Madrid,1995,12.586487,CanESM5,historical
+Moscow,1995,6.6259766,CanESM5,historical
+Cairo,1995,20.033325,CanESM5,historical
+Lagos,1995,25.947998,CanESM5,historical
+Nairobi,1995,20.395355,CanESM5,historical
+Cape Town,1995,18.016663,CanESM5,historical
+Riyadh,1995,23.686707,CanESM5,historical
+Tehran,1995,10.181824,CanESM5,historical
+Mumbai,1995,27.75592,CanESM5,historical
+Delhi,1995,24.376312,CanESM5,historical
+Dhaka,1995,26.746338,CanESM5,historical
+Beijing,1995,3.6419067,CanESM5,historical
+Shanghai,1995,14.836548,CanESM5,historical
+Tokyo,1995,19.16803,CanESM5,historical
+Singapore,1995,28.351135,CanESM5,historical
+Jakarta,1995,28.112946,CanESM5,historical
+Sydney,1995,19.291443,CanESM5,historical
+San Diego,1996,20.049988,CanESM5,historical
+Phoenix,1996,21.451416,CanESM5,historical
+New York,1996,14.5047,CanESM5,historical
+Miami,1996,24.063385,CanESM5,historical
+Anchorage,1996,-0.18780518,CanESM5,historical
+Toronto,1996,8.495483,CanESM5,historical
+Mexico City,1996,19.43155,CanESM5,historical
+Lima,1996,18.059082,CanESM5,historical
+Sao Paulo,1996,20.972656,CanESM5,historical
+Buenos Aires,1996,15.285278,CanESM5,historical
+Reykjavik,1996,4.647217,CanESM5,historical
+London,1996,9.778503,CanESM5,historical
+Paris,1996,10.552338,CanESM5,historical
+Madrid,1996,12.621765,CanESM5,historical
+Moscow,1996,6.177826,CanESM5,historical
+Cairo,1996,19.454742,CanESM5,historical
+Lagos,1996,26.399506,CanESM5,historical
+Nairobi,1996,20.165253,CanESM5,historical
+Cape Town,1996,17.931122,CanESM5,historical
+Riyadh,1996,23.596008,CanESM5,historical
+Tehran,1996,9.849579,CanESM5,historical
+Mumbai,1996,27.94571,CanESM5,historical
+Delhi,1996,23.95514,CanESM5,historical
+Dhaka,1996,27.39392,CanESM5,historical
+Beijing,1996,2.8796997,CanESM5,historical
+Shanghai,1996,14.441345,CanESM5,historical
+Tokyo,1996,19.2612,CanESM5,historical
+Singapore,1996,28.711304,CanESM5,historical
+Jakarta,1996,28.16858,CanESM5,historical
+Sydney,1996,19.295197,CanESM5,historical
+San Diego,1997,21.192383,CanESM5,historical
+Phoenix,1997,22.791382,CanESM5,historical
+New York,1997,15.066162,CanESM5,historical
+Miami,1997,24.437775,CanESM5,historical
+Anchorage,1997,0.22671509,CanESM5,historical
+Toronto,1997,8.839722,CanESM5,historical
+Mexico City,1997,19.777283,CanESM5,historical
+Lima,1997,18.266418,CanESM5,historical
+Sao Paulo,1997,21.824738,CanESM5,historical
+Buenos Aires,1997,15.923035,CanESM5,historical
+Reykjavik,1997,4.897217,CanESM5,historical
+London,1997,8.945068,CanESM5,historical
+Paris,1997,9.632141,CanESM5,historical
+Madrid,1997,11.512909,CanESM5,historical
+Moscow,1997,4.14209,CanESM5,historical
+Cairo,1997,19.728485,CanESM5,historical
+Lagos,1997,26.77649,CanESM5,historical
+Nairobi,1997,22.068207,CanESM5,historical
+Cape Town,1997,18.317505,CanESM5,historical
+Riyadh,1997,23.572113,CanESM5,historical
+Tehran,1997,9.952362,CanESM5,historical
+Mumbai,1997,28.195343,CanESM5,historical
+Delhi,1997,24.687439,CanESM5,historical
+Dhaka,1997,27.15741,CanESM5,historical
+Beijing,1997,3.1860352,CanESM5,historical
+Shanghai,1997,14.145996,CanESM5,historical
+Tokyo,1997,18.400787,CanESM5,historical
+Singapore,1997,28.715942,CanESM5,historical
+Jakarta,1997,28.286804,CanESM5,historical
+Sydney,1997,20.130157,CanESM5,historical
+San Diego,1998,21.149841,CanESM5,historical
+Phoenix,1998,22.896149,CanESM5,historical
+New York,1998,15.9852295,CanESM5,historical
+Miami,1998,24.549438,CanESM5,historical
+Anchorage,1998,-0.0030212402,CanESM5,historical
+Toronto,1998,9.973236,CanESM5,historical
+Mexico City,1998,19.436584,CanESM5,historical
+Lima,1998,18.21878,CanESM5,historical
+Sao Paulo,1998,21.767029,CanESM5,historical
+Buenos Aires,1998,15.844391,CanESM5,historical
+Reykjavik,1998,5.0008545,CanESM5,historical
+London,1998,10.314819,CanESM5,historical
+Paris,1998,10.862549,CanESM5,historical
+Madrid,1998,11.024536,CanESM5,historical
+Moscow,1998,6.651245,CanESM5,historical
+Cairo,1998,19.31308,CanESM5,historical
+Lagos,1998,26.330109,CanESM5,historical
+Nairobi,1998,21.89685,CanESM5,historical
+Cape Town,1998,18.659851,CanESM5,historical
+Riyadh,1998,24.293213,CanESM5,historical
+Tehran,1998,10.860474,CanESM5,historical
+Mumbai,1998,27.493896,CanESM5,historical
+Delhi,1998,23.614288,CanESM5,historical
+Dhaka,1998,26.453552,CanESM5,historical
+Beijing,1998,2.5058594,CanESM5,historical
+Shanghai,1998,14.382263,CanESM5,historical
+Tokyo,1998,18.423645,CanESM5,historical
+Singapore,1998,28.715149,CanESM5,historical
+Jakarta,1998,28.307251,CanESM5,historical
+Sydney,1998,19.672913,CanESM5,historical
+San Diego,1999,20.332336,CanESM5,historical
+Phoenix,1999,21.977936,CanESM5,historical
+New York,1999,16.073395,CanESM5,historical
+Miami,1999,25.034363,CanESM5,historical
+Anchorage,1999,-0.36462402,CanESM5,historical
+Toronto,1999,9.5147705,CanESM5,historical
+Mexico City,1999,20.173706,CanESM5,historical
+Lima,1999,18.795166,CanESM5,historical
+Sao Paulo,1999,20.829224,CanESM5,historical
+Buenos Aires,1999,15.619598,CanESM5,historical
+Reykjavik,1999,5.706848,CanESM5,historical
+London,1999,11.063171,CanESM5,historical
+Paris,1999,12.017151,CanESM5,historical
+Madrid,1999,12.092041,CanESM5,historical
+Moscow,1999,6.2058105,CanESM5,historical
+Cairo,1999,20.332428,CanESM5,historical
+Lagos,1999,26.913574,CanESM5,historical
+Nairobi,1999,22.27893,CanESM5,historical
+Cape Town,1999,18.62085,CanESM5,historical
+Riyadh,1999,24.0401,CanESM5,historical
+Tehran,1999,10.733093,CanESM5,historical
+Mumbai,1999,28.326355,CanESM5,historical
+Delhi,1999,25.431824,CanESM5,historical
+Dhaka,1999,26.67514,CanESM5,historical
+Beijing,1999,3.102295,CanESM5,historical
+Shanghai,1999,14.188171,CanESM5,historical
+Tokyo,1999,18.898438,CanESM5,historical
+Singapore,1999,28.638367,CanESM5,historical
+Jakarta,1999,28.397644,CanESM5,historical
+Sydney,1999,19.798096,CanESM5,historical
+San Diego,2000,21.381622,CanESM5,historical
+Phoenix,2000,23.1109,CanESM5,historical
+New York,2000,15.349396,CanESM5,historical
+Miami,2000,24.369385,CanESM5,historical
+Anchorage,2000,-1.2658691,CanESM5,historical
+Toronto,2000,8.661041,CanESM5,historical
+Mexico City,2000,19.362122,CanESM5,historical
+Lima,2000,18.288544,CanESM5,historical
+Sao Paulo,2000,21.661407,CanESM5,historical
+Buenos Aires,2000,16.047058,CanESM5,historical
+Reykjavik,2000,5.6164246,CanESM5,historical
+London,2000,10.569183,CanESM5,historical
+Paris,2000,11.594177,CanESM5,historical
+Madrid,2000,12.105103,CanESM5,historical
+Moscow,2000,5.093628,CanESM5,historical
+Cairo,2000,20.2258,CanESM5,historical
+Lagos,2000,26.62024,CanESM5,historical
+Nairobi,2000,20.572083,CanESM5,historical
+Cape Town,2000,18.694946,CanESM5,historical
+Riyadh,2000,23.914825,CanESM5,historical
+Tehran,2000,11.599548,CanESM5,historical
+Mumbai,2000,28.057495,CanESM5,historical
+Delhi,2000,24.84616,CanESM5,historical
+Dhaka,2000,27.782104,CanESM5,historical
+Beijing,2000,4.0108643,CanESM5,historical
+Shanghai,2000,15.280762,CanESM5,historical
+Tokyo,2000,19.225647,CanESM5,historical
+Singapore,2000,28.934235,CanESM5,historical
+Jakarta,2000,28.591736,CanESM5,historical
+Sydney,2000,19.961609,CanESM5,historical
+San Diego,2001,20.602325,CanESM5,historical
+Phoenix,2001,22.677216,CanESM5,historical
+New York,2001,14.526642,CanESM5,historical
+Miami,2001,23.980988,CanESM5,historical
+Anchorage,2001,-0.427948,CanESM5,historical
+Toronto,2001,8.715149,CanESM5,historical
+Mexico City,2001,19.225342,CanESM5,historical
+Lima,2001,17.813171,CanESM5,historical
+Sao Paulo,2001,20.977814,CanESM5,historical
+Buenos Aires,2001,16.262634,CanESM5,historical
+Reykjavik,2001,6.1324463,CanESM5,historical
+London,2001,10.470703,CanESM5,historical
+Paris,2001,11.416992,CanESM5,historical
+Madrid,2001,12.635986,CanESM5,historical
+Moscow,2001,7.1049805,CanESM5,historical
+Cairo,2001,20.409943,CanESM5,historical
+Lagos,2001,26.43341,CanESM5,historical
+Nairobi,2001,21.782654,CanESM5,historical
+Cape Town,2001,18.421448,CanESM5,historical
+Riyadh,2001,24.038818,CanESM5,historical
+Tehran,2001,11.958252,CanESM5,historical
+Mumbai,2001,28.14618,CanESM5,historical
+Delhi,2001,24.350708,CanESM5,historical
+Dhaka,2001,26.432678,CanESM5,historical
+Beijing,2001,4.650635,CanESM5,historical
+Shanghai,2001,15.0737,CanESM5,historical
+Tokyo,2001,18.916016,CanESM5,historical
+Singapore,2001,28.64981,CanESM5,historical
+Jakarta,2001,28.408203,CanESM5,historical
+Sydney,2001,20.026184,CanESM5,historical
+San Diego,2002,19.639252,CanESM5,historical
+Phoenix,2002,21.560913,CanESM5,historical
+New York,2002,15.793274,CanESM5,historical
+Miami,2002,25.519592,CanESM5,historical
+Anchorage,2002,-0.50805664,CanESM5,historical
+Toronto,2002,10.262085,CanESM5,historical
+Mexico City,2002,20.154419,CanESM5,historical
+Lima,2002,18.361633,CanESM5,historical
+Sao Paulo,2002,20.586761,CanESM5,historical
+Buenos Aires,2002,15.633057,CanESM5,historical
+Reykjavik,2002,5.6032715,CanESM5,historical
+London,2002,10.472351,CanESM5,historical
+Paris,2002,11.171631,CanESM5,historical
+Madrid,2002,12.498718,CanESM5,historical
+Moscow,2002,6.2338867,CanESM5,historical
+Cairo,2002,20.234802,CanESM5,historical
+Lagos,2002,26.507568,CanESM5,historical
+Nairobi,2002,19.816956,CanESM5,historical
+Cape Town,2002,18.23529,CanESM5,historical
+Riyadh,2002,23.63208,CanESM5,historical
+Tehran,2002,10.055847,CanESM5,historical
+Mumbai,2002,28.22815,CanESM5,historical
+Delhi,2002,24.967926,CanESM5,historical
+Dhaka,2002,27.132935,CanESM5,historical
+Beijing,2002,3.9904175,CanESM5,historical
+Shanghai,2002,14.443909,CanESM5,historical
+Tokyo,2002,19.428528,CanESM5,historical
+Singapore,2002,28.84967,CanESM5,historical
+Jakarta,2002,28.548187,CanESM5,historical
+Sydney,2002,20.010986,CanESM5,historical
+San Diego,2003,19.837097,CanESM5,historical
+Phoenix,2003,20.94574,CanESM5,historical
+New York,2003,15.7724,CanESM5,historical
+Miami,2003,25.280396,CanESM5,historical
+Anchorage,2003,-0.42907715,CanESM5,historical
+Toronto,2003,9.919617,CanESM5,historical
+Mexico City,2003,20.055328,CanESM5,historical
+Lima,2003,18.011017,CanESM5,historical
+Sao Paulo,2003,21.973663,CanESM5,historical
+Buenos Aires,2003,16.059082,CanESM5,historical
+Reykjavik,2003,4.7696533,CanESM5,historical
+London,2003,11.050659,CanESM5,historical
+Paris,2003,12.23999,CanESM5,historical
+Madrid,2003,13.529907,CanESM5,historical
+Moscow,2003,6.100342,CanESM5,historical
+Cairo,2003,20.529541,CanESM5,historical
+Lagos,2003,26.256866,CanESM5,historical
+Nairobi,2003,20.96576,CanESM5,historical
+Cape Town,2003,18.726624,CanESM5,historical
+Riyadh,2003,23.143677,CanESM5,historical
+Tehran,2003,10.607544,CanESM5,historical
+Mumbai,2003,27.672424,CanESM5,historical
+Delhi,2003,24.593628,CanESM5,historical
+Dhaka,2003,28.028381,CanESM5,historical
+Beijing,2003,4.9605103,CanESM5,historical
+Shanghai,2003,15.209686,CanESM5,historical
+Tokyo,2003,19.88086,CanESM5,historical
+Singapore,2003,28.984741,CanESM5,historical
+Jakarta,2003,28.45163,CanESM5,historical
+Sydney,2003,20.042725,CanESM5,historical
+San Diego,2004,21.065308,CanESM5,historical
+Phoenix,2004,22.729004,CanESM5,historical
+New York,2004,15.521912,CanESM5,historical
+Miami,2004,25.013092,CanESM5,historical
+Anchorage,2004,-1.1979065,CanESM5,historical
+Toronto,2004,9.380432,CanESM5,historical
+Mexico City,2004,20.007324,CanESM5,historical
+Lima,2004,18.289062,CanESM5,historical
+Sao Paulo,2004,21.298828,CanESM5,historical
+Buenos Aires,2004,15.773193,CanESM5,historical
+Reykjavik,2004,5.218872,CanESM5,historical
+London,2004,10.711761,CanESM5,historical
+Paris,2004,11.599365,CanESM5,historical
+Madrid,2004,12.123627,CanESM5,historical
+Moscow,2004,4.965637,CanESM5,historical
+Cairo,2004,20.306854,CanESM5,historical
+Lagos,2004,26.696472,CanESM5,historical
+Nairobi,2004,20.051086,CanESM5,historical
+Cape Town,2004,18.425842,CanESM5,historical
+Riyadh,2004,23.439117,CanESM5,historical
+Tehran,2004,10.915955,CanESM5,historical
+Mumbai,2004,27.483978,CanESM5,historical
+Delhi,2004,25.268799,CanESM5,historical
+Dhaka,2004,26.626526,CanESM5,historical
+Beijing,2004,3.3095093,CanESM5,historical
+Shanghai,2004,14.956299,CanESM5,historical
+Tokyo,2004,19.624084,CanESM5,historical
+Singapore,2004,28.763794,CanESM5,historical
+Jakarta,2004,28.338928,CanESM5,historical
+Sydney,2004,20.124634,CanESM5,historical
+San Diego,2005,20.591797,CanESM5,historical
+Phoenix,2005,21.97995,CanESM5,historical
+New York,2005,15.694489,CanESM5,historical
+Miami,2005,25.160614,CanESM5,historical
+Anchorage,2005,-0.5287781,CanESM5,historical
+Toronto,2005,9.807343,CanESM5,historical
+Mexico City,2005,19.568726,CanESM5,historical
+Lima,2005,18.157196,CanESM5,historical
+Sao Paulo,2005,21.506836,CanESM5,historical
+Buenos Aires,2005,16.559814,CanESM5,historical
+Reykjavik,2005,5.7874146,CanESM5,historical
+London,2005,9.7065735,CanESM5,historical
+Paris,2005,11.124268,CanESM5,historical
+Madrid,2005,12.173004,CanESM5,historical
+Moscow,2005,7.1259155,CanESM5,historical
+Cairo,2005,20.682373,CanESM5,historical
+Lagos,2005,27.005402,CanESM5,historical
+Nairobi,2005,20.552795,CanESM5,historical
+Cape Town,2005,18.575043,CanESM5,historical
+Riyadh,2005,24.00357,CanESM5,historical
+Tehran,2005,10.542603,CanESM5,historical
+Mumbai,2005,28.288422,CanESM5,historical
+Delhi,2005,24.515137,CanESM5,historical
+Dhaka,2005,27.758667,CanESM5,historical
+Beijing,2005,4.1970825,CanESM5,historical
+Shanghai,2005,14.80481,CanESM5,historical
+Tokyo,2005,19.832611,CanESM5,historical
+Singapore,2005,28.894714,CanESM5,historical
+Jakarta,2005,28.592438,CanESM5,historical
+Sydney,2005,19.636017,CanESM5,historical
+San Diego,2006,21.181244,CanESM5,historical
+Phoenix,2006,23.34314,CanESM5,historical
+New York,2006,15.127197,CanESM5,historical
+Miami,2006,24.43158,CanESM5,historical
+Anchorage,2006,-1.3613586,CanESM5,historical
+Toronto,2006,8.329712,CanESM5,historical
+Mexico City,2006,18.848145,CanESM5,historical
+Lima,2006,17.67334,CanESM5,historical
+Sao Paulo,2006,21.155334,CanESM5,historical
+Buenos Aires,2006,15.730896,CanESM5,historical
+Reykjavik,2006,6.1904297,CanESM5,historical
+London,2006,10.021179,CanESM5,historical
+Paris,2006,11.506683,CanESM5,historical
+Madrid,2006,12.219543,CanESM5,historical
+Moscow,2006,5.347351,CanESM5,historical
+Cairo,2006,20.582947,CanESM5,historical
+Lagos,2006,26.449768,CanESM5,historical
+Nairobi,2006,20.131592,CanESM5,historical
+Cape Town,2006,18.260529,CanESM5,historical
+Riyadh,2006,23.47113,CanESM5,historical
+Tehran,2006,10.332214,CanESM5,historical
+Mumbai,2006,27.970245,CanESM5,historical
+Delhi,2006,24.487732,CanESM5,historical
+Dhaka,2006,27.283936,CanESM5,historical
+Beijing,2006,4.1939087,CanESM5,historical
+Shanghai,2006,15.019012,CanESM5,historical
+Tokyo,2006,19.77066,CanESM5,historical
+Singapore,2006,28.641357,CanESM5,historical
+Jakarta,2006,28.30011,CanESM5,historical
+Sydney,2006,19.49945,CanESM5,historical
+San Diego,2007,20.606018,CanESM5,historical
+Phoenix,2007,21.530945,CanESM5,historical
+New York,2007,15.048645,CanESM5,historical
+Miami,2007,24.759186,CanESM5,historical
+Anchorage,2007,-0.23730469,CanESM5,historical
+Toronto,2007,8.537537,CanESM5,historical
+Mexico City,2007,19.74997,CanESM5,historical
+Lima,2007,18.35138,CanESM5,historical
+Sao Paulo,2007,21.638245,CanESM5,historical
+Buenos Aires,2007,15.06778,CanESM5,historical
+Reykjavik,2007,5.995697,CanESM5,historical
+London,2007,10.812286,CanESM5,historical
+Paris,2007,11.731445,CanESM5,historical
+Madrid,2007,12.021423,CanESM5,historical
+Moscow,2007,5.194702,CanESM5,historical
+Cairo,2007,19.903381,CanESM5,historical
+Lagos,2007,26.537415,CanESM5,historical
+Nairobi,2007,20.480957,CanESM5,historical
+Cape Town,2007,18.246582,CanESM5,historical
+Riyadh,2007,24.027039,CanESM5,historical
+Tehran,2007,10.199493,CanESM5,historical
+Mumbai,2007,28.059692,CanESM5,historical
+Delhi,2007,23.853485,CanESM5,historical
+Dhaka,2007,26.942688,CanESM5,historical
+Beijing,2007,3.911316,CanESM5,historical
+Shanghai,2007,15.171814,CanESM5,historical
+Tokyo,2007,19.686829,CanESM5,historical
+Singapore,2007,28.598633,CanESM5,historical
+Jakarta,2007,28.48816,CanESM5,historical
+Sydney,2007,20.026428,CanESM5,historical
+San Diego,2008,20.710327,CanESM5,historical
+Phoenix,2008,22.810394,CanESM5,historical
+New York,2008,15.386108,CanESM5,historical
+Miami,2008,24.523926,CanESM5,historical
+Anchorage,2008,0.18109131,CanESM5,historical
+Toronto,2008,9.419678,CanESM5,historical
+Mexico City,2008,19.475769,CanESM5,historical
+Lima,2008,18.149933,CanESM5,historical
+Sao Paulo,2008,21.15091,CanESM5,historical
+Buenos Aires,2008,15.90564,CanESM5,historical
+Reykjavik,2008,6.165497,CanESM5,historical
+London,2008,10.546265,CanESM5,historical
+Paris,2008,11.642151,CanESM5,historical
+Madrid,2008,12.7439575,CanESM5,historical
+Moscow,2008,5.618164,CanESM5,historical
+Cairo,2008,20.772217,CanESM5,historical
+Lagos,2008,26.420471,CanESM5,historical
+Nairobi,2008,20.068054,CanESM5,historical
+Cape Town,2008,18.253723,CanESM5,historical
+Riyadh,2008,24.198334,CanESM5,historical
+Tehran,2008,10.833893,CanESM5,historical
+Mumbai,2008,28.307648,CanESM5,historical
+Delhi,2008,25.4758,CanESM5,historical
+Dhaka,2008,27.329712,CanESM5,historical
+Beijing,2008,3.1524963,CanESM5,historical
+Shanghai,2008,15.235291,CanESM5,historical
+Tokyo,2008,19.945068,CanESM5,historical
+Singapore,2008,28.763733,CanESM5,historical
+Jakarta,2008,28.360687,CanESM5,historical
+Sydney,2008,19.944489,CanESM5,historical
+San Diego,2009,21.294037,CanESM5,historical
+Phoenix,2009,22.409058,CanESM5,historical
+New York,2009,15.540009,CanESM5,historical
+Miami,2009,24.489258,CanESM5,historical
+Anchorage,2009,2.0402222,CanESM5,historical
+Toronto,2009,9.166718,CanESM5,historical
+Mexico City,2009,20.268555,CanESM5,historical
+Lima,2009,18.761108,CanESM5,historical
+Sao Paulo,2009,21.882812,CanESM5,historical
+Buenos Aires,2009,16.180908,CanESM5,historical
+Reykjavik,2009,6.887665,CanESM5,historical
+London,2009,9.677734,CanESM5,historical
+Paris,2009,10.480835,CanESM5,historical
+Madrid,2009,11.778442,CanESM5,historical
+Moscow,2009,7.218811,CanESM5,historical
+Cairo,2009,20.37799,CanESM5,historical
+Lagos,2009,26.851929,CanESM5,historical
+Nairobi,2009,21.649231,CanESM5,historical
+Cape Town,2009,18.468689,CanESM5,historical
+Riyadh,2009,24.172028,CanESM5,historical
+Tehran,2009,10.817322,CanESM5,historical
+Mumbai,2009,28.44513,CanESM5,historical
+Delhi,2009,25.090668,CanESM5,historical
+Dhaka,2009,26.403381,CanESM5,historical
+Beijing,2009,3.8503418,CanESM5,historical
+Shanghai,2009,14.180328,CanESM5,historical
+Tokyo,2009,18.601685,CanESM5,historical
+Singapore,2009,28.966797,CanESM5,historical
+Jakarta,2009,28.542358,CanESM5,historical
+Sydney,2009,20.105774,CanESM5,historical
+San Diego,2010,21.613892,CanESM5,historical
+Phoenix,2010,22.048096,CanESM5,historical
+New York,2010,14.896637,CanESM5,historical
+Miami,2010,24.489899,CanESM5,historical
+Anchorage,2010,2.5387573,CanESM5,historical
+Toronto,2010,8.847412,CanESM5,historical
+Mexico City,2010,20.728394,CanESM5,historical
+Lima,2010,19.874664,CanESM5,historical
+Sao Paulo,2010,22.093384,CanESM5,historical
+Buenos Aires,2010,15.385559,CanESM5,historical
+Reykjavik,2010,6.536957,CanESM5,historical
+London,2010,9.574219,CanESM5,historical
+Paris,2010,10.913513,CanESM5,historical
+Madrid,2010,12.597321,CanESM5,historical
+Moscow,2010,5.2713623,CanESM5,historical
+Cairo,2010,21.243317,CanESM5,historical
+Lagos,2010,27.677979,CanESM5,historical
+Nairobi,2010,22.582825,CanESM5,historical
+Cape Town,2010,18.873505,CanESM5,historical
+Riyadh,2010,24.714905,CanESM5,historical
+Tehran,2010,10.32724,CanESM5,historical
+Mumbai,2010,28.799988,CanESM5,historical
+Delhi,2010,25.560669,CanESM5,historical
+Dhaka,2010,28.361633,CanESM5,historical
+Beijing,2010,5.272888,CanESM5,historical
+Shanghai,2010,15.65094,CanESM5,historical
+Tokyo,2010,19.105896,CanESM5,historical
+Singapore,2010,29.518707,CanESM5,historical
+Jakarta,2010,28.681976,CanESM5,historical
+Sydney,2010,20.358368,CanESM5,historical
+San Diego,2011,20.822418,CanESM5,historical
+Phoenix,2011,22.452332,CanESM5,historical
+New York,2011,14.933777,CanESM5,historical
+Miami,2011,24.834412,CanESM5,historical
+Anchorage,2011,0.9048157,CanESM5,historical
+Toronto,2011,9.599304,CanESM5,historical
+Mexico City,2011,20.524231,CanESM5,historical
+Lima,2011,18.45987,CanESM5,historical
+Sao Paulo,2011,21.934265,CanESM5,historical
+Buenos Aires,2011,15.369232,CanESM5,historical
+Reykjavik,2011,6.144165,CanESM5,historical
+London,2011,9.512085,CanESM5,historical
+Paris,2011,10.852997,CanESM5,historical
+Madrid,2011,12.754669,CanESM5,historical
+Moscow,2011,3.5340576,CanESM5,historical
+Cairo,2011,20.430267,CanESM5,historical
+Lagos,2011,27.222229,CanESM5,historical
+Nairobi,2011,21.045776,CanESM5,historical
+Cape Town,2011,18.809204,CanESM5,historical
+Riyadh,2011,24.683533,CanESM5,historical
+Tehran,2011,11.25824,CanESM5,historical
+Mumbai,2011,28.283356,CanESM5,historical
+Delhi,2011,24.267334,CanESM5,historical
+Dhaka,2011,26.823486,CanESM5,historical
+Beijing,2011,3.2438354,CanESM5,historical
+Shanghai,2011,15.332062,CanESM5,historical
+Tokyo,2011,20.12445,CanESM5,historical
+Singapore,2011,29.319855,CanESM5,historical
+Jakarta,2011,28.61139,CanESM5,historical
+Sydney,2011,20.649536,CanESM5,historical
+San Diego,2012,21.020966,CanESM5,historical
+Phoenix,2012,22.35559,CanESM5,historical
+New York,2012,16.032013,CanESM5,historical
+Miami,2012,24.996735,CanESM5,historical
+Anchorage,2012,0.23791504,CanESM5,historical
+Toronto,2012,9.425781,CanESM5,historical
+Mexico City,2012,19.564423,CanESM5,historical
+Lima,2012,18.345215,CanESM5,historical
+Sao Paulo,2012,21.714905,CanESM5,historical
+Buenos Aires,2012,15.9039,CanESM5,historical
+Reykjavik,2012,6.5536194,CanESM5,historical
+London,2012,10.678711,CanESM5,historical
+Paris,2012,11.60083,CanESM5,historical
+Madrid,2012,12.067078,CanESM5,historical
+Moscow,2012,5.2173767,CanESM5,historical
+Cairo,2012,20.955475,CanESM5,historical
+Lagos,2012,27.0578,CanESM5,historical
+Nairobi,2012,20.510803,CanESM5,historical
+Cape Town,2012,18.753906,CanESM5,historical
+Riyadh,2012,25.097992,CanESM5,historical
+Tehran,2012,11.271851,CanESM5,historical
+Mumbai,2012,27.962006,CanESM5,historical
+Delhi,2012,24.99768,CanESM5,historical
+Dhaka,2012,27.486023,CanESM5,historical
+Beijing,2012,3.9311523,CanESM5,historical
+Shanghai,2012,14.98053,CanESM5,historical
+Tokyo,2012,20.119202,CanESM5,historical
+Singapore,2012,29.148224,CanESM5,historical
+Jakarta,2012,28.641907,CanESM5,historical
+Sydney,2012,20.332703,CanESM5,historical
+San Diego,2013,21.229065,CanESM5,historical
+Phoenix,2013,22.261292,CanESM5,historical
+New York,2013,16.066742,CanESM5,historical
+Miami,2013,25.082642,CanESM5,historical
+Anchorage,2013,1.5588989,CanESM5,historical
+Toronto,2013,9.949036,CanESM5,historical
+Mexico City,2013,20.415955,CanESM5,historical
+Lima,2013,19.0495,CanESM5,historical
+Sao Paulo,2013,21.540771,CanESM5,historical
+Buenos Aires,2013,16.560516,CanESM5,historical
+Reykjavik,2013,6.920227,CanESM5,historical
+London,2013,10.901428,CanESM5,historical
+Paris,2013,12.190918,CanESM5,historical
+Madrid,2013,13.107422,CanESM5,historical
+Moscow,2013,7.4710693,CanESM5,historical
+Cairo,2013,20.93164,CanESM5,historical
+Lagos,2013,27.007568,CanESM5,historical
+Nairobi,2013,22.300873,CanESM5,historical
+Cape Town,2013,18.536346,CanESM5,historical
+Riyadh,2013,25.116272,CanESM5,historical
+Tehran,2013,10.675201,CanESM5,historical
+Mumbai,2013,28.327301,CanESM5,historical
+Delhi,2013,25.02243,CanESM5,historical
+Dhaka,2013,28.270264,CanESM5,historical
+Beijing,2013,4.1833496,CanESM5,historical
+Shanghai,2013,15.070679,CanESM5,historical
+Tokyo,2013,19.388,CanESM5,historical
+Singapore,2013,29.112793,CanESM5,historical
+Jakarta,2013,28.522705,CanESM5,historical
+Sydney,2013,19.78302,CanESM5,historical
+San Diego,2014,21.62439,CanESM5,historical
+Phoenix,2014,23.369446,CanESM5,historical
+New York,2014,16.03241,CanESM5,historical
+Miami,2014,25.164093,CanESM5,historical
+Anchorage,2014,1.5586548,CanESM5,historical
+Toronto,2014,10.441406,CanESM5,historical
+Mexico City,2014,20.339844,CanESM5,historical
+Lima,2014,18.945557,CanESM5,historical
+Sao Paulo,2014,22.604431,CanESM5,historical
+Buenos Aires,2014,16.324097,CanESM5,historical
+Reykjavik,2014,6.5820007,CanESM5,historical
+London,2014,11.189667,CanESM5,historical
+Paris,2014,12.026184,CanESM5,historical
+Madrid,2014,13.1586,CanESM5,historical
+Moscow,2014,7.84375,CanESM5,historical
+Cairo,2014,20.827515,CanESM5,historical
+Lagos,2014,27.289337,CanESM5,historical
+Nairobi,2014,21.176544,CanESM5,historical
+Cape Town,2014,18.946716,CanESM5,historical
+Riyadh,2014,24.3862,CanESM5,historical
+Tehran,2014,11.125092,CanESM5,historical
+Mumbai,2014,28.075409,CanESM5,historical
+Delhi,2014,25.958954,CanESM5,historical
+Dhaka,2014,28.266602,CanESM5,historical
+Beijing,2014,4.5541077,CanESM5,historical
+Shanghai,2014,15.895752,CanESM5,historical
+Tokyo,2014,19.165344,CanESM5,historical
+Singapore,2014,29.032745,CanESM5,historical
+Jakarta,2014,28.790192,CanESM5,historical
+Sydney,2014,20.479645,CanESM5,historical
