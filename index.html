@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Locked In or Still Avoidable? City Warming to 2100</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="page-head">
+  <p class="eyebrow">DSC 106 Project 3 &middot; CMIP6</p>
+  <h1>Locked In or Still Avoidable?</h1>
+  <p class="deck">
+    How much of each city's warming is already locked in, how much still depends on
+    the emissions we choose, and how much do the climate models disagree?
+  </p>
+  <p class="method">
+    30 cities, <span id="n-models">6</span> CMIP6 models, three scenarios. For each city we take the
+    nearest model grid cell, average the monthly air temperature into yearly means, and
+    show it as the change from that city's own 1981 to 2010 average. Lines are the median
+    across models. Shaded bands span the lowest to the highest model.
+  </p>
+</header>
+
+<section class="controls" aria-label="Controls">
+  <div class="control">
+    <span class="control-label">Map shows</span>
+    <div class="seg" id="scenario-toggle" role="group" aria-label="Scenario shown on the map">
+      <button type="button" data-scenario="ssp126">Low emissions</button>
+      <button type="button" data-scenario="ssp585" class="is-on">High emissions</button>
+    </div>
+  </div>
+
+  <div class="control grow">
+    <span class="control-label">Year <output id="year-out">2100</output></span>
+    <div class="year-row">
+      <button type="button" id="play" class="play" aria-label="Animate the years">Play</button>
+      <input type="range" id="year" min="1950" max="2100" step="1" value="2100">
+    </div>
+  </div>
+
+  <div class="control">
+    <label class="check">
+      <input type="checkbox" id="show-models">
+      <span>Show every model instead of the band</span>
+    </label>
+  </div>
+</section>
+
+<section class="map-card">
+  <h2>Warming in <output id="map-year">2100</output>, <output id="map-scen">high emissions</output></h2>
+  <p class="sub">Each circle is a city. Click one to study it below. Colour is that city's warming
+    against its 1981 to 2010 average, median of all models.</p>
+  <div id="map" class="chart"></div>
+  <div id="map-legend" class="legend-bar"></div>
+</section>
+
+<section class="detail">
+  <div class="detail-head">
+    <h2 id="city-name">San Diego</h2>
+    <p class="sub" id="city-sub"></p>
+  </div>
+
+  <div class="tiles">
+    <div class="tile">
+      <span class="tile-label">Locked in by 2071 to 2100</span>
+      <strong class="tile-value" id="t-locked">&ndash;</strong>
+      <span class="tile-note">even with low emissions</span>
+    </div>
+    <div class="tile">
+      <span class="tile-label">Extra if emissions stay high</span>
+      <strong class="tile-value" id="t-extra">&ndash;</strong>
+      <span class="tile-note">high minus low emissions</span>
+    </div>
+    <div class="tile">
+      <span class="tile-label">Model disagreement</span>
+      <strong class="tile-value" id="t-spread">&ndash;</strong>
+      <span class="tile-note">highest minus lowest model, high emissions</span>
+    </div>
+  </div>
+
+  <div class="two-col">
+    <div class="panel">
+      <h3>Warming over time</h3>
+      <p class="sub">Change from the 1981 to 2010 average. Hover the chart to read any year.</p>
+      <div id="line" class="chart"></div>
+      <div class="legend" id="line-legend"></div>
+    </div>
+
+    <div class="panel">
+      <h3>All 30 cities</h3>
+      <p class="sub">
+        <label class="inline-select">Ranked by
+          <select id="measure">
+            <option value="locked">warming locked in</option>
+            <option value="extra" selected>warming still avoidable</option>
+            <option value="spread">model disagreement</option>
+          </select>
+        </label>
+      </p>
+      <div id="bars" class="chart"></div>
+    </div>
+  </div>
+</section>
+
+<section class="table-card">
+  <button type="button" id="table-toggle" class="link-btn" aria-expanded="false">Show the numbers as a table</button>
+  <div id="table-wrap" hidden></div>
+</section>
+
+<section class="writeup">
+  <h2>Write-up</h2>
+
+  <h3>Why this question</h3>
+  <p>
+    Our first charts all said the same obvious thing, that the world gets warmer. The two
+    charts that surprised us were the gap between the low and high emissions scenarios, and
+    how far apart the models were for the same city. Those two numbers are what a reader can
+    actually act on or worry about, so we built the page around them. The framing we settled
+    on splits each city's future into a part that is already locked in, which happens even if
+    emissions fall fast, and a part that is still avoidable.
+  </p>
+
+  <h3>Design rationale</h3>
+  <p>
+    We show warming as a change from each city's own 1981 to 2010 average instead of raw
+    temperature. Raw temperature puts Singapore near 27 degrees and Reykjavik near 5, so the
+    y axis would be about which city is hot, not about how much it changes. The anomaly also
+    cancels each model's own bias, which is what makes the models comparable at all.
+  </p>
+  <p>
+    Position on a common scale carries the main quantity in both the line chart and the ranked
+    bars, because position is the channel people read most accurately. Colour carries the
+    scenario, blue for low emissions and orange for high, and the same two colours are reused
+    for the map ramp so the reader never has to relearn them. The map uses colour for
+    magnitude only as a secondary view, since 30 points on a world map is good for spotting
+    the pattern by latitude but bad for comparing two cities, which is what the bar chart is for.
+  </p>
+  <p>
+    Model spread is a shaded band rather than 30 separate lines. Drawing every model at once
+    was unreadable in our exploratory version, so the band is the default and the individual
+    models are behind a toggle. That keeps the overplotting available when a reader wants it
+    without making it the first thing they see.
+  </p>
+  <p>
+    We considered a small multiple of all 30 cities and a heatmap of city by year. The small
+    multiples were too small to read the band, and the heatmap hid the scenario gap, which is
+    the whole point of the page. We also tried animating the map on its own and found that
+    people could not tell how much of the change was the scenario and how much was the year,
+    so the year slider and the scenario toggle are now separate controls.
+  </p>
+
+  <h3>Interactions</h3>
+  <p>
+    Clicking a city on the map or a bar in the ranking selects it, and all three views stay in
+    sync. The year slider repaints the map and moves a marker in the line chart, so a reader can
+    watch where warming shows up first. The scenario toggle switches which future the map shows.
+    The measure dropdown re-sorts the 30 cities by locked in warming, avoidable warming, or model
+    disagreement. Hovering gives details on demand in both charts.
+  </p>
+
+  <h3>Development process</h3>
+  <p>
+    TODO before the final submission. Describe who did what, roughly how many people-hours the
+    project took, and which parts took the longest. Our data pull from the CMIP6 store on Google
+    Cloud and the baseline anomaly step were the slowest parts so far.
+  </p>
+</section>
+
+<footer class="page-foot">
+  <p>Data: CMIP6 monthly surface air temperature (<code>tas</code>), member <code>r1i1p1f1</code>,
+  from the public CMIP6 store on Google Cloud. Built with D3.</p>
+</footer>
+
+<div id="tooltip" class="tooltip" role="status" aria-live="polite"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="main.js"></script>
+</body>
+</html>

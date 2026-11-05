@@ -1,0 +1,55 @@
+DSC 106 PROJECT 3 CHECKPOINT VIDEO SCRIPT
+Target length: 1 minute 50 seconds. Read at a normal speed.
+Fill in the brackets before you record.
+
+
+[0:00 to 0:12]  ON SCREEN: the top of the page, title visible
+
+Hi, we are team [TEAM NAME]. Our members are [NAME], [NAME], and [NAME].
+Our project is called Locked In or Still Avoidable.
+
+
+[0:12 to 0:32]  ON SCREEN: the notebook, scroll through the city list and the data pull
+
+We chose the CMIP6 dataset. We pulled monthly surface air temperature from the
+public CMIP6 store on Google Cloud. We used four climate models, three scenarios,
+and thirty cities around the world. The scenarios are the historical run from 1950
+to 2014, a low emissions future, and a high emissions future, both to 2100.
+For every city we took the nearest model grid cell and averaged the months into
+yearly values. Then we turned each value into the change from that city's own
+1981 to 2010 average. That step matters because it removes the difference between
+hot cities and cold cities, and it also removes each model's own bias.
+
+
+[0:32 to 1:05]  ON SCREEN: the six figures, about five seconds each
+
+We made six exploratory charts. The first is average warming across all thirty
+cities, which told us the overall shape but not much else. The second is one city
+with every model drawn, and this is where we saw how noisy the models are. The
+third ranks cities by warming at the end of the century. The fourth puts the cities
+on a map, and the pattern by latitude is clear. The fifth is the one that surprised
+us, the gap between the highest and the lowest model for the same city, which
+reaches almost five degrees. The sixth is the difference between the two emissions
+scenarios. Those last two charts are what our project is built on.
+
+
+[1:05 to 1:20]  ON SCREEN: back to the page title and the question line
+
+So our question is this. How much of each city's warming is already locked in,
+how much still depends on the emissions we choose, and how much do the models
+disagree? Every city's future splits into a part we cannot avoid and a part we can.
+
+
+[1:20 to 1:50]  ON SCREEN: demo the page. Click a city, drag the year slider, press play,
+switch the scenario, tick show every model, change the ranking dropdown.
+
+Here is where we are now. The map shows all thirty cities colored by warming, and
+the year slider moves from 1950 to 2100. Clicking a city loads it below. The line
+chart shows the historical run in gray, low emissions in blue, and high emissions
+in orange, and the shaded band is the spread across the four models. This toggle
+swaps the band for every single model line, which shows why we made the band the
+default. The bar chart on the right ranks all thirty cities, and you can re-sort it
+by locked in warming, avoidable warming, or model disagreement.
+
+Still to do before the final submission. We want to add two more models, polish the
+tooltips, and finish the development process section of our write-up.
