@@ -149,8 +149,18 @@ function wireControls() {
     if (open) drawTable();
   });
 
+  window.addEventListener("scroll", clearHover, { passive: true });
+  window.addEventListener("blur", clearHover);
+  document.addEventListener("pointerleave", clearHover);
+  document.addEventListener("pointermove", (event) => {
+    const t = event.target;
+    const inChart = t instanceof Element && t.closest("#map svg, #bars svg, #line rect.hit");
+    if (!inChart) clearHover();
+  });
+
   let t;
   window.addEventListener("resize", () => {
+    clearHover();
     clearTimeout(t);
     t = setTimeout(drawAll, 180);
   });
@@ -194,6 +204,15 @@ function showTip(event, html) {
   tip.style("left", x + "px").style("top", y + "px");
 }
 const hideTip = () => tip.classed("is-on", false);
+
+function clearHover() {
+  hideTip();
+  if (state.hover !== null) {
+    state.hover = null;
+    paintMap();
+    paintBars();
+  }
+}
 
 function cityTipHtml(city) {
   const h = pointAt(city, "ssp585", state.year);
