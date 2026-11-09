@@ -16,12 +16,23 @@
     the emissions we choose, and how much do the climate models disagree?
   </p>
   <p class="method">
-    30 cities, <span id="n-models">6</span> CMIP6 models, three scenarios. For each city we take the
-    nearest model grid cell, average the monthly air temperature into yearly means, and
-    show it as the change from that city's own 1981 to 2010 average. Lines are the median
-    across models. Shaded bands span the lowest to the highest model.
+    30 cities, <span id="n-models">6</span> CMIP6 models, three scenarios: the historical run from
+    1950 to 2014, low emissions (SSP1-2.6) and high emissions (SSP5-8.5) to 2100. The variable is
+    monthly near surface air temperature (<code>tas</code>, member <code>r1i1p1f1</code>). For each
+    city we take the model grid cell nearest to its coordinates, average the twelve months into one
+    value per year, and convert Kelvin to Celsius. Every value is then shown as the change from that
+    city's own 1981 to 2010 average under that same model. That step removes the difference between
+    hot cities and cold cities, and it removes each model's own bias, which is what makes the models
+    comparable. Lines are the median across models and shaded bands span the lowest to the highest
+    model. The three numbers and the ranking use the 2071 to 2100 average. No year, city or model is
+    dropped and nothing is smoothed.
   </p>
 </header>
+
+<section class="stories" aria-label="Three findings">
+  <p class="stories-lead">Three things we found. Click one to jump to it, then keep exploring on your own.</p>
+  <div class="story-row" id="story-row"></div>
+</section>
 
 <section class="controls" aria-label="Controls">
   <div class="control">
@@ -48,7 +59,7 @@
   </div>
 </section>
 
-<section class="map-card">
+<section class="map-card" id="map-card">
   <h2>Warming in <output id="map-year">2100</output>, <output id="map-scen">high emissions</output></h2>
   <p class="sub">Each circle is a city. Click one to study it below. Colour is that city's warming
     against its 1981 to 2010 average, median of all models.</p>
@@ -56,7 +67,8 @@
   <div id="map-legend" class="legend-bar"></div>
 </section>
 
-<section class="detail">
+<section class="detail" id="detail">
+  <div class="story-note" id="story-note" hidden></div>
   <div class="detail-head">
     <h2 id="city-name">San Diego</h2>
     <p class="sub" id="city-sub"></p>
@@ -93,6 +105,7 @@
       <p class="sub">
         <label class="inline-select">Ranked by
           <select id="measure">
+            <option value="total">total warming, high emissions</option>
             <option value="locked">warming locked in</option>
             <option value="extra" selected>warming still avoidable</option>
             <option value="spread">model disagreement</option>

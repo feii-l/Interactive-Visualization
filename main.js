@@ -86,6 +86,7 @@ Promise.all([
   mapRange = [d3.min(allMed), d3.max(allMed)];
 
   d3.select("#n-models").text(models.length);
+  buildStories();
   wireControls();
   drawAll();
 });
@@ -107,17 +108,102 @@ const mapColor = () => {
 };
 
 const MEASURE = {
+  total: { label: "Total warming under high emissions by 2071 to 2100", color: () => C.high },
   locked: { label: "Warming locked in by 2071 to 2100", color: () => C.low },
   extra: { label: "Warming still avoidable by 2071 to 2100", color: () => C.high },
   spread: { label: "Model disagreement by 2071 to 2100", color: () => C.spread }
 };
 
+const STORIES = [
+  {
+    id: "range",
+    title: "Thirty cities, thirty futures",
+    line: "Under high emissions Anchorage warms 6.5 °C by the end of the century. Cape Town warms 2.6 °C.",
+    note:
+      "The ranking is now total warming under high emissions. Anchorage sits two and a half times above Cape Town, " +
+      "so one global average hides a lot. Press Play to watch the map fill in, and click any circle to open that city below.",
+    state: { city: "Anchorage", scenario: "ssp585", year: 2100, measure: "total", showModels: false },
+    target: "map-card"
+  },
+  {
+    id: "choice",
+    title: "Part of it is already decided",
+    line: "Every city warms at least 0.9 °C even if emissions fall fast. What is still avoidable ranges from 1.6 to 4.1 °C.",
+    note:
+      "The three numbers below split Anchorage's future in two. 2.4 degrees arrive even under low emissions. " +
+      "The other 4.1 degrees is the part the emissions choice still controls, the largest of any city here. " +
+      "Switch the ranking to warming locked in and the order of the cities changes completely.",
+    state: { city: "Anchorage", scenario: "ssp126", year: 2100, measure: "extra", showModels: false },
+    target: "detail"
+  },
+  {
+    id: "doubt",
+    title: "Sometimes the models disagree more than the choice matters",
+    line: "In 11 of the 30 cities the gap between the highest and lowest model is wider than the gap between the two scenarios.",
+    note:
+      "Tehran is the clearest case. The models disagree by 4.8 degrees about the end of the century, while the two " +
+      "emissions scenarios are 3.9 degrees apart. Every model is drawn as its own line here instead of the band, " +
+      "so you can see how far apart they run before the scenarios even separate.",
+    state: { city: "Tehran", scenario: "ssp585", year: 2100, measure: "spread", showModels: true },
+    target: "detail"
+  }
+];
+
 /* ---------- controls ---------- */
+
+function buildStories() {
+  const btn = d3
+    .select("#story-row")
+    .selectAll("button")
+    .data(STORIES)
+    .join("button")
+    .attr("type", "button")
+    .attr("class", "story")
+    .on("click", (event, d) => applyStory(d));
+
+  btn.append("span").attr("class", "story-n").text((d, i) => i + 1);
+  btn.append("span").attr("class", "story-title").text((d) => d.title);
+  btn.append("span").attr("class", "story-line").text((d) => d.line);
+}
+
+function applyStory(s) {
+  stopPlay();
+  Object.assign(state, s.state);
+  d3.select("#year").property("value", state.year);
+  d3.select("#show-models").property("checked", state.showModels);
+  d3.select("#measure").property("value", state.measure);
+  d3.selectAll("#scenario-toggle button").classed("is-on", function () {
+    return this.dataset.scenario === state.scenario;
+  });
+  d3.selectAll(".story").classed("is-on", (d) => d.id === s.id);
+
+  d3.select("#story-note")
+    .property("hidden", false)
+    .html("")
+    .append("p")
+    .attr("class", "story-note-text")
+    .text(s.note);
+  d3.select("#story-note")
+    .append("button")
+    .attr("type", "button")
+    .attr("class", "link-btn story-clear")
+    .text("Clear and explore on my own")
+    .on("click", clearStory);
+
+  drawAll();
+  document.getElementById(s.target).scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function clearStory() {
+  d3.selectAll(".story").classed("is-on", false);
+  d3.select("#story-note").property("hidden", true).html("");
+}
 
 function wireControls() {
   d3.selectAll("#scenario-toggle button").on("click", function () {
     state.scenario = this.dataset.scenario;
     d3.selectAll("#scenario-toggle button").classed("is-on", (_, i, nodes) => nodes[i] === this);
+    clearStory();
     drawAll();
   });
 
@@ -129,11 +215,13 @@ function wireControls() {
 
   d3.select("#show-models").on("change", function () {
     state.showModels = this.checked;
+    clearStory();
     drawLine();
   });
 
   d3.select("#measure").on("change", function () {
     state.measure = this.value;
+    clearStory();
     drawBars();
   });
 
@@ -187,6 +275,7 @@ function stopPlay() {
 }
 
 function selectCity(city) {
+  if (city !== state.city) clearStory();
   state.city = city;
   drawTiles();
   drawLine();
