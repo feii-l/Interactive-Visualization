@@ -296,6 +296,7 @@ const hideTip = () => tip.classed("is-on", false);
 
 function clearHover() {
   hideTip();
+  if (lineMarker) lineMarker(state.year);
   if (state.hover !== null) {
     state.hover = null;
     paintMap();
@@ -322,6 +323,7 @@ function cityTipHtml(city) {
 /* ---------- map ---------- */
 
 let mapSvg;
+const MAP_HIT = 22; // px: how close the pointer must be to a city to hover or click it
 
 function drawMap() {
   const el = d3.select("#map");
@@ -353,21 +355,46 @@ function drawMap() {
     .join("circle")
     .attr("class", "city")
     .attr("cx", (d) => proj([d.lon, d.lat])[0])
-    .attr("cy", (d) => proj([d.lon, d.lat])[1])
-    .on("pointerenter", (event, d) => {
-      state.hover = d.city;
-      paintMap();
-      paintBars();
-      showTip(event, cityTipHtml(d.city));
+    .attr("cy", (d) => proj([d.lon, d.lat])[1]);
+
+  // Hover and click are handled on the whole map, not on each circle. The pointer picks the
+  // nearest city within MAP_HIT px. This keeps overlapping cities (London and Paris, San Diego
+  // and Phoenix) both clickable, and clicks no longer get lost when circles are re-drawn
+  // during hover or Play.
+  const pts = cities.map((d) => proj([d.lon, d.lat]));
+  const delaunay = d3.Delaunay.from(pts);
+  const nearest = (event) => {
+    const [mx, my] = d3.pointer(event, mapSvg.node());
+    const i = delaunay.find(mx, my);
+    return Math.hypot(pts[i][0] - mx, pts[i][1] - my) <= MAP_HIT ? cities[i] : null;
+  };
+
+  mapSvg
+    .on("pointermove", (event) => {
+      const d = nearest(event);
+      const city = d ? d.city : null;
+      mapSvg.style("cursor", d ? "pointer" : null);
+      if (city !== state.hover) {
+        state.hover = city;
+        paintMap();
+        paintBars();
+      }
+      if (d) showTip(event, cityTipHtml(d.city));
+      else hideTip();
     })
-    .on("pointermove", (event, d) => showTip(event, cityTipHtml(d.city)))
     .on("pointerleave", () => {
-      state.hover = null;
-      paintMap();
-      paintBars();
+      mapSvg.style("cursor", null);
+      if (state.hover !== null) {
+        state.hover = null;
+        paintMap();
+        paintBars();
+      }
       hideTip();
     })
-    .on("click", (event, d) => selectCity(d.city));
+    .on("click", (event) => {
+      const d = nearest(event);
+      if (d) selectCity(d.city);
+    });
 
   drawMapLegend();
   paintMap();
@@ -381,8 +408,9 @@ function paintMap() {
     .attr("r", (d) => (d.city === state.city ? 9 : d.city === state.hover ? 8 : 6.5))
     .attr("fill", (d) => color(pointAt(d.city, state.scenario, state.year).med))
     .classed("is-sel", (d) => d.city === state.city)
-    .classed("is-hot", (d) => d.city === state.hover && d.city !== state.city)
-    .raise();
+    .classed("is-hot", (d) => d.city === state.hover && d.city !== state.city);
+  // only bring the hovered and selected circles to the front, instead of re-ordering all 30
+  mapSvg.selectAll("circle.city").filter((d) => d.city === state.hover).raise();
   mapSvg.selectAll("circle.city").filter((d) => d.city === state.city).raise();
 
   d3.select("#map-year").text(state.year);
@@ -553,6 +581,7 @@ function drawLine() {
     .attr("height", ih)
     .on("pointermove", (event) => {
       const year = Math.round(Math.max(1950, Math.min(2100, x.invert(d3.pointer(event)[0]))));
+      placeMarker(year); // the dashed line and dots follow the mouse while hovering
       const s = summary[state.city];
       const row = (color, label, v) =>
         `<div class="tt-row"><span class="tt-dot" style="background:${color}"></span>${label}<span class="tt-num">${fmt(v)}</span></div>`;
@@ -570,7 +599,10 @@ function drawLine() {
           }. By 2071 to 2100, ${fmtPlain(s.extra)} is still avoidable.</div>`
       );
     })
-    .on("pointerleave", hideTip);
+    .on("pointerleave", () => {
+      hideTip();
+      placeMarker(state.year); // snap back to the slider year
+    });
 
   drawLineLegend();
 }
