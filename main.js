@@ -554,7 +554,7 @@ function drawLine() {
   const rule = marker.append("line").attr("class", "year-rule").attr("y1", 0).attr("y2", ih);
 
   function placeMarker(year) {
-    rule.attr("x1", x(year)).attr("x2", x(year));
+    rule.attr("x1", x(year)).attr("x2", x(year)).classed("is-locked", lineLocked);
     const pts =
       year <= HIST_END
         ? [{ v: pointAt(state.city, "ssp126", year).med, c: C.hist }]
@@ -575,39 +575,67 @@ function drawLine() {
   placeMarker(state.year);
   lineMarker = placeMarker;
 
+  const yearAt = (event) => Math.round(Math.max(1950, Math.min(2100, x.invert(d3.pointer(event)[0]))));
+
+  function lineTip(event, year) {
+    const s = summary[state.city];
+    const row = (color, label, v) =>
+      `<div class="tt-row"><span class="tt-dot" style="background:${color}"></span>${label}<span class="tt-num">${fmt(v)}</span></div>`;
+    const body =
+      year <= HIST_END
+        ? row(C.hist, "Historical", pointAt(state.city, "ssp126", year).med)
+        : row(C.low, "Low emissions", pointAt(state.city, "ssp126", year).med) +
+          row(C.high, "High emissions", pointAt(state.city, "ssp585", year).med);
+    const p = pointAt(state.city, state.scenario, year);
+    showTip(
+      event,
+      `<strong>${state.city}, ${year}</strong>${body}` +
+        `<div class="tt-note">Models span ${fmtPlain(p.lo)} to ${fmtPlain(p.hi)} under ${
+          year <= HIST_END ? "history" : state.scenario === "ssp126" ? "low emissions" : "high emissions"
+        }. By 2071 to 2100, ${fmtPlain(s.extra)} is still avoidable.</div>` +
+        `<div class="tt-note">${lineLocked ? "Locked. Click again to unlock." : "Click to lock this year."}</div>`
+    );
+  }
+
+  // Hovering moves the marker with the mouse. A click locks it on that year (and sets the
+  // year slider and map to it). Another click unlocks it so it follows the mouse again.
   g.append("rect")
     .attr("class", "hit")
     .attr("width", iw)
     .attr("height", ih)
     .on("pointermove", (event) => {
-      const year = Math.round(Math.max(1950, Math.min(2100, x.invert(d3.pointer(event)[0]))));
-      placeMarker(year); // the dashed line and dots follow the mouse while hovering
-      const s = summary[state.city];
-      const row = (color, label, v) =>
-        `<div class="tt-row"><span class="tt-dot" style="background:${color}"></span>${label}<span class="tt-num">${fmt(v)}</span></div>`;
-      const body =
-        year <= HIST_END
-          ? row(C.hist, "Historical", pointAt(state.city, "ssp126", year).med)
-          : row(C.low, "Low emissions", pointAt(state.city, "ssp126", year).med) +
-            row(C.high, "High emissions", pointAt(state.city, "ssp585", year).med);
-      const p = pointAt(state.city, state.scenario, year);
-      showTip(
-        event,
-        `<strong>${state.city}, ${year}</strong>${body}` +
-          `<div class="tt-note">Models span ${fmtPlain(p.lo)} to ${fmtPlain(p.hi)} under ${
-            year <= HIST_END ? "history" : state.scenario === "ssp126" ? "low emissions" : "high emissions"
-          }. By 2071 to 2100, ${fmtPlain(s.extra)} is still avoidable.</div>`
-      );
+      if (lineLocked) {
+        lineTip(event, state.year);
+        return;
+      }
+      const year = yearAt(event);
+      placeMarker(year);
+      lineTip(event, year);
+    })
+    .on("click", (event) => {
+      const year = yearAt(event);
+      if (lineLocked) {
+        lineLocked = false;
+        placeMarker(year);
+      } else {
+        lineLocked = true;
+        stopPlay();
+        state.year = year;
+        d3.select("#year").property("value", year);
+        updateYear();
+      }
+      lineTip(event, lineLocked ? state.year : year);
     })
     .on("pointerleave", () => {
       hideTip();
-      placeMarker(state.year); // snap back to the slider year
+      placeMarker(state.year); // back to the slider year (which is the locked year when locked)
     });
 
   drawLineLegend();
 }
 
 let lineMarker = null;
+let lineLocked = false; // true after a click on the line chart, until the next click
 
 function drawLineLegend() {
   const items = [

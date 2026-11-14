@@ -254,13 +254,14 @@ input[type="range"] { flex: 1; accent-color: var(--ink); min-width: 160px; }
 .model-line { fill: none; stroke-width: 1px; opacity: 0.5; }
 .end-label { font-size: 12px; font-weight: 650; }
 .year-rule { stroke: var(--ink); stroke-width: 1px; stroke-dasharray: 3 3; }
+.year-rule.is-locked { stroke-width: 1.6px; stroke-dasharray: none; } /* solid line = locked by a click */
 .year-dot { stroke: var(--card); stroke-width: 1.5px; }
 .bar { cursor: pointer; }
 .bar-name { fill: var(--ink-2); font-size: 10.5px; cursor: pointer; }
 .bar-name.is-sel { fill: var(--ink); font-weight: 650; }
 .bar-value { font-size: 10.5px; font-weight: 650; font-variant-numeric: tabular-nums; }
 .hit { fill: transparent; cursor: pointer; }
-#line .hit { cursor: crosshair; } /* hovering reads a year, clicking does nothing */
+#line .hit { cursor: crosshair; } /* hover reads a year, click locks or unlocks it */
 
 /* tooltip */
 .tooltip {
