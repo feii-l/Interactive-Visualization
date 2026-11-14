@@ -16,7 +16,7 @@
     the emissions we choose, and how much do the climate models disagree?
   </p>
   <p class="method">
-    30 cities, <span id="n-models">6</span> CMIP6 models, three scenarios: the historical run from
+    30 cities, <span id="n-models">4</span> CMIP6 models, three scenarios: the historical run from
     1950 to 2014, low emissions (SSP1-2.6) and high emissions (SSP5-8.5) to 2100. The variable is
     monthly near surface air temperature (<code>tas</code>, member <code>r1i1p1f1</code>). For each
     city we take the model grid cell nearest to its coordinates, average the twelve months into one
@@ -24,8 +24,7 @@
     city's own 1981 to 2010 average under that same model. That step removes the difference between
     hot cities and cold cities, and it removes each model's own bias, which is what makes the models
     comparable. Lines are the median across models and shaded bands span the lowest to the highest
-    model. The three numbers and the ranking use the 2071 to 2100 average. No year, city or model is
-    dropped and nothing is smoothed.
+    model. The three numbers and the ranking use the 2071 to 2100 average.
   </p>
 </header>
 
@@ -175,9 +174,19 @@
 
   <h3>Development process</h3>
   <p>
-    TODO before the final submission. Describe who did what, roughly how many people-hours the
-    project took, and which parts took the longest. Our data pull from the CMIP6 store on Google
-    Cloud and the baseline anomaly step were the slowest parts so far.
+    Fei wrote the data notebook. It pulls yearly temperature for the 30 cities from the
+    CMIP6 store on Google Cloud, computes each city's change from its 1981 to 2010 average, and makes
+    our six exploratory charts. Alina built the D3 page: the map, the line chart with the model band,
+    the ranked bars, and the three guided findings. Abigail tested the page across browsers and
+    wrote the write-up.
+  </p>
+  <p>
+    We spent about around 7 hours in total. The part that took the longest was the interactive
+    D3 page, especially keeping the map, line chart and bar chart in sync when a city is selected,
+    and getting the year animation and tooltips to work smoothly. Getting the data was the second
+    slowest part. Each model and scenario has to be downloaded separately, and two of the six models
+    we planned to use failed: MPI-ESM1-2-LR had a date-indexing error, and NorESM2-LM had no
+    low-emissions run. We kept the four models that had all three scenarios.
   </p>
 </section>
 
