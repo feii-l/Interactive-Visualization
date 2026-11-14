@@ -126,76 +126,82 @@
 
   <h3>Why this question</h3>
   <p>
-    Our first charts all said the same obvious thing, that the world gets warmer. The two
-    charts that surprised us were the gap between the low and high emissions scenarios, and
-    how far apart the models were for the same city. Those two numbers are what a reader can
-    actually act on or worry about, so we built the page around them. The framing we settled
-    on splits each city's future into a part that is already locked in, which happens even if
-    emissions fall fast, and a part that is still avoidable.
+    When we made our first exploratory charts, almost all of them told us that the world is
+    getting warmer. That wasn't very surprising. Two charts did surprise us, though. The first
+    showed how big the gap is between the low and high emissions scenarios, and the second
+    showed how much the climate models disagree about the very same city. Those felt like the
+    numbers a reader could actually worry about, so we built the whole page around them. In the
+    end, we split each city's future into two parts. One part is already locked in and will
+    happen even if emissions drop quickly. The other part is still avoidable, depending on the
+    choices we make.
   </p>
 
   <h3>Design rationale</h3>
   <p>
-    We show warming as a change from each city's own 1981 to 2010 average instead of raw
-    temperature. Raw temperature puts Singapore near 27 degrees and Reykjavik near 5, so the
-    y axis would be about which city is hot, not about how much it changes. The anomaly also
-    cancels each model's own bias, which is what makes the models comparable at all.
+    Instead of raw temperature, we show warming as the change from each city's own 1981 to 2010
+    average. Raw temperatures would put Singapore near 27 degrees and Reykjavik near 5. The chart
+    would then be about which city is hotter, not how much each one is changing. Measuring change
+    also cancels out each model's built-in bias, which is what lets us compare the models fairly.
   </p>
   <p>
-    Position on a common scale carries the main quantity in both the line chart and the ranked
-    bars, because position is the channel people read most accurately. Colour carries the
-    scenario, blue for low emissions and orange for high, and the same two colours are reused
-    for the map ramp so the reader never has to relearn them. The map uses colour for
-    magnitude only as a secondary view, since 30 points on a world map is good for spotting
-    the pattern by region but bad for comparing two cities, which is what the bar chart is for.
+    For the line chart and the ranked bars, we used position on a shared scale for the main
+    number, since position is the easiest thing for people to read accurately. Color shows the
+    scenario, with blue for low emissions and orange for high emissions. We reused those same two
+    colors on the map so readers wouldn't have to learn a new color scheme halfway through. On the
+    map, color shows how much each city warms. The map is nice for spotting patterns by region,
+    but it's not great for comparing two specific cities, so that's what the bar chart is for.
   </p>
   <p>
-    Model spread is a shaded band rather than a separate line for each of the four models. Drawing every model at once
-    was unreadable in our exploratory version, so the band is the default and the individual
-    models are behind a toggle. That keeps the overplotting available when a reader wants it
-    without making it the first thing they see.
+    For model spread, we went with a shaded band instead of drawing a separate line for each of
+    the four models. In our early version we drew every model at once, and it was honestly pretty
+    hard to read. Now the band is the default, and the individual model lines are behind a
+    checkbox. That way they're still there for anyone curious, but they aren't the first thing
+    you see.
   </p>
   <p>
-    We considered a small multiple of all 30 cities and a heatmap of city by year. The small
-    multiples were too small to read the band, and the heatmap hid the scenario gap, which is
-    the whole point of the page. We also tried animating the map on its own and found that
-    people could not tell how much of the change was the scenario and how much was the year,
-    so the year slider and the scenario toggle are now separate controls.
+    We tried a few other designs along the way. Small multiples of all 30 cities made each chart
+    too small to read the band. A heatmap of city by year hid the gap between scenarios, which is
+    really the main point of the page. We also tried animating the map on its own, but people
+    couldn't tell how much of the change came from the scenario and how much came from the year.
+    That's why the year slider and the scenario toggle ended up as separate controls.
   </p>
 
   <h3>Interactions</h3>
   <p>
-    The page opens with three findings. Clicking one sets the map, the line chart and the ranking
-    to the view that shows it, scrolls the reader there, and explains what to look at. Touching any
-    control clears that note, so the guided path and free exploration use the same page instead of
-    two separate modes.
+    The page opens with three findings. Clicking one sets the map, the line chart, and the ranking
+    to the view that shows it, scrolls you to the right spot, and explains what to look for. As soon
+    as you touch any control, that note goes away. We liked this setup because the guided tour and
+    free exploration happen on the same page.
   </p>
   <p>
-    Clicking a city on the map or a bar in the ranking selects it, and all three views stay in sync.
-    The year slider repaints the map and moves a marker in the line chart, and the play button runs
-    the years from 1950 to 2100, so a reader can watch where warming shows up first. The scenario
-    toggle switches which future the map shows. The measure dropdown re-sorts the 30 cities four
-    ways: total warming under high emissions, warming locked in, warming still avoidable, and model
-    disagreement. A checkbox swaps the shaded band for one line per model, which is how a reader can
-    see the overplotting we hid by default. Hovering gives details on demand in both charts, and a
-    table at the bottom lists every number for readers who want them.
+    You can select a city by clicking it on the map or clicking its bar in the ranking. All three
+    views update together. The year slider recolors the map and moves a marker along the line chart.
+    If you press Play, it runs through every year from 1950 to 2100, so you can watch where warming
+    shows up first. The scenario toggle switches which future the map shows. The dropdown lets you
+    rank the 30 cities by total warming under high emissions, warming that's locked in, warming
+    that's still avoidable, or model disagreement. There's also a checkbox that swaps the shaded
+    band for one line per model. Hovering over any chart gives you the details, and if you want
+    every number, there's a table at the bottom.
   </p>
 
   <h3>Development process</h3>
   <p>
-    Fei wrote the data notebook. It pulls yearly temperature for the 30 cities from the
-    CMIP6 store on Google Cloud, computes each city's change from its 1981 to 2010 average, and makes
-    our six exploratory charts. Alina built the D3 page: the map, the line chart with the model band,
-    the ranked bars, and the three guided findings. Abigail tested the page across browsers and
-    wrote the write-up.
+    Fei wrote the data notebook, which pulls yearly temperatures for the 30 cities from the CMIP6
+    store on Google Cloud. The notebook also calculates each city's change from its 1981 to 2010
+    average and makes our six exploratory charts. Fei also helped with debugging the page. Alina
+    built the D3 page, including the map, the line chart with the model band, the ranked bars, and
+    the three guided findings. Abigail tested the page in different browsers and wrote the write-up.
   </p>
   <p>
-    We spent about 15 people-hours in total, roughly 5 hours each. The part that took the longest was the interactive
-    D3 page, especially keeping the map, line chart and bar chart in sync when a city is selected,
-    and getting the year animation and tooltips to work smoothly. Getting the data was the second
-    slowest part. Each model and scenario has to be downloaded separately, and two of the six models
-    we planned to use failed: MPI-ESM1-2-LR had a date-indexing error, and NorESM2-LM had no
-    low-emissions run. We kept the four models that had all three scenarios.
+    Altogether we spent about 15 people-hours, or roughly 5 hours each. The interactive D3 page
+    took the longest. Keeping the map, line chart, and bar chart in sync when someone selects a city
+    was the trickiest part. Getting the year animation and tooltips to run smoothly took a while
+    too. We also spent a good chunk of time debugging. For example, some of the map circles were
+    hard to click, especially while the animation was playing, and the marker on the line chart
+    didn't follow the mouse at first. Getting the data was the second slowest part. Each model and
+    scenario had to be downloaded separately, and two of the six models we planned to use didn't
+    work out. MPI-ESM1-2-LR had a date indexing error, and NorESM2-LM didn't have a low emissions
+    run. In the end, we kept the four models that had all three scenarios.
   </p>
 </section>
 
