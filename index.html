@@ -165,11 +165,20 @@
 
   <h3>Interactions</h3>
   <p>
-    Clicking a city on the map or a bar in the ranking selects it, and all three views stay in
-    sync. The year slider repaints the map and moves a marker in the line chart, so a reader can
-    watch where warming shows up first. The scenario toggle switches which future the map shows.
-    The measure dropdown re-sorts the 30 cities by locked in warming, avoidable warming, or model
-    disagreement. Hovering gives details on demand in both charts.
+    The page opens with three findings. Clicking one sets the map, the line chart and the ranking
+    to the view that shows it, scrolls the reader there, and explains what to look at. Touching any
+    control clears that note, so the guided path and free exploration use the same page instead of
+    two separate modes.
+  </p>
+  <p>
+    Clicking a city on the map or a bar in the ranking selects it, and all three views stay in sync.
+    The year slider repaints the map and moves a marker in the line chart, and the play button runs
+    the years from 1950 to 2100, so a reader can watch where warming shows up first. The scenario
+    toggle switches which future the map shows. The measure dropdown re-sorts the 30 cities four
+    ways: total warming under high emissions, warming locked in, warming still avoidable, and model
+    disagreement. A checkbox swaps the shaded band for one line per model, which is how a reader can
+    see the overplotting we hid by default. Hovering gives details on demand in both charts, and a
+    table at the bottom lists every number for readers who want them.
   </p>
 
   <h3>Development process</h3>
@@ -181,7 +190,7 @@
     wrote the write-up.
   </p>
   <p>
-    We spent about around 7 hours in total. The part that took the longest was the interactive
+    We spent about 5 hours in total. The part that took the longest was the interactive
     D3 page, especially keeping the map, line chart and bar chart in sync when a city is selected,
     and getting the year animation and tooltips to work smoothly. Getting the data was the second
     slowest part. Each model and scenario has to be downloaded separately, and two of the six models
